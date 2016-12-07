@@ -10,4 +10,4 @@ Además de las noticias sobre algunas novedades de la versión para desarrollado
 * [Extendiendo Web AppBuilder for ArcGIS](http://www.geodevelopers.org/academy/wVmmWNf7quk/view)
 
 ## Workshops / Talleres / Codelabs
-* [Web AppBuilder - Codela 2015](https://docs.google.com/document/d/1h5rb861UGKzJwub1Wqxl9Q39bEsMeRvvgQkmWoKPEM4/edit?usp=sharing)
+* [Web AppBuilder - Codelab 2015](https://docs.google.com/document/d/1h5rb861UGKzJwub1Wqxl9Q39bEsMeRvvgQkmWoKPEM4/edit?usp=sharing)

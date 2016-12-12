@@ -6,7 +6,7 @@ Use any of our Runtime SDKs:
 
 |Name|Language|Platform
 |---|---|---|
-|.NET|C#|Windows|
+|.Net|C#|Windows|
 |Java|Java|Windows, Linux & Mac|
 |Qt|C++ & QML|Windows, Linux & Mac|
 |OS X|Swift & Objective-C|Windows|

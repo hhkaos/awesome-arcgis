@@ -6,7 +6,7 @@ No matter which is your profile or your favourite technologies, we have putted t
 * [Front-end developer](front-end/)
 * [Back-end developers](back-end)
 * [Mobile developers](mobile)
-* [Desktop developers](deskop)
+* [Desktop developers](desktop)
 * [Devops](devops)
 
 But in order to better understand the technology we have also collected links to introduce you to [the content]() you have available in the platform and [which are the benefits of using ArcGIS](arcgis).

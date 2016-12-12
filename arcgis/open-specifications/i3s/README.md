@@ -1,0 +1,1 @@
+[](https://github.com/Esri/i3s-spec): This repository hosts the specification for the ArcGIS Scene Service, including the Indexed 3D Scene delivery format and the Scene Layer Package definition (both encoded using JSON).

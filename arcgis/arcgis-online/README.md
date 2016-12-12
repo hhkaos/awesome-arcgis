@@ -19,6 +19,9 @@ oAuth
 ArcGIS Online (search..)
 Open Data API
 
+ArcGIS-API-REST (postman collection)
+Fiddler
+
 
 # Resources
 ## Training

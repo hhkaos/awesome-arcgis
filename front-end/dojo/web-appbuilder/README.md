@@ -1,10 +1,19 @@
 # Web AppBuilder for ArcGIS (Developer Edition)
-Here you will find some sites you can use to improve your skills developing with Web AppBuilder.
+Web AppBuilder is:
+* For non-developers: A WYSIWYG tool that allow them to build and export responsive web apps adding and configuring pre-defined widgets and themes.
+* For developers: It is also a framework that can be extended adding custom
+themes and widgets.
 
-## Training
+![Web AppBuilder](images/web-appbuilder.png)
+
+The builder itself is written in NodeJS and can be downloaded from the [developer console](https://developers.arcgis.com/downloads/) but you will need at least to have a [free account](https://developers.arcgis.com/sign-up/) in order to be able to download it.
+
+In this page you will find some sites you can use to improve your skills to be able to extend Web AppBuilder.
+
+## Formal training
 First resources you should know are:
 * [Developers site documentation](https://developers.arcgis.com/web-appbuilder/)
-* [Esri Training courses](http://www.esri.com/training/Bookmark/ryPXXVrml)
+* [Esri training courses](http://www.esri.com/training/Bookmark/ryPXXVrml)
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20appbuilder).

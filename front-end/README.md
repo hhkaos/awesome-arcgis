@@ -11,3 +11,14 @@ typescript?
 Grunt
 BabelJS
 * [Resources for the ArcGIS API for JavaScript](https://github.com/odoe/esrijs-resources)
+
+# Cost
+## To start developing
+There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using custom vector maps, store geolocated data, use webmaps, use the [smart-mapping](arcgis/smart-mapping) tools, use some ready to use services, etc we recommend you to sign up for an account.
+
+## To deploy your app
+If you are going to use ArcGIS Online: basemaps, draw graphics, use web maps, ... you can deploy your app for free, but if you are going to store data, perform analysis, ¿use services which consume credits?, etc ... you will need a
+paid plan at the time of deploying you app. (view deployment plan details)
+
+If you already have ArcGIS Enterprise or you are building an app for a company
+which already have it ....

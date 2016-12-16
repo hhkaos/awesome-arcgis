@@ -13,6 +13,17 @@ But in order to better understand the technology we have also collected links to
 
 [![Prezi](https://0701.static.prezi.com/preview/v2/5zt6hpkimmdhkmg4p6yk5cpeuh6jc3sachvcdoaizecfr3dnitcq_3_0.png?fallback_with_redirect=false)](https://prezi.com/plj9jjmhl4bv/arcgis-developers-tecnologies-resources/)
 
+## Getting started
+You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to:
+* Download some tools: the SDKs for [mobile](mobile) or [desktop](desktop) developers, [Web AppBuilder Developer Edition](front-end/dojo/web-appbuilder), etc.
+* Been able to [store data](arcgis/content) in [ArcGIS Online](arcgis/arcgis-online)
+* Use de ArcGIS Online [Web Map Editor](arcgis/web-map-editor)
+* Build [Web Maps](arcgis/open-specifications/web-map)
+* Use the [ready to use services](arcgis/arcgis-online/ready-to-use-services)
+* etc.
+
+Know more about the [developer plans](arcgis/developer-plan).
+
 ## About Esri
 If you still don't know who we are or what we do you can start checking some of these sites:
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.

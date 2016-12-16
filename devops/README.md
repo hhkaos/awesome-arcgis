@@ -18,3 +18,8 @@ arcgis-cookbox (or chef)
 koop
 
 Python tools, nodejs,
+
+
+# Amazon Web Services (AWS) AMIs
+ArcGIS Server en AWS:
+http://server.arcgis.com/en/server/latest/cloud/amazon/what-is-arcgis-server-on-aws.htm

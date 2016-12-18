@@ -8,11 +8,11 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 |Event|Title|Slides|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Bootstrap: Taking Your Mapping UI and UX to the Next Level](http://video.esri.com/watch/4369/bootstrap-taking-your-mapping-ui-and-ux-to-the-next-level)|[PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_154.pdf)|
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| ---
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| [PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_170.pdf)
 
 ## Community
 * [GeoNet Group: ArcGIS API for JavaScript](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript)
-* [Stackoverflow: [arcgis-js-api] jquery)](http://stackoverflow.com/search?q=%5Barcgis-js-api%5D+jquery)
+* [Stackoverflow: [arcgis-js-api] jquery](http://stackoverflow.com/search?q=%5Barcgis-js-api%5D+jquery)
 * [GIS StackExchange: jquery [arcgis-javascript-api] ](http://gis.stackexchange.com/search?tab=newest&q=jquery%20%5barcgis-javascript-api%5d)
 * Repository issues:
   * [bootstrap-map-js](https://github.com/Esri/bootstrap-map-js/issues)
@@ -38,8 +38,7 @@ technology so we recommend you to follow them.
 
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
-|![Allan Laframboise](https://avatars2.githubusercontent.com/u/2539681?v=3&s=50)|Allan Laframboise|
-[allan-laframboise](https://www.linkedin.com/in/allan-laframboise-33745b8)|[@alaframboise](https://github.com/alaframboise)|[@al_laframboise](https://twitter.com/al_laframboise?lang=en)|[n/a]|[al_geodev](http://www.arcgis.com/home/search.html?q=owner:al_geodev)|[@alaframboise-esristaff](https://geonet.esri.com/people/alaframboise-esristaff)
+|![Allan Laframboise](https://avatars2.githubusercontent.com/u/2539681?v=3&s=50)|[Allan Laframboise](https://www.linkedin.com/in/allan-laframboise-33745b8)|[@alaframboise](https://github.com/alaframboise)|[@al_laframboise](https://twitter.com/al_laframboise?lang=en)|[al_geodev](http://www.arcgis.com/home/search.html?q=owner:al_geodev)|[@alaframboise-esristaff](https://geonet.esri.com/people/alaframboise-esristaff)
 
 * jQuery Mobile:
   * [@andygup](https://github.com/andygup)

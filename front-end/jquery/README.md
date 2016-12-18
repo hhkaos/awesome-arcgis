@@ -8,7 +8,7 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 |Event|Title|Slides|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Bootstrap: Taking Your Mapping UI and UX to the Next Level](http://video.esri.com/watch/4369/bootstrap-taking-your-mapping-ui-and-ux-to-the-next-level)|[PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_154.pdf)|
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| ---
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| [PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_170.pdf)
 
 ## Community
 * [GeoNet Group: ArcGIS API for JavaScript](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript)

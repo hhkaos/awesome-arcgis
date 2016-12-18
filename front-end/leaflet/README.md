@@ -9,6 +9,7 @@
 [Esri/developer-support](https://github.com/Esri/developer-support/tree/gh-pages/web-leaflet): Samples Leaflet + (Angular | Browserify | requirejs | ...)
 
 cedar
+bootstrap
 
 * consume webmaps using leaflet
 

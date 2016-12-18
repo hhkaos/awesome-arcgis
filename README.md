@@ -24,6 +24,12 @@ You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to:
 
 Know more about the [developer plans](arcgis/developer-plan).
 
+## About ArcGIS
+ArcGIS is a 360º software platform built by Esri and it already have more than
+100 software tools. Many of those tools are end-user software like desktop
+applications or mobile Applicationsbut there are also many tools for developers
+and devops as you will see in this awesome list of resources.
+
 ## About Esri
 If you still don't know who we are or what we do you can start checking some of these sites:
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.

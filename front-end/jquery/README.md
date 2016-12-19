@@ -2,6 +2,16 @@
 If you are used to work with jQuery you can load the jQuery library and use it
 instead of using Dojo to manage the DOM, Ajax, events, etc.
 
+## Code
+* [Code samples: ArcGIS + jQuery](https://esri-es.github.io/arcgis-web-samples/jquery/)
+* [A light-weight JS/CSS extension for to combine Bootstrap with ArcGIS JS (3.x) ](https://github.com/Esri/bootstrap-map-js)
+* [How to use our API for JavaScript (3.x) with Bootstap via Dojo-bootstrap](https://github.com/Esri/dojo-bootstrap-map-js)
+* [Calcite-maps: A modern framework for designing map apps with Bootstrap](https://github.com/Esri/calcite-maps)
+* jQuery Mobile
+  * [Dynamically resizes map when used in multi-view apps](https://github.com/Esri/jquery-mobile-map-js)
+
+https://github.com/Esri/html5-geolocation-tool-js : Use this fun jQuery Mobile web app to test HTML5 geolocation on different devices.
+
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20appbuilder).
 
@@ -20,17 +30,6 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
   * [calcite-bootstrap](https://github.com/Esri/calcite-bootstrap/issues)
   * [calcite-maps](https://github.com/Esri/calcite-maps/issues)
   * [jquery-mobile-map-js](https://github.com/Esri/jquery-mobile-map-js/issues)
-
-## Code
-* [Code samples: ArcGIS + jQuery](https://esri-es.github.io/arcgis-web-samples/jquery/)
-* [A light-weight JS/CSS extension for to combine Bootstrap with ArcGIS JS (3.x) ](https://github.com/Esri/bootstrap-map-js)
-* [How to use our API for JavaScript (3.x) with Bootstap via Dojo-bootstrap](https://github.com/Esri/dojo-bootstrap-map-js)
-* [Calcite-maps: A modern framework for designing map apps with Bootstrap](https://github.com/Esri/calcite-maps)
-* jQuery Mobile
-  * [Dynamically resizes map when used in multi-view apps](https://github.com/Esri/jquery-mobile-map-js)
-
-https://github.com/Esri/html5-geolocation-tool-js : Use this fun jQuery Mobile web app to test HTML5 geolocation on different devices.
-
 
 # People you should follow
 They are not working on the support team and some may even not work at Esri,

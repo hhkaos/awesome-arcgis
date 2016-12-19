@@ -23,3 +23,5 @@ Python tools, nodejs,
 # Amazon Web Services (AWS) AMIs
 ArcGIS Server en AWS:
 http://server.arcgis.com/en/server/latest/cloud/amazon/what-is-arcgis-server-on-aws.htm
+
+You can find more resources about how to [extend ArcGIS Server here](../arcgis/extendable-products)

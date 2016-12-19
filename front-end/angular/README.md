@@ -12,5 +12,8 @@
 * [Leverage Esri Leaflet in an Angular application](https://github.com/Esri/developer-support/tree/gh-pages/web-leaflet/angular)
 * cedar
 
+# Community
+[GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
+
 # People you should follow
 [@tomwayson](https://github.com/tomwayson) & [@jwasilgeo](https://github.com/jwasilgeo) & [@dbouwman](https://github.com/dbouwman)

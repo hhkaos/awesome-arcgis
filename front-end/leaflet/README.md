@@ -11,6 +11,9 @@
 cedar
 bootstrap
 
+# Community
+https://geonet.esri.com/groups/esri-leaflet
+
 * consume webmaps using leaflet
 
 Projects

@@ -21,3 +21,6 @@ You can write your own addins in order to be able to extend our desktop tools:
   * ArcGIS Pro using SDK for .Net
 
 Geoprocessing tools using python
+
+If you are a desktop developer you may also want to consider to [extend our
+desktop tools](../arcgis/extendable-products/desktop) 

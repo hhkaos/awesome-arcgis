@@ -1,3 +1,7 @@
+Here you will find some products we have built which can be:
+* Extended: you can add more functionality
+* Configurable
+
 # App Builders
 ArcGIS has many different type of users, GIS traditional users are great building
 and curating content but in many times they are not able to write their own apps.
@@ -13,4 +17,4 @@ Here you can see an overview of our current app builders:
 |Web AppBuilder|Web responsive|Yes|JavaScript API|
 |AppStudio basic|Web responsive|No|---|
 |AppStudio standard|Android, iOS, Windows, ....|Yes|Qt & QML|
-|Survey123|---|---|---|
+|Survey123 Online|---|---|---|

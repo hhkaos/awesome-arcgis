@@ -39,8 +39,12 @@ cedar
 
 developer support
 
-https://github.com/Esri/add-shapefile-js : ArcGIS JavaScript sample that let's you add a shapefile to your web map. 
+https://github.com/Esri/add-shapefile-js : ArcGIS JavaScript sample that let's you add a shapefile to your web map.
 
 [jsapi-resources](https://github.com/Esri/jsapi-resources): A collection of useful resources for developers using the ArcGIS API for JavaScript (Bower, TypeScript, Saas, JSHint, ).
 
 https://github.com/Esri/developer-support/tree/gh-pages/web-js
+
+
+https://geonet.esri.com/community/developers
+https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript

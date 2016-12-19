@@ -31,6 +31,9 @@ Fiddler
 ## Training
 ### Videos / Technical talks
 ## Community
+https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api
+https://geonet.esri.com/groups/arcgis-python-api
+
 ## Code
 
 # People you should follow

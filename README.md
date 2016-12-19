@@ -17,7 +17,7 @@ But in order to better understand the technology we have also collected links to
 You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to:
 * Download some tools: the SDKs for [mobile](mobile) or [desktop](desktop) developers, [Web AppBuilder Developer Edition](front-end/dojo/web-appbuilder), etc.
 * Been able to [store data](arcgis/content) in [ArcGIS Online](arcgis/arcgis-online)
-* Use de ArcGIS Online [Web Map Editor](arcgis/web-map-editor)
+* Use de ArcGIS Online [Web Map Editor](arcgis/products/web-map-editor)
 * Build [Web Maps](arcgis/open-specifications/web-map)
 * Use the [ready to use services](arcgis/arcgis-online/ready-to-use-services)
 * etc.

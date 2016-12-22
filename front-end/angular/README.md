@@ -2,15 +2,21 @@
 
 ### Videos / Technical talks
 * [2015 Video: Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)
-* [Directives to help you use Esri maps and services in your Angular apps ](https://github.com/Esri/angular-esri-map)
-* [Esri-playground: Angular 2 & Esri 4](https://github.com/jwasilgeo/angular2-esri-playground)
+
 
 ## Code
 
-* [angular-esri-map directives](github.com/Esri/angular-esri-map)
+Angular 1:
+* [Directives to help you use Esri maps and services in your Angular apps](github.com/Esri/angular-esri-map)
 * [Ionic app demonstrating how to use the Esri ArcGIS API for JavaScript](https://github.com/jwasilgeo/ionic-esri-map)
 * [Leverage Esri Leaflet in an Angular application](https://github.com/Esri/developer-support/tree/gh-pages/web-leaflet/angular)
 * cedar
+* [Example of how to to use the ArcGIS API for JavaScript in an Angular CLI app](https://github.com/tomwayson/esri-angular-cli-example)
+
+Angular 2:
+* [Esri-playground: Angular 2 & Esri 4](https://github.com/jwasilgeo/angular2-esri-playground)
+* [An Angular 2 service to help you load ArcGIS API for JavaScript Modules](https://github.com/tomwayson/angular2-esri-loader)
+* [A set of Angular 2 components to work with ArcGIS API for JavaScript v4.1](https://github.com/kgs916/angular2-esri4-components)
 
 # Community
 [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)

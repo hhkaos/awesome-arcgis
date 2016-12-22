@@ -35,7 +35,7 @@ And of course you can search the [most viewed Web AppBuilder videos on Youtube](
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
   * [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/)
 * Tools:
-  * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js)
+  * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js) | [Generating Custom Widgets for Esri’s WebApp Builder with Yeoman](http://tomwayson.com/2014/06/30/generating-custom-widgets-for-esris-webapp-builder-with-yeoman/)
 
 # People you should follow
 They are not working on the support team and some may even not work at Esri,

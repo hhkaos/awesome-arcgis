@@ -10,9 +10,11 @@ instead of using Dojo to manage the DOM, Ajax, events, etc.
 * jQuery Mobile
   * [Dynamically resizes map when used in multi-view apps](https://github.com/Esri/jquery-mobile-map-js)
 
+   bootstrap+calcite+leaflet?
+
 https://github.com/Esri/html5-geolocation-tool-js : Use this fun jQuery Mobile web app to test HTML5 geolocation on different devices.
 
-### Videos / Technical talks
+## Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20appbuilder).
 
 |Event|Title|Slides|

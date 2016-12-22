@@ -1,3 +1,5 @@
+[ArcGIS Image Service Support in Esri Leaflet](http://tomwayson.com/2014/08/24/arcgis-image-service-support-in-esri-leaflet/)
+
 * Leaflet | [@jgravois](https://github.com/jgravois) & [@patrickarlt](https://github.com/patrickarlt)
   * [2015 Video - Esri Leaflet: An introduction](http://www.esri.com/videos/watch?videoid=4314&channelid=LegacyVideo&isLegacy=true&title=esri-leaflet:-an-introduction)
   * [2015 Video - Esri Leaflet: Advanced Topics](http://www.esri.com/videos/watch?videoid=4315&channelid=LegacyVideo&isLegacy=true&title=esri-leaflet:-advanced-topics)

@@ -43,6 +43,9 @@ If you still don't know who we are or what we do you can start checking some of 
 Please feel free to contribute to this list. The technology change fast and
 some resources may be out to date.
 
+A sample resources list that shows what we are trying to do on each page is the
+[Web AppBuilder resource page](front-end/dojo/web-appbuilder).
+
 Ways to contribute:
 * If you find a broken link feel free to [open an issue](issue) to request it.
 * If you find some missing information do the same thing

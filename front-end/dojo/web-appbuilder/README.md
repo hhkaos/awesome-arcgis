@@ -1,4 +1,5 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
+improve this page.
 
 # Web AppBuilder for ArcGIS (Developer Edition)
 Web AppBuilder is:
@@ -28,6 +29,8 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 
 ## Community
+Web AppBuilder developers are mainly in GeoNet, you will find developers sharing
+code and helping other developers here:
 * [Custom Widgets GeoNet Group ](https://geonet.esri.com/groups/web-app-builder-custom-widgets)
 * [Custom Themes GeoNet Group ](https://geonet.esri.com/groups/web-appbuilder-custom-themes)
 * [All Web AppBuilder Groups on GeoNet](https://geonet.esri.com/places?query=appbuilder)

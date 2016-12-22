@@ -59,9 +59,9 @@ Other places where you can find more developers with knowledge about ArcGIS:
 * [Youtube]()
 * ...
 
-
-
-
+## Localized resource lists
+There are some extra resources in different languages, here you will find:
+* [Esri Spain fork](https://github.com/esri-es/awesome-arcgis): with extra resources in Spanish
 
 ---
 Pending to assign

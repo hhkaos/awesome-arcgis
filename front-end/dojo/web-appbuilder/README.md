@@ -50,5 +50,5 @@ technology so we recommend you to follow them.
 |![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|Tom Wayson|[tomwayson](https://www.linkedin.com/in/tomwayson)|[@tomwayson](https://github.com/tomwayson)|[@tomwayson](https://twitter.com/tomwayson)|n/a|n/a|
 |![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?v=3&s=50)|Gavin Rehkemper|[gavinrehkemper](http://www.linkedin.com/in/gavinrehkemper)|[gavinr](https://github.com/gavinr)|[@gavinrehkemper](https://twitter.com/gavinrehkemper)|[gavinrehkemper](http://www.arcgis.com/home/search.html?q=owner:gavinrehkemper)|n/a|
 
-## Technical questions
-Check this out
+## Resources in other languages
+You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).

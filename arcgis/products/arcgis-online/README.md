@@ -41,3 +41,11 @@ https://geonet.esri.com/groups/arcgis-python-api
 # People you should follow
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
+
+
+## Get an account
+
+Free trial
+Developer account
+Organization account
+Startup program

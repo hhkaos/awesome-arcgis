@@ -16,7 +16,6 @@ allows you to build complex scenarios from raw data.
 * [CityEngine In Game Development](https://www.youtube.com/watch?v=CepjEHI-sds)
 * [Unreal Game Engine featuring CityEngine - Making Of](https://www.youtube.com/watch?v=HU2sWkCS600)
 
-
 ## Get the tool
 
 Free trial

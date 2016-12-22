@@ -1,5 +1,8 @@
+> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
+# Configurable web apps
 
+# Code
 * [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js): Starter application that simplifies the process of building templates for the ArcGIS.com template gallery.
 
 ## Apps developed by Esri

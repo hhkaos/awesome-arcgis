@@ -1,3 +1,5 @@
+> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+
 # Desktop developers
 Depending You have several tools to build
 
@@ -23,4 +25,4 @@ You can write your own addins in order to be able to extend our desktop tools:
 Geoprocessing tools using python
 
 If you are a desktop developer you may also want to consider to [extend our
-desktop tools](../arcgis/extendable-products/desktop) 
+desktop tools](../arcgis/extendable-products/desktop)

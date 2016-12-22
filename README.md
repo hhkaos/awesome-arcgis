@@ -1,3 +1,5 @@
+> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+
 # Awesome list for ArcGIS Developers
 Awesome resource list for ArcGIS Developers
 
@@ -39,8 +41,13 @@ If you still don't know who we are or what we do you can start checking some of 
 
 ## Contributions
 Please feel free to contribute to this list. The technology change fast and
-some resources may be out to date. If you find a broken link or some missing
-information feel free to [open an issue]() to request it.
+some resources may be out to date.
+
+Ways to contribute:
+* If you find a broken link feel free to [open an issue](issue) to request it.
+* If you find some missing information do the same thing
+* You can help us just adding resources directly editing from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)).
+* If you are a developer you can also fork this repo a do a pull request.
 
 If you have any further question about the technology please go to [geonet](..), there
 are several groups (by technologies, countries, etc) where you will find more

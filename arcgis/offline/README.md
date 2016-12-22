@@ -1,3 +1,5 @@
+> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+
 # Work offline
 
 Each day we realize that been able to work offline with our mobile, tablet or
@@ -27,7 +29,7 @@ We also encourage you to take a look to the [offline-editor-js project](../../fr
 library for handling offline editing and tiling.
 
 If you are looking for a responsive app to collect points oflline you could take
-a look to [GeoForm](https://github.com/Esri/geoform-template-js), a web app which can make the job (but it offline functionality 
+a look to [GeoForm](https://github.com/Esri/geoform-template-js), a web app which can make the job (but it offline functionality
   [is limited](https://geonet.esri.com/groups/survey123/blog/2015/09/04/survey123-collector-and-geoform-a-quick-comparison)).
 
 If you don't know already, you should learn about [progressive web apps](https://developers.google.com/web/progressive-web-apps/) in order to be

@@ -6,10 +6,11 @@ Awesome resource list for ArcGIS Developers
 ## Quick overview
 No matter which is your profile or your favourite technologies, we have putted together many links to help you find tools, code samples, training, ... get started with resources for:
 * [Front-end developer](front-end/)
-* [Back-end developers](back-end)
-* [Mobile developers](mobile)
-* [Desktop developers](desktop)
-* [Devops](devops)
+* [Back-end developers](back-end/)
+* [Mobile developers](mobile/)
+* [Desktop developers](desktop/)
+* [DevOps](devops/)
+* [Virtual reality developers](vr-developers/)
 
 But in order to better understand the technology we have also collected links to introduce you to [the content]() you have available in the platform and [which are the benefits of using ArcGIS](arcgis).
 

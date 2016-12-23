@@ -12,6 +12,7 @@ allows you to build complex scenarios from raw data.
 
 ## Videos
 
+* [Destroyed city](http://www.esri.com/software/cityengine/industries/destroyed-city)
 [CityEngineTV](https://www.youtube.com/channel/UCq_4ineLg8X0_w6uqWcWxhQ)
 * [CityEngine In Game Development](https://www.youtube.com/watch?v=CepjEHI-sds)
 * [Unreal Game Engine featuring CityEngine - Making Of](https://www.youtube.com/watch?v=HU2sWkCS600)

@@ -12,7 +12,7 @@ Webpack | [Using the ArcGIS API for JavaScript in Applications built with webpac
 ](http://tomwayson.com/2016/11/27/using-the-arcgis-api-for-javascript-in-applications-built-with-webpack/)
 SystemJS
 [SystemJS Module Loader](https://github.com/systemjs/systemjs) -> only for angular?
-typescript?
+typescript - [TypeScript in visual studio](http://odoe.net/blog/typescript-visual-studio-code/)
 Grunt
 BabelJS
 * [Resources for the ArcGIS API for JavaScript](https://github.com/odoe/esrijs-resources)

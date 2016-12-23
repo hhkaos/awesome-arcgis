@@ -50,3 +50,8 @@ https://github.com/Esri/developer-support/tree/gh-pages/web-js
 
 https://geonet.esri.com/community/developers
 https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript
+
+# Awesome lists for Dojo
+You will find a lot of interesting resources to learn an improve your skills
+with Dojo:
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

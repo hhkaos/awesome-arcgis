@@ -27,3 +27,8 @@ Projects
 
 [esri-leaflet-renderers](https://github.com/Esri/esri-leaflet-renderers)
 Plugin for Esri Leaflet to use drawing information defined in the feature service
+
+# Awesome lists for leaflet
+You will find a lot of interesting resources to learn an improve your skills
+with leaflet:
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

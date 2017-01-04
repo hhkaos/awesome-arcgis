@@ -17,6 +17,12 @@
 cedar
 bootstrap
 
+# code
+
+https://github.com/Esri/esri-leaflet-vector
+https://github.com/Esri/esri-leaflet-heatmap
+https://github.com/Esri/esri-leaflet-cluster
+
 # Community
 https://geonet.esri.com/groups/esri-leaflet
 

@@ -38,7 +38,16 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 * [elevation-profile-template](https://github.com/Esri/elevation-profile-template): Elevation Profile is a configurable application template used to display the elevation profile for a selected feature or a measured line along with a web map.
 
+* [ArcGIS Local Perspective Template
+](https://github.com/SpatialAgent/local-perspective)
+
+* [calcite-maps-styler-template](calcite-maps-styler-template): An ArcGIS configurable application for creating, styling and sharing modern-looking 2D and 3D map apps. Built with ArcGIS for Javascript API v4, Calcite Maps and Bootstrap.
+
 
 ## Apps developed by the community
 
 * [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
+
+
+# People you must follow
+https://github.com/SpatialAgent

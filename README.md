@@ -66,18 +66,3 @@ Other places where you can find more developers with knowledge about ArcGIS:
 ## Localized resource lists
 There are some extra resources in different languages, here you will find:
 * [Esri Spain fork](https://github.com/esri-es/awesome-arcgis): with extra resources in Spanish
-
----
-Pending to assign
-https://github.com/Esri/geojson-layer-js
-https://github.com/Esri/100-lines-or-less-js
-https://github.com/Esri/landscape-modeler-js
-https://github.com/Esri/terraformer-wkt-parser
-https://github.com/Esri/terraformer-geostore
-https://github.com/Esri/executive-dashboard
-https://github.com/Esri/briefing-book
-https://github.com/Esri/visualization-js
-https://github.com/Esri/citizen-service-request
-https://github.com/Esri/tax-parcel-viewer
-https://github.com/Esri/workflowmanager-viewer-js
-https://github.com/Esri/crowdsource-reporter <-- LAST

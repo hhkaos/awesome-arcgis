@@ -38,6 +38,13 @@ https://geonet.esri.com/groups/arcgis-python-api
 
 ## Code
 
+## Tools
+[Automate ArcGIS Online tasks using zapier](https://zapier.com/zapbook/arcgis-online/),
+you can also combine [IFTTT mobile app](https://ifttt.com/products) to trigger
+many actions like when you enter o exit an area, or add your location to a spreadsheet
+and add it to a spreadsheet in drive when pressing a button, etc
+
+
 # People you should follow
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|

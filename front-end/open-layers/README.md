@@ -2,3 +2,8 @@
 
 # ArcGIS API for JavaScript + Open Layers
 https://github.com/kevinsigwart/EsriOpenLayersClient
+
+# Awesome lists for Open Layers
+You will find a lot of interesting resources to learn an improve your skills
+with knockout:
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

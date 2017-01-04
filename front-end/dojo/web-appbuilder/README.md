@@ -1,4 +1,5 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
+improve this page.
 
 # Web AppBuilder for ArcGIS (Developer Edition)
 Web AppBuilder is:
@@ -28,6 +29,8 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 
 ## Community
+Web AppBuilder developers are mainly in GeoNet, you will find developers sharing
+code and helping other developers here:
 * [Custom Widgets GeoNet Group ](https://geonet.esri.com/groups/web-app-builder-custom-widgets)
 * [Custom Themes GeoNet Group ](https://geonet.esri.com/groups/web-appbuilder-custom-themes)
 * [All Web AppBuilder Groups on GeoNet](https://geonet.esri.com/places?query=appbuilder)
@@ -35,7 +38,8 @@ And of course you can search the [most viewed Web AppBuilder videos on Youtube](
 ## Code
 * Widgets & Themes:
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
-  * [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/)
+  * Follow: [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo
+  * Follow: [Components for the ArcGIS WebApp Builder](https://github.com/Esri/arcgis-webappbuilder-widgets-themes) repo
 * Tools:
   * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js) | [Generating Custom Widgets for Esri’s WebApp Builder with Yeoman](http://tomwayson.com/2014/06/30/generating-custom-widgets-for-esris-webapp-builder-with-yeoman/)
 
@@ -50,8 +54,8 @@ technology so we recommend you to follow them.
 |![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|Tom Wayson|[tomwayson](https://www.linkedin.com/in/tomwayson)|[@tomwayson](https://github.com/tomwayson)|[@tomwayson](https://twitter.com/tomwayson)|n/a|n/a|
 |![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?v=3&s=50)|Gavin Rehkemper|[gavinrehkemper](http://www.linkedin.com/in/gavinrehkemper)|[gavinr](https://github.com/gavinr)|[@gavinrehkemper](https://twitter.com/gavinrehkemper)|[gavinrehkemper](http://www.arcgis.com/home/search.html?q=owner:gavinrehkemper)|n/a|
 
-## Technical questions
-Check this out
+## Resources in other languages
+You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).
 
 # Recursos en español
 Además de las noticias sobre algunas novedades de la versión para desarrolladores que encontrarás [desarrolladores.esri.es](http://desarrolladores.esri.es/) hemos recopilado los siguientes recursos.

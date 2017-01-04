@@ -27,7 +27,7 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 ## Community
 * [GeoNet Group: ArcGIS API for JavaScript](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript)
 * [GeoNet Group: Bootstrap](https://geonet.esri.com/groups/bootstrap)
-* [Stackoverflow: [arcgis-js-api] jquery](http://stackoverflow.com/search?q=%5Barcgis-js-api%5D+jquery)
+* [Stackoverflow: [jquery] and [arcgis]](http://stackoverflow.com/search?q=%5Bjquery%5D+and+%5Barcgis%5D)
 * [GIS StackExchange: jquery [arcgis-javascript-api] ](http://gis.stackexchange.com/search?tab=newest&q=jquery%20%5barcgis-javascript-api%5d)
 * Repository issues:
   * [bootstrap-map-js](https://github.com/Esri/bootstrap-map-js/issues)
@@ -52,3 +52,8 @@ technology so we recommend you to follow them.
 * Calcite:
   * [@paulcpeterson](https://github.com/paulcpeterson)
   * [@nicolaswise](https://github.com/nicolaswise)
+
+# Awesome lists for jQuery
+You will find a lot of interesting resources to learn an improve your skills
+with jQuery:
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

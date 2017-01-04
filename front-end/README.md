@@ -10,9 +10,12 @@
 ## Tools
 Webpack | [Using the ArcGIS API for JavaScript in Applications built with webpack
 ](http://tomwayson.com/2016/11/27/using-the-arcgis-api-for-javascript-in-applications-built-with-webpack/)
+[A bare bones example showing how to use the ArcGIS API for JavaScript in an application built with webpack and Babel to compile ES2015 modules.
+](https://github.com/tomwayson/esri-webpack-babel)
+[Example application using Rollup to bundle local ES2015 modules that use CDN hosted modules from the ArcGIS API for JavaScript](https://github.com/tomwayson/esri-rollup-example)
 SystemJS
 [SystemJS Module Loader](https://github.com/systemjs/systemjs) -> only for angular?
-typescript?
+typescript - [TypeScript in visual studio](http://odoe.net/blog/typescript-visual-studio-code/)
 Grunt
 BabelJS
 * [Resources for the ArcGIS API for JavaScript](https://github.com/odoe/esrijs-resources)

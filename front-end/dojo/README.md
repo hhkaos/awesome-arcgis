@@ -19,16 +19,17 @@
 
 [cluster-layer-js](https://github.com/Esri/cluster-layer-js): One example of how to cluster many point features
 
-[](https://github.com/Esri/arcgis-dijit-sample-js): Sample Dijit boilerplate for getting started with ArcGIS widget development.
 
-[](https://github.com/Esri/arcgis-dijit-layer-list): The LayerList widget provides an interface for users to toggle layer visibility. The style can be completely changed and skinned to match your own map design.
+* Open sourced Dijit widgets:
+  * [The LayerList widget provides an interface for users to toggle layer visibility. The style can be completely changed and skinned to match your own map design](https://github.com/Esri/arcgis-dijit-layer-list)
+  * [JavaScript auto-complete widget for locating places.](https://github.com/Esri/arcgis-dijit-geocoder-js)
+  * [A swipe widget to partially show a layer by dragging it left or right.](https://github.com/Esri/arcgis-dijit-layer-swipe-js)
+  * [Sample Dijit boilerplate for getting started with ArcGIS widget development](https://github.com/Esri/arcgis-dijit-sample-js)
 
-[](https://github.com/Esri/arcgis-dijit-geocoder-js): JavaScript auto-complete widget for locating places.
+[Responsive map viewer boilerplate for ArcGIS JS API based web mapping applications](https://github.com/Esri/responsive-map-js)
 
-[](https://github.com/Esri/responsive-map-js): Responsive map viewer boilerplate for ArcGIS JS API based web mapping applications
 
-[](https://github.com/Esri/arcgis-dijit-layer-swipe-js): A swipe widget to partially show a layer by dragging it left or right.
-
+[Samples: Fly in space and look across the sea: demos and experiments with the ArcGIS API for JavaScript](https://github.com/jwasilgeo/esri-experiments)
 
 learn dojo
 
@@ -41,6 +42,9 @@ cedar
 
 developer support
 
+[arcgis-server-store](https://github.com/thollingshead/arcgis-server-store):
+A module that implements the dojo/store API for ArcGIS Server REST services.
+
 https://github.com/Esri/add-shapefile-js : ArcGIS JavaScript sample that let's you add a shapefile to your web map.
 
 [jsapi-resources](https://github.com/Esri/jsapi-resources): A collection of useful resources for developers using the ArcGIS API for JavaScript (Bower, TypeScript, Saas, JSHint, ).
@@ -50,3 +54,8 @@ https://github.com/Esri/developer-support/tree/gh-pages/web-js
 
 https://geonet.esri.com/community/developers
 https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript
+
+# Awesome lists for Dojo
+You will find a lot of interesting resources to learn an improve your skills
+with Dojo:
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

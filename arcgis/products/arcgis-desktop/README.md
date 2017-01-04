@@ -1,13 +1,9 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-million ...
+# ArcGIS Desktop
 
-# Resources
-## Training
-### Videos / Technical talks
-## Community
-## Code
+## Get the tool
 
-# People you should follow
-|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
+Free trial
+Startup program
+Buy a license

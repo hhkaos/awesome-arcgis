@@ -7,6 +7,10 @@
 ## Get tools
 Depending
 
+Free trial
+Startup program
+Buy a license
+
 ### Essentials
 You can start using...
 
@@ -54,3 +58,5 @@ Level 2|Basic
 
 ## ArcGIS Online
 If you are going to use .... you need an ArcGIS deployment plan
+
+## EDN

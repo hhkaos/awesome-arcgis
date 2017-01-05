@@ -7,6 +7,9 @@
   * [ReactJS demo using BaconJS](https://github.com/odoe/reactflux)
   * [Demo app using ReactJS with Esri-Leaflet](https://github.com/odoe/reactmap)
   * [How to lazy load the ArcGIS API for JS in a react-router application](https://github.com/tomwayson/esri-react-router-example)
+  * [Create React apps with no build configuration. Extended to add the ArcGIS JS API via esri-loader](https://github.com/davetimmins/create-react-app-esri-loader/)
+
+  [React Component for rendering ESRI maps](https://github.com/socialradar/react-esri-map)
 
 # Awesome lists for React
 You will find a lot of interesting resources to learn an improve your skills

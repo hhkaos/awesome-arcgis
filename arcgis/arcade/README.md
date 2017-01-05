@@ -7,3 +7,8 @@ Arcade provides a portable Expression Language which can be used across the ArcG
 [Check full documentation](https://developers.arcgis.com/arcade/)
 
 [Check video tutorial: Hello Arcade](https://youtu.be/pmZmQlrOho8)
+
+
+Blog posts:
+* [Introducing Arcade - 12/19/2016](https://blogs.esri.com/esri/arcgis/2016/12/19/introducing-arcade/)
+* [Use Arcade Expressions to Map Your Ideas - 12/15/2016](https://blogs.esri.com/esri/arcgis/2016/12/15/use-arcade-expressions-to-map-your-ideas/)

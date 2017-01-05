@@ -1,6 +1,7 @@
 # TODO List
 
 ## Pending
+* [ ] Add [1000 GIS Applications & Uses – How GIS Is Changing the World](http://gisgeography.com/gis-applications-uses/)
 
 ## In progress
 * [ ] Add developer-support folders to each technology

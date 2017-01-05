@@ -6,6 +6,13 @@
 * [2015 Video - Picking a JS Framework ](http://www.esri.com/videos/watch?videoid=4279&channelid=LegacyVideo&isLegacy=true&title=choosing-the-best-javascript-framework-for-you)
 * [2014 Video - Working with Frameworks & ArcGIS API](http://www.esri.com/videos/watch?videoid=3334&channelid=LegacyVideo&isLegacy=true&title=working-with-javascript-app-frameworks-&-arcgis-api-for-javascript)
 
+## Code
+[Calcite web](https://github.com/Esri/calcite-web): Authoritative front-end
+development resources for Calcite design initiative. Includes extendable base
+components and styles, as well as a modular and efficient framework for ArcGIS
+properties
+
+[A tiny library to help load ArcGIS API for JavaScript modules in non-Dojo applications](https://github.com/tomwayson/esri-loader)
 
 ## Tools
 Webpack | [Using the ArcGIS API for JavaScript in Applications built with webpack

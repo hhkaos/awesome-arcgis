@@ -21,6 +21,7 @@ Angular 2:
 * [An Angular 2 service to help you load ArcGIS API for JavaScript Modules](https://github.com/tomwayson/angular2-esri-loader)
 * [A set of Angular 2 components to work with ArcGIS API for JavaScript v4.1](https://github.com/kgs916/angular2-esri4-components)
 * [Example app using the ArcGIS API for JavaScript v3 in an Angular2 app](https://github.com/tomwayson/angular2-esri-example)
+* [This is an example mapping application using ArcGIS API for JavaScript v4 ](https://github.com/kgs916/ng2cli-esri4)
 
 # Community
 [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)

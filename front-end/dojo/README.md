@@ -51,6 +51,9 @@ https://github.com/Esri/add-shapefile-js : ArcGIS JavaScript sample that let's y
 
 https://github.com/Esri/developer-support/tree/gh-pages/web-js
 
+[A demonstration of how to use the Karma test runner to automatically run Jasmine BDD-style unit tests on your ArcGIS API for JavaScript code.](https://github.com/tomwayson/esri-karma-tutorial)
+
+[Yeoman generator to create custom Dojo widgets for Esri web applications](https://github.com/tomwayson/generator-esri-widget)
 
 https://geonet.esri.com/community/developers
 https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript

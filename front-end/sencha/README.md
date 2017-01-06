@@ -8,3 +8,14 @@ Sample Sencha Touch application using the ArcGIS API for JavaScript and ArcGIS O
 You will find a lot of interesting resources to learn an improve your skills
 with Sencha:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+#People you should know
+They are not working on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|---|
+
+Nicholas Furness
+https://github.com/nixta

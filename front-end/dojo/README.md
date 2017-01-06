@@ -12,7 +12,6 @@
 
 [bootstrap-map-js](https://github.com/Esri/dojo-bootstrap-map-js): Samples for how to use the Esri ArcGIS API for JavaScript w/ Bootstap via Dojo-bootstrap
 
-
 [arcgis-js-api](https://github.com/Esri/arcgis-js-api): Bower friendly, minified version of the ArcGIS API for JavaScript
 
 [heatmap-layer-js](https://github.com/Esri/heatmap-layer-js): This is a custom DynamicMapServiceLayer for Heatmap.js to work with the ArcGIS Javascript API.

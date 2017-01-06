@@ -27,7 +27,16 @@ Angular 2:
 [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
 
 #People you should know
+They are not working on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|---|
+|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|Andy Gup|[andy-gup](https://www.linkedin.com/in/andy-gup-0a865a)|[@andygup](https://github.com/andygup)|[@agup](https://twitter.com/agup)|[andygup](http://www.arcgis.com/home/search.html?q=owner:andygup)|[@agup-esristaff](https://geonet.esri.com/people/agup-esristaff)
+
 [@tomwayson](https://github.com/tomwayson) & [@jwasilgeo](https://github.com/jwasilgeo) & [@dbouwman](https://github.com/dbouwman)
+
 
 # Awesome lists for Angular
 You will find a lot of interesting resources to learn an improve your skills

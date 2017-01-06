@@ -82,6 +82,5 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
-|![Owen Evans](https://avatars1.githubusercontent.com/u/3215530?v=3&s=50)|Owen Evans|[owenjevans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
-|![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|Sajit Thomas|[sajit-thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034
-)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.
+|![Owen Evans](https://avatars2.githubusercontent.com/u/3215530?v=3&s=50)|Owen Evans|[owenjevans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
+|![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|Sajit Thomas|[sajit-thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.

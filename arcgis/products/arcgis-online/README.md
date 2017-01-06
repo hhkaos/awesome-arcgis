@@ -45,7 +45,7 @@ many actions like when you enter o exit an area, or add your location to a sprea
 and add it to a spreadsheet in drive when pressing a button, etc
 
 
-# People you should follow
+#People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
 

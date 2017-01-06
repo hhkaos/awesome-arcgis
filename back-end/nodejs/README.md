@@ -18,7 +18,7 @@ https://github.com/Esri/node-geoservices-adaptor: This is a node.js implementati
 https://github.com/Esri/pushlet: A simple HTTP wrapper around the Apple Push Notification Service and Google Cloud Messaging Service
 
 
-# People you should follow
+#People you should know
 
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|

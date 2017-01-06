@@ -6,7 +6,7 @@
 mechanism that allows users of an organization to create and configure
 **web applications** without having to write any code.
 
-There are more than 30 templates with different purposes: collect/edit data,
+There are more than 40 templates with different purposes: collect/edit data,
 compare maps/layers, explore/summarize data, get directions, map social media,
 provide local information, showcase 2D or 3D maps, etc.
 
@@ -31,7 +31,7 @@ them [here](https://storymaps.arcgis.com/en/app-list/).
 [build web applications using web maps webmaps](https://doc.arcgis.com/en/arcgis-online/create-maps/create-map-apps.htm)
 
 ## Code
-* [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js): Starter application that simplifies the process of building templates for the ArcGIS.com template gallery.
+The [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js) is a starter application that simplifies the process of building templates for the ArcGIS.com template gallery.
 
 ### Apps developed by Esri
 
@@ -58,7 +58,7 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 * [map-series-storytelling-template-js](https://github.com/Esri/map-series-storytelling-template-js): The Story Map Series lets you present a series of maps via tabs, numbered bullets, or a side accordion.
 
-* [shortlist-storytelling-template-js](https://github.com/Esri/shortlist-storytelling-template-js): The Shortlist story map application template by Esri
+* [shortlist-storytelling-template-js](https://github.com/Esri/shortlist-storytelling-template-js): Story Map Shortlist is a Story Map application that lets you present places of interest, each with a photo and descriptive text, organized into tabs based on themes you choose, for example, restaurants, parks, historic sites, etc. As your users navigate around the map, the tabs update to show them just the places in the current map extent. Users can click on the places either in the tabs or on the map to find out about them. When you configure a Shortlist story, an interactive builder makes it easy to author your places. The Story Map Shortlist app was previously available only as downloadable code. This is the beta release of the new hosted version of the app.
 
 * [side-accordion-map-storytelling-template-js](https://github.com/Esri/side-accordion-map-storytelling-template-js): A storytelling template for publishing a web map to a general audience; includes accordion side panel and dropdown legend. Responsive design supports most devices with a single URL.
 
@@ -116,13 +116,13 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 * [directions](https://github.com/SpatialAgent/directions): Directions is a configurable template for providing turn by turn directions to features within a layer or a specific destination.
 
-* [local-perspective](https://github.com/SpatialAgent/local-perspective): ArcGIS Local Perspective Template
+* [local-perspective](https://github.com/SpatialAgent/local-perspective): Highlights features within a buffered distance of a user-selected location. Allows users to scroll through operational layers in the map to explore that location. Also provides demographic data, lifestyle data, live weather feed, and directions.
 
 ### Apps developed by the community
 
 * [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
 
-# People you must follow
+## People you should know
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|

@@ -43,7 +43,7 @@ code and helping other developers here:
 * Tools:
   * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js) | [Generating Custom Widgets for Esri’s WebApp Builder with Yeoman](http://tomwayson.com/2014/06/30/generating-custom-widgets-for-esris-webapp-builder-with-yeoman/)
 
-# People you should follow
+#People you should know
 They are not working on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.

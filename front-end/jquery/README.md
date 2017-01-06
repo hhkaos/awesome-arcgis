@@ -35,7 +35,7 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
   * [calcite-maps](https://github.com/Esri/calcite-maps/issues)
   * [jquery-mobile-map-js](https://github.com/Esri/jquery-mobile-map-js/issues)
 
-# People you should follow
+#People you should know
 They are not working on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.

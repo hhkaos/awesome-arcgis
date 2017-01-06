@@ -26,7 +26,7 @@ Angular 2:
 # Community
 [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
 
-# People you should follow
+#People you should know
 [@tomwayson](https://github.com/tomwayson) & [@jwasilgeo](https://github.com/jwasilgeo) & [@dbouwman](https://github.com/dbouwman)
 
 # Awesome lists for Angular

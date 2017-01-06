@@ -13,6 +13,6 @@ Python API
 ## Community
 ## Code
 
-# People you should follow
+#People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|

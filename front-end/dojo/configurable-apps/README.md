@@ -26,6 +26,10 @@ Those applications which are design to tell a story are called
 them [here](https://storymaps.arcgis.com/en/app-list/).
 
 ## Training
+Esri's formal training:
+* [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](https://www.esri.com/training/catalog/57eb2dd2ee85c0f5204be985/getting-the-most-out-of-arcgis-configurable-web-apps-(2016)/)
+* [Creating Web Applications Using Templates and Web AppBuilder for ArcGIS](https://www.esri.com/training/catalog/57630433851d31e02a43eee6/creating-web-applications-using-templates-and-web-appbuilder-for-arcgis/)
+* [ArcGIS Online: App Basics - 2016 (free)](https://www.esri.com/training/catalog/57eb2fb4ee85c0f5204bef8b/arcgis-online%3A-app-basics/)
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).

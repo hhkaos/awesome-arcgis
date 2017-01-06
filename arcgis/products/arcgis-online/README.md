@@ -31,6 +31,8 @@ Fiddler
 
 # Resources
 ## Training
+### Documentation
+http://learn.arcgis.com/en/projects/get-started-with-arcgis-online/
 ### Videos / Technical talks
 ## Community
 https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api

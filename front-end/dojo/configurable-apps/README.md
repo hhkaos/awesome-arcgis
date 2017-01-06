@@ -32,12 +32,12 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 
 |Event|Title|
 |---|---|
-|n.a. 2016|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)
 |n.a. 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)
 |n.a. 2016|[An Overview of the Map and App Gallery](http://www.esri.com/videos/watch?videoid=rrMlBbboWk0&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=an-overview-of-the-map-and-app-gallery)
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Story Maps: Configuring and Customizing Web Apps](http://www.esri.com/videos/watch?videoid=4469&channelid=LegacyVideo&isLegacy=true&title=story-maps:-configuring-and-customizing-web-apps)
 |n.a. 2014|[Customizing Story Map Web Apps](http://www.esri.com/videos/watch?videoid=3354&channelid=LegacyVideo&isLegacy=true&title=customizing-story-map-web-apps)
-|[DevSummit](http://www.esri.com/events/devsummit) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)
+|[User Conference](http://www.esri.com/events/user-conference) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)
 |n.a. 2011|[Ready to Use Configurable Web Apps](http://www.esri.com/videos/watch?videoid=222&channelid=LegacyVideo&isLegacy=true&title=ready-to-use-configurable-web-apps)
 
 ### Documentation

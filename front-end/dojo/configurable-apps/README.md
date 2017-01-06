@@ -17,8 +17,8 @@ apps, here you can see an evolution:
 [![Esri configurable apps evolution](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=1770&h=1318)](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=3539&h=2635)
 
 You can see a [full list of configurable apps](http://www.arcgis.com/home/search.html?q=tags%3AArcGIS%20web%20application%20template%20owner%3Aesri_en&t=content&sortField=modified&sortOrder=desc) on
-[ArcGIS Online](../../arcgis/products/arcgis-online) and
-[Portal for ArcGIS](../../arcgis/products/arcgis-enterprise/portal-for-arcgis)
+[ArcGIS Online](../../../arcgis/products/arcgis-online) and
+[Portal for ArcGIS](../../../arcgis/products/arcgis-enterprise/portal-for-arcgis)
 
 ## Story maps
 Those applications which are design to tell a story are called
@@ -28,7 +28,7 @@ them [here](https://storymaps.arcgis.com/en/app-list/).
 ## Documentation
 * [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
 * [How to add a template to ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm#ESRI_SECTION1_0D1B620254F745AE84F394289F8AF44B)
-* How to use ArcGIS [Web Map editor](../../arcgis/products/web-map-editor) to
+* How to use ArcGIS [Web Map editor](../../../arcgis/products/web-map-editor) to
 [build web applications using web maps webmaps](https://doc.arcgis.com/en/arcgis-online/create-maps/create-map-apps.htm)
 
 ## Code

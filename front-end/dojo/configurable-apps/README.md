@@ -26,10 +26,10 @@ Those applications which are design to tell a story are called
 them [here](https://storymaps.arcgis.com/en/app-list/).
 
 ## Documentation
-* [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
-* [How to add a template to ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm#ESRI_SECTION1_0D1B620254F745AE84F394289F8AF44B)
 * How to use ArcGIS [Web Map editor](../../../arcgis/products/web-map-editor) to
 [build web applications using web maps webmaps](https://doc.arcgis.com/en/arcgis-online/create-maps/create-map-apps.htm)
+* [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
+* [How to add a template to ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm#ESRI_SECTION1_0D1B620254F745AE84F394289F8AF44B)
 
 ## Code
 The [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js) is a starter application that simplifies the process of building templates for the ArcGIS.com template gallery.

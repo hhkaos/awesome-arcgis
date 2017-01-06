@@ -33,7 +33,7 @@
 
 learn dojo
 
-calcite
+You can design nice apps using Dojo & [calcite](../calcite)
 
 geometry engine
 renderers

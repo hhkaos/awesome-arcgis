@@ -13,7 +13,7 @@ The builder itself is written in NodeJS and can be downloaded from the [develope
 
 In this page you will find some sites you can use to improve your skills to be able to extend Web AppBuilder.
 
-## Formal training
+## Training
 First resources you should know are:
 * [Developers site documentation](https://developers.arcgis.com/web-appbuilder/)
 * [Esri training courses](http://www.esri.com/training/Bookmark/ryPXXVrml)
@@ -48,7 +48,7 @@ They are not working on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
-|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
 |![Robert J Scheitlin](https://avatars1.githubusercontent.com/u/1216460?v=3&s=50)|Robert J Scheitlin|[robertscheitlin](https://www.linkedin.com/in/robertscheitlin)|[@rscheitlin](https://github.com/rscheitlin)|n/a|[rscheitlin](http://www.arcgis.com/home/search.html?q=owner:rscheitlin)|[@rscheitlin](https://geonet.esri.com/people/rscheitlin)
 |![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|Tom Wayson|[tomwayson](https://www.linkedin.com/in/tomwayson)|[@tomwayson](https://github.com/tomwayson)|[@tomwayson](https://twitter.com/tomwayson)|n/a|n/a|

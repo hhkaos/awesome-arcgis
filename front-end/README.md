@@ -37,3 +37,6 @@ paid plan at the time of deploying you app. (view deployment plan details)
 
 If you already have ArcGIS Enterprise or you are building an app for a company
 which already have it ....
+
+
+https://github.com/sindresorhus/awesome#front-end-development

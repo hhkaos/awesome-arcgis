@@ -6,6 +6,6 @@
 ## Community
 ## Code
 
-#People you should know
+##People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|

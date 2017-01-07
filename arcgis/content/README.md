@@ -3,3 +3,5 @@
 Marketplace
 ArcGIS Online search
 Open Data & API
+
+https://learn.arcgis.com/en/arcgis-imagery-book

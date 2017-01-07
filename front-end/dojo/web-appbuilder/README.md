@@ -25,7 +25,7 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=5049&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-development-tools-and-techniques)|59min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=5048&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 5min 43secs
-|[User Conference](http://www.esri.com/events/devsummit) 2016|[ArcGIS Apps: Web AppBuilder for ArcGIS: Build Web Apps with No Coding](http://www.esri.com/videos/watch?videoid=qEJ7TX_ixEs&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-apps:-web-appbuilder-for-arcgis:-build-web-apps-with-no-coding)|1h 13min 53secs
+|[UC](http://www.esri.com/events/user-conference) 2016|[Web AppBuilder for ArcGIS: Build Web Apps with No Coding](http://www.esri.com/videos/watch?videoid=qEJ7TX_ixEs&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-apps:-web-appbuilder-for-arcgis:-build-web-apps-with-no-coding)|1h 13min 53secs
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 

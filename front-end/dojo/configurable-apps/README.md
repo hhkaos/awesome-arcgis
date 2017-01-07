@@ -34,15 +34,15 @@ Esri's formal training:
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
 
-|Event|Title|
-|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)
-|n.a. 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)
-|n.a. 2016|[An Overview of the Map and App Gallery](http://www.esri.com/videos/watch?videoid=rrMlBbboWk0&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=an-overview-of-the-map-and-app-gallery)
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Story Maps: Configuring and Customizing Web Apps](http://www.esri.com/videos/watch?videoid=4469&channelid=LegacyVideo&isLegacy=true&title=story-maps:-configuring-and-customizing-web-apps)
-|n.a. 2014|[Customizing Story Map Web Apps](http://www.esri.com/videos/watch?videoid=3354&channelid=LegacyVideo&isLegacy=true&title=customizing-story-map-web-apps)
-|[User Conference](http://www.esri.com/events/user-conference) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)
-|n.a. 2011|[Ready to Use Configurable Web Apps](http://www.esri.com/videos/watch?videoid=222&channelid=LegacyVideo&isLegacy=true&title=ready-to-use-configurable-web-apps)
+|Event|Title|Length|
+|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
+|n.a. 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs
+|n.a. 2016|[An Overview of the Map and App Gallery](http://www.esri.com/videos/watch?videoid=rrMlBbboWk0&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=an-overview-of-the-map-and-app-gallery)|24min 24 secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Story Maps: Configuring and Customizing Web Apps](http://www.esri.com/videos/watch?videoid=4469&channelid=LegacyVideo&isLegacy=true&title=story-maps:-configuring-and-customizing-web-apps)|1h 1min 32secs
+|n.a. 2014|[Customizing Story Map Web Apps](http://www.esri.com/videos/watch?videoid=3354&channelid=LegacyVideo&isLegacy=true&title=customizing-story-map-web-apps)|27min 59secs
+|[User Conference](http://www.esri.com/events/user-conference) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)|20min 18secs
+|n.a. 2011|[Ready to Use Configurable Web Apps](http://www.esri.com/videos/watch?videoid=222&channelid=LegacyVideo&isLegacy=true&title=ready-to-use-configurable-web-apps)|8min 42secs
 
 ### Documentation
 * How to use ArcGIS [Web Map editor](../../../arcgis/products/web-map-editor) to

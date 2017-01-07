@@ -143,6 +143,8 @@ The Social Media Template has an innovative use of social media, which allows yo
 * [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
 
 ## People you should know
+They are not working on the support team but they are opening some projects
+and sharing insights related to this technology so we recommend you to follow them.
 
 ||Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|

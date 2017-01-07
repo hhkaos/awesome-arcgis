@@ -33,6 +33,9 @@ Fiddler
 ## Training
 ### Documentation
 http://learn.arcgis.com/en/projects/get-started-with-arcgis-online/
+
+[Instructional Guide for The ArcGIS Book - $59.99](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=303&moduleID=0)
+
 ### Videos / Technical talks
 ## Community
 https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api

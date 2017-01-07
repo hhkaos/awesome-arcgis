@@ -1,6 +1,9 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# Extend ArcMap & ArcCatalog
+# ArcMap & ArcCatalog
+https://learn.arcgis.com/en/projects/get-started-with-arcmap/
+
+## Extend ArcMap & ArcCatalog
 ArcObjects .NET SDK
 [Extend ArcMap](https://developers.arcgis.com/extending-the-platform/)
 

@@ -29,7 +29,6 @@ them [here](https://storymaps.arcgis.com/en/app-list/).
 Esri's formal training:
 * [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](https://www.esri.com/training/catalog/57eb2dd2ee85c0f5204be985/getting-the-most-out-of-arcgis-configurable-web-apps-(2016)/)
 * [Creating Web Applications Using Templates and Web AppBuilder for ArcGIS](https://www.esri.com/training/catalog/57630433851d31e02a43eee6/creating-web-applications-using-templates-and-web-appbuilder-for-arcgis/)
-* [ArcGIS Online: App Basics - 2016 (free)](https://www.esri.com/training/catalog/57eb2fb4ee85c0f5204bef8b/arcgis-online%3A-app-basics/)
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
@@ -37,7 +36,7 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 |Event|Title|Length|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
-|n.a. 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs
+|Esri Training 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs
 |n.a. 2016|[An Overview of the Map and App Gallery](http://www.esri.com/videos/watch?videoid=rrMlBbboWk0&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=an-overview-of-the-map-and-app-gallery)|24min 24 secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Story Maps: Configuring and Customizing Web Apps](http://www.esri.com/videos/watch?videoid=4469&channelid=LegacyVideo&isLegacy=true&title=story-maps:-configuring-and-customizing-web-apps)|1h 1min 32secs
 |n.a. 2014|[Customizing Story Map Web Apps](http://www.esri.com/videos/watch?videoid=3354&channelid=LegacyVideo&isLegacy=true&title=customizing-story-map-web-apps)|27min 59secs

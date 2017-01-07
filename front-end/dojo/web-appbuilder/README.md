@@ -16,7 +16,7 @@ In this page you will find some sites you can use to improve your skills to be a
 ## Training
 First resources you should know are:
 * [Developers site documentation](https://developers.arcgis.com/web-appbuilder/)
-* [Esri training courses](http://www.esri.com/training/Bookmark/ryPXXVrml)
+* [Esri training courses](http://www.esri.com/training/Bookmark/H1rErV0Hg)
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20appbuilder).

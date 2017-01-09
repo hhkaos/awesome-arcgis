@@ -41,3 +41,6 @@ Plugin for Esri Leaflet to use drawing information defined in the feature servic
 You will find a lot of interesting resources to learn an improve your skills
 with leaflet:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+Yusuke Nunokawa
+https://github.com/ynunokawa

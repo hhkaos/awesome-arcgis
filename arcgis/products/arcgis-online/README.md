@@ -23,9 +23,11 @@ oAuth
 
 # APIs
 ArcGIS Online (search..)
-Open Data API
 
-ArcGIS-API-REST (postman collection)
+
+[ArcGIS REST API](../../../open-specifications/arcgis-rest-api)
+[Open Data REST API](../../../open-specifications/arcgis-rest-api#Open-Data-API)
+
 Fiddler
 
 

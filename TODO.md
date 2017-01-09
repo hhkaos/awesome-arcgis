@@ -2,6 +2,7 @@
 
 ## Pending
 * [ ] Add [1000 GIS Applications & Uses – How GIS Is Changing the World](http://gisgeography.com/gis-applications-uses/)
+* [ ] The ArcGIS Book: https://learn.arcgis.com/en/arcgis-book/
 
 ## In progress
 * [ ] Add lessons from [learn.arcgis.com](http://learn.arcgis.com/en/)

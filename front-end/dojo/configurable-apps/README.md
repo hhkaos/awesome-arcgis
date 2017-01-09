@@ -25,6 +25,12 @@ Those applications which are design to tell a story are called
 [**storymaps**](https://storymaps.arcgis.com/en/). You can check a full list of
 them [here](https://storymaps.arcgis.com/en/app-list/).
 
+If you want to learn some tips and tricks for developers to enhance your Story
+Map you should visit [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
+
+You may also want to take a look to some [great examples of customizations made
+by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:customized) to our out of the box Story Maps apps.
+
 ## Training
 Esri's formal training:
 * [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](https://www.esri.com/training/catalog/57eb2dd2ee85c0f5204be985/getting-the-most-out-of-arcgis-configurable-web-apps-(2016)/)
@@ -150,3 +156,5 @@ and sharing insights related to this technology so we recommend you to follow th
 |---|---|---|---|---|---|
 |![Owen Evans](https://avatars2.githubusercontent.com/u/3215530?v=3&s=50)|[Owen Evans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
 |![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.
+
+Twitter accounts: [@EsriStoryMaps](https://twitter.com/EsriStoryMaps)

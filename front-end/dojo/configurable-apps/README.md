@@ -7,12 +7,14 @@ improve this page.
 mechanism that allows users of an organization to create and configure
 **web applications** without having to write any code.
 
-There are more than 40 templates with different purposes: collect/edit data,
-compare maps/layers, explore/summarize data, get directions, map social media,
-provide local information, showcase 2D or 3D maps, etc.
+Until now Esri has released more than 40 [open source templates](#apps-developed-by-esri)
+with different purposes: collect/edit data, compare maps/layers,
+explore/summarize data, get directions, map social media, provide local
+information, showcase 2D or 3D maps, etc.
 
-This templates can be built for anyone, but Esri use to release new configurable
-apps, here you can see an evolution:
+The best thing is that **you as a developer can write your own templates** ([learn how](#training)).
+
+Check the configurable apps Esri has been releasing during the last years:
 
 [![Esri configurable apps evolution](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=1770&h=1318)](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=3539&h=2635)
 

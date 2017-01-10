@@ -38,6 +38,7 @@ The best thing is that **you as a developer can write your own templates** ([lea
 
 Check the configurable apps Esri has been releasing during the last years:
 
+
 [![Esri configurable apps evolution](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=1770&h=1318)](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=3539&h=2635)
 
 You can see a [full list of configurable apps](http://www.arcgis.com/home/search.html?q=tags%3AArcGIS%20web%20application%20template%20owner%3Aesri_en&t=content&sortField=modified&sortOrder=desc) on
@@ -49,9 +50,6 @@ Those applications which are design to tell a story are called
 [**storymaps**](https://storymaps.arcgis.com/en/). You can check a full list of
 them [here](https://storymaps.arcgis.com/en/app-list/).
 
-If you want to learn some tips and tricks for developers to enhance your Story
-Map you should visit [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
-
 You may also want to take a look to some [great examples of customizations made
 by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:customized) to our out of the box Story Maps apps.
 
@@ -59,6 +57,8 @@ by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:c
 Esri's formal training:
 * [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](https://www.esri.com/training/catalog/57eb2dd2ee85c0f5204be985/getting-the-most-out-of-arcgis-configurable-web-apps-(2016)/)
 * [Creating Web Applications Using Templates and Web AppBuilder for ArcGIS](https://www.esri.com/training/catalog/57630433851d31e02a43eee6/creating-web-applications-using-templates-and-web-appbuilder-for-arcgis/)
+* Learn tips and tricks for developers to enhance your Story
+Map:  [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).

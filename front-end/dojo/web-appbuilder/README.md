@@ -14,6 +14,8 @@ The builder itself is written in NodeJS and can be downloaded from the [develope
 
 In this page you will find some sites you can use to improve your skills to be able to extend Web AppBuilder.
 
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -26,6 +28,8 @@ In this page you will find some sites you can use to improve your skills to be a
 - [Resources in other languages](#resources-in-other-languages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
 
 ## Training
 First resources you should know are:

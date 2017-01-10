@@ -1,8 +1,13 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # Products
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [App Builders](#app-builders)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Here you will find some products we have built which can be:
 * Extended: you can add more functionality

@@ -1,8 +1,17 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # Performance in web applications
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Load time](#load-time)
+  - [Training](#training)
+    - [Videos / Technical talks](#videos--technical-talks)
+    - [Code](#code)
+- [Drawing features](#drawing-features)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 You may have two different types of performance issues when talking about web
 applications: [Load time](#load-time) or [Drawing features](drawing-features).

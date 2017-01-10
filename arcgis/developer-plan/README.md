@@ -1,8 +1,22 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # Developer plan
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Get tools](#get-tools)
+  - [Essentials](#essentials)
+  - [Builder (GIS)](#builder-gis)
+  - [Professional](#professional)
+  - [Premium](#premium)
+  - [Enterprise](#enterprise)
+- [Deploy](#deploy)
+  - [Runtimes SDKs](#runtimes-sdks)
+- [ArcGIS Online](#arcgis-online)
+- [EDN](#edn)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 (move this to each type of developer?)
 

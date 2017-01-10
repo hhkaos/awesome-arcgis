@@ -2,8 +2,21 @@
 improve this page.
 
 # Configurable web apps
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Story maps](#story-maps)
+- [Training](#training)
+  - [Videos / Technical talks](#videos--technical-talks)
+  - [Documentation](#documentation)
+- [Code](#code)
+  - [Apps developed by Esri](#apps-developed-by-esri)
+  - [Apps developed by the community](#apps-developed-by-the-community)
+- [People you should know](#people-you-should-know)
+- [News about Configurable Apps](#news-about-configurable-apps)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 [Configurable apps](http://www.esri.com/software/configurable-apps) is a
 mechanism that allows users of an organization to create and configure

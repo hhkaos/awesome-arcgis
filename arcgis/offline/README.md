@@ -2,8 +2,18 @@
 
 # Work offline
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Developer technologies](#developer-technologies)
+  - [Native apps](#native-apps)
+  - [Web apps](#web-apps)
+  - [Patterns](#patterns)
+    - [Services pattern](#services-pattern)
+  - [Conflicts](#conflicts)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Each day we realize that been able to work offline with our mobile, tablet or
 desktop devices is more important, that why we offer you the chance to build

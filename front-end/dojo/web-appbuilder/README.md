@@ -2,8 +2,18 @@
 improve this page.
 
 # Web AppBuilder for ArcGIS (Developer Edition)
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Training](#training)
+  - [Videos / Technical talks](#videos--technical-talks)
+- [Community](#community)
+- [Code](#code)
+- [People you should know](#people-you-should-know)
+- [Resources in other languages](#resources-in-other-languages)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Web AppBuilder is:
 * For non-developers: A WYSIWYG tool that allow them to build and export responsive web apps adding and configuring pre-defined widgets and themes.

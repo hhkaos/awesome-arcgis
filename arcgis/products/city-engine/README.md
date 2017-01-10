@@ -1,8 +1,16 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # City Engine
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Code](#code)
+- [News](#news)
+- [Videos](#videos)
+- [Get the tool](#get-the-tool)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 [City engine](http://www.esri.com/software/cityengine) is a desktop tool that
 allows you to build complex scenarios from raw data.

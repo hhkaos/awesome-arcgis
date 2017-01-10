@@ -2,8 +2,16 @@
 
 # ArcGIS Account types
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Developer account](#developer-account)
+- [Organization account](#organization-account)
+- [Esri.com account](#esricom-account)
+- [ArcGIS.com account](#arcgiscom-account)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 There are four type of accounts:
 

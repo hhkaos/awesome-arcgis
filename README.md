@@ -1,10 +1,19 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # Awesome list for ArcGIS Developers
-<!-- START doctoc -->
-<!-- END doctoc -->
-
 Awesome resource list for ArcGIS Developers
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Quick overview](#quick-overview)
+- [Getting started](#getting-started)
+- [About ArcGIS](#about-arcgis)
+- [Contributions](#contributions)
+- [Localized resource lists](#localized-resource-lists)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Quick overview
 No matter which is your profile or your favourite technologies, we have putted together many links to help you find tools, code samples, training, ... get started with resources for:
@@ -36,7 +45,7 @@ ArcGIS is a 360º software platform built by Esri and it already have more than
 applications or mobile Applicationsbut there are also many tools for developers
 and devops as you will see in this awesome list of resources.
 
-## About Esri
+**About Esri**
 If you still don't know who we are or what we do you can start checking some of these sites:
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.

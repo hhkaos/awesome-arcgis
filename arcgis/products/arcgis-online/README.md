@@ -1,8 +1,23 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # ArcGIS Online
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Authentication](#authentication)
+- [Ready to use services](#ready-to-use-services)
+- [APIs](#apis)
+- [Resources](#resources)
+  - [Training](#training)
+    - [Documentation](#documentation)
+    - [Videos / Technical talks](#videos--technical-talks)
+  - [Community](#community)
+  - [Code](#code)
+  - [Tools](#tools)
+  - [Get an account](#get-an-account)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ArcGIS Online is a cloud service
 You can create a developer account an choose the essentials plan for free to start testing.

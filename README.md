@@ -82,7 +82,14 @@ Other places where you can find more developers with knowledge on ArcGIS:
 * [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
 * [Linkedin.com](https://www.linkedin.com/topic/arcgis)
 * [Youtube](https://www.youtube.com/results?search_query=arcgis)
-* [GeoDevelopers.org](http://geodevelopers.org/community/) (Spanish community)
+* In Spanish:
+  * ArcGIS developers:
+    * [GeoDev Spain at Geonet](https://geonet.esri.com/groups/geodev-spain)
+    * [esri-es.slack.com](esri-es.slack.com)
+  * GIS developers:
+    * [GeoDevelopers.org](http://geodevelopers.org/community/)
+    * [geodev.slack.com](http://geodev.slack.com)
+
 
 ## Localized resources lists
 There are some extra resources in different languages, here you will find:

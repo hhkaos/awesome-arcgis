@@ -90,7 +90,6 @@ Other places where you can find more developers with knowledge on ArcGIS:
     * [GeoDevelopers.org](http://geodevelopers.org/community/)
     * [geodev.slack.com](http://geodev.slack.com)
 
-
 ## Localized resources lists
 There are some extra resources in different languages, here you will find:
 * [Awesome list (Esri Spain fork)](https://github.com/esri-es/awesome-arcgis)

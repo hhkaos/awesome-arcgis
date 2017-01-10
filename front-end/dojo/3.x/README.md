@@ -5,3 +5,12 @@
 <!-- END doctoc -->
 
 [Using Bootstrap Map? You Might Not Need jQuery…](http://tomwayson.com/2014/04/30/using-bootstrap-map-you-might-not-need-jquery/)
+
+
+#People you should know
+|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|---|
+
+Gary Sheppard
+https://github.com/garys-esri
+http://stackoverflow.com/users/720773/gary-s

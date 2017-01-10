@@ -50,6 +50,7 @@ applications or mobile Applicationsbut there are also many tools for developers
 and devops as you will see in this awesome list of resources.
 
 **About Esri**
+
 If you still don't know who we are or what we do you can start checking some of these sites:
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
@@ -69,16 +70,21 @@ Ways to contribute:
 * You can help us just adding resources directly editing from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)).
 * If you are a developer you can also fork this repo a do a pull request.
 
-If you have any further question about the technology please go to [geonet](..), there
-are several groups (by technologies, countries, etc) where you will find more
-community and help.
+## Community
 
-Other places where you can find more developers with knowledge about ArcGIS:
-* [Stackoverflow]()
+If you have any further question about the technology please go to [geonet.esri.com](http://geonet.esri.com), there
+are several groups ([by technologies](https://geonet.esri.com/community/developers), countries, etc) where you will find more
+people and help.
+
+Other places where you can find more developers with knowledge on ArcGIS:
+* [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
+* [GeoNet.Esri.com](http://geonet.esri.com/people)
+* [Stackoverflow.com](http://stackoverflow.com/tags/arcgis/topusers)
+* [Github.com](https://github.com/orgs/Esri/people)
+* [Linkedin.com](https://www.linkedin.com/topic/arcgis)
+* [Youtube](https://www.youtube.com/results?search_query=arcgis)
 * [GeoDevelopers.org](http://geodevelopers.org/community/) (Spanish community)
-* [Youtube]()
-* ...
 
-## Localized resource lists
+## Localized resources lists
 There are some extra resources in different languages, here you will find:
-* [Esri Spain fork](https://github.com/esri-es/awesome-arcgis): with extra resources in Spanish
+* [Awesome list (Esri Spain fork)](https://github.com/esri-es/awesome-arcgis)

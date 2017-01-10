@@ -73,15 +73,13 @@ Ways to contribute:
 
 ## Community
 
-If you have any further question about the technology please go to [geonet.esri.com](http://geonet.esri.com), there
-are several groups ([by technologies](https://geonet.esri.com/community/developers), countries, etc) where you will find more
+Most of ArcGIS users are in [geonet.esri.com](http://geonet.esri.com/people), there you will find several groups: [by technologies](https://geonet.esri.com/community/developers), countries, ... where you will find more
 people and help.
 
 Other places where you can find more developers with knowledge on ArcGIS:
-* [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
-* [GeoNet.Esri.com](http://geonet.esri.com/people)
 * [Stackoverflow.com](http://stackoverflow.com/tags/arcgis/topusers)
 * [Github.com](https://github.com/orgs/Esri/people)
+* [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
 * [Linkedin.com](https://www.linkedin.com/topic/arcgis)
 * [Youtube](https://www.youtube.com/results?search_query=arcgis)
 * [GeoDevelopers.org](http://geodevelopers.org/community/) (Spanish community)

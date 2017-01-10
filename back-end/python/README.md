@@ -4,6 +4,8 @@
 
 ArcPy
 
+https://blogs.esri.com/esri/arcgis/category/subject-python/
+
 ArcREST
 Python API
 

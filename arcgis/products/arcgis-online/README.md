@@ -10,6 +10,8 @@ hackerlabs esri inc?
 
 https://github.com/Esri/ago-assistant
 
+https://github.com/Esri/ago-admin-wiki/wiki
+
 introducción a arcgis online para desarrolladores
 
 # Authentication

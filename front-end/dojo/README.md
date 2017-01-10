@@ -54,6 +54,8 @@ https://github.com/Esri/developer-support/tree/gh-pages/web-js
 
 [Yeoman generator to create custom Dojo widgets for Esri web applications](https://github.com/tomwayson/generator-esri-widget)
 
+[JavaScript Mapping Applications - Testing Tools and Patterns](http://www.esri.com/videos/watch?videoid=4281&channelid=LegacyVideo&isLegacy=true&title=javascript-mapping-applications---testing-tools-and-patterns)
+
 https://geonet.esri.com/community/developers
 https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript
 

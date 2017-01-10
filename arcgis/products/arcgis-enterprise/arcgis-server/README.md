@@ -7,3 +7,5 @@ https://geonet.esri.com/groups/server-object-extensions-server-object-intercepto
 
 [arcgis-server-store](https://github.com/thollingshead/arcgis-server-store):
 A module that implements the dojo/store API for ArcGIS Server REST services.
+
+[Extending ArcGIS for server](http://www.esri.com/videos/watch?videoid=5068&channelid=LegacyVideo&isLegacy=true&title=extending-arcgis-for-server)

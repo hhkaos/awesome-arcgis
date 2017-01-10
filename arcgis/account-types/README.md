@@ -1,6 +1,18 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # ArcGIS Account types
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Developer account](#developer-account)
+- [Organization account](#organization-account)
+- [Esri.com account](#esricom-account)
+- [ArcGIS.com account](#arcgiscom-account)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 There are four type of accounts:
 
 * Developer account
@@ -8,7 +20,7 @@ There are four type of accounts:
 * Esri.com account
 * Arcgis.com account
 
-# Developer account
+## Developer account
 This is the one you will use if you have never use ArcGIS before.
 
 After signing up you will have access to:
@@ -22,9 +34,9 @@ After signing up you will have access to:
 * Get temporary tokens
 * Etc.
 
-# Organization account
+## Organization account
 If you work for a company with already use ArcGIS you will use the one.
 
-# Esri.com account
+## Esri.com account
 
-# ArcGIS.com account
+## ArcGIS.com account

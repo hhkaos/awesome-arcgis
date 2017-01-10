@@ -3,8 +3,23 @@
 # Awesome list for ArcGIS Developers
 Awesome resource list for ArcGIS Developers
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Quick overview](#quick-overview)
+- [Getting started](#getting-started)
+- [About ArcGIS](#about-arcgis)
+- [Contributions](#contributions)
+- [Community](#community)
+- [Localized resources lists](#localized-resources-lists)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Quick overview
-No matter which is your profile or your favourite technologies, we have putted together many links to help you find tools, code samples, training, ... get started with resources for:
+No matter which is your profile or your favourite technology, we have putted together many links to help you to find tools, code samples, training, ... in short, to help you get started with ArcGIS.
+
+Start visiting the page that best matches with your profile:
 * [Front-end developer](front-end/)
 * [Back-end developers](back-end/)
 * [Mobile developers](mobile/)
@@ -12,14 +27,16 @@ No matter which is your profile or your favourite technologies, we have putted t
 * [DevOps](devops/)
 * [Virtual reality developers](vr-developers/)
 
-But in order to better understand the technology we have also collected links to introduce you to [the content]() you have available in the platform and [which are the benefits of using ArcGIS](arcgis).
+In order help you better understand the technology we have also collected some links to introduce you to [the content](arcgis/content) you have available in the platform and [which are the benefits of developing using ArcGIS](arcgis).
+
+This diagram displays an overview of the technologies available for ArcGIS developers:
 
 [![Prezi](https://0701.static.prezi.com/preview/v2/5zt6hpkimmdhkmg4p6yk5cpeuh6jc3sachvcdoaizecfr3dnitcq_3_0.png?fallback_with_redirect=false)](https://prezi.com/plj9jjmhl4bv/arcgis-developers-tecnologies-resources/)
 
 ## Getting started
-You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to:
+You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to be able to:
 * Download some tools: the SDKs for [mobile](mobile) or [desktop](desktop) developers, [Web AppBuilder Developer Edition](front-end/dojo/web-appbuilder), etc.
-* Been able to [store data](arcgis/content) in [ArcGIS Online](arcgis/arcgis-online)
+* [Store data](arcgis/content) in [ArcGIS Online](arcgis/arcgis-online)
 * Use de ArcGIS Online [Web Map Editor](arcgis/products/web-map-editor)
 * Build [Web Maps](arcgis/open-specifications/web-map)
 * Use the [ready to use services](arcgis/arcgis-online/ready-to-use-services)
@@ -33,7 +50,8 @@ ArcGIS is a 360º software platform built by Esri and it already have more than
 applications or mobile Applicationsbut there are also many tools for developers
 and devops as you will see in this awesome list of resources.
 
-## About Esri
+**About Esri**
+
 If you still don't know who we are or what we do you can start checking some of these sites:
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
@@ -53,16 +71,19 @@ Ways to contribute:
 * You can help us just adding resources directly editing from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)).
 * If you are a developer you can also fork this repo a do a pull request.
 
-If you have any further question about the technology please go to [geonet](..), there
-are several groups (by technologies, countries, etc) where you will find more
-community and help.
+## Community
 
-Other places where you can find more developers with knowledge about ArcGIS:
-* [Stackoverflow]()
+Most of ArcGIS users are in [geonet.esri.com](http://geonet.esri.com/people), there you will find several groups: [by technologies](https://geonet.esri.com/community/developers), countries, ... where you will find more
+people and help.
+
+Other places where you can find more developers with knowledge on ArcGIS:
+* [Stackoverflow.com](http://stackoverflow.com/tags/arcgis/topusers)
+* [Github.com](https://github.com/orgs/Esri/people)
+* [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
+* [Linkedin.com](https://www.linkedin.com/topic/arcgis)
+* [Youtube](https://www.youtube.com/results?search_query=arcgis)
 * [GeoDevelopers.org](http://geodevelopers.org/community/) (Spanish community)
-* [Youtube]()
-* ...
 
-## Localized resource lists
+## Localized resources lists
 There are some extra resources in different languages, here you will find:
-* [Esri Spain fork](https://github.com/esri-es/awesome-arcgis): with extra resources in Spanish
+* [Awesome list (Esri Spain fork)](https://github.com/esri-es/awesome-arcgis)

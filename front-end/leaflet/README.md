@@ -1,6 +1,18 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# ArcGIS + Leaflet
+# Leaflet developers
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [code](#code)
+- [Community](#community)
+- [App Samples](#app-samples)
+- [Awesome lists for leaflet](#awesome-lists-for-leaflet)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+You can use leaflet to consume ArcGIS services we will show you how in this page.
 
 [ArcGIS Image Service Support in Esri Leaflet](http://tomwayson.com/2014/08/24/arcgis-image-service-support-in-esri-leaflet/)
 
@@ -34,7 +46,13 @@ Projects
 [esri-leaflet-renderers](https://github.com/Esri/esri-leaflet-renderers)
 Plugin for Esri Leaflet to use drawing information defined in the feature service
 
+# App Samples
+[City of Raleigh - Sustainable Projects](http://maps.raleighnc.gov/sustainable/)
+
 # Awesome lists for leaflet
 You will find a lot of interesting resources to learn an improve your skills
 with leaflet:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+Yusuke Nunokawa
+https://github.com/ynunokawa

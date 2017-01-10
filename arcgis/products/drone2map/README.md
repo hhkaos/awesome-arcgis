@@ -1,6 +1,9 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # Drone2Map for ArcGIS
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 
 If you are planning to work with drones, [Drone2Map](http://www.esri.com/products/drone2map)
 is an app that allow you to take geolocated imagery and build ....

@@ -1,6 +1,24 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # ArcGIS Online
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Authentication](#authentication)
+- [Ready to use services](#ready-to-use-services)
+- [APIs](#apis)
+- [Resources](#resources)
+  - [Training](#training)
+    - [Documentation](#documentation)
+    - [Videos / Technical talks](#videos--technical-talks)
+  - [Community](#community)
+  - [Code](#code)
+  - [Tools](#tools)
+  - [Get an account](#get-an-account)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ArcGIS Online is a cloud service
 You can create a developer account an choose the essentials plan for free to start testing.
 
@@ -9,6 +27,8 @@ hackerlabs esri inc?
 [geodev-hackerlabs](https://github.com/Esri/geodev-hackerlabs)A place to learn how to build geo apps with the ArcGIS.
 
 https://github.com/Esri/ago-assistant
+
+https://github.com/Esri/ago-admin-wiki/wiki
 
 introducción a arcgis online para desarrolladores
 
@@ -23,14 +43,21 @@ oAuth
 
 # APIs
 ArcGIS Online (search..)
-Open Data API
 
-ArcGIS-API-REST (postman collection)
+
+[ArcGIS REST API](../../../open-specifications/arcgis-rest-api)
+[Open Data REST API](../../../open-specifications/arcgis-rest-api#Open-Data-API)
+
 Fiddler
 
 
 # Resources
 ## Training
+### Documentation
+http://learn.arcgis.com/en/projects/get-started-with-arcgis-online/
+
+[Instructional Guide for The ArcGIS Book - $59.99](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=303&moduleID=0)
+
 ### Videos / Technical talks
 ## Community
 https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api
@@ -45,7 +72,7 @@ many actions like when you enter o exit an area, or add your location to a sprea
 and add it to a spreadsheet in drive when pressing a button, etc
 
 
-# People you should follow
+#People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
 

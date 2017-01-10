@@ -1,6 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [jQuery developers](#jquery-developers)
+  - [Code](#code)
+  - [Videos / Technical talks](#videos--technical-talks)
+  - [Community](#community)
+- [Awesome lists for jQuery](#awesome-lists-for-jquery)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# ArcGIS API for JavaScript + jQuery
+# jQuery developers
+You can combine ArcGIS API for JavaScript with Backbone in your developments,
+we will show you how in this page.
+
 If you are used to work with jQuery you can load the jQuery library and use it
 instead of using Dojo to manage the DOM, Ajax, events, etc.
 
@@ -35,7 +50,7 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
   * [calcite-maps](https://github.com/Esri/calcite-maps/issues)
   * [jquery-mobile-map-js](https://github.com/Esri/jquery-mobile-map-js/issues)
 
-# People you should follow
+#People you should know
 They are not working on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
@@ -43,6 +58,7 @@ technology so we recommend you to follow them.
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
 |![Allan Laframboise](https://avatars2.githubusercontent.com/u/2539681?v=3&s=50)|[Allan Laframboise](https://www.linkedin.com/in/allan-laframboise-33745b8)|[@alaframboise](https://github.com/alaframboise)|[@al_laframboise](https://twitter.com/al_laframboise?lang=en)|[al_geodev](http://www.arcgis.com/home/search.html?q=owner:al_geodev)|[@alaframboise-esristaff](https://geonet.esri.com/people/alaframboise-esristaff)
+|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|Andy Gup|[andy-gup](https://www.linkedin.com/in/andy-gup-0a865a)|[@andygup](https://github.com/andygup)|[@agup](https://twitter.com/agup)|[andygup](http://www.arcgis.com/home/search.html?q=owner:andygup)|[@agup-esristaff](https://geonet.esri.com/people/agup-esristaff)
 
 * jQuery Mobile:
   * [@andygup](https://github.com/andygup)

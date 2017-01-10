@@ -1,6 +1,16 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# ArcGIS API for JavaScript + Knockout
+# Knockout developers
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Awesome lists for knockout](#awesome-lists-for-knockout)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+You can combine ArcGIS API for JavaScript with Knockout in your developments,
+we will show you how in this page.
 
 * Knockout | Follow: [@snydercoder](https://github.com/snydercoder)
   * [Video 2015 - Building Map Apps with Knockout and the Esri JavaScript API](http://video.esri.com/watch/4539/building-map-apps-with-knockout-and-the-esri-javascript-api)

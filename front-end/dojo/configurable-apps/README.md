@@ -7,6 +7,8 @@ improve this page.
 mechanism that allows users of an organization to create and configure
 **web applications** without having to write any code.
 
+---
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -23,6 +25,8 @@ mechanism that allows users of an organization to create and configure
 - [News about Configurable Apps](#news-about-configurable-apps)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+---
 
 ## Introduction
 Until now Esri has released more than 40 [open source templates](#apps-developed-by-esri)

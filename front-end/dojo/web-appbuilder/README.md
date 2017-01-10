@@ -2,7 +2,7 @@
 improve this page.
 
 # Web AppBuilder for ArcGIS (Developer Edition)
-[Web AppBuilder](http://www.esri.com/software/web-appbuilder) is a WYSIWYG tool but it is also a framework to build web apps with a full screen map.
+[Web AppBuilder](http://www.esri.com/software/web-appbuilder) is a WYSIWYG tool that allow any user to build map-centric app (*with a full screen map*) without writing any code. You as a web developer can add new widgets and themes or customize the existing ones.
 
 ---
 
@@ -25,6 +25,7 @@ improve this page.
 ## Introduction
 Web AppBuilder is:
 * For non-developers: A WYSIWYG tool that allow them to build and export responsive web apps adding and configuring pre-defined widgets and themes.
+
 * For developers: It is also a framework that can be extended adding custom
 themes and widgets.
 

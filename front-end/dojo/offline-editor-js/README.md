@@ -2,6 +2,9 @@
 improve this page.
 
 # Offline editor
+[offline-editor-js](https://github.com/Esri/offline-editor-js) is an Open Source ArcGIS JavaScript library for handling
+offline editing and tiling
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Contents**
@@ -10,9 +13,6 @@ improve this page.
   - [Videos / Technical talks](#videos--technical-talks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-[offline-editor-js](https://github.com/Esri/offline-editor-js) is an Open Source ArcGIS JavaScript library for handling
-offline editing and tiling
 
 ## Training
 

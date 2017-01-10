@@ -2,6 +2,8 @@
 improve this page.
 
 # Offline editor
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 [offline-editor-js](https://github.com/Esri/offline-editor-js) is an Open Source ArcGIS JavaScript library for handling
 offline editing and tiling

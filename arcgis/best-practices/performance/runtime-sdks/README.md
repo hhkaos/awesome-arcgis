@@ -2,6 +2,9 @@
 
 # Performance in native applications
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 *TODO*
 
 Consider: Phonegap + ionic?

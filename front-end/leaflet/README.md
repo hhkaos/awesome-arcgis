@@ -1,6 +1,10 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# ArcGIS + Leaflet
+# Leaflet developers
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+You can use leaflet to consume ArcGIS services we will show you how in this page.
 
 [ArcGIS Image Service Support in Esri Leaflet](http://tomwayson.com/2014/08/24/arcgis-image-service-support-in-esri-leaflet/)
 

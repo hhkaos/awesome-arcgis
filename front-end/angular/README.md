@@ -1,6 +1,11 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# ArcGIS API for JavaScript + AngularJS
+# AngularJS developers
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+You can combine ArcGIS API for JavaScript with AngularJS in your developments,
+we will show you how in this page.
 
 ### Videos / Technical talks
 * [2015 Video: Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)

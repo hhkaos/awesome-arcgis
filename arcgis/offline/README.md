@@ -2,6 +2,9 @@
 
 # Work offline
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 Each day we realize that been able to work offline with our mobile, tablet or
 desktop devices is more important, that why we offer you the chance to build
 applications that could work with maps & GIS without internet connection.

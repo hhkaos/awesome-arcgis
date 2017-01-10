@@ -2,6 +2,8 @@
 improve this page.
 
 # Configurable web apps
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 [Configurable apps](http://www.esri.com/software/configurable-apps) is a
 mechanism that allows users of an organization to create and configure

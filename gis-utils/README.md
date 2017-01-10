@@ -1,4 +1,6 @@
 # Utils
+<!-- START doctoc -->
+<!-- END doctoc -->
 Here you will find a list of generic tools and resources that we found useful to
 help you during your developments.
 

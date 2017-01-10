@@ -1,6 +1,9 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # Performance
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 If you are developing and application which need to deal with any of these things:
 * Display large amount of data in the browser
 * Analyze / store TeraBytes of data

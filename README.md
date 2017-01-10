@@ -81,7 +81,7 @@ Other places where you can find more developers with knowledge on ArcGIS:
 * [Github.com](https://github.com/orgs/Esri/people)
 * [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
 * [Linkedin.com](https://www.linkedin.com/topic/arcgis)
-* [Youtube](https://www.youtube.com/results?search_query=arcgis)
+* [Youtube.com](https://www.youtube.com/results?search_query=arcgis)
 
 ## Localized resources lists
 There are some extra resources in different languages, here you will find:

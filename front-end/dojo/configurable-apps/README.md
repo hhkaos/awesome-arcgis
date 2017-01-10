@@ -7,6 +7,24 @@ improve this page.
 mechanism that allows users of an organization to create and configure
 **web applications** without having to write any code.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Introduction](#introduction)
+- [Story maps](#story-maps)
+- [Training](#training)
+  - [Videos / Technical talks](#videos--technical-talks)
+  - [Documentation](#documentation)
+- [Code](#code)
+  - [Apps developed by Esri](#apps-developed-by-esri)
+  - [Apps developed by the community](#apps-developed-by-the-community)
+- [People you should know](#people-you-should-know)
+- [News about Configurable Apps](#news-about-configurable-apps)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Introduction
 Until now Esri has released more than 40 [open source templates](#apps-developed-by-esri)
 with different purposes: collect/edit data, compare maps/layers,
 explore/summarize data, get directions, map social media, provide local
@@ -21,22 +39,6 @@ Check the configurable apps Esri has been releasing during the last years:
 You can see a [full list of configurable apps](http://www.arcgis.com/home/search.html?q=tags%3AArcGIS%20web%20application%20template%20owner%3Aesri_en&t=content&sortField=modified&sortOrder=desc) on
 [ArcGIS Online](../../../arcgis/products/arcgis-online) and
 [Portal for ArcGIS](../../../arcgis/products/arcgis-enterprise/portal-for-arcgis)
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
-
-- [Story maps](#story-maps)
-- [Training](#training)
-  - [Videos / Technical talks](#videos--technical-talks)
-  - [Documentation](#documentation)
-- [Code](#code)
-  - [Apps developed by Esri](#apps-developed-by-esri)
-  - [Apps developed by the community](#apps-developed-by-the-community)
-- [People you should know](#people-you-should-know)
-- [News about Configurable Apps](#news-about-configurable-apps)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Story maps
 Those applications which are design to tell a story are called

@@ -16,7 +16,9 @@ Awesome resource list for ArcGIS Developers
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Quick overview
-No matter which is your profile or your favourite technologies, we have putted together many links to help you find tools, code samples, training, ... get started with resources for:
+No matter which is your profile or your favourite technology, we have putted together many links to help you to find tools, code samples, training, ... in short, to help you get started with ArcGIS.
+
+Start visiting the page that best matches with your profile:
 * [Front-end developer](front-end/)
 * [Back-end developers](back-end/)
 * [Mobile developers](mobile/)
@@ -24,14 +26,16 @@ No matter which is your profile or your favourite technologies, we have putted t
 * [DevOps](devops/)
 * [Virtual reality developers](vr-developers/)
 
-But in order to better understand the technology we have also collected links to introduce you to [the content]() you have available in the platform and [which are the benefits of using ArcGIS](arcgis).
+In order help you better understand the technology we have also collected some links to introduce you to [the content](arcgis/content) you have available in the platform and [which are the benefits of developing using ArcGIS](arcgis).
+
+This diagram displays an overview of the technologies available for ArcGIS developers:
 
 [![Prezi](https://0701.static.prezi.com/preview/v2/5zt6hpkimmdhkmg4p6yk5cpeuh6jc3sachvcdoaizecfr3dnitcq_3_0.png?fallback_with_redirect=false)](https://prezi.com/plj9jjmhl4bv/arcgis-developers-tecnologies-resources/)
 
 ## Getting started
-You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to:
+You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to be able to:
 * Download some tools: the SDKs for [mobile](mobile) or [desktop](desktop) developers, [Web AppBuilder Developer Edition](front-end/dojo/web-appbuilder), etc.
-* Been able to [store data](arcgis/content) in [ArcGIS Online](arcgis/arcgis-online)
+* [Store data](arcgis/content) in [ArcGIS Online](arcgis/arcgis-online)
 * Use de ArcGIS Online [Web Map Editor](arcgis/products/web-map-editor)
 * Build [Web Maps](arcgis/open-specifications/web-map)
 * Use the [ready to use services](arcgis/arcgis-online/ready-to-use-services)

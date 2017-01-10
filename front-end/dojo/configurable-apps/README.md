@@ -57,8 +57,6 @@ by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:c
 Esri's formal training:
 * [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](https://www.esri.com/training/catalog/57eb2dd2ee85c0f5204be985/getting-the-most-out-of-arcgis-configurable-web-apps-(2016)/)
 * [Creating Web Applications Using Templates and Web AppBuilder for ArcGIS](https://www.esri.com/training/catalog/57630433851d31e02a43eee6/creating-web-applications-using-templates-and-web-appbuilder-for-arcgis/)
-* Learn tips and tricks for developers to enhance your Story
-Map:  [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
@@ -79,6 +77,8 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 * [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
 * [How to add a template to ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm#ESRI_SECTION1_0D1B620254F745AE84F394289F8AF44B)
 * [Get Started with Story Maps](http://learn.arcgis.com/en/projects/get-started-with-story-maps/)
+* Learn tips and tricks for developers to enhance your Story
+Map:  [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
 
 ## Code
 The [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js) is a starter application that simplifies the process of building templates for the ArcGIS.com template gallery.

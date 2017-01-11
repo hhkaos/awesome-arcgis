@@ -14,3 +14,5 @@
 Gary Sheppard
 https://github.com/garys-esri
 http://stackoverflow.com/users/720773/gary-s
+
+[@ArcGISJSAPI](https://twitter.com/ArcGISJSAPI)

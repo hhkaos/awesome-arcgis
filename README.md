@@ -11,7 +11,7 @@ Awesome resource list for ArcGIS Developers
 - [Getting started](#getting-started)
 - [About ArcGIS](#about-arcgis)
 - [Contributions](#contributions)
-- [Community](#community)
+- [ArcGIS community](#arcgis-community)
 - [Localized resources lists](#localized-resources-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -47,12 +47,16 @@ Know more about the [developer plans](arcgis/developer-plan).
 ## About ArcGIS
 ArcGIS is a 360º software platform built by Esri and it already have more than
 100 software tools. Many of those tools are end-user software like desktop
-applications or mobile Applicationsbut there are also many tools for developers
+applications or mobile Applications but there are also many tools for developers
 and devops as you will see in this awesome list of resources.
 
 **About Esri**
 
-If you still don't know who we are or what we do you can start checking some of these sites:
+[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/pdf/pledge-letters/Dangermond_Letter.pdf). Today it software ([ArcGIS](https://en.wikipedia.org/wiki/ArcGIS)) is been used by a [40% of the global market](http://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](http://www.esri.com/about-esri#who-we-are), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
+
+[![Esri Evolution](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/pub?w=1227&h=692)](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/edit?usp=sharing)
+
+If you want to know more about ArcGIS capabilities, features, ... we encourage you to can start checking some of these sites:
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
 * [ArcGIS patterns](http://www.esri.com/software/arcgis/patterns): analysis and planification, operational awareness, field data collection, assets management y participación de la comunidad
@@ -62,7 +66,7 @@ If you still don't know who we are or what we do you can start checking some of 
 Please feel free to contribute to this list. The technology change fast and
 some resources may be out to date.
 
-A sample resources list that shows what we are trying to do on each page is the
+A sample resources list that shows what we are trying to collect on each page is the
 [Web AppBuilder resource page](front-end/dojo/web-appbuilder).
 
 Ways to contribute:
@@ -71,17 +75,23 @@ Ways to contribute:
 * You can help us just adding resources directly editing from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)).
 * If you are a developer you can also fork this repo a do a pull request.
 
-## Community
+## ArcGIS community
 
-Most of ArcGIS users are in [geonet.esri.com](http://geonet.esri.com/people), there you will find several groups: [by technologies](https://geonet.esri.com/community/developers), countries, ... where you will find more
+Most of ArcGIS traditional users are in [geonet.esri.com](http://geonet.esri.com/people), there you will find several groups: [by technologies](https://geonet.esri.com/community/developers), countries, ... where you will find more
 people and help.
 
-Other places where you can find more developers with knowledge on ArcGIS:
+But you can also find developers with knowledge on ArcGIS on:
 * [Stackoverflow.com](http://stackoverflow.com/tags/arcgis/topusers)
 * [Github.com](https://github.com/orgs/Esri/people)
 * [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
 * [Linkedin.com](https://www.linkedin.com/topic/arcgis)
 * [Youtube.com](https://www.youtube.com/results?search_query=arcgis)
+
+Some interesting twitter accounts you may want to follow:
+[@EsriDevSummit](https://twitter.com/EsriDevSummit), [@EsriGeoDev](https://twitter.com/EsriGeoDev),  [@EsriTraining](https://twitter.com/EsriTraining),
+[@EsriStartups](https://twitter.com/EsriStartups),
+[@esrimooc](https://twitter.com/esrimooc),
+[@EsriUKGeoDev](https://twitter.com/EsriUKGeoDev) and some others [Esri Accounts](https://twitter.com/EsriGeoDev/lists/esri-accounts/members).
 
 ## Localized resources lists
 There are some extra resources in different languages, here you will find:

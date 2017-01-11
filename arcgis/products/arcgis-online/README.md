@@ -23,7 +23,7 @@ find geolocated data, build maps, analyze information, etc.
 ---
 
 ## Introduction
-With ArcGIS Online you have everything you need to build powerful applications: [content](content) (datasets), [APIs](rest-apis/ready-to-use-services), a [developer console](developer-console) and also some tools like the [Web map editor](web-map-editor) and the [Scene viewer](scene-viewer).
+With ArcGIS Online you have everything you need to build powerful applications: [content](content) (datasets), [APIs](rest-apis/ready-to-use-services), a [developer console](developer-console) and also some tools like the [Web map editor](web-map-editor), the [Scene viewer](scene-viewer), a hosted version of Web AppBuilder and the configurable apps.
 
 You can create a developer account an choose the essentials plan for free to get started.
 

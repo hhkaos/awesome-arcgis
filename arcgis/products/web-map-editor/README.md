@@ -10,6 +10,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+##Introduction
+
+It also allow you to build apps using:
+* [Configurable apps](configurable-apps)
+* A hosted version on ArcGIS Online or Portal of [Web AppBuilder](../web-appbuilder/)
+
 ## ArcGIS Online
 [![Web Map Editor](images/web-map-editor.png)](https://www.arcgis.com/home/webmap/viewer.html)
 

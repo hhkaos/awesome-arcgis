@@ -1,42 +1,34 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
+improve this page.
 
 # ArcGIS REST API
-Many of
+[ArcGIS Platform](../../#about-arcgis) provides REST APIs for several products
+as you will learn in this page.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Product APIs](#product-apis)
-  - [ArcGIS Online](#arcgis-online)
-    - [Open Data](#open-data)
-  - [ArcGIS Server](#arcgis-server)
-  - [Portal for ArcGIS](#portal-for-arcgis)
+- [Introduction](#introduction)
+- [Products with REST APIs](#products-with-rest-apis)
 - [Community](#community)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Portal, server, arcgis online
+## Introduction
+Part of the [Esri's Open Vision](http://www.esri.com/software/open) means provide
+[open APIs and Specifications](http://www.esri.com/software/open/open-apis-and-specs)
+because we believe in your innovation and we realize that, most of all, you need
+technology that's reliable, that moves with you at a modern pace.
 
-## Product APIs
-* [ArcGIS Online]()
-* [ArcGIS Open Data]()
-* [ArcGIS Server]()
-* [Portal for ArcGIS]()
-
-### ArcGIS Server
-
-### Portal for ArcGIS
-
-
+## Products with REST APIs
+These are the products which relay on top of REST APIs:
+* [ArcGIS Online](../../products/arcgis-online/rest-apis)
+* [ArcGIS Open Data](../../products/arcgis-online/rest-apis#arcGIS-open-data)
+* [ArcGIS Server](../../products/arcgis-enterprise/arcgis-server/#rest-api)
+* [Portal for ArcGIS](../../products/arcgis-enterprise/portal-for-arcgis/#rest-api)
 
 ## Community
-https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api
-https://geonet.esri.com/groups/arcgis-python-api
-https://geonet.esri.com/community/gis/web-gis/arcgis-open-data
-
-[ArcGIS Open Data community](https://geonet.esri.com/groups/data-community)
-
-## News
-* [ArcGIS Open Data tag at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/arcgis-open-data-2/)
-* [@EsriDC at twitter](https://twitter.com/esridc?lang=en)
+If you need some help using the REST APIs you can go to
+[ArcGIS REST API place on GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api)
+or you can also look for help in [any other popular community](../../#arcgis-community).

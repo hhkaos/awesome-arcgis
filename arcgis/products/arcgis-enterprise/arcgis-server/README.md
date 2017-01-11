@@ -12,7 +12,7 @@
 
 
 https://geonet.esri.com/groups/server-object-extensions-server-object-interceptors
-
+http://odoe.net/blog/using-arcgis-rest-query-page/
 
 [arcgis-server-store](https://github.com/thollingshead/arcgis-server-store):
 A module that implements the dojo/store API for ArcGIS Server REST services.

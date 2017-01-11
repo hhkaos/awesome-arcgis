@@ -27,6 +27,8 @@ https://geonet.esri.com/groups/arcgis-python-api
 ## Training
 ### Videos / Technical talks
 ## Community
+https://geonet.esri.com/groups/arcgis-python-api
+
 ## Code
 
 #People you should know

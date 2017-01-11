@@ -5,18 +5,30 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+  - [Calcite web](#calcite-web)
+  - [Calcite maps](#calcite-maps)
 - [Code](#code)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-* [Calcite-maps: A modern framework for designing map apps with Bootstrap](https://github.com/Esri/calcite-maps)
+## Introduction
 
-* [calcite-bootstrap](https://github.com/Esri/calcite-bootstrap/issues)
-* [calcite-maps](https://github.com/Esri/calcite-maps/issues)
+### Calcite web
+[Calcite web](https://github.com/Esri/calcite-web): Authoritative front-end
+development resources for Calcite design initiative. Includes extendable base
+components and styles, as well as a modular and efficient framework for ArcGIS
+properties
 
-* [calcite-maps-styler-template](calcite-maps-styler-template): An ArcGIS configurable application for creating, styling and sharing modern-looking 2D and 3D map apps. Built with ArcGIS for Javascript API v4, Calcite Maps and Bootstrap.
-
+### Calcite maps
+*TODO*
 
 ## Code
-[Calcite Maps Sample](https://esri-es.github.io/arcgis-web-samples/jquery/#module)
-[Calcite Bootstrap Sample](https://esri-es.github.io/arcgis-web-samples/jquery/#calcite-bootstrap)
+* Snippets (samples)
+  * [Calcite Maps Sample](https://esri-es.github.io/arcgis-web-samples/jquery/#module)
+  * [Calcite Bootstrap Sample](https://esri-es.github.io/arcgis-web-samples/jquery/#calcite-bootstrap)
+* Github repos:
+  * [Calcite-maps: A modern framework for designing map apps with Bootstrap](https://github.com/Esri/calcite-maps)
+  * [calcite-bootstrap](https://github.com/Esri/calcite-bootstrap/issues)
+  * [calcite-maps](https://github.com/Esri/calcite-maps/)
+  * [calcite-maps-styler-template](https://github.com/Esri/calcite-maps-styler-template): An ArcGIS configurable application for creating, styling and sharing modern-looking 2D and 3D map apps. Built with ArcGIS for Javascript API v4, Calcite Maps and Bootstrap.

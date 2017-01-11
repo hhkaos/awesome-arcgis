@@ -5,38 +5,65 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Code](#code)
+- [Introduction to ArcGIS API](#introduction-to-arcgis-api)
+- [Getting started](#getting-started)
 - [Tools](#tools)
 - [Cost](#cost)
   - [To start developing](#to-start-developing)
   - [To deploy your app](#to-deploy-your-app)
 - [Web mapping history](#web-mapping-history)
+- [Awesome list of front-end resources](#awesome-list-of-front-end-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-* [2016 Video - Using Frameworks with the ArcGIS API for JavaScript](http://www.esri.com/videos/watch?videoid=5031&channelid=LegacyVideo&isLegacy=true&title=using-frameworks-with-the-arcgis-api-for-javascript)
-* [2015 Video - Picking a JS Framework ](http://www.esri.com/videos/watch?videoid=4279&channelid=LegacyVideo&isLegacy=true&title=choosing-the-best-javascript-framework-for-you)
-* [2014 Video - Working with Frameworks & ArcGIS API](http://www.esri.com/videos/watch?videoid=3334&channelid=LegacyVideo&isLegacy=true&title=working-with-javascript-app-frameworks-&-arcgis-api-for-javascript)
+## Introduction to ArcGIS API
+[ArcGIS Javascript API](dojo) is built in top of [Dojo Toolkit](https://dojotoolkit.org/) because it was the first technology allowing to load dependencies in an asynchronous way (using [AMD](https://en.wikipedia.org/wiki/Asynchronous_module_definition)) as many other modern libraries are doing today ([JSConfUS 2013: Dojo already did that](https://www.youtube.com/watch?v=BY0-AI1Sxy0)).
 
-## Code
-[Calcite web](https://github.com/Esri/calcite-web): Authoritative front-end
-development resources for Calcite design initiative. Includes extendable base
-components and styles, as well as a modular and efficient framework for ArcGIS
-properties
+Besides that, you can develop your web applications combining ArcGIS JS API with many other technologies.
 
-[A tiny library to help load ArcGIS API for JavaScript modules in non-Dojo applications](https://github.com/tomwayson/esri-loader)
+Learn how to combine the ArcGIS JS API with:
+* [AngularJS](angular)
+* [Backbone](backbone)
+* [Calcite](calcite)
+* [Cedar](cedar)
+* [Dojo](dojo)
+* [Ember](ember)
+* [jQuery](jquery)
+* [Knockout](knockout)
+* [Leaflet](leaflet)
+* [Open layers](open-layers)
+* [Phonegap](phonegap)
+* [Polymer](polymer)
+* [React](react)
+* [Sencha](sencha)
+* [VueJS](vuejs)
+
+## Getting started
+There are several talks that may help you understand which framework/library you should use:
+
+|Event|Title|Length|
+|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2016|[Using Frameworks with the ArcGIS API for JavaScript](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|1h 00min 06secs|
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Choosing the Best JavaScript Framework for You](http://www.esri.com/videos/watch?videoid=4494&channelid=LegacyVideo&isLegacy=true&title=choosing-the-best-javascript-framework-for-you)|54min 47secs|
+|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Working with Frameworks & ArcGIS API](http://www.esri.com/videos/watch?videoid=3334&channelid=LegacyVideo&isLegacy=true&title=working-with-javascript-app-frameworks-&-arcgis-api-for-javascript)|54min 23secs|
+
 
 ## Tools
-Webpack | [Using the ArcGIS API for JavaScript in Applications built with webpack
+* Webpack | [Using the ArcGIS API for JavaScript in Applications built with webpack
 ](http://tomwayson.com/2016/11/27/using-the-arcgis-api-for-javascript-in-applications-built-with-webpack/)
-[A bare bones example showing how to use the ArcGIS API for JavaScript in an application built with webpack and Babel to compile ES2015 modules.
-](https://github.com/tomwayson/esri-webpack-babel)
-[Example application using Rollup to bundle local ES2015 modules that use CDN hosted modules from the ArcGIS API for JavaScript](https://github.com/tomwayson/esri-rollup-example)
-SystemJS
-[SystemJS Module Loader](https://github.com/systemjs/systemjs) -> only for angular?
-typescript - [TypeScript in visual studio](http://odoe.net/blog/typescript-visual-studio-code/)
-Grunt
-BabelJS
+
+* [esri-webpack-babel](https://github.com/tomwayson/esri-webpack-babel): A bare bones example showing how to use the ArcGIS API for JavaScript in an application built with webpack and Babel to compile ES2015 modules.
+
+* [esri-rollup-example](https://github.com/tomwayson/esri-rollup-example): Example application using Rollup to bundle local ES2015 modules that use CDN hosted modules from the ArcGIS API for JavaScript
+
+* [SystemJS Module Loader](https://github.com/systemjs/systemjs) -> only for angular?
+
+* typescript - [TypeScript in visual studio](http://odoe.net/blog/typescript-visual-studio-code/)
+
+* Grunt
+
+* BabelJS
+
 * [Resources for the ArcGIS API for JavaScript](https://github.com/odoe/esrijs-resources)
 
 ## Cost
@@ -50,9 +77,10 @@ paid plan at the time of deploying you app. (view deployment plan details)
 If you already have ArcGIS Enterprise or you are building an app for a company
 which already have it ....
 
-
-https://github.com/sindresorhus/awesome#front-end-development
-
 ## Web mapping history
 [![Web Mapping History](https://docs.google.com/drawings/d/1scUDSXWfFT-4dQXpxveOJSdcQrU_pg0UjUmTeudHU6A/pub?w=1043&h=515)
 ](https://docs.google.com/drawings/d/1scUDSXWfFT-4dQXpxveOJSdcQrU_pg0UjUmTeudHU6A/edit?usp=sharing)
+
+## Awesome list of front-end resources
+
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome#front-end-development)

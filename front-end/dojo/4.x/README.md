@@ -20,3 +20,5 @@ USING TYPESCRIPT WITH ESRIJS 4
 http://odoe.net/blog/using-typescript-esrijs-4/
 I’M LEARNING TYPESCRIPT
 http://odoe.net/blog/im-learning-typescript/
+
+[@ArcGISJSAPI](https://twitter.com/ArcGISJSAPI)

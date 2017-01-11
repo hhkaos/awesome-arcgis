@@ -21,6 +21,8 @@ https://blogs.esri.com/esri/arcgis/category/subject-python/
 ArcREST
 Python API
 
+https://geonet.esri.com/groups/arcgis-python-api
+
 # Resources
 ## Training
 ### Videos / Technical talks

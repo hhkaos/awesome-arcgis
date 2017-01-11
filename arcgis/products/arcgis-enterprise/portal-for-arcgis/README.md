@@ -5,3 +5,5 @@
 <!-- END doctoc -->
 
 https://geonet.esri.com/groups/arcgis-python-api
+
+https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api

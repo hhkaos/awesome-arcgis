@@ -1,6 +1,8 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 #ArcGIS Pro
+[ArcGIS Pro](http://pro.arcgis.com/en/pro-app/) is a Desktop tool...
+
 <!-- START doctoc -->
 <!-- END doctoc -->
 
@@ -19,3 +21,5 @@ https://geonet.esri.com/groups/arcgis-pro-sdk
 
 https://geonet.esri.com/community/developers
 https://geonet.esri.com/community/developers/gis-developers/python
+
+[Using ArcGIS Pro to Create a Hexbin Grid and Reshape Polygon Data](http://ryanruthart.com/using-arcgis-pro-to-create-a-hexbin-grid-and-reshape-polygon-data/)

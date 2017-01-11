@@ -18,3 +18,7 @@ You can start using it without an account but you want be to able to save what y
 So I recommend you to [sign up for a free account](https://developers.arcgis.com/sign-up/) and the [login in the Web Map Editor](https://www.arcgis.com/home/webmap/viewer.html).
 
 ## Portal for ArcGIS
+
+http://odoe.net/blog/aggregate-data-arcgis-online/
+
+http://odoe.net/blog/time-based-smart-mapping-arcgis-online/

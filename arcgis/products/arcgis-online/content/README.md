@@ -6,6 +6,13 @@
 
 [ArcGIS geoinformation model](https://doc.arcgis.com/en/arcgis-online/reference/geo-info.htm)
 
+[ArcGIS supports multiple type of content](../,,/../content).
+
+Content produced by:
+* Esri
+* Partners
+* Community (search & open data)
+
 Ready to use services api:
 
 Demographics
@@ -19,6 +26,3 @@ services
 Geocoder - [Coverage](https://doc.arcgis.com/en/arcgis-online/reference/geocode-coverage.htm)
 Custom geocoder with candidates filtered by URL:
 http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry=ESP
-
-geometry engine
-princ service

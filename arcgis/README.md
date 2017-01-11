@@ -15,8 +15,12 @@
 
 # Resources
 ## Training
+* [Learn ArcGIS site](http://learn.arcgis.com)
+
 ### Videos / Technical talks
 ## Community
+* [Learn ArcGIS at Geonet](https://geonet.esri.com/groups/learn-arcgis): Hear about new content on the [Learn ArcGIS site](http://learn.arcgis.com), ask questions, tell us what you think, and get in touch with your peers.
+
 ## Code
 
 ##People you should know

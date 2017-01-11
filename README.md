@@ -46,7 +46,7 @@ Know more about the [developer plans](arcgis/developer-plan).
 
 ## About ArcGIS
 ArcGIS is a 360º software platform built by Esri and it already have more than
-100 software tools. Many of those tools are end-user software like desktop
+[100 software tools](http://www.esri.com/products#alpha-list). Many of those tools are end-user software like desktop
 applications or mobile Applications but there are also many tools for developers
 and devops as you will see in this awesome list of resources.
 

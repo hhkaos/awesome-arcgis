@@ -21,6 +21,7 @@ mechanism that allows users of an organization to create and configure
 - [Code](#code)
   - [Apps developed by Esri](#apps-developed-by-esri)
   - [Apps developed by the community](#apps-developed-by-the-community)
+- [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
 

@@ -32,17 +32,21 @@ https://github.com/Esri/ago-admin-wiki/wiki
 
 introducción a arcgis online para desarrolladores
 
-# Authentication
+## Authentication
 oAuth
 
-# Ready to use services
+## Ready to use services
 
 * geocoding
 * routing
 * geoenrichment
 
-# APIs
+## REST APIs
+
+### ArcGIS Online
 ArcGIS Online (search..)
+
+### ArcGIS Open Data
 
 
 [ArcGIS REST API](../../../open-specifications/arcgis-rest-api)

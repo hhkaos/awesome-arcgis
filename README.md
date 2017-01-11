@@ -54,6 +54,10 @@ and devops as you will see in this awesome list of resources.
 
 [Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/pdf/pledge-letters/Dangermond_Letter.pdf). Today it software ([ArcGIS](https://en.wikipedia.org/wiki/ArcGIS)) is been used by a [40% of the global market](http://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](http://www.esri.com/about-esri#who-we-are), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
 
+It [organize multiple events](http://www.esri.com/events) annually and the biggest one (the [User Conference](http://www.esri.com/events/user-conference) in San Diego) brings together more than 15000 users. There is also a developer focused event, the **Developer Summit**, it take place at [Palm Springs](http://www.esri.com/events/devsummit) (USA) and [Berlin](http://www.esri.com/events/devsummit-europe) (EU) every year.
+
+Check this diagram to know more about the GIS and Esri evolution:
+
 [![Esri Evolution](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/pub?w=1227&h=692)](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/edit?usp=sharing)
 
 If you want to know more about ArcGIS capabilities, features, ... we encourage you to can start checking some of these sites:

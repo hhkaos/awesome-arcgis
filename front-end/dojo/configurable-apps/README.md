@@ -186,3 +186,7 @@ and sharing insights related to this technology so we recommend you to follow th
 * Story Maps:
   * [Story Maps Category at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/story-maps/) - [RSS feed](https://blogs.esri.com/esri/arcgis/category/story-maps/feed/)
   * [@EsriStoryMaps at Twitter](https://twitter.com/EsriStoryMaps)
+
+## Recursos en español
+* [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
+* [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  

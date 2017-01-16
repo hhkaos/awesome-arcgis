@@ -28,14 +28,16 @@
 ## Done
 
 
-# TODO List (Esri Spain):
+## TODO List (Esri Spain):
 
-## Pending
+### Pending
 * [ ] Add videos Confe '16: [SESIONES TEMÁTICAS](https://www.youtube.com/playlist?list=PLoptan2utx15GTm4xlTbdGg7fFdZHeZwT)
 * [ ] Add videos Confe '16: [MESAS DE EXPERTOS](https://www.youtube.com/playlist?list=PLoptan2utx17ZUfvws6DNRH6D1f7kCfiK)
 * [ ] Add videos Confe '16: [SESIONES TÉCNICAS](https://www.youtube.com/playlist?list=PLoptan2utx16niLrOMprCThrbrnmnTjGI)
 * [ ] Add videos Confe '16: [PLENARIA](https://www.youtube.com/playlist?list=PLoptan2utx17PiimHANwZ8VNOEAGHiXfF)
+* [ ] Add "introducción a arcgis online para desarrolladores" y resto de charlas de desarrolladores.esri.es y geodevelopers
+y repos de esri españa
 
-## In progress
+### In progress
 
-## Done
+### Done

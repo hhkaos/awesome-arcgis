@@ -11,7 +11,12 @@
 
 https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-qt
 
-# Awesome lists for Qt
+## Download the SDK
+
+You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
+to [download de ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/downloads/).
+
+## Awesome lists for Qt
 You will find a lot of interesting resources to learn an improve your skills
 with Qt:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

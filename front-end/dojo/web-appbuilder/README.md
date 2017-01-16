@@ -53,6 +53,11 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 
+## Download
+
+You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
+to [download Web AppBuilder Developer Edition](https://developers.arcgis.com/downloads/).
+
 ## Community
 Web AppBuilder developers are mainly in GeoNet, you will find developers sharing
 code and helping other developers here:
@@ -65,6 +70,7 @@ code and helping other developers here:
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
   * Follow: [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo
   * Follow: [Components for the ArcGIS WebApp Builder](https://github.com/Esri/arcgis-webappbuilder-widgets-themes) repo
+  * Choose "ArcGIS Web AppBuilder" on [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
 * Tools:
   * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js) | [Generating Custom Widgets for Esri’s WebApp Builder with Yeoman](http://tomwayson.com/2014/06/30/generating-custom-widgets-for-esris-webapp-builder-with-yeoman/)
 
@@ -76,7 +82,6 @@ technology so we recommend you to follow them.
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
 |![Robert J Scheitlin](https://avatars1.githubusercontent.com/u/1216460?v=3&s=50)|Robert J Scheitlin|[robertscheitlin](https://www.linkedin.com/in/robertscheitlin)|[@rscheitlin](https://github.com/rscheitlin)|n/a|[rscheitlin](http://www.arcgis.com/home/search.html?q=owner:rscheitlin)|[@rscheitlin](https://geonet.esri.com/people/rscheitlin)
-|![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|Tom Wayson|[tomwayson](https://www.linkedin.com/in/tomwayson)|[@tomwayson](https://github.com/tomwayson)|[@tomwayson](https://twitter.com/tomwayson)|n/a|n/a|
 |![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?v=3&s=50)|Gavin Rehkemper|[gavinrehkemper](http://www.linkedin.com/in/gavinrehkemper)|[gavinr](https://github.com/gavinr)|[@gavinrehkemper](https://twitter.com/gavinrehkemper)|[gavinrehkemper](http://www.arcgis.com/home/search.html?q=owner:gavinrehkemper)|n/a|
 
 ## News

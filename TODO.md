@@ -17,7 +17,10 @@
 * [ ] Add [1000 GIS Applications & Uses – How GIS Is Changing the World](http://gisgeography.com/gis-applications-uses/)
 * [ ] The ArcGIS Book: https://learn.arcgis.com/en/arcgis-book/
 * [ ] Add ideas.esri.com somewhere
-* [ ] codesharing.arcgis.com
+* [ ] Add codesharing.arcgis.com
+* [ ] Add http://odoe.net/blog articles
+* [ ] Add MOOCs
+* [ ] Add free tools from marketplace (like admintools)
 
 ## In progress
 * [ ] Add lessons from [learn.arcgis.com](http://learn.arcgis.com/en/)

@@ -21,6 +21,7 @@ mechanism that allows users of an organization to create and configure
 - [Code](#code)
   - [Apps developed by Esri](#apps-developed-by-esri)
   - [Apps developed by the community](#apps-developed-by-the-community)
+- [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
 
@@ -171,6 +172,9 @@ The Social Media Template has an innovative use of social media, which allows yo
 ### Apps developed by the community
 
 * [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
+
+## Community
+[ArcGIS Online Templates at Geonet](https://geonet.esri.com/groups/arcgis-online-templates)
 
 ## People you should know
 They are not working on the support team but they are opening some projects

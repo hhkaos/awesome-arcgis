@@ -6,3 +6,5 @@
 
 https://github.com/Esri/arcgis-vectortile-style-editor
 A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps
+
+[Using non-basemap vector tiles](http://odoe.net/blog/using-non-basemap-vector-tiles/)

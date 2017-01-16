@@ -11,7 +11,7 @@
 
 https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android
 
-#People you should know
+##People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
 
@@ -19,7 +19,12 @@ Gary Sheppard
 https://github.com/garys-esri
 http://stackoverflow.com/users/720773/gary-s
 
-# Awesome lists for Android
+## Download the SDK
+
+You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
+to [download de ArcGIS Runtime SDK for Android](https://developers.arcgis.com/downloads/).
+
+## Awesome lists for Android
 You will find a lot of interesting resources to learn an improve your skills
 with Android:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

@@ -1,4 +1,5 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
+improve this page.
 
 # Awesome list for ArcGIS Developers
 Awesome resource list for ArcGIS Developers
@@ -102,7 +103,9 @@ Some interesting twitter accounts you may want to follow:
 [@EsriDevSummit](https://twitter.com/EsriDevSummit), [@EsriGeoDev](https://twitter.com/EsriGeoDev),  [@EsriTraining](https://twitter.com/EsriTraining),
 [@EsriStartups](https://twitter.com/EsriStartups),
 [@esrimooc](https://twitter.com/esrimooc),
-[@EsriUKGeoDev](https://twitter.com/EsriUKGeoDev) and some others [Esri Accounts](https://twitter.com/EsriGeoDev/lists/esri-accounts/members).
+[@EsriUKGeoDev](https://twitter.com/EsriUKGeoDev),
+[@arcpy](https://twitter.com/arcpy) 
+and some others [Esri Accounts](https://twitter.com/EsriGeoDev/lists/esri-accounts/members).
 
 ## Localized resources lists
 There are some extra resources in different languages, here you will find:

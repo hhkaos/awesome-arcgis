@@ -9,7 +9,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Awesome lists for .NET
+## Download the SDK
+
+You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
+to [download de ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/downloads/).
+
+## Awesome lists for .NET
 You will find a lot of interesting resources to learn an improve your skills
 with .NET:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

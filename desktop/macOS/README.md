@@ -13,3 +13,8 @@
 
 # Community
 [Find our community for MacOS developer working with ArcGIS at GeoNet](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-macos)
+
+## Download the SDK
+
+You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
+to [download de ArcGIS Runtime SDK for macOS](https://developers.arcgis.com/downloads/).

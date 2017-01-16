@@ -52,6 +52,11 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 
+## Download
+
+You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
+to [download Web AppBuilder Developer Edition](https://developers.arcgis.com/downloads/).
+
 ## Community
 Web AppBuilder developers are mainly in GeoNet, you will find developers sharing
 code and helping other developers here:

@@ -67,7 +67,7 @@ On **video.esri.com** there are [more than 234 videos related to ArcGIS Pro](htt
 ## Download the SDK
 
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
-to download de ArcGIS Pro SDK for .NET.
+to [download de ArcGIS Pro SDK for .NET](https://developers.arcgis.com/downloads/).
 
 ## Community
 * [ArcGIS Pro SDK Group on GeoNet](https://geonet.esri.com/groups/arcgis-pro-sdk)

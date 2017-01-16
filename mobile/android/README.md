@@ -5,6 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Download the SDK](#download-the-sdk)
 - [Awesome lists for Android](#awesome-lists-for-android)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

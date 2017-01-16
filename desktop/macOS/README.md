@@ -6,6 +6,7 @@
 **Table of contents**
 
 - [Community](#community)
+  - [Download the SDK](#download-the-sdk)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

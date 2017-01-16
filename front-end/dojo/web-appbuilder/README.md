@@ -13,6 +13,7 @@ improve this page.
 - [Introduction](#introduction)
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
+- [Download](#download)
 - [Community](#community)
 - [Code](#code)
 - [People you should know](#people-you-should-know)

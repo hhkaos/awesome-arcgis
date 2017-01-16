@@ -52,6 +52,8 @@ On **video.esri.com** there are [more than 234 videos related to ArcGIS Pro](htt
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Pro SDK for .NET: Integration with ArcGIS Online](http://www.esri.com/videos/watch?videoid=5036&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-integration-with-arcgis-online)|1h 04min 16secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Pro: Map Automation with Python](http://www.esri.com/videos/watch?videoid=4454&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro:-map-automation-with-python)|1h 01min 09secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Pro SDK for .NET: Introduction, Samples, and How to Contribute](http://www.esri.com/videos/watch?videoid=4289&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-introduction,-samples,-and-how-to-contribute)|47min 22secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Pro SDK for .NET: Advanced Programming, Tool Concepts, Map Visualizations, Editing](http://www.esri.com/videos/watch?videoid=4295&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-advanced-programming,-tool-concepts,-map-visualizations,-editing)| 1h 03min 19secs
+|[User Conference](http://www.esri.com/events/user-conference) 2015|[Introduction to Tasks in ArcGIS Pro](http://www.esri.com/videos/watch?videoid=4719&channelid=LegacyVideo&isLegacy=true&title=introduction-to-tasks-in-arcgis-pro)| 57min 11secs
 
 
 ## Code

@@ -66,16 +66,14 @@ On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many
 ## People you should know
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
-|---|---|---|---|---|---|---|
-|![John Gravois](https://avatars1.githubusercontent.com/u/3011734?v=3&s=50)|John Gravois|[johngravois](https://www.linkedin.com/in/johngravois)|[@jgravois](https://github.com/jgravois)|[@geogangster](https://twitter.com/geogangster)|[rscheitlin](http://www.arcgis.com/home/search.html?q=owner:jgravois)|[@JGravois-esristaff](https://geonet.esri.com/people/JGravois-esristaff)|[jgravois](http://stackoverflow.com/users/494139/jgravois)
-|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|Patrick Arlt|[patrickarlt](https://www.linkedin.com/in/patrickarlt)|[@patrickarlt](https://github.com/patrickarlt)|[@patrickarlt](https://twitter.com/patrickarlt)|n.a.|[@PArlt-esristaff](https://geonet.esri.com/people/PArlt-esristaff)|[patrick-arlt](http://stackoverflow.com/users/449686/patrick-arlt)
+|---|---|---|---|---|---|---|---|
+|![John Gravois](https://avatars1.githubusercontent.com/u/3011734?v=3&s=50)|John Gravois|[johngravois](https://www.linkedin.com/in/johngravois)|[@jgravois](https://github.com/jgravois)|[@geogangster](https://twitter.com/geogangster)|[rscheitlin](http://www.arcgis.com/home/search.html?q=owner:jgravois)|[@JGravois-esristaff](https://geonet.esri.com/people/JGravois-esristaff)|[jgravois](http://stackoverflow.com/users/494139/jgravois)|
+|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|Patrick Arlt|[patrickarlt](https://www.linkedin.com/in/patrickarlt)|[@patrickarlt](https://github.com/patrickarlt)|[@patrickarlt](https://twitter.com/patrickarlt)|n.a.|[@PArlt-esristaff](https://geonet.esri.com/people/PArlt-esristaff)|[patrick-arlt](http://stackoverflow.com/users/449686/patrick-arlt)|
 
 ## Awesome projects
 A list of awesome projects built with esri-leaflet:
 
 * [City of Raleigh - Sustainable Projects](http://maps.raleighnc.gov/sustainable/)
 
-## Awesome lists for leaflet
-You will find a lot of interesting resources to learn an improve your skills
-with leaflet:
+## Awesome lists
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

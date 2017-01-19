@@ -64,6 +64,9 @@ On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many
 
 
 ## People you should know
+They are not working on the support team but they are opening some projects
+and sharing insights related to this technology so we recommend you to follow them.
+
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|---|

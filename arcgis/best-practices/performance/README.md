@@ -30,3 +30,10 @@ application is web, desktop or mobile.
 
 [Drawing Millions of Features in ArcGIS: Advanced Techniques](https://www.esri.com/training/catalog/57630434851d31e02a43ef39/drawing-millions-of-features-in-arcgis:-advanced-techniques/) -
 [PDF](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_169.pdf)
+
+## Technology specifics
+
+* [Desktop](../../desktop/best-practices/performance)
+* mobile
+* web
+* ...

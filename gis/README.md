@@ -7,6 +7,8 @@ resources to get on board.
 
 
 
+## Coordinate System
+* [Coordinate system IDs](https://developers.arcgis.com/javascript/3/jshelp/ref_coordsystems.html)
 
 ## Spatial reference
 

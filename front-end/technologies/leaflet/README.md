@@ -20,7 +20,7 @@ you will be able to work with ArcGIS Services in Leaflet.
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [Awesome projects](#awesome-projects)
-- [Awesome lists for leaflet](#awesome-lists-for-leaflet)
+- [Awesome lists](#awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

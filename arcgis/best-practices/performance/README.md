@@ -6,6 +6,7 @@
 **Table of contents**
 
 - [Display large amount of data](#display-large-amount-of-data)
+- [Technology specifics](#technology-specifics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

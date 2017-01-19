@@ -53,7 +53,7 @@ and devops as you will see in this awesome list of resources.
 
 **About Esri**
 
-[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/pdf/pledge-letters/Dangermond_Letter.pdf). Today it software ([ArcGIS](https://en.wikipedia.org/wiki/ArcGIS)) is been used by a [40% of the global market](http://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](http://www.esri.com/about-esri#who-we-are), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
+[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/pdf/pledge-letters/Dangermond_Letter.pdf). Today it software ( [ArcGIS](https://en.wikipedia.org/wiki/ArcGIS) ) is been used by a [40% of the global market](https://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](http://www.esri.com/about-esri#who-we-are), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
 
 It [organize multiple events](http://www.esri.com/events) annually and the biggest one (the [User Conference](http://www.esri.com/events/user-conference) in San Diego) brings together more than 15000 users. There is also a developer focused event, the **Developer Summit**, it take place at [Palm Springs](http://www.esri.com/events/devsummit) (USA) and [Berlin](http://www.esri.com/events/devsummit-europe) (EU) every year.
 
@@ -82,7 +82,7 @@ Ways to contribute:
 
 ## ArcGIS community
 
-Most of ArcGIS traditional users are in [geonet.esri.com](http://geonet.esri.com/people), there you will find several groups: [by technologies](https://geonet.esri.com/community/developers), countries, ... where you will find more
+Most of ArcGIS traditional users are in [geonet.esri.com](https://geonet.esri.com/people), there you will find several groups: [by technologies](https://geonet.esri.com/community/developers), countries, ... where you will find more
 people and help.
 
 But you can also find developers with knowledge on ArcGIS on:
@@ -97,7 +97,7 @@ Some interesting twitter accounts you may want to follow:
 [@EsriStartups](https://twitter.com/EsriStartups),
 [@esrimooc](https://twitter.com/esrimooc),
 [@EsriUKGeoDev](https://twitter.com/EsriUKGeoDev),
-[@arcpy](https://twitter.com/arcpy) 
+[@arcpy](https://twitter.com/arcpy)
 and some others [Esri Accounts](https://twitter.com/EsriGeoDev/lists/esri-accounts/members).
 
 ## Localized resources lists

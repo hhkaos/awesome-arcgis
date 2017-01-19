@@ -19,56 +19,11 @@
 ## Introduction to ArcGIS API
 [ArcGIS Javascript API](dojo) is built in top of [Dojo Toolkit](https://dojotoolkit.org/) because it was the first technology allowing to load dependencies in an asynchronous way (using [AMD](https://en.wikipedia.org/wiki/Asynchronous_module_definition)) as many other modern libraries are doing today ([JSConfUS 2013: Dojo already did that](https://www.youtube.com/watch?v=BY0-AI1Sxy0)).
 
-Besides that, you can develop your web applications combining ArcGIS JS API with many other technologies.
-
-Learn how to combine the ArcGIS JS API with:
-* [AngularJS](technologies/angular)
-* [Backbone](technologies/backbone)
-* [Calcite](technologies/calcite)
-* [Cedar](technologies/cedar)
-* [Dojo](technologies/dojo)
-* [Ember](technologies/ember)
-* [jQuery](technologies/jquery)
-* [Knockout](technologies/knockout)
-* [Leaflet](technologies/leaflet)
-* [Open layers](technologies/open-layers)
-* [Phonegap](technologies/phonegap)
-* [Polymer](technologies/polymer)
-* [React](technologies/react)
-* [Sencha](technologies/sencha)
-* [VueJS](technologies/vuejs)
-
-## Getting started
-There are several talks that may help you understand which framework/library you should use:
-
-|Event|Title|Length|
-|---|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2016|[Using Frameworks with the ArcGIS API for JavaScript](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|1h 00min 06secs|
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Choosing the Best JavaScript Framework for You](http://www.esri.com/videos/watch?videoid=4494&channelid=LegacyVideo&isLegacy=true&title=choosing-the-best-javascript-framework-for-you)|54min 47secs|
-|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Working with Frameworks & ArcGIS API](http://www.esri.com/videos/watch?videoid=3334&channelid=LegacyVideo&isLegacy=true&title=working-with-javascript-app-frameworks-&-arcgis-api-for-javascript)|54min 23secs|
-
-
-## Tools
-* Webpack | [Using the ArcGIS API for JavaScript in Applications built with webpack
-](http://tomwayson.com/2016/11/27/using-the-arcgis-api-for-javascript-in-applications-built-with-webpack/)
-
-* [esri-webpack-babel](https://github.com/tomwayson/esri-webpack-babel): A bare bones example showing how to use the ArcGIS API for JavaScript in an application built with webpack and Babel to compile ES2015 modules.
-
-* [esri-rollup-example](https://github.com/tomwayson/esri-rollup-example): Example application using Rollup to bundle local ES2015 modules that use CDN hosted modules from the ArcGIS API for JavaScript
-
-* [SystemJS Module Loader](https://github.com/systemjs/systemjs) -> only for angular?
-
-* typescript - [TypeScript in visual studio](http://odoe.net/blog/typescript-visual-studio-code/)
-
-* Grunt
-
-* BabelJS
-
-* [Resources for the ArcGIS API for JavaScript](https://github.com/odoe/esrijs-resources)
+Besides that, you can develop your web applications [combining ArcGIS JS API with many other technologies](technologies).
 
 ## Cost
 ### To start developing
-There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using custom vector maps, store geolocated data, use webmaps, use the [smart-mapping](arcgis/smart-mapping) tools, use some ready to use services, etc we recommend you to sign up for an account.
+There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using custom vector maps, store geolocated data, use webmaps, use the [smart-mapping](../arcgis/smart-mapping) tools, use some ready to use services, etc we recommend you to sign up for an account.
 
 ### To deploy your app
 If you are going to use ArcGIS Online: basemaps, draw graphics, use web maps, ... you can deploy your app for free, but if you are going to store data, perform analysis, ¿use services which consume credits?, etc ... you will need a

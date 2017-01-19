@@ -21,6 +21,7 @@ Awesome resource list for ArcGIS Developers
 No matter which is your profile or your favourite technology, we have putted together many links to help you to find tools, code samples, training, ... in short, to help you get started with ArcGIS.
 
 Start visiting the page that best matches with your profile:
+
 * [Front-end developer](front-end/)
 * [Back-end developers](back-end/)
 * [Mobile developers](mobile/)
@@ -36,6 +37,7 @@ This diagram displays an overview of the technologies available for ArcGIS devel
 
 ## Getting started
 You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to be able to:
+
 * Download some tools: the SDKs for [mobile](mobile) or [desktop](desktop) developers, [Web AppBuilder Developer Edition](front-end/dojo/web-appbuilder), etc.
 * [Store data](arcgis/content) in [ArcGIS Online](arcgis/arcgis-online)
 * Use de ArcGIS Online [Web Map Editor](arcgis/products/web-map-editor)
@@ -62,6 +64,7 @@ Check this diagram to know more about the GIS and Esri evolution:
 [![Esri Evolution](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/pub?w=1227&h=692)](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/edit?usp=sharing)
 
 If you want to know more about ArcGIS capabilities, features, ... we encourage you to can start checking some of these sites:
+
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
 * [ArcGIS patterns](http://www.esri.com/software/arcgis/patterns): analysis and planification, operational awareness, field data collection, assets management y participación de la comunidad
@@ -75,6 +78,7 @@ A sample resources list that shows what we are trying to collect on each page is
 [Web AppBuilder resource page](front-end/dojo/web-appbuilder).
 
 Ways to contribute:
+
 * If you find a broken link feel free to [open an issue](issue) to request it.
 * If you find some missing information do the same thing
 * You can help us just adding resources directly editing from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)).
@@ -86,6 +90,7 @@ Most of ArcGIS traditional users are in [geonet.esri.com](https://geonet.esri.co
 people and help.
 
 But you can also find developers with knowledge on ArcGIS on:
+
 * [Stackoverflow.com](http://stackoverflow.com/tags/arcgis/topusers)
 * [Github.com](https://github.com/orgs/Esri/people)
 * [Meetup.com](https://www.meetup.com/topics/arcgis/global/)
@@ -102,4 +107,5 @@ and some others [Esri Accounts](https://twitter.com/EsriGeoDev/lists/esri-accoun
 
 ## Localized resources lists
 There are some extra resources in different languages, here you will find:
+
 * [Awesome list (Esri Spain fork)](https://github.com/esri-es/awesome-arcgis)

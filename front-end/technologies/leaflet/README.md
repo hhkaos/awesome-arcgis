@@ -61,7 +61,7 @@ On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many
 
 ## Community
 * [Esri Leaflet group at GeoNet](https://geonet.esri.com/groups/esri-leaflet)
-
+* [Questions at Stackoverflow](http://stackoverflow.com/search?q=%5Bleaflet%5D+and+%5Barcgis%5D+or+%5Besri-leaflet%5D+or+%5Bleaflet%5D+and+%5Besri%5D+)
 
 ## People you should know
 They are not working on the support team but they are opening some projects

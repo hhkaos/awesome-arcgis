@@ -22,21 +22,21 @@
 Besides that, you can develop your web applications combining ArcGIS JS API with many other technologies.
 
 Learn how to combine the ArcGIS JS API with:
-* [AngularJS](angular)
-* [Backbone](backbone)
-* [Calcite](calcite)
-* [Cedar](cedar)
-* [Dojo](dojo)
-* [Ember](ember)
-* [jQuery](jquery)
-* [Knockout](knockout)
-* [Leaflet](leaflet)
-* [Open layers](open-layers)
-* [Phonegap](phonegap)
-* [Polymer](polymer)
-* [React](react)
-* [Sencha](sencha)
-* [VueJS](vuejs)
+* [AngularJS](technologies/angular)
+* [Backbone](technologies/backbone)
+* [Calcite](technologies/calcite)
+* [Cedar](technologies/cedar)
+* [Dojo](technologies/dojo)
+* [Ember](technologies/ember)
+* [jQuery](technologies/jquery)
+* [Knockout](technologies/knockout)
+* [Leaflet](technologies/leaflet)
+* [Open layers](technologies/open-layers)
+* [Phonegap](technologies/phonegap)
+* [Polymer](technologies/polymer)
+* [React](technologies/react)
+* [Sencha](technologies/sencha)
+* [VueJS](technologies/vuejs)
 
 ## Getting started
 There are several talks that may help you understand which framework/library you should use:

@@ -1,0 +1,12 @@
+{
+  "plugins": ["-search", "search-plus", "collapsible-menu"],
+  "ignores": ["docs","_book"],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false,
+      "styles": {
+
+      }
+    }
+  }
+}

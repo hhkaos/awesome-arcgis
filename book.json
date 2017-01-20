@@ -1,5 +1,5 @@
 {
-  "plugins": ["-search", "search-plus", "collapsible-menu", "sitemap"],
+  "plugins": ["-search", "search-plus", "collapsible-menu", "sitemap", "ga"],
   "ignores": ["docs","_book","node_modules", "TODO"],
   "pluginsConfig": {
     "theme-default": {
@@ -9,8 +9,11 @@
       }
     },
     "sitemap": {
-       "hostname": "https://hhkaos.github.io/",
-       "folder": "awesome-arcgis"
+      "hostname": "https://hhkaos.github.io/",
+      "folder": "awesome-arcgis"
+    },
+    "ga": {
+      "token": "UA-49620025-8"
     }
   }
 }

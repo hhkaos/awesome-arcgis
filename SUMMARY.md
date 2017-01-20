@@ -66,6 +66,7 @@
 - [Front End](front-end/README.md)
   - [Best Practices](front-end/best-practices/README.md)
     - [Performance](front-end/best-practices/performance/README.md)
+    - [Tests](front-end/best-practices/tests/README.md)
   - [Technologies](front-end/technologies/README.md)
     - [Angular](front-end/technologies/angular/README.md)
     - [Backbone](front-end/technologies/backbone/README.md)

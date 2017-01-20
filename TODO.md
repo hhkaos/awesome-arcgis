@@ -14,7 +14,7 @@
 * [ ] The ArcGIS Book: https://learn.arcgis.com/en/arcgis-book/
 * [ ] Add ideas.esri.com somewhere
 * [ ] Add codesharing.arcgis.com
-* [ ] Add http://odoe.net/blog articles
+* [ ] Add http://www.odoe.net/blog/ articles
 * [ ] Add MOOCs
 * [ ] Add free tools from marketplace (like admintools)
 

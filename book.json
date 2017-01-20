@@ -1,6 +1,6 @@
 {
   "plugins": ["-search", "search-plus", "collapsible-menu"],
-  "ignores": ["docs","_book","node_modules","TODO"],
+  "ignores": ["docs","_book","node_modules","TODO", "deploy.js", "package.json"],
   "pluginsConfig": {
     "theme-default": {
       "showLevel": false,

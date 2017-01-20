@@ -19,9 +19,12 @@ If you are developing and application which need to deal with any of these thing
 
 You are in the right page. Here you will find some generic concepts you should
 know and then you can check the specific pages for:
-* [Runtime SDKs performance](runtime-sdks)
-* [Web performance](server-side)
-* [Server side performance](web)
+* [Best practices for back-ends](../../../back-end/best-practices/)
+* [Best practices for front-ends](../../../front-end/best-practices/)
+* [Best practices for mobile developers](../../../mobile/best-practices/)
+* [Best practices for devops](../../../devops/best-practices/)
+* [Best practices for desktop developers](../../../desktop/best-practices/)
+* [Best practices for VR developers](../../../vr/best-practices/)
 
 ## Display large amount of data
 Learn how [Dynamic Map Service](../../content/service-types/dynamic-map-service)

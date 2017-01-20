@@ -26,7 +26,7 @@ Start visiting the page that best matches with your profile:
 * [Mobile developers](mobile/)
 * [Desktop developers](desktop/)
 * [DevOps](devops/)
-* [Virtual reality developers](vr-developers/)
+* [Virtual reality developers](vr/)
 
 In order help you better understand the technology we have also collected some links to introduce you to [the content](arcgis/content) you have available in the platform and [which are the benefits of developing using ArcGIS](arcgis).
 

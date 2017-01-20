@@ -19,13 +19,13 @@
 [ArcGIS Javascript API](dojo) is built in top of [Dojo Toolkit](https://dojotoolkit.org/) because it was the first technology allowing to load dependencies in an asynchronous way (using [AMD](https://en.wikipedia.org/wiki/Asynchronous_module_definition)) as many other modern libraries are doing today ([JSConfUS 2013: Dojo already did that](https://www.youtube.com/watch?v=BY0-AI1Sxy0)).
 
 ## Getting started
-[Learn how to combine ArcGIS JS API with almost any other framework/library](technologies).
+[Learn how to combine ArcGIS JS API with almost any other framework/library](technologies/).
 
-We also encourage you to read the [best practices section](best-practices).
+We also encourage you to read the [best practices section](best-practices/).
 
 ## Pricing
 ### Start developing
-There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using [custom vector maps](../arcgis/vector-tiles), [store geolocated data](../arcgis/content/service-types), use [webmaps](../arcgis/open-specifications/web-map), use the [smart-mapping](../arcgis/smart-mapping) tools, use some [ready to use services](../arcgis/products/arcgis-online/rest-apis/ready-to-use-services), etc we recommend you to [**sign up for a free account**](https://developers.arcgis.com/sign-up/).
+There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using [custom vector maps](../arcgis/vector-tiles/), [store geolocated data](../arcgis/content/service-types/), use [webmaps](../arcgis/open-specifications/web-map/), use the [smart-mapping](../arcgis/smart-mapping/) tools, use some [ready to use services](../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/), etc we recommend you to [**sign up for a free account**](https://developers.arcgis.com/sign-up/).
 
 ### Deploy your app
 If you are going to use [ArcGIS Online](../arcgis/products/arcgis-online/) (basemaps, draw graphics, use web maps, ...) you can deploy your app for free, but if you are going to store data, perform analysis, use services which consume credits?, etc ... you will need a

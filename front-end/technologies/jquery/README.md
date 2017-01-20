@@ -1,8 +1,12 @@
+# jQuery developers
+You can combine ArcGIS API for JavaScript with Backbone in your developments,
+we will show you how in this page.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [jQuery developers](#jquery-developers)
+  - [Introduction](#introduction)
   - [Code](#code)
   - [Videos / Technical talks](#videos--technical-talks)
   - [Community](#community)
@@ -12,9 +16,7 @@
 
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# jQuery developers
-You can combine ArcGIS API for JavaScript with Backbone in your developments,
-we will show you how in this page.
+## Introduction
 
 If you are used to work with jQuery you can load the jQuery library and use it
 instead of using Dojo to manage the DOM, Ajax, events, etc.

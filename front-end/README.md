@@ -6,8 +6,6 @@
 **Table of contents**
 
 - [Introduction to ArcGIS API](#introduction-to-arcgis-api)
-- [Getting started](#getting-started)
-- [Tools](#tools)
 - [Cost](#cost)
   - [To start developing](#to-start-developing)
   - [To deploy your app](#to-deploy-your-app)

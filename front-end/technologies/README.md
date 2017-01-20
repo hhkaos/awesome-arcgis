@@ -1,4 +1,14 @@
+> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
+improve this page.
+
 # Front-end technologies
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Choosing the best framework](#choosing-the-best-framework)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Learn how to combine the ArcGIS JS API with:
 * [AngularJS](angular)

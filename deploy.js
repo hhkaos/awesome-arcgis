@@ -35,7 +35,7 @@ var walk = function(dir, done) {
 
 var links = false,
     rm_docs = true,
-    update_summary = false,
+    update_summary = true,
     build = true;
 
 process.argv.forEach(function (val, index, array) {
@@ -82,6 +82,11 @@ if(links){
   });
 }
 
+var cmd = "doctoc --title '**Table of contents**' .";
+exec(cmd, function(error, stdout, stderr) {
+  console.log(stdout);
+});
+
 if(rm_docs){
   var cmd = 'rm -rf docs && rm ab-results*';
   exec(cmd, function(error, stdout, stderr) {
@@ -98,6 +103,7 @@ if(update_summary){
 
 if(build){
   var cmd = 'gitbook build';
+
   exec(cmd, function(error, stdout, stderr) {
     console.log(stdout);
 

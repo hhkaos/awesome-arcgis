@@ -799,7 +799,9 @@
     var search = location.pathname.split("/").pop();
     search = search.split("-").join(" ");
     $("#book-search-input input").val(search);
-    $("#book-search-input input").keyup();
+    setTimeout(function(){
+      $("#book-search-input input").keyup();
+    },1000);
   });
 
   </script>

@@ -82,7 +82,7 @@ if(links){
   });
 }
 
-var cmd = "doctoc --title '**Table of contents**' .";
+var cmd = "rm SUMMARY.md && doctoc --title '**Table of contents**' .";
 exec(cmd, function(error, stdout, stderr) {
   console.log(stdout);
 });

@@ -11,7 +11,7 @@ improve this page.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Learn how to combine the ArcGIS JS API with:
-* [AngularJS](angular)
+* [AngularJS](./angular)
 * [Backbone](backbone)
 * [Calcite](calcite)
 * [Cedar](cedar)

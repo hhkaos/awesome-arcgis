@@ -8,7 +8,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
- 
+
 - [Training](#training)
   - [Documentation](#documentation)
   - [Videos](#videos)
@@ -18,7 +18,7 @@
 - [People you should know](#people-you-should-know)
 - [Awesome projects](#awesome-projects)
 - [Awesome lists](#awesome-lists)
- 
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---

@@ -267,12 +267,7 @@
             <div id="book-search-results">
               <div class="search-noresults">
 
-                <script>
-                  var search = location.pathname.split("/").pop();
-                  search = search.split("-").join(" ");
-                  $("#book-search-input input").val(search);
-                  $("#book-search-input input").keyup();
-                </script>
+
 
 
               </div>
@@ -346,7 +341,15 @@
 
   <script src="/awesome-arcgis/gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
 
+  <script>
+    $(document).ready(function(){
+      var search = location.pathname.split("/").pop();
+      search = search.split("-").join(" ");
+      $("#book-search-input input").val(search);
+      $("#book-search-input input").keyup();
+    });
 
+  </script>
 
 </body>
 </html>

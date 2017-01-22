@@ -17,13 +17,13 @@ improve this page.
 [ArcGIS Javascript API](dojo) is built in top of [Dojo Toolkit](https://dojotoolkit.org/) because it was the first technology allowing to load dependencies in an asynchronous way (using [AMD](https://en.wikipedia.org/wiki/Asynchronous_module_definition)) as many other modern libraries are doing today ([JSConfUS 2013: Dojo already did that](https://www.youtube.com/watch?v=BY0-AI1Sxy0)).
 
 ## Getting started
-[Learn how to combine ArcGIS JS API with almost any other framework/library](technologies/).
+If you are one of those who do not like reading and prefer to learn by looking at code, visit: [esri-es.github.io/arcgis-web-samples](https://esri-es.github.io/arcgis-web-samples/).
 
-We also encourage you to read the [best practices section](best-practices/).
+If you are still reading ... go to "[Technologies](technologies/)" to learn how to combine ArcGIS JS API with almost any other framework/library. Do not forget to read the [best practices](best-practices/) in order to get the most of ArcGIS.
 
-There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using [custom vector maps](../arcgis/vector-tiles/README.md), [store geolocated data](../arcgis/content/service-types/README.md), use [webmaps](../arcgis/open-specifications/web-map/README.md), use the [smart-mapping](../arcgis/smart-mapping/README.md) tools, use some [ready to use services](../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md), etc we recommend you to [**sign up for a free account**](https://developers.arcgis.com/sign-up/).
+**About pricing**: There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using [custom vector maps](../arcgis/vector-tiles/README.md), [store geolocated data](../arcgis/content/service-types/README.md), use [webmaps](../arcgis/open-specifications/web-map/README.md), use the [smart-mapping](../arcgis/smart-mapping/README.md) tools, use some [ready to use services](../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md), etc we recommend you to [**sign up for a free account**](https://developers.arcgis.com/sign-up/).
 
-Learn more at: [ArcGIS > Developer Plan > Background > Web](../arcgis/developer-plan/background/web/README.md).
+Learn more about pricing at: [ArcGIS > Developer Plan > Background > Web](../arcgis/developer-plan/background/web/README.md).
 
 
 ## Web mapping history

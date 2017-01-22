@@ -5,9 +5,11 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-    - [Videos / Technical talks](#videos--technical-talks)
-  - [Code](#code)
+- [Training](#training)
+  - [Videos](#videos)
+- [Code](#code)
 - [Community](#community)
+- [People you should know](#people-you-should-know)
 - [Awesome lists for Angular](#awesome-lists-for-angular)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -15,7 +17,8 @@
 You can combine ArcGIS API for JavaScript with AngularJS in your developments,
 we will show you how in this page.
 
-### Videos / Technical talks
+## Training
+### Videos
 * [2015 Video: Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)
 
 
@@ -36,10 +39,10 @@ Angular 2:
 * [Example app using the ArcGIS API for JavaScript v3 in an Angular2 app](https://github.com/tomwayson/angular2-esri-example)
 * [This is an example mapping application using ArcGIS API for JavaScript v4 ](https://github.com/kgs916/ng2cli-esri4)
 
-# Community
+## Community
 [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
 
-#People you should know
+## People you should know
 They are not working on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
@@ -52,7 +55,7 @@ technology so we recommend you to follow them.
  [@jwasilgeo](https://github.com/jwasilgeo) & [@dbouwman](https://github.com/dbouwman)
 
 
-# Awesome lists for Angular
+## Awesome lists for Angular
 You will find a lot of interesting resources to learn an improve your skills
 with Angular:
 * [Angular: A list of awesome AngularJs services, directives, utilities and resources.](https://github.com/gianarb/awesome-angularjs)

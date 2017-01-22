@@ -1,4 +1,5 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
+improve this page.
 
 # Front-end developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -23,21 +24,17 @@
 
 We also encourage you to read the [best practices section](best-practices/).
 
-## Pricing
-### Start developing
 There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using [custom vector maps](../arcgis/vector-tiles/README.md), [store geolocated data](../arcgis/content/service-types/README.md), use [webmaps](../arcgis/open-specifications/web-map/README.md), use the [smart-mapping](../arcgis/smart-mapping/README.md) tools, use some [ready to use services](../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md), etc we recommend you to [**sign up for a free account**](https://developers.arcgis.com/sign-up/).
 
-### Deploy your app
-If you are going to use [ArcGIS Online](../arcgis/products/arcgis-online/README.md) (basemaps, draw graphics, use web maps, ...) you can deploy your app for free, but if you are going to store data, perform analysis, use services which consume credits?, etc ... you will need a
-paid plan at the time of deploying you app. (view deployment plan details)
+Learn more at: [ArcGIS > Developer Plan > Background > Web](../arcgis/developer-plan/background/web/README.md).
 
-If you already have ArcGIS Enterprise or you are building an app for a company
-which already have it ....
 
 ## Web mapping history
+Did you know how web mapping evolved during the last twenty years? And when each company or technology was launched?, this this diagram:
+
 [![Web Mapping History](https://docs.google.com/drawings/d/1scUDSXWfFT-4dQXpxveOJSdcQrU_pg0UjUmTeudHU6A/pub?w=1043&h=515)
 ](https://docs.google.com/drawings/d/1scUDSXWfFT-4dQXpxveOJSdcQrU_pg0UjUmTeudHU6A/edit?usp=sharing)
 
-## Awesome list of front-end resources
+## More resources
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome#front-end-development)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome#front-end-development): Awesome list of front-end resources

@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-  - [Code](#code)
+- [Code](#code)
 - [Amazon Web Services (AWS) AMIs](#amazon-web-services-aws-amis)
 - [Articles](#articles)
 
@@ -34,11 +34,11 @@ koop
 Python tools, nodejs,
 
 
-# Amazon Web Services (AWS) AMIs
+## Amazon Web Services (AWS) AMIs
 ArcGIS Server en AWS:
 http://server.arcgis.com/en/server/latest/cloud/amazon/what-is-arcgis-server-on-aws.htm
 
-You can find more resources about how to [extend ArcGIS Server here](../arcgis/extendable-products/README.md)
+You can find more resources about how to [extend ArcGIS Server here](../arcgis/products/arcgis-enterprise/arcgis-server/README.md)
 
-# Articles
+## Articles
 [Vehicle Trip Discovery with GIS Tools for Hadoop](https://blogs.esri.com/esri/arcgis/2013/08/09/vehicle-trip-discovery-with-gis-tools-for-hadoop/)

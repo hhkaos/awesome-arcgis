@@ -14,14 +14,16 @@
 Depending You have several tools to build
 
 ## Build from scratch
-Use any of our Runtime SDKs:
+You can use any of the following Runtime SDKs to build custom desktop apps:
 
-|Name|Language|Platform
-|---|---|---|
-|.NET|C#|Windows|
-|Java|Java|Windows, Linux & Mac|
-|Qt|C++ & QML|Windows, Linux & Mac|
-|OS X|Swift & Objective-C|Windows|
+|Name|Language|Desktop OS|Mobile OS
+|---|---|---|---|
+|[.NET](technologies/dot-net/README.md)|C#|Windows|Android, iOS & Windows Phone
+|[Java](technologies/java/README.md)|Java|Windows, Linux & Mac|None
+|[Qt](technologies/qt/README.md)|C++ & QML|Windows, Linux & Mac|Android, iOS & Windows Phone
+|[macOS](technologies/macOS/README.md)|Swift & Objective-C|Mac|None
+
+As you noticed, some of those Runtimes can also be used to build mobile apps.
 
 ## Configure and build
 [Check this out](../arcgis/app-builders/README.md)

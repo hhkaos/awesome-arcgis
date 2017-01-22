@@ -26,8 +26,8 @@ http://odoe.net/blog/using-arcgis-rest-query-page/
 ## ArcGIS Open Data
 ArcGIS Open Data is an
 
-[ArcGIS REST API](../../../open-specifications/arcgis-rest-api)
-[Open Data REST API](../../../open-specifications/arcgis-rest-api#Open-Data-API)
+[ArcGIS REST API](../../../open-specifications/arcgis-rest-api/README.md)
+[Open Data REST API](../../../open-specifications/arcgis-rest-api/README.md#Open-Data-API)
 
 [ArcGIS Open Data community](https://geonet.esri.com/groups/data-community)
 

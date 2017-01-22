@@ -15,7 +15,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-In addition to the [performance best practices on the ArcGIS Platform](../../../arcgis/best-practices/performance)
+In addition to the [performance best practices on the ArcGIS Platform](../../../arcgis/best-practices/performance/README.md)
 we want to show you two ways to improve your performance when talking about web
 applications: [Load time](#load-time) or [Drawing features](drawing-features).
 

@@ -6,7 +6,7 @@
 
 [ArcGIS geoinformation model](https://doc.arcgis.com/en/arcgis-online/reference/geo-info.htm)
 
-[ArcGIS supports multiple type of content](../,,/../content).
+[ArcGIS supports multiple type of content](../,,/../content/README.md).
 
 Content produced by:
 * Esri

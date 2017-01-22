@@ -2,7 +2,7 @@
 improve this page.
 
 # ArcGIS REST API
-[ArcGIS Platform](../../#about-arcgis) provides REST APIs for several products
+[ArcGIS Platform](../../README.md#about-arcgis) provides REST APIs for several products
 as you will learn in this page.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -23,12 +23,12 @@ technology that's reliable, that moves with you at a modern pace.
 
 ## Products with REST APIs
 These are the products which relay on top of REST APIs:
-* [ArcGIS Online](../../products/arcgis-online/rest-apis)
-* [ArcGIS Open Data](../../products/arcgis-online/rest-apis#arcGIS-open-data)
-* [ArcGIS Server](../../products/arcgis-enterprise/arcgis-server/#rest-api)
-* [Portal for ArcGIS](../../products/arcgis-enterprise/portal-for-arcgis/#rest-api)
+* [ArcGIS Online](../../products/arcgis-online/rest-apis/README.md)
+* [ArcGIS Open Data](../../products/arcgis-online/rest-apis/README.md#arcGIS-open-data)
+* [ArcGIS Server](../../products/arcgis-enterprise/arcgis-server/README.md#rest-api)
+* [Portal for ArcGIS](../../products/arcgis-enterprise/portal-for-arcgis/README.md#rest-api)
 
 ## Community
 If you need some help using the REST APIs you can go to
 [ArcGIS REST API place on GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api)
-or you can also look for help in [any other popular community](../../#arcgis-community).
+or you can also look for help in [any other popular community](../../README.md#arcgis-community).

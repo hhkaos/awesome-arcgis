@@ -14,7 +14,7 @@ to [ArcGIS 360 VR](https://marketplace.arcgis.com/listing.html?id=58094e8cf92644
 
 
 To build you own applications using ArcGIS scenarios you first need to build the
-scenario using [City Engine](../arcgis/products/city-engine) and then you can export that scenario to be able to
+scenario using [City Engine](../arcgis/products/city-engine/README.md) and then you can export that scenario to be able to
 consume it from Unity.
 
 

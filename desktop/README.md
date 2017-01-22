@@ -24,7 +24,7 @@ Use any of our Runtime SDKs:
 |OS X|Swift & Objective-C|Windows|
 
 ## Configure and build
-[Check this out](../arcgis/app-builders)
+[Check this out](../arcgis/app-builders/README.md)
 
 ## Extent the Platform
 You can write your own addins in order to be able to extend our desktop tools:
@@ -34,5 +34,4 @@ You can write your own addins in order to be able to extend our desktop tools:
 
 Geoprocessing tools using python
 
-If you are a desktop developer you may also want to consider to [extend our
-desktop tools](../arcgis/extendable-products/desktop)
+If you are a desktop developer you may also want to consider to [extend our desktop tools](../arcgis/extendable-products/desktop/README.md)

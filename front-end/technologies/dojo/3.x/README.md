@@ -6,7 +6,7 @@
 
 [Using Bootstrap Map? You Might Not Need jQuery…](http://tomwayson.com/2014/04/30/using-bootstrap-map-you-might-not-need-jquery/)
 
-* [Combine ArcGIS JS with other JS Frameworks](../)
+* [Combine ArcGIS JS with other JS Frameworks](../README.md)
 
 * [quickstart-map-js](https://github.com/Esri/quickstart-map-js): ArcGIS JavaScript mapping samples to get you started fast
 * [wind-js](https://github.com/Esri/wind-js): An demo animation of wind on a Canvas layer in the JSAPI
@@ -38,4 +38,4 @@ http://stackoverflow.com/users/720773/gary-s
 
 [@ArcGISJSAPI](https://twitter.com/ArcGISJSAPI)
 
-You can design nice apps using Dojo & [calcite](../calcite)
+You can design nice apps using Dojo & [calcite](../calcite/README.md)

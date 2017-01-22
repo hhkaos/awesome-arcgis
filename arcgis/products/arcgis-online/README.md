@@ -40,8 +40,8 @@ There are many useful resources, here you have a subset of them:
 |[What are the items in ArcGIS Online?](http://odoe.net/blog/updated-arcgis-online-item-details-page/)|Beginner|Video|n.a.
 |[ArcGIS Online available content](content)|Beginner|Wiki|Awesome list section
 |[ArcGIS Geodev Hackerlabs](https://github.com/Esri/geodev-hackerlabs)|Beginner|Tutorial|A place to learn how to build geo apps with the ArcGIS.|
-|[Web map Editor](../web-map-editor)|Beginner|Wiki|Awesome list section|
-|[Scene viewer](../scene-viewer)|Beginner|Wiki|Awesome list section|
+|[Web map Editor](../web-map-editor/README.md)|Beginner|Wiki|Awesome list section|
+|[Scene viewer](../scene-viewer/README.md)|Beginner|Wiki|Awesome list section|
 |[ArcGIS Online Administrators Wiki](https://github.com/Esri/ago-admin-wiki/wiki)|Beginner|Wiki|n.a.|
 |[Authentication](https://developers.arcgis.com/authentication/)|Intermediate|API Reference|n.a.|
 |[REST APIs](rest-apis)|Intermediate|Wiki|Awesome list section
@@ -59,7 +59,7 @@ many actions like when you enter o exit an area, or add your location to a sprea
 and add it to a spreadsheet in drive when pressing a button, etc
 * [AGO Assistant](https://github.com/Esri/ago-assistant): A swiss army knife for your ArcGIS Online and Portal for ArcGIS accounts
 * [Admin Tools for ArcGIS Online](https://marketplace.arcgis.com/listing.html?id=c34019b0623041608df4d06970a7a96a) (by GEO Jobe).
-* [Python API](../../back-end/python)
+* [Python API](../../back-end/technologies/python/README.md)
 
 ## Get an account
 

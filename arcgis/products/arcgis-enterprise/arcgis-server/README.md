@@ -20,7 +20,7 @@ A module that implements the dojo/store API for ArcGIS Server REST services.
 [Extending ArcGIS for server](http://www.esri.com/videos/watch?videoid=5068&channelid=LegacyVideo&isLegacy=true&title=extending-arcgis-for-server)
 
 ## REST API
-[ArcGIS REST API](../../../open-specifications/arcgis-rest-api)
+[ArcGIS REST API](../../../open-specifications/arcgis-rest-api/README.md)
 
 
 https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api

@@ -24,12 +24,12 @@ you will find many of those.
 
 ## Developer technologies
 ### Native apps
-If you are a [mobile developer](../../mobile) or a [desktop developer](../../mobile)
+If you are a [mobile developer](../../mobile/README.md) or a [desktop developer](../../desktop/README.md)
 you have all our native Runtimes and SDKs and some builders to build you own
 custom apps.
 
 In case you are not a developer or you want to build an app quickly you also
-have [AppStudio Standard](../products/appstudio) and [Survey123](../products/survey123)
+have [AppStudio Standard](../products/appstudio/README.md) and [Survey123](../products/survey123/README.md)
 that will help you build offline apps.
 
 And in case you don't need to but to build a custom or branded app you may also
@@ -37,9 +37,9 @@ consider to use [Collector for ArcGIS](http://www.esri.com/products/collector-fo
 
 ### Web apps
 But if you are a web developer and you don't need a powerful GIS SDK to build
-app you can also build it using [phonegap](../../front-end/phonegap).
+app you can also build it using [phonegap](../../front-end/technologies/phonegap/README.md).
 
-We also encourage you to take a look to the [offline-editor-js project](../../front-end/dojo/offline-editor-js) which is an ArcGIS JavaScript
+We also encourage you to take a look to the [offline-editor-js project](../../front-end/technologies/dojo/offline-editor-js/README.md) which is an ArcGIS JavaScript
 library for handling offline editing and tiling.
 
 If you are looking for a responsive app to collect points oflline you could take

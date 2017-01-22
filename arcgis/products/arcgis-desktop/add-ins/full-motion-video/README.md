@@ -48,4 +48,4 @@ You can add a file or an stream source if you plain to work with real time video
 
 ## Related technologies
 
-* [Drone2Map](../../../drone2map)
+* [Drone2Map](../../../drone2map/README.md)

@@ -43,8 +43,8 @@ Check the configurable apps Esri has been releasing during the last years:
 [![Esri configurable apps evolution](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=1770&h=1318)](https://docs.google.com/drawings/d/13qEcQp7Mh2wQwJmV2EMhj3__qwf7CI26MnEbGHnejSU/pub?w=3539&h=2635)
 
 You can see a [full list of configurable apps](http://www.arcgis.com/home/search.html?q=tags%3AArcGIS%20web%20application%20template%20owner%3Aesri_en&t=content&sortField=modified&sortOrder=desc) on
-[ArcGIS Online](../../../arcgis/products/arcgis-online) and
-[Portal for ArcGIS](../../../arcgis/products/arcgis-enterprise/portal-for-arcgis)
+[ArcGIS Online](../../../arcgis/products/arcgis-online/README.md) and
+[Portal for ArcGIS](../../../arcgis/products/arcgis-enterprise/portal-for-arcgis/README.md)
 
 ## Story maps
 Those applications which are design to tell a story are called
@@ -73,7 +73,7 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 |n.a. 2011|[Ready to Use Configurable Web Apps](http://www.esri.com/videos/watch?videoid=222&channelid=LegacyVideo&isLegacy=true&title=ready-to-use-configurable-web-apps)|8min 42secs
 
 ### Documentation
-* How to use ArcGIS [Web Map editor](../../../arcgis/products/web-map-editor) to
+* How to use ArcGIS [Web Map editor](../../../arcgis/products/web-map-editor/README.md) to
 [build web applications using web maps webmaps](https://doc.arcgis.com/en/arcgis-online/create-maps/create-map-apps.htm)
 * [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
 * [How to add a template to ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm#ESRI_SECTION1_0D1B620254F745AE84F394289F8AF44B)

@@ -4,9 +4,6 @@ improve this page.
 # Front-end technologies
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of contents**
-
-- [Choosing the best framework](#choosing-the-best-framework)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -27,8 +24,7 @@ Learn how to combine the ArcGIS JS API with:
 * [Sencha](sencha/README.md)
 * [VueJS](vuejs/README.md)
 
-## Choosing the best framework
-There are several talks that may help you understand which framework/library you should use:
+**Choosing the best framework**: There are several talks that may help you understand which framework/library you should use:
 
 |Event|Title|Length|
 |---|---|---|

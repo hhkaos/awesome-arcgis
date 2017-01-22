@@ -8,11 +8,8 @@ improve this page.
 
 - [Introduction to ArcGIS API](#introduction-to-arcgis-api)
 - [Getting started](#getting-started)
-- [Pricing](#pricing)
-  - [Start developing](#start-developing)
-  - [Deploy your app](#deploy-your-app)
 - [Web mapping history](#web-mapping-history)
-- [Awesome list of front-end resources](#awesome-list-of-front-end-resources)
+- [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -177,12 +177,17 @@ require([
 
     // 高亮文本
     var highLightPageInner = function(keyword) {
-        var reg = new RegExp('(>[^<]*)(' + escapeReg(keyword) + ')', 'igm');
-        $('.page-inner').html($('.page-inner').html().replace(reg, '$1<span class="search-highlight search-highlight-keyword">$2</span>'));
+        $('.page-inner').mark(keyword, {
+            'ignoreJoiners': true,
+            'acrossElements': true,
+            'separateWordSearch': false
+        });
 
         setTimeout(function() {
-            // 定位到第一个高亮词
-            $('.search-highlight')[0].scrollIntoView();
+            var mark = $('mark[data-markjs="true"]');
+            if (mark.length) {
+                mark[0].scrollIntoView();
+            }
         }, 100);
     };
 

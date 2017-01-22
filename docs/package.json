@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "gitbook-plugin-collapsible-menu": "^1.0.2",
-    "gitbook-plugin-search-plus": "^0.0.9"
+    "gitbook-plugin-search-plus": "^0.0.9",
+    "markdown-link-check": "^2.2.0"
   },
   "devDependencies": {},
   "scripts": {

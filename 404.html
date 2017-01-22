@@ -774,8 +774,10 @@
         var pathname = window.location.pathname;
         pathname = pathname.split(gitbook.state.config.pluginsConfig.sitemap.folder)[1]
 
+        // If a URL is broken you can add here a redirection
         var redirects = {
           "/front-end/angular/": "/front-end/technologies/angular",
+          "/front-end/dojo/web-appbuilder/": "/front-end/technologies/dojo/web-appbuilder/",
         };
 
         if(redirects[pathname]){
@@ -829,7 +831,12 @@
 
   <script>
   $(document).ready(function(){
-    var search = location.pathname.split("/").pop();
+    var search = "";
+    var aux = location.pathname.split("/");
+    do{
+      search = aux.pop();
+    }while(search === "");
+
     search = search.split("-").join(" ");
     $("#book-search-input input").val(search);
     setTimeout(function(){

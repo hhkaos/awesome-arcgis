@@ -11,21 +11,21 @@ improve this page.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Learn how to combine the ArcGIS JS API with:
-* [AngularJS](./angular)
-* [Backbone](backbone)
-* [Calcite](calcite)
-* [Cedar](cedar)
-* [Dojo](dojo)
-* [Ember](ember)
-* [jQuery](jquery)
-* [Knockout](knockout)
-* [Leaflet](leaflet)
-* [Open layers](open-layers)
-* [Phonegap](phonegap)
-* [Polymer](polymer)
-* [React](react)
-* [Sencha](sencha)
-* [VueJS](vuejs)
+* [AngularJS](angular/README.md)
+* [Backbone](backbone/README.md)
+* [Calcite](calcite/README.md)
+* [Cedar](cedar/README.md)
+* [Dojo](dojo/README.md)
+* [Ember](ember/README.md)
+* [jQuery](jquery/README.md)
+* [Knockout](knockout/README.md)
+* [Leaflet](leaflet/README.md)
+* [Open layers](open-layers/README.md)
+* [Phonegap](phonegap/README.md)
+* [Polymer](polymer/README.md)
+* [React](react/README.md)
+* [Sencha](sencha/README.md)
+* [VueJS](vuejs/README.md)
 
 ## Choosing the best framework
 There are several talks that may help you understand which framework/library you should use:

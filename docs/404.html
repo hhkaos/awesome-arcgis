@@ -829,7 +829,12 @@
 
   <script>
   $(document).ready(function(){
-    var search = location.pathname.split("/").pop();
+    var search = "";
+    var aux = location.pathname.split("/");
+    do{
+      search = aux.pop();
+    }while(search === "");
+    
     search = search.split("-").join(" ");
     $("#book-search-input input").val(search);
     setTimeout(function(){

@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Awesome lists for React](#awesome-lists-for-react)
+- [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -19,7 +19,11 @@
 
   [React Component for rendering ESRI maps](https://github.com/socialradar/react-esri-map)
 
-# Awesome lists for React
-You will find a lot of interesting resources to learn an improve your skills
+## More resources
+We recommend you to take a look to:
+* [GIS Utils](../../../gis/utils/README.md)
+* [Best practices](../../best-practices/README.md)
+
+Here you will find a lot of interesting resources to learn an improve your skills
 with React:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

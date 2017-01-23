@@ -5,20 +5,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Awesome lists for Sencha](#awesome-lists-for-sencha)
+- [People you should know](#people-you-should-know)
+- [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 https://github.com/Esri/sencha-touch-map-checkin-js
 Sample Sencha Touch application using the ArcGIS API for JavaScript and ArcGIS Online Feature, Geocoding, and Network Services.
 
-# Awesome lists for Sencha
-You will find a lot of interesting resources to learn an improve your skills
-with Sencha:
-* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
-
-#People you should know
-They are not working on the support team and some may even not work at Esri,
+## People you should know
+They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
@@ -27,3 +23,12 @@ technology so we recommend you to follow them.
 
 Nicholas Furness
 https://github.com/nixta
+
+## More resources
+We recommend you to take a look to:
+* [GIS Utils](../../../gis/utils/README.md)
+* [Best practices](../../best-practices/README.md)
+
+Here you will find a lot of interesting resources to learn an improve your skills
+with Sencha:
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

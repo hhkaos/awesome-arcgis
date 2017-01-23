@@ -1,8 +1,13 @@
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
 # ArcGIS API for Javascript version 3.x
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [More resources](#more-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 [Using Bootstrap Map? You Might Not Need jQuery…](http://tomwayson.com/2014/04/30/using-bootstrap-map-you-might-not-need-jquery/)
 
@@ -24,7 +29,16 @@ offline editor
   * [A swipe widget to partially show a layer by dragging it left or right.](https://github.com/Esri/arcgis-dijit-layer-swipe-js)
   * [Sample Dijit boilerplate for getting started with ArcGIS widget development](https://github.com/Esri/arcgis-dijit-sample-js)
 
+https://github.com/Esri/developer-support/tree/gh-pages/web-js
 
+[arcgis-server-store](https://github.com/thollingshead/arcgis-server-store):
+A module that implements the dojo/store API for ArcGIS Server REST services.
+
+geometry engine
+renderers
+cedar
+
+https://github.com/Esri/add-shapefile-js : ArcGIS JavaScript sample that let's you add a shapefile to your web map.
 
   [Responsive map viewer boilerplate for ArcGIS JS API based web mapping applications (3.10)](https://github.com/Esri/responsive-map-js)
 
@@ -39,3 +53,6 @@ http://stackoverflow.com/users/720773/gary-s
 [@ArcGISJSAPI](https://twitter.com/ArcGISJSAPI)
 
 You can design nice apps using Dojo & [calcite](../../calcite/README.md)
+
+## More resources
+* [GIS Utils](../../../../gis/utils/README.md)

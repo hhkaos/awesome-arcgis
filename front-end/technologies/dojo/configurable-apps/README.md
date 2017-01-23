@@ -177,7 +177,7 @@ The Social Media Template has an innovative use of social media, which allows yo
 [ArcGIS Online Templates at Geonet](https://geonet.esri.com/groups/arcgis-online-templates)
 
 ## People you should know
-They are not working on the support team but they are opening some projects
+They don't work on the support team but they are opening some projects
 and sharing insights related to this technology so we recommend you to follow them.
 
 ||Linkedin|Github|Twitter|ArcGIS Online|Geonet|

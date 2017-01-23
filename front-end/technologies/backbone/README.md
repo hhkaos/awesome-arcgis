@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Awesome lists for backbone](#awesome-lists-for-backbone)
+- [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -17,7 +17,11 @@ we will show you how in this page.
   * [DevSummit 2013: Knockout, backbone and Angular samples](http://driskull.github.io/framework-samples-js)
   * [Video 2012 - Have a Little Backbone: An MVC JavaScript Framework for ...](http://video.esri.com/watch/1257/have-a-little-backbone-an-mvc-javascript-framework-for-your-next-generation-apps#sthash.FjPVzjoC.dpuf)
 
-# Awesome lists for backbone
-You will find a lot of interesting resources to learn an improve your skills
+## More resources
+We recommend you to take a look to:
+* [GIS Utils](../../../gis/utils/README.md)
+* [Best practices](../../best-practices/README.md)
+
+Here you will find a lot of interesting resources to learn an improve your skills
 with Backbone:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

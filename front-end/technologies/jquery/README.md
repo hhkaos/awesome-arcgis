@@ -6,11 +6,11 @@ we will show you how in this page.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-  - [Introduction](#introduction)
-  - [Code](#code)
-  - [Videos / Technical talks](#videos--technical-talks)
-  - [Community](#community)
-- [Awesome lists for jQuery](#awesome-lists-for-jquery)
+- [Introduction](#introduction)
+- [Code](#code)
+- [Videos / Technical talks](#videos--technical-talks)
+- [Community](#community)
+- [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -34,7 +34,7 @@ instead of using Dojo to manage the DOM, Ajax, events, etc.
 https://github.com/Esri/html5-geolocation-tool-js : Use this fun jQuery Mobile web app to test HTML5 geolocation on different devices.
 
 ## Videos / Technical talks
-On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20appbuilder).
+On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).
 
 |Event|Title|Slides|
 |---|---|---|
@@ -53,7 +53,7 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
   * [jquery-mobile-map-js](https://github.com/Esri/jquery-mobile-map-js/issues)
 
 #People you should know
-They are not working on the support team and some may even not work at Esri,
+They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
@@ -71,7 +71,11 @@ technology so we recommend you to follow them.
   * [@paulcpeterson](https://github.com/paulcpeterson)
   * [@nicolaswise](https://github.com/nicolaswise)
 
-# Awesome lists for jQuery
-You will find a lot of interesting resources to learn an improve your skills
+## More resources
+We recommend you to take a look to:
+* [GIS Utils](../../../gis/utils/README.md)
+* [Best practices](../../best-practices/README.md)
+
+Here you will find a lot of interesting resources to learn an improve your skills
 with jQuery:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

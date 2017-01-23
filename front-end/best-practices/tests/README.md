@@ -10,4 +10,10 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-Awesome list 
+Awesome list
+
+[JavaScript Mapping Applications - Testing Tools and Patterns](http://www.esri.com/videos/watch?videoid=4281&channelid=LegacyVideo&isLegacy=true&title=javascript-mapping-applications---testing-tools-and-patterns)
+
+[A demonstration of how to use the Karma test runner to automatically run Jasmine BDD-style unit tests on your ArcGIS API for JavaScript code.](https://github.com/tomwayson/esri-karma-tutorial)
+
+* [Dojo Testing](https://github.com/peterkokot/awesome-dojo#testing)

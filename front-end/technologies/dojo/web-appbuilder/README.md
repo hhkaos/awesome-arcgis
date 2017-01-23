@@ -18,6 +18,7 @@ improve this page.
 - [Code](#code)
 - [People you should know](#people-you-should-know)
 - [News](#news)
+- [More resources](#more-resources)
 - [Resources in other languages](#resources-in-other-languages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -43,7 +44,7 @@ First resources you should know are:
 * [Esri training courses](http://www.esri.com/training/Bookmark/H1rErV0Hg)
 
 ### Videos / Technical talks
-On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20appbuilder).
+On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).
 
 |Event|Title|Length|
 |---|---|---|
@@ -75,7 +76,7 @@ code and helping other developers here:
   * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js) | [Generating Custom Widgets for Esri’s WebApp Builder with Yeoman](http://tomwayson.com/2014/06/30/generating-custom-widgets-for-esris-webapp-builder-with-yeoman/)
 
 ## People you should know
-They are not working on the support team and some may even not work at Esri,
+They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
@@ -86,6 +87,9 @@ technology so we recommend you to follow them.
 
 ## News
 * [blogs.esri.com (tag: Web AppBuilder)](https://blogs.esri.com/esri/arcgis/tag/web-appbuilder/)
+
+## More resources
+* [GIS Utils](../../../../gis/utils/README.md)
 
 ## Resources in other languages
 You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).

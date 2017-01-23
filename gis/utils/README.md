@@ -15,3 +15,5 @@ help you during your developments.
 * [Convert a CSV to GeoJSON ](https://github.com/gavinr/csv-to-geojson)
 
 * [Dump vector tiles to GeoJSON](https://github.com/mapbox/vt2geojson)
+
+* [Terraformer](https://github.com/Esri/Terraformer): JavaScript (Front and back) - A geographic toolkit for dealing with geometry, geography, formats, and building geo databases

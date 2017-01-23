@@ -26,8 +26,8 @@
 
 * typescript - [TypeScript in visual studio](http://odoe.net/blog/typescript-visual-studio-code/)
 
-* Grunt
-
 * BabelJS
 
 * [Resources for the ArcGIS API for JavaScript](https://github.com/odoe/esrijs-resources)
+
+[jsapi-resources](https://github.com/Esri/jsapi-resources): A collection of useful resources for developers using the ArcGIS API for JavaScript (Bower, TypeScript, Saas, JSHint, ).

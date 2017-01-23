@@ -10,7 +10,7 @@
 - [Code](#code)
 - [Community](#community)
 - [People you should know](#people-you-should-know)
-- [Awesome lists for Angular](#awesome-lists-for-angular)
+- [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,7 +43,7 @@ Angular 2:
 [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
 
 ## People you should know
-They are not working on the support team and some may even not work at Esri,
+They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
@@ -55,8 +55,12 @@ technology so we recommend you to follow them.
  [@jwasilgeo](https://github.com/jwasilgeo) & [@dbouwman](https://github.com/dbouwman)
 
 
-## Awesome lists for Angular
-You will find a lot of interesting resources to learn an improve your skills
+## More resources
+We recommend you to take a look to:
+* [GIS Utils](../../../gis/utils/README.md)
+* [Best practices](../../best-practices/README.md)
+
+Here you will find a lot of interesting resources to learn an improve your skills
 with Angular:
 * [Angular: A list of awesome AngularJs services, directives, utilities and resources.](https://github.com/gianarb/awesome-angularjs)
 * [Angular 2: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass](https://github.com/AngularClass/awesome-angular2)

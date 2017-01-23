@@ -13,7 +13,7 @@ Learn how to combine the ArcGIS JS API with:
 * [Calcite](calcite/README.md)
 * [Cedar](cedar/README.md)
 * [Dojo](dojo/README.md)
-* [Ember](emberr/README.md)
+* [Ember](ember/README.md)
 * [jQuery](jquery/README.md)
 * [Knockout](knockout/README.md)
 * [Leaflet](leaflet/README.md)

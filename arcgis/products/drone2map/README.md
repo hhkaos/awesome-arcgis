@@ -31,3 +31,5 @@ working with [ArcGIS Server](../arcgis-enterprise/README.md) and
 
 ## Related technologies
 * [Full Motion Video Add in](../arcgis-desktop/add-ins/full-motion-video/README.md)
+
+## Get the tool

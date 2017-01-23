@@ -26,7 +26,7 @@ You can use any of the following Runtime SDKs to build custom desktop apps:
 As you noticed, some of those Runtimes can also be used to build mobile apps.
 
 ## Configure and build
-[Check this out](../arcgis/app-builders/README.md)
+[Check this out](../arcgis/products/README.md#app-builders)
 
 ## Extent the Platform
 You can write your own addins in order to be able to extend our desktop tools:
@@ -36,4 +36,4 @@ You can write your own addins in order to be able to extend our desktop tools:
 
 Geoprocessing tools using python
 
-If you are a desktop developer you may also want to consider to [extend our desktop tools](../arcgis/extendable-products/desktop/README.md)
+If you are a desktop developer you may also want to consider to [extend our desktop tools](../arcgis/products/README.md#extendable-products)

@@ -7,3 +7,5 @@
 https://learn.arcgis.com/en/projects/get-started-with-the-scene-viewer/
 
 http://odoe.net/blog/intro-arcgis-sceneviewer/
+
+## Get the tools

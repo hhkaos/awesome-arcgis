@@ -24,7 +24,7 @@ Use any of our Runtime SDKs:
 |OS X|Swift & Objective-C|Windows|
 
 ## Configure and build
-[Check this out](../arcgis/app-builders/README.md)
+[Check this out](../arcgis/products/README.md#app-builders)
 
 ## Extent the Platform
 You can write your own addins in order to be able to extend our desktop tools:

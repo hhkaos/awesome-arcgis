@@ -28,3 +28,5 @@ So I recommend you to [sign up for a free account](https://developers.arcgis.com
 http://odoe.net/blog/aggregate-data-arcgis-online/
 
 http://odoe.net/blog/time-based-smart-mapping-arcgis-online/
+
+## Get the tool

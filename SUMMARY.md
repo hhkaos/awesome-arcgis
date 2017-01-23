@@ -1,11 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of contents**
-
-- [Your Book Name](#your-book-name)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Your Book Name
 
 - [Arcgis](arcgis/README.md)
@@ -81,6 +73,7 @@
   - [Best Practices](devops/best-practices/README.md)
 - [Front End](front-end/README.md)
   - [Best Practices](front-end/best-practices/README.md)
+    - [Automate](front-end/best-practices/automate/README.md)
     - [Performance](front-end/best-practices/performance/README.md)
     - [Tests](front-end/best-practices/tests/README.md)
   - [Technologies](front-end/technologies/README.md)

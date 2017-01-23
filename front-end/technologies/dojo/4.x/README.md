@@ -15,7 +15,7 @@ http://odoe.net/blog/category/javascript/
 
 [USING VUEJS WITH ARCGIS API FOR JAVASCRIPT](http://odoe.net/blog/using-vuejs-arcgis-api-javascript/)
 
-* [Combine ArcGIS JS with other JS Frameworks](../README.md)
+* [Combine ArcGIS JS with other JS Frameworks](../../README.md)
 [Bower friendly, minified version of the ArcGIS API for JavaScript 4.x](https://github.com/Esri/arcgis-js-api/tree/4master)
 
 USING TYPESCRIPT WITH ESRIJS 4
@@ -27,4 +27,4 @@ http://odoe.net/blog/im-learning-typescript/
 
 [Samples: Fly in space and look across the sea: demos and experiments with the ArcGIS API for JavaScript](https://github.com/jwasilgeo/esri-experiments)
 
-You can design nice apps using Dojo & [calcite](../calcite/README.md)
+You can design nice apps using Dojo & [calcite](../../calcite/README.md)

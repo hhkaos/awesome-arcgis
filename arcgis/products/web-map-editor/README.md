@@ -7,6 +7,7 @@
 
 - [ArcGIS Online](#arcgis-online)
 - [Portal for ArcGIS](#portal-for-arcgis)
+- [Get the tool](#get-the-tool)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

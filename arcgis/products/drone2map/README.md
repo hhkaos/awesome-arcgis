@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [Training](#training)
 - [Related technologies](#related-technologies)
+- [Get the tool](#get-the-tool)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

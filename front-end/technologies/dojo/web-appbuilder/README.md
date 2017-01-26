@@ -90,6 +90,7 @@ technology so we recommend you to follow them.
 
 ## More resources
 * [GIS Utils](../../../../gis/utils/README.md)
+* [Web AppBuilder Live Sites Showcase](http://www.arcgis.com/apps/MapAndAppGallery/index.html?appid=1e3085af6e1a48c8908fa624bdfef768) - see what others are doing with Web AppBuilder
 
 ## Resources in other languages
 You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).

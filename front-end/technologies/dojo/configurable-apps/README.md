@@ -30,7 +30,7 @@ mechanism that allows users of an organization to create and configure
 ---
 
 ## Introduction
-Until now Esri has released more than 40 [open source templates](#apps-developed-by-esri)
+So far Esri has released more than 40 [open source templates](#apps-developed-by-esri)
 with different purposes: collect/edit data, compare maps/layers,
 explore/summarize data, get directions, map social media, provide local
 information, showcase 2D or 3D maps, etc.
@@ -55,14 +55,14 @@ You may also want to take a look to some [great examples of customizations made
 by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:customized) to our out of the box Story Maps apps.
 
 ## Training
-Esri's formal training:
-* [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](https://www.esri.com/training/catalog/57eb2dd2ee85c0f5204be985/getting-the-most-out-of-arcgis-configurable-web-apps-(2016)/)
+Esri's formal training: (*available with a current maintenance subscription*)
+* [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](http://arcg.is/2k7u5Nh)
 * [Creating Web Applications Using Templates and Web AppBuilder for ArcGIS](https://www.esri.com/training/catalog/57630433851d31e02a43eee6/creating-web-applications-using-templates-and-web-appbuilder-for-arcgis/)
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
 
-|Event|Title|Length|
+|Source|Title|Length|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
 |Esri Training 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs

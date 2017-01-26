@@ -11,6 +11,7 @@ offline editing and tiling
 
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
+- [People you should know](#people-you-should-know)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -23,9 +24,9 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 |---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2014|[Offline Editing with JavaScript](http://www.esri.com/videos/watch?videoid=3371&channelid=LegacyVideo&isLegacy=true&title=offline-editing-with-javascript)|
 
-#People you should know
-Andy is not working on the support team he was one of the developer leads of
-this project, this project is not over maintenance yet but may want to follow him.
+## People you should know
+Andy doesn't work on the support team but he was one of the developer leads of
+this project. This project is not over maintenance yet but may want to follow him.
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|

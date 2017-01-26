@@ -19,8 +19,8 @@ allow you to build powerful maps, spatial analysis, data visualizations, etc.
 
 ## Introduction
 At this point in time there are two generations of the ArcGIS API been maintained:
-* [3.x generation](3.x): for 2D maps
-* [4.x generation](4.x): integrates 2D and 3D
+* [3.x generation](3.x/README.md): for 2D maps
+* [4.x generation](4.x/README.md): integrates 2D and 3D
 
 If you are familiar with the ArcGIS API you can check this
 [functionality matrix](https://developers.arcgis.com/javascript/latest/guide/choose-version/index.html),

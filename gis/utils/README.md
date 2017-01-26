@@ -5,6 +5,7 @@
 
 - [Tools](#tools)
   - [Format converters](#format-converters)
+- [Front end libraries](#front-end-libraries)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 Here you will find a list of generic tools and resources that we found useful to
@@ -17,3 +18,7 @@ help you during your developments.
 * [Dump vector tiles to GeoJSON](https://github.com/mapbox/vt2geojson)
 
 * [Terraformer](https://github.com/Esri/Terraformer): JavaScript (Front and back) - A geographic toolkit for dealing with geometry, geography, formats, and building geo databases
+
+## Front end libraries
+
+* [LabelGun](https://github.com/Geovation/labelgun): reducing label clutter across mapping libraries

@@ -80,10 +80,10 @@ They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
-|![Robert J Scheitlin](https://avatars1.githubusercontent.com/u/1216460?v=3&s=50)|Robert J Scheitlin|[robertscheitlin](https://www.linkedin.com/in/robertscheitlin)|[@rscheitlin](https://github.com/rscheitlin)|n/a|[rscheitlin](http://www.arcgis.com/home/search.html?q=owner:rscheitlin)|[@rscheitlin](https://geonet.esri.com/people/rscheitlin)
-|![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?v=3&s=50)|Gavin Rehkemper|[gavinrehkemper](http://www.linkedin.com/in/gavinrehkemper)|[gavinr](https://github.com/gavinr)|[@gavinrehkemper](https://twitter.com/gavinrehkemper)|[gavinrehkemper](http://www.arcgis.com/home/search.html?q=owner:gavinrehkemper)|n/a|
+||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
+|---|---|---|---|---|---|---|---|
+|![Robert J Scheitlin](https://avatars1.githubusercontent.com/u/1216460?v=3&s=50)|Robert J Scheitlin|[robertscheitlin](https://www.linkedin.com/in/robertscheitlin)|[@rscheitlin](https://github.com/rscheitlin)|n/a|[rscheitlin](http://www.arcgis.com/home/search.html?q=owner:rscheitlin)|[@rscheitlin](https://geonet.esri.com/people/rscheitlin)|n.a.
+|![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?v=3&s=50)|Gavin Rehkemper|[gavinrehkemper](http://www.linkedin.com/in/gavinrehkemper)|[gavinr](https://github.com/gavinr)|[@gavinrehkemper](https://twitter.com/gavinrehkemper)|[gavinrehkemper](http://www.arcgis.com/home/search.html?q=owner:gavinrehkemper)|n/a|[gavinr](http://stackoverflow.com/users/2039/gavinr)
 
 ## News
 * [blogs.esri.com (tag: Web AppBuilder)](https://blogs.esri.com/esri/arcgis/tag/web-appbuilder/)

@@ -1,20 +1,12 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of contents**
-
-- [Your Book Name](#your-book-name)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Your Book Name
 
+- [Ar](ar/README.md)
 - [Arcgis](arcgis/README.md)
   - [Account Types](arcgis/account-types/README.md)
   - [Arcade](arcgis/arcade/README.md)
   - [Best Practices](arcgis/best-practices/README.md)
     - [Performance](arcgis/best-practices/performance/README.md)
   - [Content](arcgis/content/README.md)
-    - [Premium Content](arcgis/content/premium-content/README.md)
     - [Service Types](arcgis/content/service-types/README.md)
       - [Dynamic Map Service](arcgis/content/service-types/dynamic-map-service/README.md)
       - [Feature Service](arcgis/content/service-types/feature-service/README.md)

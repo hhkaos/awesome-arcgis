@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> **Note**: this page is only a draft, [help us](#contributions).
 
 # AngularJS developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -11,6 +11,7 @@
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [More resources](#more-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -65,3 +66,11 @@ with Angular:
 * [Angular: A list of awesome AngularJs services, directives, utilities and resources.](https://github.com/gianarb/awesome-angularjs)
 * [Angular 2: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass](https://github.com/AngularClass/awesome-angular2)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

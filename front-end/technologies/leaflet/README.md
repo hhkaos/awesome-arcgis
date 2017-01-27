@@ -1,4 +1,4 @@
-> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # Leaflet developers
 [Leaflet](http://leafletjs.com/) is an open-source JavaScript library for mobile-friendly interactive maps. Using [Esri Leaflet](https://github.com/Esri/esri-leaflet) makes it a pleasure to work with ArcGIS Services in Leaflet.
@@ -18,6 +18,7 @@
 - [People you should know](#people-you-should-know)
 - [Awesome projects](#awesome-projects)
 - [Resources](#resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -78,3 +79,11 @@ We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> **Note**: this page is only a draft, [help us](#contributions).
 
 # ArcGIS Online
 [ArcGIS Online](http://www.esri.com/software/arcgis/arcgisonline)
@@ -17,6 +17,7 @@ find geolocated data, build maps, analyze information, etc.
 - [Tools](#tools)
 - [Get an account](#get-an-account)
 - [News](#news)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -73,3 +74,11 @@ If you are an independent developer we encourage you to start using the
 
 ## News
 * [ArcGIS Online news at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-online/)
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> **Note**: this page is only a draft, [help us](#contributions).
 
 # Full motion video
 [ArcGIS Full Motion Video](http://www.esri.com/products/arcgis-capabilities/imagery/full-motion-video)
@@ -15,6 +15,7 @@ comprised of the Video Player, Video Manager and associated GP Tools
 - [Community](#community)
 - [News](#news)
 - [Related technologies](#related-technologies)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -49,3 +50,11 @@ You can add a file or an stream source if you plain to work with real time video
 ## Related technologies
 
 * [Drone2Map](../../../drone2map/README.md)
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

@@ -1,29 +1,30 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
-# Ready to use services
+# Augmented Reality Developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
 - [Introduction](#introduction)
+- [HoloLens](#hololens)
+- [Mobile devices](#mobile-devices)
+- [Google Glass](#google-glass)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-* geocoding
-* routing
-* geoenrichment
 
-http://odoe.net/blog/routing-arcgis-online/
 
-http://odoe.net/blog/uploading-enriching-data-arcgis-online/
+## HoloLens
+* [Esri HoloMap](https://www.youtube.com/watch?v=hE9GXpZTwAs)
+* [ArcGIS Runtime and the Microsoft HoloLens](http://www.esri.com/videos/watch?videoid=5172&channelid=LegacyVideo&isLegacy=true&title=arcgis-runtime-and-the-microsoft-hololens)
 
-geometry engine
-princ service
+## Mobile devices
+Runtime SDKs
 
-Network Analyst Product Engineers
-Deelesh Mandloi & Dmitry Kudinov
+## Google Glass
+* [Google Glass and Esri - Yes I Can Haz the Maps! - 2014](http://www.esri.com/videos/watch?videoid=3404&isLegacy=true&title=google-glass-and-esri---yes-i-can-haz-the-maps!)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

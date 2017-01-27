@@ -1,5 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
-
+> **Note**: this page is only a draft, [help us](#contributions).
 # ArcGIS Account types
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -10,6 +9,7 @@
 - [Organization account](#organization-account)
 - [Esri.com account](#esricom-account)
 - [ArcGIS.com account](#arcgiscom-account)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -40,3 +40,11 @@ If you work for a company with already use ArcGIS you will use the one.
 ## Esri.com account
 
 ## ArcGIS.com account
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

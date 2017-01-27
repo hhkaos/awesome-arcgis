@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # NodeJS developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -9,6 +9,7 @@
   - [Videos / Technical talks](#videos--technical-talks)
 - [Community](#community)
 - [Code](#code)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -33,3 +34,11 @@ https://github.com/Esri/pushlet: A simple HTTP wrapper around the Apple Push Not
 
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

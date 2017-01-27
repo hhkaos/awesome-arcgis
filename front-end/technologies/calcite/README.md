@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> **Note**: this page is only a draft, [help us](#contributions).
 
 # Calcite
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -9,6 +9,7 @@
   - [Calcite web](#calcite-web)
   - [Calcite maps](#calcite-maps)
 - [Code](#code)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -32,3 +33,11 @@ properties
   * [calcite-bootstrap](https://github.com/Esri/calcite-bootstrap/issues)
   * [calcite-maps](https://github.com/Esri/calcite-maps/)
   * [calcite-maps-styler-template](https://github.com/Esri/calcite-maps-styler-template): An ArcGIS configurable application for creating, styling and sharing modern-looking 2D and 3D map apps. Built with ArcGIS for Javascript API v4, Calcite Maps and Bootstrap.
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

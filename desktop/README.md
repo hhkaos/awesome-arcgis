@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # Desktop developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -8,6 +8,7 @@
 - [Build from scratch](#build-from-scratch)
 - [Configure and build](#configure-and-build)
 - [Extent the Platform](#extent-the-platform)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -37,3 +38,11 @@ You can write your own addins in order to be able to extend our desktop tools:
 Geoprocessing tools using python
 
 If you are a desktop developer you may also want to consider to [extend our desktop tools](../arcgis/products/README.md#extendable-products)
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

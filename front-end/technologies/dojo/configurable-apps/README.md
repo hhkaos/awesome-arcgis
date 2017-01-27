@@ -1,5 +1,4 @@
-> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
-improve this page.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # Configurable web apps
 
@@ -24,6 +23,7 @@ mechanism that allows users of an organization to create and configure
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -190,3 +190,11 @@ and sharing insights related to this technology so we recommend you to follow th
 * Story Maps:
   * [Story Maps Category at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/story-maps/) - [RSS feed](https://blogs.esri.com/esri/arcgis/category/story-maps/feed/)
   * [@EsriStoryMaps at Twitter](https://twitter.com/EsriStoryMaps)
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

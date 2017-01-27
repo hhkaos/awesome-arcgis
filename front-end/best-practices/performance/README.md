@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # Performance in web applications
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -11,6 +11,9 @@
     - [Videos / Technical talks](#videos--technical-talks)
     - [Code](#code)
 - [Drawing features](#drawing-features)
+  - [Using feature services](#using-feature-services)
+- [People you should know](#people-you-should-know)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -47,9 +50,17 @@ Grunt? Bower?
 
 Drawing more than 1000 interactive entities.
 
-###Using feature services
+### Using feature services
 If you are trying... [explanation in spanish](https://github.com/esri-es/JavascriptAPI/blob/gh-pages/problems/morethan1000entities/README.md)
 
-##People you should know
+## People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

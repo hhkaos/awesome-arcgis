@@ -1,5 +1,4 @@
-> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
-improve this page.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # ArcGIS REST API
 [ArcGIS Platform](../../README.md#about-arcgis) provides REST APIs for several products
@@ -12,6 +11,7 @@ as you will learn in this page.
 - [Introduction](#introduction)
 - [Products with REST APIs](#products-with-rest-apis)
 - [Community](#community)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -32,3 +32,11 @@ These are the products which relay on top of REST APIs:
 If you need some help using the REST APIs you can go to
 [ArcGIS REST API place on GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api)
 or you can also look for help in [any other popular community](../../README.md#arcgis-community).
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

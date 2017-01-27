@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> **Note**: this page is only a draft, [help us](#contributions).
 
 # Drone2Map for ArcGIS
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -9,6 +9,7 @@
 - [Training](#training)
 - [Related technologies](#related-technologies)
 - [Get the tool](#get-the-tool)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -34,3 +35,13 @@ working with [ArcGIS Server](../arcgis-enterprise/README.md) and
 * [Full Motion Video Add in](../arcgis-desktop/add-ins/full-motion-video/README.md)
 
 ## Get the tool
+* Premium app
+* Thought the startup program
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

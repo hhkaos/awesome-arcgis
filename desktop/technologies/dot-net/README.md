@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # .NET Developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -6,6 +6,7 @@
 **Table of contents**
 
 - [Download the SDK](#download-the-sdk)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -18,3 +19,11 @@ https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtim
 
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
 to [download de ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/downloads/).
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

@@ -1,5 +1,4 @@
-> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
-improve this page.
+> Please [feel free to help us](#contributions) to improve this page.
 
 # Web AppBuilder for ArcGIS (Developer Edition)
 [Web AppBuilder](http://www.esri.com/software/web-appbuilder) is a WYSIWYG tool that allow any user to build map-centric app (*with a full screen map*) without writing any code. You as a web developer can add new widgets and themes or customize the existing ones.
@@ -20,6 +19,7 @@ improve this page.
 - [News](#news)
 - [More resources](#more-resources)
 - [Resources in other languages](#resources-in-other-languages)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -94,3 +94,11 @@ technology so we recommend you to follow them.
 
 ## Resources in other languages
 You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

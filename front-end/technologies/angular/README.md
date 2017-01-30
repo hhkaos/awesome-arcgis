@@ -1,6 +1,9 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
 # AngularJS developers
+You can combine ArcGIS API for JavaScript with AngularJS in your developments,
+we will show you how in this page.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -15,20 +18,27 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-You can combine ArcGIS API for JavaScript with AngularJS in your developments,
-we will show you how in this page.
-
 ## Training
+### Documentation
+* [Angular 1 - Directives v2 API (compatible with ArcGIS 4.x API)](http://esri.github.io/angular-esri-map/docs/#/api)
+* [Angular 1 - Directives v1 API (compatible with ArcGIS 3.x API)](https://arcgis.github.io/angular-esri-map-site-v1/#/home)
+* [Esri + Angular 2](https://github.com/Esri/angular-esri-map/blob/v1.x/README.md#what-about-angular-2)
+
 ### Videos
-* [2015 Video: Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)
+On [**video.esri.com**](http://video.esri.com/search/angular) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20angular).
+
+|Event|Title|Length|
+|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)|44min 7 secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Declarative Mapping Applications with Angular JavaScript](http://www.esri.com/videos/watch?videoid=3302&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angular-javascript)|46min 31secs
 
 
 ## Code
 
 Angular 1:
 * Reusable libraries:
- * [Directives to help you use Esri maps and services in your Angular apps](github.com/Esri/angular-esri-map)
- * [AngularJS Module for ESRI Arcgis Maps from TeamDev](https://github.com/TeamDev-it/teamdev-esri-angularjs)
+ * [Directives to help you use Esri maps and services in your Angular apps](https://github.com/Esri/angular-esri-map)
+ * [AngularJS Module for ArcGIS Maps (from TeamDev)](https://github.com/TeamDev-it/teamdev-esri-angularjs)
 * Example Applications:
  * [Ionic app demonstrating how to use the Esri ArcGIS API for JavaScript](https://github.com/jwasilgeo/ionic-esri-map)
  * [Leverage Esri Leaflet in an Angular application](https://github.com/Esri/developer-support/tree/gh-pages/web-leaflet/angular)
@@ -45,20 +55,22 @@ Angular 2 (and above):
  * [This is an example mapping application using ArcGIS API for JavaScript v4 ](https://github.com/kgs916/ng2cli-esri4)
 
 ## Community
-[GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
+* [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
+* [Questions at Stackoverflow](http://stackoverflow.com/search?q=angular+%5Barcgis%5D)
 
 ## People you should know
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stack Overflow|
+|Avatar|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stack Overflow|
 |---|---|---|---|---|---|---|---|
 |![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|Tom Wayson|[tomwayson](https://www.linkedin.com/in/tomwayson)|[@tomwayson](https://github.com/tomwayson)|[@tomwayson](https://twitter.com/tomwayson)|n/a|[@TWayson-esristaff](https://geonet.esri.com/people/TWayson-esristaff)|[tomwayson](http://stackoverflow.com/users/656010/tomwayson)|
 |![Jacob Wasilkowski](https://avatars2.githubusercontent.com/u/4933392?v=3&s=50)|Jacob Wasilkowski|n/a|[@jwasilgeo](https://github.com/jwasilgeo)|[@jwasilgeo](https://twitter.com/jwasilgeo)|n/a|n/a|n/a|
 |![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|Andy Gup|[andy-gup](https://www.linkedin.com/in/andy-gup-0a865a)|[@andygup](https://github.com/andygup)|[@agup](https://twitter.com/agup)|[andygup](http://www.arcgis.com/home/search.html?q=owner:andygup)|[@agup-esristaff](https://geonet.esri.com/people/agup-esristaff)|n/a|
 |![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|Patrick Arlt|[patrickarlt](https://www.linkedin.com/in/patrickarlt)|[@patrickarlt](https://github.com/patrickarlt)|[@patrickarlt](https://twitter.com/patrickarlt)|n.a.|[@PArlt-esristaff](https://geonet.esri.com/people/PArlt-esristaff)|[patrick-arlt](http://stackoverflow.com/users/449686/patrick-arlt)|
-[@kgs916](https://github.com/kgs916) & [@dbouwman](https://github.com/dbouwman)
+|![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=460)|Dave Bouwman|[davebouwman](https://www.linkedin.com/in/davebouwman)|[@dbouwman](https://github.com/dbouwman)|[@dbouwman](https://twitter.com/dbouwman)|n.a.|[@dbouwman](https://geonet.esri.com/people/dbouwman)|n.a.|
+|![Keith Stewart](https://avatars3.githubusercontent.com/u/2197094?v=3&s=460)|Keith Stewart|[keithgstewart](https://www.linkedin.com/in/keithgstewart)|[@kgs916](https://github.com/kgs916)|[@TheKeithStewart](https://twitter.com/TheKeithStewart)|n.a.|n.a.|n.a.
 
 
 ## More resources

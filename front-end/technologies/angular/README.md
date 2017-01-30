@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> Please [feel free to help us](#contributions) to improve this page.
 
 # AngularJS developers
 You can combine ArcGIS API for JavaScript with AngularJS in your developments,
@@ -9,6 +9,7 @@ we will show you how in this page.
 **Table of contents**
 
 - [Training](#training)
+  - [Documentation](#documentation)
   - [Videos](#videos)
 - [Code](#code)
 - [Community](#community)

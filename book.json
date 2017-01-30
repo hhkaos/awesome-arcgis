@@ -1,0 +1,25 @@
+{
+  "title": "Awesome ArcGIS",
+  "description": "Awesome resource list for ArcGIS Developers, built from the community for the community",
+  "author": "https://github.com/hhkaos/awesome-arcgis/graphs/contributors",
+  "plugins": ["-lunr", "-search", "search-plus", "collapsible-menu", "sitemap", "ga", "disqus"],
+  "ignores": ["docs","_book","node_modules", "TODO"],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false,
+      "styles": {
+
+      }
+    },
+    "sitemap": {
+      "hostname": "https://hhkaos.github.io/",
+      "folder": "awesome-arcgis"
+    },
+    "ga": {
+      "token": "UA-49620025-8"
+    },
+    "disqus": {
+      "shortName": "awesome-arcgis"
+    }
+  }
+}

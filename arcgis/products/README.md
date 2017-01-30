@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> **Note**: this page is only a draft, [help us](#contributions).
 
 # Products
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -6,6 +6,10 @@
 **Table of contents**
 
 - [App Builders](#app-builders)
+- [Extendable products](#extendable-products)
+- [Developer products](#developer-products)
+- [Developer related products](#developer-related-products)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,3 +33,34 @@ Here you can see an overview of our current app builders:
 |AppStudio basic|Web responsive|No|---|
 |AppStudio standard|Android, iOS, Windows, ....|Yes|Qt & QML|
 |Survey123 Online|---|---|---|
+
+[Learn about licensing](../developer-plan/patterns/configure-and-build/README.md)
+
+## Extendable products
+ArcGIS Desktop
+ArcGIS Enterprise
+Operations Dashboard
+Web AppBuilder
+
+[Learn about licensing](../developer-plan/patterns/extend/README.md)
+
+## Developer products
+Runtime and SDKs
+
+[Learn about licensing](../developer-plan/patterns/customize/README.md)
+
+## Developer related products
+ArcGIS Online
+City Engine
+Drone2map
+Web Map Editor
+Scene viewer
+Marketplace
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

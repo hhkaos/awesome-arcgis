@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
+> **Note**: this page is only a draft, [help us](#contributions).
 
 # Work offline
 
@@ -11,7 +11,9 @@
   - [Web apps](#web-apps)
   - [Patterns](#patterns)
     - [Services pattern](#services-pattern)
+    - [Desktop pattern](#desktop-pattern)
   - [Conflicts](#conflicts)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -24,12 +26,12 @@ you will find many of those.
 
 ## Developer technologies
 ### Native apps
-If you are a [mobile developer](../../mobile) or a [desktop developer](../../mobile)
+If you are a [mobile developer](../../mobile/README.md) or a [desktop developer](../../desktop/README.md)
 you have all our native Runtimes and SDKs and some builders to build you own
 custom apps.
 
 In case you are not a developer or you want to build an app quickly you also
-have [AppStudio Standard](../products/appstudio) and [Survey123](../products/survey123)
+have [AppStudio Standard](../products/appstudio/README.md) and [Survey123](../products/survey123/README.md)
 that will help you build offline apps.
 
 And in case you don't need to but to build a custom or branded app you may also
@@ -37,9 +39,9 @@ consider to use [Collector for ArcGIS](http://www.esri.com/products/collector-fo
 
 ### Web apps
 But if you are a web developer and you don't need a powerful GIS SDK to build
-app you can also build it using [phonegap](../../front-end/phonegap).
+app you can also build it using [phonegap](../../front-end/technologies/phonegap/README.md).
 
-We also encourage you to take a look to the [offline-editor-js project](../../front-end/dojo/offline-editor-js) which is an ArcGIS JavaScript
+We also encourage you to take a look to the [offline-editor-js project](../../front-end/technologies/dojo/offline-editor-js/README.md) which is an ArcGIS JavaScript
 library for handling offline editing and tiling.
 
 If you are looking for a responsive app to collect points oflline you could take
@@ -78,7 +80,7 @@ tiled map services can be requested so that a basemap is available when the
 application is working in an offline environment. These copies can be downloaded
 in the form of a tile package (.tpk file) or compact cache by using the API.
 
-####Desktop pattern
+#### Desktop pattern
 This is the best for supporting applications with read-only data that requires
 periodic updates.
 
@@ -97,3 +99,11 @@ For details, see the online ArcGIS help topics
 
 ### Conflicts
 [Offline maps and versioned data](http://server.arcgis.com/en/server/latest/publish-services/linux/offline-maps-and-versioned-data.htm)
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

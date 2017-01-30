@@ -23,7 +23,7 @@ mechanism that allows users of an organization to create and configure
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
-- [Recursos en español](#recursos-en-espa%C3%B1ol)
+- [Resources in Spanish](#resources-in-spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -192,7 +192,7 @@ and sharing insights related to this technology so we recommend you to follow th
   * [Story Maps Category at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/story-maps/) - [RSS feed](https://blogs.esri.com/esri/arcgis/category/story-maps/feed/)
   * [@EsriStoryMaps at Twitter](https://twitter.com/EsriStoryMaps)
 
-## Recursos en español
+## Resources in Spanish
 * [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 

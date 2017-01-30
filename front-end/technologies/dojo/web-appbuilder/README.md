@@ -19,7 +19,7 @@
 - [News](#news)
 - [More resources](#more-resources)
 - [Resources in other languages](#resources-in-other-languages)
-- [Recursos en español](#recursos-en-espa%C3%B1ol)
+- [Resources in Spanish](#resources-in-spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -96,7 +96,7 @@ technology so we recommend you to follow them.
 ## Resources in other languages
 You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).
 
-## Recursos en español
+## Resources in Spanish
 Además de las noticias sobre algunas novedades de la versión para desarrolladores que encontrarás [desarrolladores.esri.es](http://desarrolladores.esri.es/) hemos recopilado los siguientes recursos.
 
 * **Charlas técnicas**:

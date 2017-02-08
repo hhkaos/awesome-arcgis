@@ -99,6 +99,7 @@
     - [Vuejs](front-end/technologies/vuejs/README.md)
 - [Gis](gis/README.md)
   - [Utils](gis/utils/README.md)
+    - [Resource Proxy](gis/utils/resource-proxy/README.md)
 - [Mobile](mobile/README.md)
   - [Best Practices](mobile/best-practices/README.md)
   - [Technologies](mobile/technologies/README.md)

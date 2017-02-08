@@ -5,6 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [People you should know](#people-you-should-know)
 - [More resources](#more-resources)
 - [Contributions](#contributions)
 
@@ -43,6 +44,12 @@ A module that implements the dojo/store API for ArcGIS Server REST services.
 geometry engine
 renderers
 cedar
+
+## People you should know
+
+Rene Rubalcava
+Yann Cabon
+Richie Carmichael
 
 ## More resources
 * [GIS Utils](../../../../gis/utils/README.md)

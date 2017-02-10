@@ -30,7 +30,8 @@ On [**video.esri.com**](http://video.esri.com/search/angular) you will find many
 
 |Event|Title|Length|
 |---|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)|44min 7 secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS API for JavaScript and AngularJS: What’s New, What’s Next](http://www.esri.com/videos/watch?videoid=5030&isLegacy=true&title=arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next)|58min 33secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)|44min 7secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2014|[Declarative Mapping Applications with Angular JavaScript](http://www.esri.com/videos/watch?videoid=3302&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angular-javascript)|46min 31secs
 
 

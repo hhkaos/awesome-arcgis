@@ -52,6 +52,8 @@ On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many
 * You can extend Leaflet using:
   * [Esri Leaflet plugins](http://esri.github.io/esri-leaflet/plugins/) to support webmaps, vector tiles, heatmaps, clusters, stream feature layers, renderers, etc.
   * [Leaflet plugins](http://leafletjs.com/plugins.html)
+* Other plugins:
+  * [Leaflet Routing Machine - Esri plugin](https://github.com/jgravois/lrm-esri)
 * [All repos on Github](https://github.com/search?q=org%3AEsri+leaflet)
 
 ## Tools

@@ -11,8 +11,17 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Resources](#resources)
+- [People you should know](#people-you-should-know)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+----
+
+## Resources
 
 * **Documentation**: [github.com/Esri/offline-editor-js/blob/master/README.md](https://github.com/Esri/offline-editor-js/blob/master/README.md)
 * **Demo**: [esri.github.io/offline-editor-js/demo](http://esri.github.io/offline-editor-js/demo/)

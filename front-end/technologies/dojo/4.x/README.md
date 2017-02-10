@@ -51,6 +51,8 @@ Rene Rubalcava
 Yann Cabon
 Richie Carmichael
 
+https://github.com/bsvensson
+
 ## More resources
 * [GIS Utils](../../../../gis/utils/README.md)
 

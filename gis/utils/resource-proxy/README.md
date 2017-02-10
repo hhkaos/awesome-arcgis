@@ -9,9 +9,7 @@ problems, OAuth, ... when working with ArcGIS platform.
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Training](#training)
-  - [Videos / Technical talks](#videos--technical-talks)
-- [Community](#community)
+- [Resources](#resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

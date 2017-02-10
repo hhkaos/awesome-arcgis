@@ -54,6 +54,8 @@ them [here](https://storymaps.arcgis.com/en/app-list/).
 You may also want to take a look to some [great examples of customizations made
 by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:customized) to our out of the box Story Maps apps.
 
+Interested on sharing your Story Map?, submit it to [Planet Story Maps](http://go.esri.com/planet-story-maps), an Esri e-newsletter featuring cool new story map examples, tips to help you produce better story maps, announcements about new apps and contests, and more. [Maria Jordan](https://www.linkedin.com/in/maria-jordan-68523325/) is the editor. Contact her at [mjordan@esri.com](mailto:mjordan@esri.com).
+
 ## Training
 Esri's formal training: (*available with a current maintenance subscription*)
 * [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](http://arcg.is/2k7u5Nh)
@@ -67,10 +69,12 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
 |Esri Training 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs
 |n.a. 2016|[An Overview of the Map and App Gallery](http://www.esri.com/videos/watch?videoid=rrMlBbboWk0&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=an-overview-of-the-map-and-app-gallery)|24min 24 secs
+|[UC](http://www.esri.com/events/user-conference) 2016|[Mapping: Story Maps: How to Tell Your Story Using Esri's Storytelling Apps](http://www.esri.com/videos/watch?videoid=lfLa-KJjoxA)| 1h 12min 35secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Story Maps: Configuring and Customizing Web Apps](http://www.esri.com/videos/watch?videoid=4469&channelid=LegacyVideo&isLegacy=true&title=story-maps:-configuring-and-customizing-web-apps)|1h 1min 32secs
 |n.a. 2014|[Customizing Story Map Web Apps](http://www.esri.com/videos/watch?videoid=3354&channelid=LegacyVideo&isLegacy=true&title=customizing-story-map-web-apps)|27min 59secs
-|[User Conference](http://www.esri.com/events/user-conference) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)|20min 18secs
+|[UC](http://www.esri.com/events/user-conference) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)|20min 18secs
 |n.a. 2011|[Ready to Use Configurable Web Apps](http://www.esri.com/videos/watch?videoid=222&channelid=LegacyVideo&isLegacy=true&title=ready-to-use-configurable-web-apps)|8min 42secs
+
 
 ### Documentation
 * How to use ArcGIS [Web Map editor](../../../../arcgis/products/web-map-editor/README.md) to
@@ -174,7 +178,7 @@ The Social Media Template has an innovative use of social media, which allows yo
 * [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
 
 ## Community
-[ArcGIS Online Templates at Geonet](https://geonet.esri.com/groups/arcgis-online-templates)
+[ArcGIS Online Templates at GeoNet](https://geonet.esri.com/groups/arcgis-online-templates)
 
 ## People you should know
 They don't work on the support team but they are opening some projects
@@ -183,13 +187,19 @@ and sharing insights related to this technology so we recommend you to follow th
 ||Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|
 |![Owen Evans](https://avatars2.githubusercontent.com/u/3215530?v=3&s=50)|[Owen Evans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
-|![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.
+|![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.|
+|![Grégory L'Azou](https://avatars0.githubusercontent.com/u/994078?v=3&s=50)|[Grégory L'Azou](https://www.linkedin.com/in/gregorylazou/)|[@glazou](https://github.com/glazou)|[@glaz](https://twitter.com/glaz)|[glazou2](http://www.arcgis.com/home/search.html?q=owner:glazou2)|[@GLAzou-esristaff](https://geonet.esri.com/people/GLAzou-esristaff)
+|![Stephen Sylvia](https://avatars1.githubusercontent.com/u/1211360?v=3&s=50)|[Stephen Sylvia](https://www.linkedin.com/in/stephen-sylvia-0aa04620/)|[@ssylvia](https://github.com/ssylvia)|n.a.|n.a.|[@SSylvia-esristaff](https://geonet.esri.com/people/SSylvia-esristaff)
+|![Allison Muise](https://geonet.esri.com/people/AMuise-esristaff/avatar/46.png?a=7395)|[Allison Muise](https://www.linkedin.com/in/allison-muise-96936532/)|[@allisonmuise](https://github.com/allisonmuise)|n.a.|[TestHarness_lg](http://www.arcgis.com/home/search.html?q=owner:TestHarness_lg)|[@AMuise-esristaff](https://geonet.esri.com/people/AMuise-esristaff)
+
+
 
 ## News about Configurable Apps
 
 * Story Maps:
   * [Story Maps Category at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/story-maps/) - [RSS feed](https://blogs.esri.com/esri/arcgis/category/story-maps/feed/)
   * [@EsriStoryMaps at Twitter](https://twitter.com/EsriStoryMaps)
+  * [Get the latest Esri Story Maps news and tips delivered directly to you **by email**](http://go.esri.com/planet-story-maps)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

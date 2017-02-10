@@ -54,8 +54,6 @@ them [here](https://storymaps.arcgis.com/en/app-list/).
 You may also want to take a look to some [great examples of customizations made
 by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:customized) to our out of the box Story Maps apps.
 
-Interested on sharing your Story Map?, submit it to [Planet Story Maps](http://go.esri.com/planet-story-maps), an Esri e-newsletter featuring cool new story map examples, tips to help you produce better story maps, announcements about new apps and contests, and more. [Maria Jordan](https://www.linkedin.com/in/maria-jordan-68523325/) is the editor. Contact her at [mjordan@esri.com](mailto:mjordan@esri.com).
-
 ## Training
 Esri's formal training: (*available with a current maintenance subscription*)
 * [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](http://arcg.is/2k7u5Nh)
@@ -85,10 +83,8 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 * Learn tips and tricks for developers to enhance your Story
 Map:  [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
 
-## Code
+## Apps developed by Esri
 The [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js) is a starter application that simplifies the process of building templates for the ArcGIS.com template gallery.
-
-### Apps developed by Esri
 
 * [map-tour-storytelling-template-js](https://github.com/Esri/map-tour-storytelling-template-js):
 The Story Map Tour is ideal when you want to present a linear, place-based
@@ -173,12 +169,17 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 * [local-perspective](https://github.com/SpatialAgent/local-perspective): Highlights features within a buffered distance of a user-selected location. Allows users to scroll through operational layers in the map to explore that location. Also provides demographic data, lifestyle data, live weather feed, and directions.
 
-### Apps developed by the community
-
-* [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
-
 ## Community
 [ArcGIS Online Templates at GeoNet](https://geonet.esri.com/groups/arcgis-online-templates)
+
+## Share your work
+You are always welcome to share your work at [GeoNet](https://geonet.esri.com/groups/arcgis-online-templates), Twitter (do not forget mention [@EsriStoryMaps](http://www.twitter.com/EsriStoryMaps)), Linkedin, etc. But you can also:
+
+* Share a **story map** submitting it to [Planet Story Maps](http://go.esri.com/planet-story-maps), an Esri e-newsletter featuring cool new story map examples, tips to help you produce better story maps, announcements about new apps and contests, and more. [Maria Jordan](https://www.linkedin.com/in/maria-jordan-68523325/) is the editor. Contact her at [mjordan@esri.com](mailto:mjordan@esri.com).
+
+* Share a **configurable app** you have written with the community. In this case please feel free to [add a contribution](#contributions) to this page. Example:
+
+  * [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
 
 ## People you should know
 They don't work on the support team but they are opening some projects

@@ -18,6 +18,8 @@ mechanism that allows users of an organization to create and configure
   - [Videos / Technical talks](#videos--technical-talks)
   - [Documentation](#documentation)
 - [Apps developed by Esri](#apps-developed-by-esri)
+  - [Storymaps](#storymaps)
+  - [Crowdsource apps](#crowdsource-apps)
 - [Community](#community)
 - [Share your work](#share-your-work)
 - [People you should know](#people-you-should-know)

@@ -1,8 +1,10 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
 # Resource proxy
-[Resource proxy](https://github.com/Esri/resource-proxy) allow you to avoid [CORS](https://enable-cors.org/)
-problems, OAuth, ... when working with ArcGIS platform.
+[Resource proxy](https://github.com/Esri/resource-proxy) allow you to solve
+[CORS](https://enable-cors.org/) problems when working with ArcGIS platform,
+but also to manage authentication (OAuth) to access secured services or use
+credit-consuming APIs, ... 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

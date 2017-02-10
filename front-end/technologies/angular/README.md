@@ -58,6 +58,7 @@ Angular 2 (and above):
 
 ## Community
 * [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
+* [angular-esri-map issues](https://github.com/Esri/angular-esri-map/issues)
 * [Questions at Stackoverflow](http://stackoverflow.com/search?q=angular+%5Barcgis%5D)
 
 ## People you should know

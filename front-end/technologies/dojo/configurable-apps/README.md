@@ -107,8 +107,6 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 * [elevation-profile-template](https://github.com/Esri/elevation-profile-template): Elevation Profile is a configurable application template used to display the elevation profile for a selected feature or a measured line along with a web map.
 
-* [local-government-online-apps a.k.a. Finder or "Find, Edit, and Filter"](https://github.com/Esri/local-government-online-apps): Finder is a configurable app template that can be used for searching and querying attributes in feature layers. It also includes the ability to change basemaps, to print maps and to share the app with others using email, Facebook, and Twitter.
-
 * [InteractiveFilter a.k.a. Filter](https://github.com/Esri/InteractiveFilter): Filter is a configurable application template that displays a map with an interactive filtered view of a feature layer.
 
 * [calcite-maps-styler-template a.k.a. Styler (beta)](https://github.com/esri/calcite-maps-styler-template): An ArcGIS configurable application for creating, styling and sharing modern-looking 2D and 3D map apps. Built with ArcGIS for Javascript API v4, Calcite Maps and Bootstrap.
@@ -135,7 +133,7 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 * [summary-viewer-template](https://github.com/Esri/summary-viewer-template): Summary Viewer is a configurable app template that summarizes the numeric attributes of features in a specified operational layer that are within the visible map area. The summaries can be configured to show the sum, average, minimum and maximum of specified field values.
 
-* [Information Lookup](https://github.com/Esri/information-lookup): Information Lookup is a configurable web application template that can be used to provide the general public, internal staff and other interested parties with information about a location. If no features are found at that location, a general message is displayed. Optionally, the location entered can be stored in a point layer.
+* [Information Lookup](https://github.com/Esri/information-lookup): Information Lookup is a configurable web application template that can be used to provide the general public, internal staff and other interested parties with information about a location. If no features are found at that location, a general message is displayed. Optionally, the location entered can be stored in a point layer - [More info](http://solutions.arcgis.com/shared/help/information-lookup/).
 
 * [Map Carousel](https://github.com/Esri/map-carousel-template): Map Carousel is a configurable gallery application template that can be used to display the contents of a group using a carousel or grid.
 
@@ -197,6 +195,7 @@ and sharing insights related to this technology so we recommend you to follow th
 |![Owen Evans](https://avatars2.githubusercontent.com/u/3215530?v=3&s=50)|[Owen Evans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
 |![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.|
 |![Stephen Sylvia](https://avatars1.githubusercontent.com/u/1211360?v=3&s=50)|[Stephen Sylvia](https://www.linkedin.com/in/stephen-sylvia-0aa04620/)|[@ssylvia](https://github.com/ssylvia)|n.a.|n.a.|[@SSylvia-esristaff](https://geonet.esri.com/people/SSylvia-esristaff)
+|![Allison Muise](https://geonet.esri.com/people/AMuise-esristaff/avatar/46.png?a=7395)|[Allison Muise]n.a.|[@allisonmuise](https://github.com/allisonmuise)|n.a.|n.a.|[@AMuise-esristaff](https://geonet.esri.com/people/AMuise-esristaff)
 
 
 ## News about Configurable Apps

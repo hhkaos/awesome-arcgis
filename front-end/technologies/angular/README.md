@@ -43,6 +43,7 @@ Angular 1:
  * [AngularJS Module for ArcGIS Maps (from TeamDev)](https://github.com/TeamDev-it/teamdev-esri-angularjs)
 * Example Applications:
  * [Ionic app demonstrating how to use the Esri ArcGIS API for JavaScript](https://github.com/jwasilgeo/ionic-esri-map)
+ * [Prototype app demonstrating how to use Ionic2 with the ArcGIS API for JavaScript](https://github.com/andygup/ionic2-esri-map)
  * [Leverage Esri Leaflet in an Angular application](https://github.com/Esri/developer-support/tree/gh-pages/web-leaflet/angular)
  * [A simple example of how to roll your own AngularJS directive to show an Esri map for a focused workflow](https://github.com/tomwayson/angular-parcel-map)
 

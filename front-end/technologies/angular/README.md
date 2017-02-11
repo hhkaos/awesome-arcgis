@@ -43,13 +43,13 @@ Angular 1:
  * [AngularJS Module for ArcGIS Maps (from TeamDev)](https://github.com/TeamDev-it/teamdev-esri-angularjs)
 * Example Applications:
  * [Ionic app demonstrating how to use the Esri ArcGIS API for JavaScript](https://github.com/jwasilgeo/ionic-esri-map)
- * [Prototype app demonstrating how to use Ionic2 with the ArcGIS API for JavaScript](https://github.com/andygup/ionic2-esri-map)
  * [Leverage Esri Leaflet in an Angular application](https://github.com/Esri/developer-support/tree/gh-pages/web-leaflet/angular)
  * [A simple example of how to roll your own AngularJS directive to show an Esri map for a focused workflow](https://github.com/tomwayson/angular-parcel-map)
 
 Angular 2 (and above):
 * Reusable libraries:
  * [An Angular 2 service to help you load ArcGIS API for JavaScript Modules](https://github.com/tomwayson/angular2-esri-loader)
+ * [Prototype app demonstrating how to use Ionic2 with the ArcGIS API for JavaScript](https://github.com/andygup/ionic2-esri-map)
  * [A set of Angular 2 components to work with ArcGIS API for JavaScript v4.1](https://github.com/kgs916/angular2-esri4-components)
 * Example Applications:
  * [Example of how to to use the ArcGIS API for JavaScript in an Angular CLI app](https://github.com/tomwayson/esri-angular-cli-example)
@@ -61,6 +61,7 @@ Angular 2 (and above):
 * [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
 * [angular-esri-map issues](https://github.com/Esri/angular-esri-map/issues)
 * [Questions at Stackoverflow](http://stackoverflow.com/search?q=angular+%5Barcgis%5D)
+* If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know
 They don't work on the support team and some may even not work at Esri,

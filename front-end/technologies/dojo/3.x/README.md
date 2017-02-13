@@ -49,6 +49,8 @@ CMV
 https://cmv.io/
 https://geonet.esri.com/groups/cmv
 
+Yeoman - Generator for ArcGIS JS API applications
+https://github.com/odoe/generator-arcgis-js-app
 
 #People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|

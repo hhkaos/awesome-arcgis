@@ -45,6 +45,9 @@ geometry engine
 renderers
 cedar
 
+Yeoman - Generator for ArcGIS JS API applications
+https://github.com/odoe/generator-arcgis-js-app
+
 ## People you should know
 
 Rene Rubalcava

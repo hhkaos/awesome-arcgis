@@ -57,6 +57,14 @@ Web Map Editor
 Scene viewer
 Marketplace
 
+## Ready to use apps
+If you are working for a large organization we also have many more products
+which may fill some of your need, we encourage you to take a look to this
+decision char (extracted from "[What Does Your Symphony of Apps Look Like?]((http://arcnews.maps.arcgis.com/apps/Cascade/index.html?appid=4332a9a0c5be4b57be7dd41bad59134a))
+"):
+![ArcGIS Apps Decision chart](../../assets/apps-decition-chart.pdf)
+
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

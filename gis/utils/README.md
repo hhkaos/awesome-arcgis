@@ -22,6 +22,8 @@ help you during your developments.
 
 * [Terraformer](https://github.com/Esri/Terraformer): JavaScript (Front and back) - A geographic toolkit for dealing with geometry, geography, formats, and building geo databases
 
+* [public-transit-tools](https://github.com/Esri/public-transit-tools): GTFS
+
 ## Front end libraries
 
 * [LabelGun](https://github.com/Geovation/labelgun): reducing label clutter across mapping libraries

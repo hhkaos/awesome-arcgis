@@ -175,6 +175,7 @@ narrative featuring images or videos.
 
 ## Community
 * [ArcGIS Online Templates at GeoNet](https://geonet.esri.com/groups/arcgis-online-templates)
+* [Crowdsourcing group at GeoNet](https://geonet.esri.com/groups/crowdsourcing)
 * If you need help with a specific configurable app try at the repository issues
 
 ## Share your work
@@ -204,6 +205,7 @@ and sharing insights related to this technology so we recommend you to follow th
   * [Story Maps Category at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/story-maps/) - [RSS feed](https://blogs.esri.com/esri/arcgis/category/story-maps/feed/)
   * [@EsriStoryMaps at Twitter](https://twitter.com/EsriStoryMaps)
   * [Get the latest Esri Story Maps news and tips delivered directly to you **by email**](http://go.esri.com/planet-story-maps)
+* [What's New in Configurable Apps](https://blogs.esri.com/esri/arcgis/author/Matt-655/)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

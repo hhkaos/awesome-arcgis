@@ -43,6 +43,13 @@ https://github.com/Esri/add-shapefile-js : ArcGIS JavaScript sample that let's y
 
   [Responsive map viewer boilerplate for ArcGIS JS API based web mapping applications (3.10)](https://github.com/Esri/responsive-map-js)
 
+[AMD Require Generator](http://swingley.github.io/arg/) ([repo](https://github.com/swingley/arg/))
+
+CMV
+https://cmv.io/
+https://geonet.esri.com/groups/cmv
+
+
 #People you should know
 |Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
@@ -54,6 +61,9 @@ http://stackoverflow.com/users/720773/gary-s
 [@ArcGISJSAPI](https://twitter.com/ArcGISJSAPI)
 
 You can design nice apps using Dojo & [calcite](../../calcite/README.md)
+
+Collection of data visualization samples created with ArcGIS API for JavaScript:
+https://github.com/Esri/visualization-js
 
 ## More resources
 * [GIS Utils](../../../../gis/utils/README.md)

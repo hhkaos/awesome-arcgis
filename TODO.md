@@ -17,6 +17,7 @@
 * [ ] Add http://odoe.net/blog/ articles
 * [ ] Add MOOCs
 * [ ] Add free tools from marketplace (like admintools)
+* [ ] Add indoor somewhere
 
 ## In progress
 * [ ] Add lessons from [learn.arcgis.com](http://learn.arcgis.com/en/)

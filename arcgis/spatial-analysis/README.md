@@ -1,38 +1,27 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
-# Ready to use services
+# Spatial Analysis
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Introduction](#introduction)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction
-* geocoding
-* routing
-* geoenrichment
+## Examples
 
-### Geocoder
+Using spatial analysis you can use spatial information to improve the answer to
+complex questions like:
 
-Trick: filter output using:  http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry={{Country_code}}
+* [Where should I open my next store and how much I'm going to earn?](http://envisioning.maps.arcgis.com/apps/MapJournal/index.html?appid=59800d93fd194d2084c1555d1f6492b1)
 
-For example:
-http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry=ESP
+## Learn more
 
-### More resources
-
-http://odoe.net/blog/routing-arcgis-online/
-
-http://odoe.net/blog/uploading-enriching-data-arcgis-online/
-
-geometry engine
-princ service
-
-Network Analyst Product Engineers
-Deelesh Mandloi & Dmitry Kudinov
+* [MOOC: The Location Advantage](http://www.esri.com/mooc/location-advantage):
+Explore how location analytics can be used in business.
+* [MOOC: Going Places with Spatial Analysis](http://www.esri.com/mooc/going-places):
+Gain a deeper understanding of spatial data analysis.
 
 ## Contributions
 Please **feel free to help us** to improve this list:

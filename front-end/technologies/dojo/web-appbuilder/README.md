@@ -69,8 +69,9 @@ code and helping other developers here:
 ## Code
 * Widgets & Themes:
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
-  * Follow: [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo
-  * Follow: [Components for the ArcGIS WebApp Builder](https://github.com/Esri/arcgis-webappbuilder-widgets-themes) repo
+  * [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo
+  * [Components for the ArcGIS WebApp Builder](https://github.com/Esri/arcgis-webappbuilder-widgets-themes) repo
+  * [Environmental Protection Agency (EPA) - Widgets and themes](https://github.com/USEPA/Public_Web_AppBuilder)
   * Choose "ArcGIS Web AppBuilder" on [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
 * Tools:
   * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js) | [Generating Custom Widgets for Esri’s WebApp Builder with Yeoman](http://tomwayson.com/2014/06/30/generating-custom-widgets-for-esris-webapp-builder-with-yeoman/)

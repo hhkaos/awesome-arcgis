@@ -16,6 +16,10 @@
 [City engine](http://www.esri.com/software/cityengine) is a desktop tool that
 allows you to build complex scenarios from raw data.
 
+## Web Scenarios
+* [Star wars galaxy](http://carto.maps.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=e87eb53174ab4ba09026e90e1d7c6557)
+* [Philadelphia Redevelopment](http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=86f88285788a4c53bd3d5dde6b315dfe)
+
 ## Code
 [Develop 3D applications using the procedural geometry engine of Esri CityEngine.](https://github.com/Esri/esri-cityengine-sdk)
 

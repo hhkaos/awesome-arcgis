@@ -67,10 +67,10 @@ On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many
 ## People you should know
 They don't work on the support team but they contribute to the projects and share insight related to this technology so we recommend you follow them.
 
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
-|---|---|---|---|---|---|---|---|
-|![John Gravois](https://avatars1.githubusercontent.com/u/3011734?v=3&s=50)|John Gravois|[johngravois](https://www.linkedin.com/in/johngravois)|[@jgravois](https://github.com/jgravois)|[@geogangster](https://twitter.com/geogangster)|[jgravois](http://www.arcgis.com/home/search.html?q=owner:jgravois)|[@JGravois-esristaff](https://geonet.esri.com/people/JGravois-esristaff)|[jgravois](http://stackoverflow.com/users/494139/jgravois)|
-|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|Patrick Arlt|[patrickarlt](https://www.linkedin.com/in/patrickarlt)|[@patrickarlt](https://github.com/patrickarlt)|[@patrickarlt](https://twitter.com/patrickarlt)|n.a.|[@PArlt-esristaff](https://geonet.esri.com/people/PArlt-esristaff)|[patrick-arlt](http://stackoverflow.com/users/449686/patrick-arlt)|
+|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
+|---|---|---|---|---|---|---|
+|![John Gravois](https://avatars1.githubusercontent.com/u/3011734?v=3&s=50)|[John Gravois](https://www.linkedin.com/in/johngravois)|[Github](https://github.com/jgravois)|[Twitter](https://twitter.com/geogangster)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:jgravois)|[GeoNet](https://geonet.esri.com/people/JGravois-esristaff)|[Stackoverflow](http://stackoverflow.com/users/494139/jgravois)|
+|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|[Patrick Arlt](https://www.linkedin.com/in/patrickarlt)|[Github](https://github.com/patrickarlt)|[Twitter](https://twitter.com/patrickarlt)|n.a.|[GeoNet](https://geonet.esri.com/people/PArlt-esristaff)|[Stackoverflow](http://stackoverflow.com/users/449686/patrick-arlt)|
 
 ## Awesome projects
 A list of awesome projects built with Esri Leaflet:

@@ -12,9 +12,26 @@
 
 ## Introduction
 
+http://pdx.esri.com/
+
+http://pdx.esri.com/careers/#team
+
+[Esri R&D Center](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)
+
+[Applications Prototype Lab demos](https://maps.esri.com/demo/)
+
+[Applications Prototype Lab at blogs.esri.com](https://blogs.esri.com/esri/apl/)
+
 * R&D center
 * Prototype Lab: [Esri's prototype lab](https://www.youtube.com/watch?v=zeNTqlTXkQg)
 
+|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
+|---|---|---|---|---|---|---|
+|![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://geonet.esri.com/people/dbouwman)|n.a.|
+
+Andrew turner
+Al Pascual
+John Grayson
 
 ## Contributions
 Please **feel free to help us** to improve this list:

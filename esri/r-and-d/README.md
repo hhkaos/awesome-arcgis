@@ -48,6 +48,7 @@ There are eleven R&D centers around the world:
 Github accounts:
 * [esridc](https://github.com/esridc)
 * [esripdx](https://github.com/esripdx)
+* https://github.com/Esri-DevCenter-Beijing
 
 ### Carrers
 [Job positions at R&D centers](http://pdx.esri.com/careers/#jobs)
@@ -55,26 +56,21 @@ Github accounts:
 ### Team
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|
-|
+|![Andrew Turner](https://avatars2.githubusercontent.com/u/1218?v=3&s=460)|[Andrew turner](https://www.linkedin.com/in/ajturner/)|[Github](https://github.com/ajturner)|[Twitter](https://twitter.com/ajturner)|n.a.|n.a.|n.a.
 |![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://geonet.esri.com/people/dbouwman)|n.a.|
+|![Al Pascual](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/017/1ca/1761dcb.jpg)|[Al Pascual](https://www.linkedin.com/in/alpascual/)|[Github](https://github.com/alpascual)|[Twitter](https://twitter.com/alpascual)|n.a.|n.a.|n.a.|
 
-* Andrew turner
-* Al Pascual
 
 
 ### Prototype labs
 
-[Applications Prototype Lab demos](https://maps.esri.com/demo/)
-
-[Applications Prototype Lab at blogs.esri.com](https://blogs.esri.com/esri/apl/)
-
-
-* Prototype Lab: [Esri's prototype lab](https://www.youtube.com/watch?v=zeNTqlTXkQg)
+* [Applications Prototype Lab demos](https://maps.esri.com/demo/)
+* [Applications Prototype Lab at blogs.esri.com](https://blogs.esri.com/esri/apl/)
+* Prototype Lab Video: [Esri's prototype lab](https://www.youtube.com/watch?v=zeNTqlTXkQg)
 
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|
-
-John Grayson
+|![John Grayson](https://dl.dropboxusercontent.com/u/1384201/Esri%20staff/john_grayson.jpg)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|n.a.|n.a.|n.a.|
 
 ## Contributions
 Please **feel free to help us** to improve this list:

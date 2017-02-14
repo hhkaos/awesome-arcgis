@@ -17,6 +17,10 @@ of R.
 
 
 ## Introduction
+https://blogs.esri.com/esri/arcgis/2017/02/10/r-you-bridging-yet/
+https://blogs.esri.com/esri/arcgis/2017/02/03/r-arcgis-news-and-plans-for-2017/
+
+https://blogs.esri.com/esri/arcgis/tag/r/
 
 
 ## Contributions

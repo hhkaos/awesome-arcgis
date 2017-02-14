@@ -56,9 +56,9 @@ Github accounts:
 ### Team
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|
-|![Andrew Turner](https://avatars2.githubusercontent.com/u/1218?v=3&s=460)|[Andrew turner](https://www.linkedin.com/in/ajturner/)|[Github](https://github.com/ajturner)|[Twitter](https://twitter.com/ajturner)|n.a.|n.a.|n.a.
+|![Andrew Turner](https://avatars2.githubusercontent.com/u/1218?v=3&s=50)|[Andrew turner](https://www.linkedin.com/in/ajturner/)|[Github](https://github.com/ajturner)|[Twitter](https://twitter.com/ajturner)|n.a.|n.a.|n.a.
 |![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://geonet.esri.com/people/dbouwman)|n.a.|
-|![Al Pascual](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/017/1ca/1761dcb.jpg)|[Al Pascual](https://www.linkedin.com/in/alpascual/)|[Github](https://github.com/alpascual)|[Twitter](https://twitter.com/alpascual)|n.a.|n.a.|n.a.|
+|![Al Pascual](https://avatars3.githubusercontent.com/u/467682?v=3&s=50)|[Al Pascual](https://www.linkedin.com/in/alpascual/)|[Github](https://github.com/alpascual)|[Twitter](https://twitter.com/alpascual)|n.a.|n.a.|n.a.|
 
 
 
@@ -70,7 +70,7 @@ Github accounts:
 
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|
-|![John Grayson](https://dl.dropboxusercontent.com/u/1384201/Esri%20staff/john_grayson.jpg)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|n.a.|n.a.|n.a.|
+|![John Grayson](https://avatars2.githubusercontent.com/u/5324720?v=3&s=50)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|n.a.|n.a.|n.a.|
 
 ## Contributions
 Please **feel free to help us** to improve this list:

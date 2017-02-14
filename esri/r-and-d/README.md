@@ -8,6 +8,10 @@ Esri invests 25% of it earnings yearly on R&D to keep introducing innovation to 
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Centers](#centers)
+  - [Carrers](#carrers)
+  - [Team](#team)
+  - [Prototype labs](#prototype-labs)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

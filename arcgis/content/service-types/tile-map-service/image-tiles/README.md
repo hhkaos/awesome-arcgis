@@ -1,18 +1,36 @@
 > Please [feel free to help us](#contributions) to improve this page.
 
-#Vector tiles
+# Image tiles
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Training](#training)
+  - [Videos](#videos)
+- [Resources](#resources)
+- [Utils](#utils)
+- [News](#news)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-https://github.com/Esri/arcgis-vectortile-style-editor
-A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps
+## Training
 
-[Using non-basemap vector tiles](http://odoe.net/blog/using-non-basemap-vector-tiles/)
+### Videos
+
+|Event|Title|Length|
+|---|---|---|
+
+
+## Resources
+
+
+## Utils
+
+
+
+## News
+* [Basemaps at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/basemap/)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

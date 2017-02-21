@@ -28,6 +28,7 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 
 |Event|Title|Slides|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS API for JavaScript Building Mobile Web Apps](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)| 1h 01 min 48 secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| ---
 * PhoneGap | Follow: [@andygup](https://github.com/andygup) & [@lheberlie](https://github.com/lheberlie)
   * [2015 Video: Native Apps using PhoneGap+jQuery+ArcGIS ](http://video.esri.com/watch/4293/arcgis-api-for-javascript-_dash_-building-native-apps-using-phonegap-and-jquery) – [PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_170.pdf)

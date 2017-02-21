@@ -6,6 +6,7 @@
 **Table of contents**
 
 - [Download the SDK](#download-the-sdk)
+- [code](#code)
 - [Awesome lists for Android](#awesome-lists-for-android)
 - [Contributions](#contributions)
 
@@ -25,6 +26,10 @@ http://stackoverflow.com/users/720773/gary-s
 
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
 to [download de ArcGIS Runtime SDK for Android](https://developers.arcgis.com/downloads/).
+
+## code
+https://github.com/Esri/nearby-android
+https://github.com/Esri/maps-app-android
 
 ## Awesome lists for Android
 You will find a lot of interesting resources to learn an improve your skills

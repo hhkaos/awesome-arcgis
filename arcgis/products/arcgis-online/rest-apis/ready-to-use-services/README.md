@@ -6,6 +6,8 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+  - [Geocoder](#geocoder)
+  - [More resources](#more-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -14,6 +16,15 @@
 * geocoding
 * routing
 * geoenrichment
+
+### Geocoder
+
+Trick: filter output using:  http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry={{Country_code}}
+
+For example:
+http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry=ESP
+
+### More resources
 
 http://odoe.net/blog/routing-arcgis-online/
 

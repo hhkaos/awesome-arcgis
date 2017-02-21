@@ -30,7 +30,8 @@ On [**video.esri.com**](http://video.esri.com/search/angular) you will find many
 
 |Event|Title|Length|
 |---|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)|44min 7 secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS API for JavaScript and AngularJS: What’s New, What’s Next](http://www.esri.com/videos/watch?videoid=5030&isLegacy=true&title=arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next)|58min 33secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)|44min 7secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2014|[Declarative Mapping Applications with Angular JavaScript](http://www.esri.com/videos/watch?videoid=3302&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angular-javascript)|46min 31secs
 
 
@@ -48,6 +49,7 @@ Angular 1:
 Angular 2 (and above):
 * Reusable libraries:
  * [An Angular 2 service to help you load ArcGIS API for JavaScript Modules](https://github.com/tomwayson/angular2-esri-loader)
+ * [Prototype app demonstrating how to use Ionic2 with the ArcGIS API for JavaScript](https://github.com/andygup/ionic2-esri-map)
  * [A set of Angular 2 components to work with ArcGIS API for JavaScript v4.1](https://github.com/kgs916/angular2-esri4-components)
 * Example Applications:
  * [Example of how to to use the ArcGIS API for JavaScript in an Angular CLI app](https://github.com/tomwayson/esri-angular-cli-example)
@@ -57,21 +59,23 @@ Angular 2 (and above):
 
 ## Community
 * [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
+* [angular-esri-map issues](https://github.com/Esri/angular-esri-map/issues)
 * [Questions at Stackoverflow](http://stackoverflow.com/search?q=angular+%5Barcgis%5D)
+* If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
-|Avatar|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stack Overflow|
-|---|---|---|---|---|---|---|---|
-|![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|Tom Wayson|[tomwayson](https://www.linkedin.com/in/tomwayson)|[@tomwayson](https://github.com/tomwayson)|[@tomwayson](https://twitter.com/tomwayson)|n/a|[@TWayson-esristaff](https://geonet.esri.com/people/TWayson-esristaff)|[tomwayson](http://stackoverflow.com/users/656010/tomwayson)|
-|![Jacob Wasilkowski](https://avatars2.githubusercontent.com/u/4933392?v=3&s=50)|Jacob Wasilkowski|n/a|[@jwasilgeo](https://github.com/jwasilgeo)|[@jwasilgeo](https://twitter.com/jwasilgeo)|n/a|n/a|n/a|
-|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|Andy Gup|[andy-gup](https://www.linkedin.com/in/andy-gup-0a865a)|[@andygup](https://github.com/andygup)|[@agup](https://twitter.com/agup)|[andygup](http://www.arcgis.com/home/search.html?q=owner:andygup)|[@agup-esristaff](https://geonet.esri.com/people/agup-esristaff)|n/a|
-|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|Patrick Arlt|[patrickarlt](https://www.linkedin.com/in/patrickarlt)|[@patrickarlt](https://github.com/patrickarlt)|[@patrickarlt](https://twitter.com/patrickarlt)|n.a.|[@PArlt-esristaff](https://geonet.esri.com/people/PArlt-esristaff)|[patrick-arlt](http://stackoverflow.com/users/449686/patrick-arlt)|
-|![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=460)|Dave Bouwman|[davebouwman](https://www.linkedin.com/in/davebouwman)|[@dbouwman](https://github.com/dbouwman)|[@dbouwman](https://twitter.com/dbouwman)|n.a.|[@dbouwman](https://geonet.esri.com/people/dbouwman)|n.a.|
-|![Keith Stewart](https://avatars3.githubusercontent.com/u/2197094?v=3&s=460)|Keith Stewart|[keithgstewart](https://www.linkedin.com/in/keithgstewart)|[@kgs916](https://github.com/kgs916)|[@TheKeithStewart](https://twitter.com/TheKeithStewart)|n.a.|n.a.|n.a.
+|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
+|---|---|---|---|---|---|---|
+|![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|[Tom Wayson](https://www.linkedin.com/in/tomwayson)|[Github](https://github.com/tomwayson)|[Twitter](https://twitter.com/tomwayson)|n/a|[GeoNet](https://geonet.esri.com/people/TWayson-esristaff)|[Stackoverflow](http://stackoverflow.com/users/656010/tomwayson)|
+|![Jacob Wasilkowski](https://avatars2.githubusercontent.com/u/4933392?v=3&s=50)|Jacob Wasilkowski|[Github](https://github.com/jwasilgeo)|[Twitter](https://twitter.com/jwasilgeo)|n/a|n/a|n/a|
+|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|[Andy Gup](https://www.linkedin.com/in/andy-gup-0a865a)|[Github](https://github.com/andygup)|[Twitter](https://twitter.com/agup)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:andygup)|[GeoNet](https://geonet.esri.com/people/agup-esristaff)|n/a|
+|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|[Patrick Arlt](https://www.linkedin.com/in/patrickarlt)|[Github](https://github.com/patrickarlt)|[Twitter](https://twitter.com/patrickarlt)|n.a.|[GeoNet](https://geonet.esri.com/people/PArlt-esristaff)|[Stackoverflow](http://stackoverflow.com/users/449686/patrick-arlt)|
+|![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://geonet.esri.com/people/dbouwman)|n.a.|
+|![Keith Stewart](https://avatars3.githubusercontent.com/u/2197094?v=3&s=50)|[Keith Stewart](https://www.linkedin.com/in/keithgstewart)|[Github](https://github.com/kgs916)|[Twitter](https://twitter.com/TheKeithStewart)|n.a.|n.a.|n.a.
 
 
 ## More resources

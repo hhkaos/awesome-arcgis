@@ -1,30 +1,41 @@
 > Please [feel free to help us](#contributions) to improve this page.
 
 # Offline editor
-[offline-editor-js](https://github.com/Esri/offline-editor-js) is an Open Source ArcGIS JavaScript library for handling
-offline editing and tiling
+[offline-editor-js](https://github.com/Esri/offline-editor-js) is an Open Source ArcGIS JavaScript library for handling offline editing and tiling.
+
+> **Maintenance Mode** As of May 1, 2016 no new functionality will be added to this project. For additional details refer to this [issue](https://github.com/Esri/offline-editor-js/issues/468).
+
+> If you need a fully integrated, robust offline solution that's officially supported, then please refer to our native ArcGIS Runtime SDKs: [read more](../../../../arcgis/offline/README.md).
+
+---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Training](#training)
-  - [Videos / Technical talks](#videos--technical-talks)
+- [Resources](#resources)
 - [People you should know](#people-you-should-know)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Training
+----
 
-### Videos / Technical talks
-On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).
+## Resources
 
-|Event|Title|
-|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Offline Editing with JavaScript](http://www.esri.com/videos/watch?videoid=3371&channelid=LegacyVideo&isLegacy=true&title=offline-editing-with-javascript)|
+* **Documentation**: [github.com/Esri/offline-editor-js/blob/master/README.md](https://github.com/Esri/offline-editor-js/blob/master/README.md)
+* **Demo**: [esri.github.io/offline-editor-js/demo](http://esri.github.io/offline-editor-js/demo/)
+* **Video**: [Offline Editing with JavaScript](http://www.esri.com/videos/watch?videoid=3371&channelid=LegacyVideo&isLegacy=true&title=offline-editing-with-javascript)
+  * Duration: 33min
+  * Source: [DevSummit](http://www.esri.com/events/devsummit) 2014
+  * PPTs: [proceedings.esri.com](https://www.google.es/webhp?ie=UTF-8#q=%22offline-editor-js%22+site:proceedings.esri.com)
+* **Community**:
+  * ["offline-editor-js" search at GeoNet](https://geonet.esri.com/search.jspa?q=offline-editor-js)
+  * [offline-editor-js issues](https://github.com/Esri/offline-editor-js/issues)
+
 
 ## People you should know
+
 Andy doesn't work on the support team but he was one of the developer leads of
 this project. This project is not over maintenance yet but may want to follow him.
 

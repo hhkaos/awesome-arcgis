@@ -31,24 +31,26 @@ Buy a license
 ### Essentials
 You can start using...
 
-* Web and SDKs
-* WAB developer edition
-* 50 credits dev & deployment
-* Web templates
-* Online app builders (appstudio basic, survery123?) <-- No code
+  * Web and SDKs
+  * WAB developer edition
+  * 50 credits dev & deployment
+  * Web templates
+  * Online app builders (AppStudio basic, Survey123?) <-- No code
 
 ### Builder (GIS)
-  * Appstudio standardized
+  * AppStudio Standardized
   * ArcGIS Online org (5 users)
-  * arcgis online Apps (workforce?, survey123?)
-  * ArcGIS Desktop basic
+  * ArcGIS Online Apps (Workforce?, Survey123?)
+  * ArcGIS Desktop Basic
 
 ### Professional
-  *
+  * ...
 
 ### Premium
+  * ...
 
 ### Enterprise
+  * ...
 
 ## Deploy
 When you have finished developing and testing your app, depending of the

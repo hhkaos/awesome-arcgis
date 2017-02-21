@@ -35,6 +35,7 @@ koop
 Python tools, nodejs,
 
 
+
 ## Amazon Web Services (AWS) AMIs
 ArcGIS Server en AWS:
 http://server.arcgis.com/en/server/latest/cloud/amazon/what-is-arcgis-server-on-aws.htm
@@ -42,7 +43,8 @@ http://server.arcgis.com/en/server/latest/cloud/amazon/what-is-arcgis-server-on-
 You can find more resources about how to [extend ArcGIS Server here](../arcgis/products/arcgis-enterprise/arcgis-server/README.md)
 
 ## Articles
-[Vehicle Trip Discovery with GIS Tools for Hadoop](https://blogs.esri.com/esri/arcgis/2013/08/09/vehicle-trip-discovery-with-gis-tools-for-hadoop/)
+* [Vehicle Trip Discovery with GIS Tools for Hadoop](https://blogs.esri.com/esri/arcgis/2013/08/09/vehicle-trip-discovery-with-gis-tools-for-hadoop/)
+* [How Elasticsearch is SPARKing Esri Geospatial Analysis](https://www.elastic.co/elasticon/tour/2015/los-angeles/how-elasticsearch-is-sparking-our-geospatial-analysis-an-esri-story)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

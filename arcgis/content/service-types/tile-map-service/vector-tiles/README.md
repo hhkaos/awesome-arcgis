@@ -38,9 +38,12 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 * [ArcGIS Vector Tile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor): A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps
 * [Vector Basemap Style Editor](https://github.com/jgrayson-apl/VectorBasemapStyleEditor): Edit the styles of Esri Vector Basemaps ArcGIS online items
 
-
 ## News
 * [Vector Basemaps at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-basemap/)
+
+## En español
+* [Introducción a los mapas vectoriales de ArcGIS](http://www.geodevelopers.org/academy/)
+* Personalizar mapas vectoriales y consumirlos con AngularJS: [Vídeo](http://www.geodevelopers.org/academy/) & [Tutorial](https://docs.google.com/document/d/1VJ2gU8HZ7rkBXg_mtPYJl34rtGqLVKbbIc9HZ-fKByg/edit?usp=sharing)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

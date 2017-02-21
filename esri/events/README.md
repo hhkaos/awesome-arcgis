@@ -7,6 +7,7 @@
 
 - [Events](#events)
   - [DevSummit](#devsummit)
+- [Hackathons](#hackathons)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

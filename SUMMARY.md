@@ -12,6 +12,7 @@
       - [Feature Service](arcgis/content/service-types/feature-service/README.md)
       - [Ogc Service](arcgis/content/service-types/ogc-service/README.md)
       - [Tile Map Service](arcgis/content/service-types/tile-map-service/README.md)
+        - [Image Tiles](arcgis/content/service-types/tile-map-service/image-tiles/README.md)
         - [Vector Tiles](arcgis/content/service-types/tile-map-service/vector-tiles/README.md)
   - [Developer Plan](arcgis/developer-plan/README.md)
     - [Background](arcgis/developer-plan/background/README.md)

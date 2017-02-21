@@ -5,6 +5,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Training](#training)
+  - [Videos](#videos)
+- [Resources](#resources)
+- [Utils](#utils)
 - [News](#news)
 - [Contributions](#contributions)
 

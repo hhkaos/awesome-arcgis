@@ -42,7 +42,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 ## News
 * [Vector Basemaps at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-basemap/)
 
-## En español
+## Resources in Spanish
 * [Introducción a los mapas vectoriales de ArcGIS](http://www.geodevelopers.org/academy/)
 * Personalizar mapas vectoriales y consumirlos con AngularJS: [Vídeo](http://www.geodevelopers.org/academy/) & [Tutorial](https://docs.google.com/document/d/1VJ2gU8HZ7rkBXg_mtPYJl34rtGqLVKbbIc9HZ-fKByg/edit?usp=sharing)
 

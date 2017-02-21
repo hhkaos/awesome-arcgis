@@ -12,6 +12,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 - [Resources](#resources)
 - [Utils](#utils)
 - [News](#news)
+- [En español](#en-espa%C3%B1ol)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

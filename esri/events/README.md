@@ -18,6 +18,15 @@
 
 [Douglas Crockford](http://www.esri.com/videos/watch?videoid=4998&isLegacy=true&title=dev-summit-keynote:-douglas-crockford) - JavaScript The Good Parts
 
+## Hackathons
+
+Resources:
+* [The Esri Hackathon Handbook](http://hackathon-handbook.com/appendix.html)
+* [A place to learn how to build geo apps with the ArcGIS Platform.](https://github.com/Esri/geodev-hackerlabs)
+
+Offtopic:
+* [Hackathon Organizer Guide](https://guide.mlh.io/)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

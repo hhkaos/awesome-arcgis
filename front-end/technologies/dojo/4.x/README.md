@@ -11,6 +11,11 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Video
+
+[ArcGIS API for JavaScript Discover 4.0 the Next Generation](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
+
+
 [ArcGIS API for JavaScript v4](https://developers.arcgis.com/javascript/latest/guide/index.html)
 is the last generation of JavaScript API from Esri.
 
@@ -42,6 +47,10 @@ https://github.com/Esri/developer-support/tree/gh-pages/web-js
 A module that implements the dojo/store API for ArcGIS Server REST services.
 
 geometry engine
+[A Deep Dive on How the Geometry Engine Can Help You](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
+
+[ArcGIS API for JavaScript Data Visualization](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
+
 renderers
 cedar
 

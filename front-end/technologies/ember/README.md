@@ -16,6 +16,8 @@ we will show you how in this page.
 * Ember | Follow: [@ffaubry](https://github.com/ffaubry) & [@odoe](https://github.com/odoe) & [@dbouwman](https://github.com/dbouwman)
   * [Ember CLI Addon for using AMD libraries](https://github.com/Esri/ember-cli-amd)
 
+[ArcGIS API for JavaScript Using it with EmberJS](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
+
 ## More resources
 We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)

@@ -10,9 +10,16 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+|Event|Title|Length|
+|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS API for JavaScript Building Web Editing Applications](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)|---
+
+
 [Using Bootstrap Map? You Might Not Need jQuery…](http://tomwayson.com/2014/04/30/using-bootstrap-map-you-might-not-need-jquery/)
 
 * [Combine ArcGIS JS with other JS Frameworks](../../README.md)
+
+https://github.com/Esri/geojson-layer-js
 
 * [quickstart-map-js](https://github.com/Esri/quickstart-map-js): ArcGIS JavaScript mapping samples to get you started fast
 * [wind-js](https://github.com/Esri/wind-js): An demo animation of wind on a Canvas layer in the JSAPI
@@ -36,6 +43,10 @@ https://github.com/Esri/developer-support/tree/gh-pages/web-js
 A module that implements the dojo/store API for ArcGIS Server REST services.
 
 geometry engine
+[A Deep Dive on How the Geometry Engine Can Help You](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
+
+http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions
+
 renderers
 cedar
 

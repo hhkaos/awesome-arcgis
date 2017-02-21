@@ -65,6 +65,7 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 
 |Source|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Online and Portal: Developing Custom JavaScript Applications](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)|48min 5 secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
 |Esri Training 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs
 |n.a. 2016|[An Overview of the Map and App Gallery](http://www.esri.com/videos/watch?videoid=rrMlBbboWk0&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=an-overview-of-the-map-and-app-gallery)|24min 24 secs

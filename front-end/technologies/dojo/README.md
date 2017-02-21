@@ -36,6 +36,7 @@ In this section we will focus on [Dojo Toolkit](https://dojotoolkit.org/) traini
   * [Bootstraps and boilerplates](https://github.com/peterkokot/awesome-dojo#bootstraps-and-boilerplates)
   * [Serverside integrations](https://github.com/peterkokot/awesome-dojo#serverside-integrations)
 * [Working with Dojo - ArcGIS Short Guide](https://developers.arcgis.com/javascript/3/jshelp/inside_dojo.html)
+* [Dojo: The Good Parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts)
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com/search/dojo) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).

@@ -95,7 +95,7 @@ if(rm_docs){
 }
 
 if(update_summary){
-  var cmd = 'book sm';
+  var cmd = 'node node_modules/gitbook-summary/bin/summary.js sm';
   exec(cmd, function(error, stdout, stderr) {
     console.log(stdout);
   });

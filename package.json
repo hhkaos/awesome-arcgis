@@ -10,7 +10,9 @@
     "gitbook-plugin-collapsible-menu": "^1.0.2",
     "gitbook-plugin-search-plus": "^0.0.9"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gitbook-summary": "^1.1.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

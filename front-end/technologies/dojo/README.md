@@ -41,11 +41,11 @@ In this section we will focus on [Dojo Toolkit](https://dojotoolkit.org/) traini
 ### Videos / Technical talks
 On [**video.esri.com**](http://video.esri.com/search/dojo) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).
 
-|Event|Title|Length|
-|---|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Dojo: The Good Parts](http://www.esri.com/videos/watch?videoid=3444&isLegacy=true&title=dojo:-the-good-parts)|1h 4min 32 secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Using Dojo to be Awesome!](http://www.esri.com/videos/watch?videoid=3403&isLegacy=true&title=using-dojo-to-be-awesome!)|26min 37secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Demystifying the Dojo Build System](http://www.esri.com/videos/watch?videoid=3390&isLegacy=true&title=demystifying-the-dojo-build-system)|24min 53 secs
+|Event|Title|Length|Slides|
+|---|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Dojo: The Good Parts](http://www.esri.com/videos/watch?videoid=3444&isLegacy=true&title=dojo:-the-good-parts)|1h 4min 32 secs|[PDF](https://s3.amazonaws.com/webapps.esri.com/esri-proceedings/devsummit14/papers/dev-030.pdf)
+|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Using Dojo to be Awesome!](http://www.esri.com/videos/watch?videoid=3403&isLegacy=true&title=using-dojo-to-be-awesome!)|26min 37secs| n.a.
+|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Demystifying the Dojo Build System](http://www.esri.com/videos/watch?videoid=3390&isLegacy=true&title=demystifying-the-dojo-build-system)|24min 53 secs| n.a.
 
 ## Community
 * [Developer spaces, groups, etc @ GeoNet](https://geonet.esri.com/community/developers)

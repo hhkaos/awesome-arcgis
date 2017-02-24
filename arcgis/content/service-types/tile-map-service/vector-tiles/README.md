@@ -7,17 +7,24 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Showcase](#showcase)
 - [Training](#training)
   - [Videos](#videos)
 - [Resources](#resources)
 - [Utils](#utils)
 - [News](#news)
-- [En español](#en-espa%C3%B1ol)
+- [Resources in Spanish](#resources-in-spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Showcase
+![Vector tiles showcase](https://github.com/esri-es/arcgis-vector-tiles/raw/master/images/Vector%20Tile%20Showcase.gif?raw=true)
+
+
+
 ## Training
+* [Vector tiles resources at esri.com/training](www.esri.com/training/Bookmark/rkecrk9Yl)
 * [Create Vector Tile Package using ArcGIS Pro](http://pro.arcgis.com/en/pro-app/tool-reference/data-management/create-vector-tile-package.htm)
 * [Esri Vector Basemaps Reference Document](https://www.arcgis.com/home/item.html?id=f0b44a7e86b84109920e23e1e09d38a8)
 * [Using non-basemap vector tiles](http://odoe.net/blog/using-non-basemap-vector-tiles/)
@@ -31,7 +38,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 |[UC](http://www.esri.com/events/user-conference) 2016|[Mapping: Desktop Mapping: Creating Vector Tiles](http://www.esri.com/videos/watch?videoid=L2ds2rb-d5c&title=mapping:-desktop-mapping:-creating-vector-tiles)| 1h 15min 45secs
 
 ## Resources
-* Vector Basemaps
+* [Vector Basemaps showcase](https://github.com/esri-es/arcgis-vector-tiles)
   * [from user: esri_basemaps ](http://www.arcgis.com/home/search.html?q=owner%3Aesri_basemaps&focus=layers-weblayers&restrict=false)
   * [from user: esri_vector](http://www.arcgis.com/home/search.html?q=owner%3Aesri_vector&focus=layers-weblayers&restrict=false)
 

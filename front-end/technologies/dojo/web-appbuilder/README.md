@@ -75,6 +75,7 @@ code and helping other developers here:
   * Choose "ArcGIS Web AppBuilder" on [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
 * Tools:
   * [Yeoman generator to help customize Esri's Web AppBuilder](https://github.com/Esri/generator-esri-appbuilder-js) | [Generating Custom Widgets for Esri’s WebApp Builder with Yeoman](http://tomwayson.com/2014/06/30/generating-custom-widgets-for-esris-webapp-builder-with-yeoman/)
+  * [This generator was adapted from @steveoh's generator-dojo-widget, @tomwaysons generator-esri-widget and Esri/generator-esri-appbuilder-js](https://github.com/davewilton/generator-ecl-wab-widget)
 
 ## People you should know
 They don't work on the support team and some may even not work at Esri,

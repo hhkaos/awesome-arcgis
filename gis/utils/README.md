@@ -28,6 +28,12 @@ help you during your developments.
 
 * [LabelGun](https://github.com/Geovation/labelgun): reducing label clutter across mapping libraries
 
+## Other
+* [A tool to help test CORS requests](https://github.com/monsur/test-cors.org)
+* [Postman](https://www.getpostman.com/)
+* [A swiss army knife for your ArcGIS Online and Portal for ArcGIS accounts](https://github.com/Esri/ago-assistant)
+* [Chrome extensions](http://communityhub.esriuk.com/geoxchange/2017/1/9/a-new-tool-to-quickly-search-the-latest-arcgis-documentation)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

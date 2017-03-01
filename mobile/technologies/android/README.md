@@ -5,8 +5,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Training](#training)
+- [Community](#community)
+- [People you should know](#people-you-should-know)
+- [Code](#code)
 - [Download the SDK](#download-the-sdk)
-- [code](#code)
+- [News](#news)
 - [Awesome lists for Android](#awesome-lists-for-android)
 - [Contributions](#contributions)
 

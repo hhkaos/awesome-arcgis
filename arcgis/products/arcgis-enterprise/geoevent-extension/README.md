@@ -15,6 +15,7 @@ enables you to work with Real-Time Mapping and Analytics
   - [Videos](#videos)
 - [Code](#code)
 - [Community](#community)
+- [People you should know](#people-you-should-know)
 - [News](#news)
 - [Contributions](#contributions)
 
@@ -64,6 +65,15 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 ## Community
 * [Real-Time & Big Data GIS on GeoNet](https://geonet.esri.com/groups/real-time-gis)
 * [GeoEvent on GeoNet](https://geonet.esri.com/community/gis/enterprise-gis/geoevent)
+
+## People you should know
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
+|---|---|---|---|---|---|---|
+|![Mansour Raad](https://avatars2.githubusercontent.com/u/984730?v=3&s=460)|Mansour Raad|[Github](https://github.com/mraad)|[Twitter](mraad)|n.a.|n.a.|n.a.|
 
 ## News
 * [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoevent&search=Search)

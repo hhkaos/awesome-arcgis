@@ -82,9 +82,9 @@ require([
         $('.body-inner').scrollTop(0);
     }
 
-    function escapeReg(keyword) {
+    function escapeRegExp(keyword) {
         //escape regexp prevserve word
-        return String(keyword).replace(/([\*\.\?\+\$\^\[\]\(\)\{\}\|\/\\])/g, '\\$1');
+        return String(keyword).replace(/([-.*+?^${}()|[\]\/\\])/g, '\\$1');
     }
 
     function query(keyword) {
@@ -97,7 +97,9 @@ require([
                 results.push({
                     url: page,
                     title: INDEX_DATA[page].title,
-                    body: INDEX_DATA[page].body.substr(Math.max(0, index - 50), MAX_DESCRIPTION_SIZE).replace(new RegExp('(' + escapeReg(keyword) + ')', 'gi'), '<span class="search-highlight-keyword">$1</span>')
+                    body: INDEX_DATA[page].body.substr(Math.max(0, index - 50), MAX_DESCRIPTION_SIZE)
+                    .replace(/^[^\s,.]+./,'').replace(/(..*)[\s,.].*/, '$1') //prevent break word
+                    .replace(new RegExp('(' + escapeRegExp(keyword) + ')', 'gi'), '<span class="search-highlight-keyword">$1</span>')
                 });
             }
         }
@@ -177,12 +179,17 @@ require([
 
     // 高亮文本
     var highLightPageInner = function(keyword) {
-        var reg = new RegExp('(>[^<]*)(' + escapeReg(keyword) + ')', 'igm');
-        $('.page-inner').html($('.page-inner').html().replace(reg, '$1<span class="search-highlight search-highlight-keyword">$2</span>'));
+        $('.page-inner').mark(keyword, {
+            'ignoreJoiners': true,
+            'acrossElements': true,
+            'separateWordSearch': false
+        });
 
         setTimeout(function() {
-            // 定位到第一个高亮词
-            $('.search-highlight')[0].scrollIntoView();
+            var mark = $('mark[data-markjs="true"]');
+            if (mark.length) {
+                mark[0].scrollIntoView();
+            }
         }, 100);
     };
 

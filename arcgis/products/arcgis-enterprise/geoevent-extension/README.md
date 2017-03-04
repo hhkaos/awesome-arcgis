@@ -73,7 +73,7 @@ technology so we recommend you to follow them.
 
 |Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
 |---|---|---|---|---|---|---|
-|![Mansour Raad](https://avatars2.githubusercontent.com/u/984730?v=3&s=460)|Mansour Raad|[Github](https://github.com/mraad)|[Twitter](mraad)|n.a.|n.a.|n.a.|
+|![Mansour Raad](https://avatars2.githubusercontent.com/u/984730?v=3&s=50)|Mansour Raad|[Github](https://github.com/mraad)|[Twitter](mraad)|n.a.|n.a.|n.a.|
 
 ## News
 * [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoevent&search=Search)

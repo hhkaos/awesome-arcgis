@@ -19,8 +19,8 @@
 
 In case you are interested on learning [how to extend ArcGIS Pro using .NET](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md) .
 
-
-
+Morten Nielsen
+https://twitter.com/dotMorten
 
 ## Community
 [ArcGIS Runtime SDK for .NET](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)

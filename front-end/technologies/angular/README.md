@@ -14,7 +14,9 @@ we will show you how in this page.
 - [Code](#code)
 - [Community](#community)
 - [People you should know](#people-you-should-know)
-- [More resources](#more-resources)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
+- [Related resources](#related-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

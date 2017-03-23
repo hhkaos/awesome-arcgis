@@ -118,18 +118,18 @@ if(update_summary){
   var cmd = 'node node_modules/gitbook-summary/bin/summary.js sm';
   exec(cmd, function(error, stdout, stderr) {
     console.log(stdout);
-  });
-}
 
-if(build){
-  var cmd = 'node node_modules/gitbook-cli/bin/gitbook.js build';
+    if(build){
+      var cmd = 'node node_modules/gitbook-cli/bin/gitbook.js build';
 
-  exec(cmd, function(error, stdout, stderr) {
-    console.log(stdout);
+      exec(cmd, function(error, stdout, stderr) {
+        console.log(stdout);
 
-    var cmd = 'mv _book docs';
-    exec(cmd, function(error, stdout, stderr) {
-      console.log(stdout);
-    });
+        var cmd = 'mv _book docs';
+        exec(cmd, function(error, stdout, stderr) {
+          console.log(stdout);
+        });
+      });
+    }
   });
 }

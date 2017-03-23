@@ -9,6 +9,8 @@
   - [Videos / Technical talks](#videos--technical-talks)
 - [Community](#community)
 - [Code](#code)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -9,6 +9,8 @@
   - [Format converters](#format-converters)
 - [Front end libraries](#front-end-libraries)
 - [Other](#other)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

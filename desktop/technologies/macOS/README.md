@@ -13,6 +13,10 @@
 
 [Learn more about our SDK Runtime for macOS here](https://developers.arcgis.com/macos/)
 
+## Training
+### Documentation
+* Mobile map package - [Swift](https://developers.arcgis.com/macos/latest/swift/guide/mobile-map-package.htm) & [Objective-C](https://developers.arcgis.com/macos/latest/objective-c/guide/mobile-map-package.htm): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
+
 # Community
 [Find our community for MacOS developer working with ArcGIS at GeoNet](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-macos)
 

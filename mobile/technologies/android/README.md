@@ -12,6 +12,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Training
+### Documentation
+* [Mobile map package](https://developers.arcgis.com/android/latest/guide/mobile-map-package.htm): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
+
+## Community
+
 https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android
 
 ##People you should know

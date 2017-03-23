@@ -19,6 +19,10 @@
 ## Introduction
 [ArcGIS Runtime SDK for iOS Samples](https://itunes.apple.com/us/app/arcgis-runtime-sdk-for-ios/id1180714771?mt=8)
 
+## Training
+### Documentation
+* Mobile map package - [Swift](https://developers.arcgis.com/ios/latest/swift/guide/mobile-map-package.htm) & [Objective-C](https://developers.arcgis.com/ios/latest/objective-c/guide/mobile-map-package.htm): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
+
 ## Code
 
 [Swift samples demonstrating various capabilities of ArcGIS Runtime SDK for iOS](https://github.com/Esri/arcgis-runtime-samples-ios)

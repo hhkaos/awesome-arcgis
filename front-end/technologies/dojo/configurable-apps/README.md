@@ -209,7 +209,9 @@ and sharing insights related to this technology so we recommend you to follow th
   * [Get the latest Esri Story Maps news and tips delivered directly to you **by email**](http://go.esri.com/planet-story-maps)
 * [What's New in Configurable Apps](https://blogs.esri.com/esri/arcgis/author/Matt-655/)
 
-## Resources in Spanish
+## Localized resources
+
+### Spanish
 * [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 

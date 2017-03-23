@@ -98,7 +98,9 @@ technology so we recommend you to follow them.
 ## Resources in other languages
 You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).
 
-## Resources in Spanish
+## Localized resources
+
+### Spanish
 Además de las noticias sobre algunas novedades de la versión para desarrolladores que encontrarás [desarrolladores.esri.es](http://desarrolladores.esri.es/) hemos recopilado los siguientes recursos.
 
 * **Charlas técnicas**:

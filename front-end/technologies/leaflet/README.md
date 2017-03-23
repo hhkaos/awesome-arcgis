@@ -77,7 +77,12 @@ A list of awesome projects built with Esri Leaflet:
 
 * [City of Raleigh - Sustainable Projects](http://maps.raleighnc.gov/sustainable/)
 
-## Resources
+## Localized resources
+
+### Spanish
+* [Visores Leaflet con servicios ArcGIS](http://geodevelopers.org/academy/56glRmg_bZ8/view)
+
+## Related resources
 We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)

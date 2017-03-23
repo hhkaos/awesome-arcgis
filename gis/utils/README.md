@@ -35,6 +35,11 @@ help you during your developments.
 * [A swiss army knife for your ArcGIS Online and Portal for ArcGIS accounts](https://github.com/Esri/ago-assistant)
 * [Chrome extensions](http://communityhub.esriuk.com/geoxchange/2017/1/9/a-new-tool-to-quickly-search-the-latest-arcgis-documentation)
 
+## Localized resources
+
+### Spanish
+* [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

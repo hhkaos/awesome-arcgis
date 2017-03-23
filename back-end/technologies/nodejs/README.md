@@ -29,6 +29,10 @@ https://github.com/Esri/node-geoservices-adaptor: This is a node.js implementati
 
 https://github.com/Esri/pushlet: A simple HTTP wrapper around the Apple Push Notification Service and Google Cloud Messaging Service
 
+## Localized resources
+
+### Spanish
+* [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
 
 #People you should know
 

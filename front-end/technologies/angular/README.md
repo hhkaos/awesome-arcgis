@@ -78,8 +78,15 @@ technology so we recommend you to follow them.
 |![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://geonet.esri.com/people/dbouwman)|n.a.|
 |![Keith Stewart](https://avatars3.githubusercontent.com/u/2197094?v=3&s=50)|[Keith Stewart](https://www.linkedin.com/in/keithgstewart)|[Github](https://github.com/kgs916)|[Twitter](https://twitter.com/TheKeithStewart)|n.a.|n.a.|n.a.
 
+## Localized resources
 
-## More resources
+### Spanish
+
+* [Mapas inteligentes de ArcGIS con AngularJS v2](http://www.geodevelopers.org/academy/gIA98ySXIoE/view)
+* [Hackeando la API de ArcGIS con AngularJS](http://www.geodevelopers.org/academy/p0atBUO6Yxo/view)
+* [Personalizar mapas vectoriales y consumirlos con AngularJS](http://www.geodevelopers.org/academy/VxEZkvPvp7A/view)
+
+## Related resources
 We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)

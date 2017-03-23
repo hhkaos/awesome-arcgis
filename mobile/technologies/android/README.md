@@ -5,19 +5,15 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-  - [Training](#training)
-    - [Documentation](#documentation)
-  - [Community](#community)
-- [https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android](#httpsgeonetesricomcommunitydevelopersnative-app-developersarcgis-runtime-sdk-for-android)
-  - [Introduction](#introduction)
-  - [Training](#training-1)
-  - [Community](#community-1)
-  - [People you should know](#people-you-should-know)
-  - [Code](#code)
-  - [Download the SDK](#download-the-sdk)
-  - [News](#news)
-  - [Awesome lists for Android](#awesome-lists-for-android)
-  - [Contributions](#contributions)
+- [Introduction](#introduction)
+- [Training](#training)
+- [Community](#community)
+- [People you should know](#people-you-should-know)
+- [Code](#code)
+- [Download the SDK](#download-the-sdk)
+- [News](#news)
+- [Awesome lists for Android](#awesome-lists-for-android)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

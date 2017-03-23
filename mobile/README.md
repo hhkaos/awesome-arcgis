@@ -19,13 +19,13 @@ Use any of our Runtime SDKs:
 
 |Name|Language|Platform
 |---|---|---|
-|.Net|C#|Windows|
-|Java|Java|Windows, Linux & Mac|
-|Qt|C++ & QML|Windows, Linux & Mac|
-|OS X|Swift & Objective-C|Windows|
+|[.Net (Xamarin)](technologies/dot-net/README.md)|C#|Windows, Android and iOS|
+|[Android](technologies/android/README.md)|Java|Android|
+|[iOS](technologies/ios/README.md)|Swift & Objective-C|iOS|
+|[Qt](technologies/qt/README.md)|C++ & QML|Android, iOS|
 
 ## Configure and build
-[Check this out](../arcgis/products/README.md#app-builders)
+The ArcGIS Platform also include some products that allow you to make mobile applications with a simple and powerful interface, [check this out](../arcgis/products/README.md#app-builders).
 
 ## Extent the Platform
 You can write your own addins in order to be able to extend our desktop tools:

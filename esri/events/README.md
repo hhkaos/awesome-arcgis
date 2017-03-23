@@ -15,9 +15,18 @@
 ## Events
 
 ### DevSummit
+
 [Chris Wanstrath](https://www.youtube.com/watch?v=5pP_0oAHqaY) - Github CEO
 
 [Douglas Crockford](http://www.esri.com/videos/watch?videoid=4998&isLegacy=true&title=dev-summit-keynote:-douglas-crockford) - JavaScript The Good Parts
+
+Pubnub
+
+https://github.com/Esri/sonar
+
+http://www.esri.com/events/devsummit
+http://www.esri.com/events/devsummit-dc
+http://www.esri.com/events/devsummit-europe
 
 ## Hackathons
 

@@ -26,9 +26,13 @@ mongodb for geoevent
 Operations
 Amazon AMIs
 Koop-docker
-arcgis-cookbox (or chef)
+[arcgis-cookbox (or chef)](Chef cookbook for ArcGIS)
 
 koop
+
+[docker-arcgis](https://github.com/mraad/docker-arcgis)
+[Using Apache Spark in an ArcMap Toolbox](https://github.com/mraad/SparkProject)
+
 ## Code
 [Sample provider for Koop](https://github.com/koopjs/koop-sample-provider)
 

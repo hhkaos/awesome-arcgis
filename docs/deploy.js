@@ -50,6 +50,21 @@ process.argv.forEach(function (val, index, array) {
   }
 });
 
+
+var commandExists = require('command-exists');
+
+[{
+  app: 'awesome_bot',
+  url: 'https://github.com/dkhamsing/awesome_bot'
+}].forEach(function(elem){
+  commandExists(elem.app, function(err, commandExists) {
+      if(!commandExists) {
+          console.log(elem.app + ' is not installed: '+ elem.url);
+          process.exit();
+      }
+  });
+;})
+
 var exec = require('child_process').exec;
 
 if(links){
@@ -82,7 +97,12 @@ if(links){
   });
 }
 
-var cmd = "rm SUMMARY.md && doctoc --title '**Table of contents**' .";
+var cmd = "node node_modules/gitbook-cli/bin/gitbook.js install";
+exec(cmd, function(error, stdout, stderr) {
+  console.log(stdout);
+});
+
+cmd = "rm SUMMARY.md && node node_modules/doctoc/doctoc.js --title '**Table of contents**' .";
 exec(cmd, function(error, stdout, stderr) {
   console.log(stdout);
 });
@@ -102,7 +122,7 @@ if(update_summary){
 }
 
 if(build){
-  var cmd = 'gitbook build';
+  var cmd = 'node node_modules/gitbook-cli/bin/gitbook.js build';
 
   exec(cmd, function(error, stdout, stderr) {
     console.log(stdout);

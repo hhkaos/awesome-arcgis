@@ -5,6 +5,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Training](#training)
+  - [Documentation](#documentation)
+- [Community](#community)
 - [Download the SDK](#download-the-sdk)
 - [code](#code)
 - [Awesome lists for Android](#awesome-lists-for-android)

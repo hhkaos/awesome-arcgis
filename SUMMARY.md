@@ -95,6 +95,7 @@
       - [Configurable Apps](front-end/technologies/dojo/configurable-apps/README.md)
       - [Offline Editor Js](front-end/technologies/dojo/offline-editor-js/README.md)
       - [Web Appbuilder](front-end/technologies/dojo/web-appbuilder/README.md)
+    - [Elm](front-end/technologies/elm/README.md)
     - [Ember](front-end/technologies/ember/README.md)
     - [Jquery](front-end/technologies/jquery/README.md)
     - [Knockout](front-end/technologies/knockout/README.md)

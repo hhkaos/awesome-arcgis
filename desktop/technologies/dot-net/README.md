@@ -8,6 +8,8 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Community](#community)
 - [Download the SDK](#download-the-sdk)
 - [Contributions](#contributions)

@@ -6,6 +6,8 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Code](#code)
 - [News](#news)
 - [Download the SDK](#download-the-sdk)

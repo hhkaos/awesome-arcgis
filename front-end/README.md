@@ -7,6 +7,8 @@
 
 - [Introduction to ArcGIS API](#introduction-to-arcgis-api)
 - [Getting started](#getting-started)
+  - [Compatible technologies](#compatible-technologies)
+  - [Pricing](#pricing)
 - [Web mapping history](#web-mapping-history)
 - [More resources](#more-resources)
 - [Contributions](#contributions)

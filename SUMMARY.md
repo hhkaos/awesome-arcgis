@@ -95,6 +95,10 @@
       - [Configurable Apps](front-end/technologies/dojo/configurable-apps/README.md)
       - [Offline Editor Js](front-end/technologies/dojo/offline-editor-js/README.md)
       - [Web Appbuilder](front-end/technologies/dojo/web-appbuilder/README.md)
+<<<<<<< HEAD
+=======
+    - [Elm](front-end/technologies/elm/README.md)
+>>>>>>> 91858a450b6edbfedd18b4216c498aca01770b93
     - [Ember](front-end/technologies/ember/README.md)
     - [Jquery](front-end/technologies/jquery/README.md)
     - [Knockout](front-end/technologies/knockout/README.md)
@@ -117,3 +121,7 @@
     - [Qt](mobile/technologies/qt/README.md)
 - [Vr](vr/README.md)
   - [Best Practices](vr/best-practices/README.md)
+<<<<<<< HEAD
+=======
+* [CONTRIBUTING](CONTRIBUTING.md)
+>>>>>>> 91858a450b6edbfedd18b4216c498aca01770b93

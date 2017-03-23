@@ -66,11 +66,14 @@ Github accounts:
 * [Applications Prototype Lab at blogs.esri.com](https://blogs.esri.com/esri/apl/)
 * Prototype Lab Video: [Esri's prototype lab](https://www.youtube.com/watch?v=zeNTqlTXkQg)
 
+green-infrastructure.esri.com/LandCover/index.html
+
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|
 |![Al Pascual](https://avatars3.githubusercontent.com/u/467682?v=3&s=50)|[Al Pascual](https://www.linkedin.com/in/alpascual/)|[Github](https://github.com/alpascual)|[Twitter](https://twitter.com/alpascual)|n.a.|n.a.|n.a.|
-|![John Grayson](https://avatars2.githubusercontent.com/u/5324720?v=3&s=50)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|n.a.|n.a.|n.a.|
+|![John Grayson](https://avatars2.githubusercontent.com/u/5324720?v=3&s=50)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|[ArcGIS](http://www.arcgis.com/home/search.html?q=owner%3Ajgrayson)|n.a.|n.a.|
 
+jgrason
 ## Contributions
 Please **feel free to help us** to improve this list:
 

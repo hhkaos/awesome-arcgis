@@ -14,7 +14,11 @@
   * [DevSummit 2015: A set of Esri web components built using the Polymer library](https://github.com/JamesMilnerUK/esri-polymer)
   * [DevSummit 2014: Mike Juniper Polymer demo](https://github.com/mjuniper/polymer-demo-ds2014)
 
-## More resources
+## Community
+* You can also ask on [GeoNet](https://geonet.esri.com)
+* If you need help with a specific plugin/project try at the repository issues
+
+## Related resources
 We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)

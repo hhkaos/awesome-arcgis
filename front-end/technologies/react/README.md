@@ -25,7 +25,22 @@ https://github.com/Robert-W/esri-redux
 
   [React Component for rendering ESRI maps](https://github.com/socialradar/react-esri-map)
 
-## More resources
+## Community
+* [Stackoverflow: [react] and [arcgis]](http://stackoverflow.com/search?q=%5Breact%5D+and+%5Barcgis%5D)
+* You can also ask on [GeoNet](https://geonet.esri.com)
+* If you need help with a specific plugin/project try at the repository issues
+
+## People you should know
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|---|
+|![Rene Rubalcava](https://avatars2.githubusercontent.com/u/206462?v=3&s=50)|Rubalcava|[Github](https://github.com/odoe)|[Twitter](https://twitter.com/odoenet)|n.a.|n.a.|
+
+## Related resources
 We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)

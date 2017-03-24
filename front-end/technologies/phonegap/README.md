@@ -41,12 +41,17 @@ On [**video.esri.com**](http://video.esri.com/search/phonegap) you will find man
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS API for JavaScript Building Mobile Web Apps](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)| 1h 01 min 48 secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| 58min 35secs
 
+## Community
+* [Stackoverflow: [phonegap] and [arcgis]](http://stackoverflow.com/search?q=%5Bphonegap%5D+and+%5Barcgis%5D)
+* You can also ask on [GeoNet](https://geonet.esri.com)
+* If you need help with a specific plugin/project try at the repository issues
+
 ## People you should know
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|Avatar|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
 |![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|Andy Gup|[Linkedin](https://www.linkedin.com/in/andy-gup-0a865a)|[Github](https://github.com/andygup)|[@Twitter](https://twitter.com/agup)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:andygup)|[GeoNet](https://geonet.esri.com/people/agup-esristaff)
 |![Lloyd](https://avatars3.githubusercontent.com/u/1824760?v=3&s=50)|Lloyd Heberlie|n.a.|[Github](https://github.com/lheberlie)|[Twitter](https://twitter.com/lheberlie)|n.a.|[GeoNet](https://geonet.esri.com/people/lheberlie-esristaff)|

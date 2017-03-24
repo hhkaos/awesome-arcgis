@@ -60,14 +60,20 @@ https://github.com/odoe/generator-arcgis-js-app
 
 ## People you should know
 
-Rene Rubalcava
-Yann Cabon
-Richie Carmichael
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
-https://github.com/bsvensson
+|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|---|
+|![Rene Rubalcava](https://avatars2.githubusercontent.com/u/206462?v=3&s=50)|Rubalcava|[Github](https://github.com/odoe)|[Twitter](https://twitter.com/odoenet)|n.a.|n.a.|
+|![Yann Cabon](https://avatars1.githubusercontent.com/u/1074239?v=3&s=50)|Yann Cabon|[Github](https://github.com/ycabon)|n.a.|n.a.|n.a.|
+|![Richie Carmichael](https://avatars1.githubusercontent.com/u/2531121?v=3&s=50)|Richie Carmichael|[Github](https://github.com/richiecarmichael)|n.a.|n.a.|n.a.|
+|![Bjorn Svensson](https://avatars0.githubusercontent.com/u/808357?v=3&s=50)|Bjorn Svensson|[Github](https://github.com/bsvensson)|n.a.|n.a.|n.a.|
 
 ## More resources
 * [GIS Utils](../../../../gis/utils/README.md)
+* [Best practices](../../../best-practices/README.md)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

@@ -9,6 +9,7 @@
   - [Calcite web](#calcite-web)
   - [Calcite maps](#calcite-maps)
 - [Code](#code)
+- [Community](#community)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

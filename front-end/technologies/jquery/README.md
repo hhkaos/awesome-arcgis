@@ -12,7 +12,8 @@ we will show you how in this page.
 - [Code](#code)
 - [Videos / Technical talks](#videos--technical-talks)
 - [Community](#community)
-- [More resources](#more-resources)
+- [People you should know](#people-you-should-know)
+- [Related resources](#related-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

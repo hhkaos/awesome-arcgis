@@ -5,6 +5,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Community](#community)
+- [People you should know](#people-you-should-know)
 - [More resources](#more-resources)
 - [Contributions](#contributions)
 

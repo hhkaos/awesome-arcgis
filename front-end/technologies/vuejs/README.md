@@ -8,7 +8,8 @@ Learn how to combine [Vue.js](http://vuejs.org/) with ArcGIS API for JavaScript
 
 - [Introduction](#introduction)
 - [Training](#training)
-- [More resources](#more-resources)
+- [People you should know](#people-you-should-know)
+- [Related resources](#related-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

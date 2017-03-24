@@ -9,6 +9,7 @@
 - [Training](#training)
 - [Code](#code)
 - [Videos / Technical talks](#videos--technical-talks)
+- [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Related resources](#related-resources)

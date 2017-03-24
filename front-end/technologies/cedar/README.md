@@ -5,6 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Community](#community)
 - [Mixin with ArmCharts](#mixin-with-armcharts)
 - [Contributions](#contributions)
 

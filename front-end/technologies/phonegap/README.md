@@ -5,10 +5,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Training](#training)
 - [Code](#code)
 - [Videos / Technical talks](#videos--technical-talks)
 - [People you should know](#people-you-should-know)
-- [More resources](#more-resources)
+- [News](#news)
+- [Related resources](#related-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

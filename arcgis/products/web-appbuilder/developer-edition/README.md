@@ -72,6 +72,7 @@ code and helping other developers here:
 * Widgets & Themes:
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
   * [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo
+  * [Web AppBuilder - The custom widgets links list (3/27/2017)](https://geonet.esri.com/blogs/myAlaskaGIS/2017/03/04/web-appbuilder-the-custom-widgets-list-332017)
   * [Components for the ArcGIS WebApp Builder](https://github.com/Esri/arcgis-webappbuilder-widgets-themes) repo
   * [Environmental Protection Agency (EPA) - Widgets and themes](https://github.com/USEPA/Public_Web_AppBuilder)
   * Choose "ArcGIS Web AppBuilder" on [ArcGIS Code Sharing](http://codesharing.arcgis.com/)

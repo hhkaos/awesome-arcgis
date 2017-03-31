@@ -54,7 +54,7 @@ Runtime and SDKs
 ArcGIS Online
 City Engine
 Drone2map
-Web Map Editor
+Web Map Viewer
 Scene viewer
 Marketplace
 

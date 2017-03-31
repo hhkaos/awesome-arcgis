@@ -24,7 +24,14 @@ find geolocated data, build maps, analyze information, etc.
 ---
 
 ## Introduction
-With ArcGIS Online you have everything you need to build powerful applications: [content](content) (datasets), [APIs](rest-apis/ready-to-use-services), a [developer console](developer-console) and also some tools like the [Web map editor](web-map-editor), the [Scene viewer](scene-viewer), a hosted version of Web AppBuilder and the configurable apps.
+With ArcGIS Online you have everything you need to build powerful applications:
+* [Content](content/README.md)
+* [APIs](rest-apis/ready-to-use-services/README.md)
+* [Developer console](developer-console/README.md)
+* [Web Map viewer](../web-map-viewer/README.md)
+* [Scene viewer](../scene-viewer/README.md)
+* [Web AppBuilder](../web-appbuilder/README.md) (hosted version)
+* [Configurable apps](../configurable-apps/README.md)
 
 You can create a developer account an choose the essentials plan for free to get started.
 
@@ -41,12 +48,14 @@ There are many useful resources, here you have a subset of them:
 |[What are the items in ArcGIS Online?](http://odoe.net/blog/updated-arcgis-online-item-details-page/)|Beginner|Video|n.a.
 |[ArcGIS Online available content](content)|Beginner|Wiki|Awesome list section
 |[ArcGIS Geodev Hackerlabs](https://github.com/Esri/geodev-hackerlabs)|Beginner|Tutorial|A place to learn how to build geo apps with the ArcGIS.|
-|[Web map Editor](../web-map-editor/README.md)|Beginner|Wiki|Awesome list section|
+|[Web Map Viewer](../web-map-viewer/README.md)|Beginner|Wiki|Awesome list section|
 |[Scene viewer](../scene-viewer/README.md)|Beginner|Wiki|Awesome list section|
 |[ArcGIS Online Administrators Wiki](https://github.com/Esri/ago-admin-wiki/wiki)|Beginner|Wiki|n.a.|
 |[Authentication](https://developers.arcgis.com/authentication/)|Intermediate|API Reference|n.a.|
 |[REST APIs](rest-apis)|Intermediate|Wiki|Awesome list section
-|[Instructional Guide for The ArcGIS Book - ](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=303&moduleID=0)|n.a.|Book|$59.99|
+|[Instructional Guide for The ArcGIS Book ](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=303&moduleID=0)|n.a.|Book|$59.99|
+
+https://learn.arcgis.com/en/projects/get-started-with-arcgis-online
 
 ## Community
 * [ArcGIS Online at Geonet](https://geonet.esri.com/community/gis/web-gis/arcgisonline)

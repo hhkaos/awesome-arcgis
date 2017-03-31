@@ -29,6 +29,7 @@ instead of using Dojo to manage the DOM, Ajax, events, etc. Of course you can al
 * **@Esri/dojo-bootstrap-map-js**: [how to use our API for JavaScript (3.x) with Bootstap via Dojo-bootstrap](https://github.com/Esri/dojo-bootstrap-map-js)
 * **@Esri/calcite-maps**: [a modern framework for designing map apps with Bootstrap](https://github.com/Esri/calcite-maps)
   * [Starter app for the Esri Leaflet API + Bootstrap (jQuery) + Calcite](http://esri.github.io/calcite-maps/samples/esri-leaflet/esri-leaflet.html)
+  * [Starter app for the ArcGIS API for JS 4.x (jQuery)](http://esri.github.io/calcite-maps/samples/arcgis-4.x/arcgis-4.x-2d-3d-jQuery.html)
 * jQuery mobile:
   * **@Esri/jquery-mobile-map-js**: [dynamically resizes map when used in multi-view apps](https://github.com/Esri/jquery-mobile-map-js)
   * **@Esri/html5-geolocation-tool-js**: [use this fun jQuery Mobile web app to test HTML5 geolocation on different devices](https://github.com/Esri/html5-geolocation-tool-js)

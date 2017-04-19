@@ -17,6 +17,8 @@ https://github.com/Robert-W/esri-redux
 
 [Legend control for ArcGIS JS v4 using React and Redux](https://github.com/davetimmins/arcgis-react-redux-legend)
 
+https://developers.arcgis.com/javascript/latest/sample-code/widgets-frameworks-react/index.html
+
 * React | Follow: [@odoe](https://github.com/odoe) & [@tomwayson](https://github.com/tomwayson)
   * [EsriJS with React example](https://github.com/odoe/esrijs-react)
   * [Using ErsiJS 4.0 View Models with React](https://github.com/odoe/esrijs4-vm-react)

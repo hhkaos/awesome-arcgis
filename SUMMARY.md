@@ -78,6 +78,7 @@
   - [Best Practices](devops/best-practices/README.md)
 - [Esri](esri/README.md)
   - [Brand](esri/brand/README.md)
+  - [Community](esri/community/README.md)
   - [Events](esri/events/README.md)
   - [R And D](esri/r-and-d/README.md)
   - [Startup Program](esri/startup-program/README.md)

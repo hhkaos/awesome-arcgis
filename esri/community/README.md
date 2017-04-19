@@ -11,6 +11,7 @@
   - [Netherlands](#netherlands)
   - [Spain](#spain)
   - [UK](#uk)
+  - [USA](#usa)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

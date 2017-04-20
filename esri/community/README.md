@@ -5,7 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Local community initiatives](#local-community-initiatives)
+- [Community initiatives](#community-initiatives)
   - [Colombia](#colombia)
   - [Germany](#germany)
   - [Netherlands](#netherlands)

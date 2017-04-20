@@ -13,7 +13,8 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 - [Resources](#resources)
 - [Utils](#utils)
 - [News](#news)
-- [Resources in Spanish](#resources-in-spanish)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -49,7 +50,9 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 ## News
 * [Vector Basemaps at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-basemap/)
 
-## Resources in Spanish
+## Localized resources
+
+### Spanish
 * [Introducción a los mapas vectoriales de ArcGIS](http://www.geodevelopers.org/academy/)
 * Personalizar mapas vectoriales y consumirlos con AngularJS: [Vídeo](http://www.geodevelopers.org/academy/) & [Tutorial](https://docs.google.com/document/d/1VJ2gU8HZ7rkBXg_mtPYJl34rtGqLVKbbIc9HZ-fKByg/edit?usp=sharing)
 

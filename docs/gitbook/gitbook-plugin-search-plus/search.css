@@ -39,3 +39,6 @@
 #book-search-results span.search-highlight-keyword {
   background: #ff0;
 }
+#book-search-results.search-plus .search-results .has-results .search-results-item {
+  color: inherit;
+}

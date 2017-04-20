@@ -5,6 +5,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Community](#community)
+- [People you should know](#people-you-should-know)
 - [More resources](#more-resources)
 - [Contributions](#contributions)
 
@@ -17,6 +19,19 @@ we will show you how in this page.
   * [Ember CLI Addon for using AMD libraries](https://github.com/Esri/ember-cli-amd)
 
 [ArcGIS API for JavaScript Using it with EmberJS](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
+
+## Community
+* If you need help with a specific plugin/project try at the repository issues
+
+## People you should know
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|---|
+|![Rene Rubalcava](https://avatars2.githubusercontent.com/u/206462?v=3&s=50)|Rubalcava|[Github](https://github.com/odoe)|[Twitter](https://twitter.com/odoenet)|n.a.|n.a.|
 
 ## More resources
 We recommend you to take a look to:

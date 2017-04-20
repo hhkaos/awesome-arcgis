@@ -6,7 +6,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-- [More resources](#more-resources)
+- [Related resources](#related-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -20,7 +20,7 @@ we will show you how in this page.
   * [DevSummit 2013: Knockout, backbone and Angular samples](http://driskull.github.io/framework-samples-js)
   * [Video 2012 - Have a Little Backbone: An MVC JavaScript Framework for ...](http://video.esri.com/watch/1257/have-a-little-backbone-an-mvc-javascript-framework-for-your-next-generation-apps#sthash.FjPVzjoC.dpuf)
 
-## More resources
+## Related resources
 We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)

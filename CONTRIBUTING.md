@@ -12,7 +12,7 @@ Please feel free to contribute to this list. The technology change fast and
 some resources may be out to date.
 
 A sample resources list that shows what we are trying to collect on each page is the
-[Web AppBuilder resource page](front-end/technologies/dojo/web-appbuilder/README.md).
+[Web AppBuilder resource page](arcgis/products/web-appbuilder/README.md).
 
 Ways to contribute:
 * If you find a broken link feel free to [open an issue](issue) or add a comment on Disqus

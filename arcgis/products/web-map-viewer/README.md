@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
-# Web Map Editor
+# Web Map Viewer
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -15,15 +15,15 @@
 ##Introduction
 
 It also allow you to build apps using:
-* [Configurable apps](configurable-apps)
+* [Configurable apps](../configurable-apps/README.md)
 * A hosted version on ArcGIS Online or Portal of [Web AppBuilder](../web-appbuilder/README.md)
 
 ## ArcGIS Online
-[![Web Map Editor](images/web-map-editor.png)](https://www.arcgis.com/home/webmap/viewer.html)
+[![Web Map Viewer](images/web-map-viewer.png)](https://www.arcgis.com/home/webmap/viewer.html)
 
 You can start using it without an account but you want be to able to save what you did, perform analysis, etc.
 
-So I recommend you to [sign up for a free account](https://developers.arcgis.com/sign-up/) and the [login in the Web Map Editor](https://www.arcgis.com/home/webmap/viewer.html).
+So I recommend you to [sign up for a free account](https://developers.arcgis.com/sign-up/) and the [login in the Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html).
 
 ## Portal for ArcGIS
 

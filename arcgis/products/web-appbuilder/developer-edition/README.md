@@ -19,7 +19,8 @@
 - [News](#news)
 - [More resources](#more-resources)
 - [Resources in other languages](#resources-in-other-languages)
-- [Resources in Spanish](#resources-in-spanish)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -71,6 +72,7 @@ code and helping other developers here:
 * Widgets & Themes:
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
   * [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo
+  * [Web AppBuilder - The custom widgets links list (3/27/2017)](https://geonet.esri.com/blogs/myAlaskaGIS/2017/03/04/web-appbuilder-the-custom-widgets-list-332017)
   * [Components for the ArcGIS WebApp Builder](https://github.com/Esri/arcgis-webappbuilder-widgets-themes) repo
   * [Environmental Protection Agency (EPA) - Widgets and themes](https://github.com/USEPA/Public_Web_AppBuilder)
   * Choose "ArcGIS Web AppBuilder" on [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
@@ -98,7 +100,9 @@ technology so we recommend you to follow them.
 ## Resources in other languages
 You may find more localized resources in you country, check [this list](https://github.com/hhkaos/awesome-arcgis#localized-resource-lists).
 
-## Resources in Spanish
+## Localized resources
+
+### Spanish
 Además de las noticias sobre algunas novedades de la versión para desarrolladores que encontrarás [desarrolladores.esri.es](http://desarrolladores.esri.es/) hemos recopilado los siguientes recursos.
 
 * **Charlas técnicas**:

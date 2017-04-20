@@ -36,9 +36,9 @@ This diagram displays an overview of the technologies available for ArcGIS devel
 
 ## Getting started
 You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to be able to:
-* Download some tools: the SDKs for [mobile](mobile/README.md) or [desktop](desktop/README.md) developers, [Web AppBuilder Developer Edition](front-end/technologies/dojo/web-appbuilder/README.md), etc.
+* Download some tools: the SDKs for [mobile](mobile/README.md) or [desktop](desktop/README.md) developers, [Web AppBuilder Developer Edition](arcgis/products/web-appbuilder/README.md), etc.
 * [Store data](arcgis/content/README.md) in [ArcGIS Online](arcgis/products/arcgis-online/README.md)
-* Use de ArcGIS Online [Web Map Editor](arcgis/products/web-map-viewer/README.md)
+* Use de ArcGIS Online [Web Map Viewer](arcgis/products/web-map-viewer/README.md)
 * Build [Web Maps](arcgis/open-specifications/web-map/README.md)
 * Use the [ready to use services](arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md)
 * etc.

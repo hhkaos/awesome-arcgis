@@ -5,11 +5,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Training](#training)
 - [Get the tools](#get-the-tools)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Training
 https://learn.arcgis.com/en/projects/get-started-with-the-scene-viewer/
 
 http://odoe.net/blog/intro-arcgis-sceneviewer/

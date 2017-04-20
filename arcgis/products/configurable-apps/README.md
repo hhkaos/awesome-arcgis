@@ -24,7 +24,8 @@ mechanism that allows users of an organization to create and configure
 - [Share your work](#share-your-work)
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
-- [Resources in Spanish](#resources-in-spanish)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -78,7 +79,7 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 
 
 ### Documentation
-* How to use ArcGIS [Web Map editor](../../../../arcgis/products/web-map-viewer/README.md) to
+* How to use ArcGIS [Web Map Viewer](../../../../arcgis/products/web-map-viewer/README.md) to
 [build web applications using web maps webmaps](https://doc.arcgis.com/en/arcgis-online/create-maps/create-map-apps.htm)
 * [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
 * [How to add a template to ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm#ESRI_SECTION1_0D1B620254F745AE84F394289F8AF44B)
@@ -209,7 +210,9 @@ and sharing insights related to this technology so we recommend you to follow th
   * [Get the latest Esri Story Maps news and tips delivered directly to you **by email**](http://go.esri.com/planet-story-maps)
 * [What's New in Configurable Apps](https://blogs.esri.com/esri/arcgis/author/Matt-655/)
 
-## Resources in Spanish
+## Localized resources
+
+### Spanish
 * [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 

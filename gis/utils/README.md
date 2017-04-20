@@ -9,6 +9,8 @@
   - [Format converters](#format-converters)
 - [Front end libraries](#front-end-libraries)
 - [Other](#other)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -34,6 +36,11 @@ help you during your developments.
 * [Postman](https://www.getpostman.com/)
 * [A swiss army knife for your ArcGIS Online and Portal for ArcGIS accounts](https://github.com/Esri/ago-assistant)
 * [Chrome extensions](http://communityhub.esriuk.com/geoxchange/2017/1/9/a-new-tool-to-quickly-search-the-latest-arcgis-documentation)
+
+## Localized resources
+
+### Spanish
+* [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

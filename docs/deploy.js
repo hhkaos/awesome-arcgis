@@ -107,15 +107,15 @@ exec(cmd, function(error, stdout, stderr) {
   console.log(stdout);
 });
 
-if(rm_docs){
-  var cmd = 'rm -rf docs && rm ab-results*';
+if(update_summary){
+  var cmd = 'node node_modules/gitbook-summary/bin/summary.js sm';
   exec(cmd, function(error, stdout, stderr) {
     console.log(stdout);
   });
 }
 
-if(update_summary){
-  var cmd = 'node node_modules/gitbook-summary/bin/summary.js sm';
+if(rm_docs){
+  var cmd = 'rm -rf docs && rm ab-results*';
   exec(cmd, function(error, stdout, stderr) {
     console.log(stdout);
   });

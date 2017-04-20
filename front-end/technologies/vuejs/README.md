@@ -8,7 +8,8 @@ Learn how to combine [Vue.js](http://vuejs.org/) with ArcGIS API for JavaScript
 
 - [Introduction](#introduction)
 - [Training](#training)
-- [More resources](#more-resources)
+- [People you should know](#people-you-should-know)
+- [Related resources](#related-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -22,7 +23,17 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 * [Using VueJS with ArcGIS API for JavaScript](http://odoe.net/blog/using-vuejs-arcgis-api-javascript/)
 * [ArcGIS API 4 for JS with Vue-cli and Nuxt](http://odoe.net/blog/arcgis-api-4-for-js-with-vue-cli-and-nuxt)
 
-## More resources
+## People you should know
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|---|
+|![Rene Rubalcava](https://avatars2.githubusercontent.com/u/206462?v=3&s=50)|Rubalcava|[Github](https://github.com/odoe)|[Twitter](https://twitter.com/odoenet)|n.a.|n.a.|
+
+## Related resources
 * [GIS Utils](../../../../gis/utils/README.md)
 
 Here you will find a lot of interesting resources to learn an improve your skills

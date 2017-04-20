@@ -26,7 +26,11 @@ mongodb for geoevent
 Operations
 Amazon AMIs
 Koop-docker
+
+# Chef
 [arcgis-cookbox (or chef)](Chef cookbook for ArcGIS)
+[wiki](https://github.com/esri/arcgis-cookbook/wiki)
+[Video](https://www.youtube.com/watch?v=0kIe_Ujb0VA&feature=youtu.be)
 
 koop
 
@@ -41,6 +45,8 @@ Python tools, nodejs,
 
 
 ## Amazon Web Services (AWS) AMIs
+Amazon Cloud formation templates?<- https://youtu.be/0kIe_Ujb0VA?t=5m6s
+Azure? Cloud builder? <-https://youtu.be/0kIe_Ujb0VA?t=5m6s
 ArcGIS Server en AWS:
 http://server.arcgis.com/en/server/latest/cloud/amazon/what-is-arcgis-server-on-aws.htm
 

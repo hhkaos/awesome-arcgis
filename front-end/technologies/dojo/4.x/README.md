@@ -38,6 +38,11 @@ http://odoe.net/blog/im-learning-typescript/
 
 [@ArcGISJSAPI](https://twitter.com/ArcGISJSAPI)
 
+[Migrating from 3.x to 4.x](https://developers.arcgis.com/javascript/latest/guide/migrating/index.html)
+
+[ArcGIS API for JavaScript Playground Symbol](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/index.html): A code generator app for the ArcGIS API for JavaScript ([tutorial](https://blogs.esri.com/esri/arcgis/2017/03/28/take-advantage-of-the-javascript-symbol-playground/))
+
+
 [Samples: Fly in space and look across the sea: demos and experiments with the ArcGIS API for JavaScript](https://github.com/jwasilgeo/esri-experiments)
 
 You can design nice apps using Dojo & [calcite](../../calcite/README.md)

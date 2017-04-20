@@ -78,7 +78,7 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 
 
 ### Documentation
-* How to use ArcGIS [Web Map editor](../../../../arcgis/products/web-map-editor/README.md) to
+* How to use ArcGIS [Web Map editor](../../../../arcgis/products/web-map-viewer/README.md) to
 [build web applications using web maps webmaps](https://doc.arcgis.com/en/arcgis-online/create-maps/create-map-apps.htm)
 * [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
 * [How to add a template to ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/share-maps/add-items.htm#ESRI_SECTION1_0D1B620254F745AE84F394289F8AF44B)

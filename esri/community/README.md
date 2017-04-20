@@ -16,7 +16,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Local community initiatives
+## Community initiatives
 There are many **initiatives for developers** running simultaneously around Esri Technologies worldwide.
 
 ### Colombia
@@ -58,10 +58,10 @@ There are many **initiatives for developers** running simultaneously around Esri
 * [GeoDev Midwest at Meetup](https://www.meetup.com/DevMeetUpMidwest/)
 * [GeoDev Southeast at Meetup](https://www.meetup.com/DevMeetUpSoutheast/)
 * [GeoDev Pacific at Meetup](https://www.meetup.com/DevMeetUpPacific/)
+* [GeoDev Arizona at Meetup](https://www.meetup.com/DevMeetUpArizona/)
+* [GeoDev California at Meetup](https://www.meetup.com/DevMeetUpCalifornia/)
 * [GeoDev Carolinas at Meetup](https://www.meetup.com/DevMeetupCarolinas/)
 * [GeoDev Colorado at Meetup](https://www.meetup.com/devmeetupcolorado/)
-* [GeoDev California at Meetup](https://www.meetup.com/DevMeetUpCalifornia/)
-* [GeoDev Arizona at Meetup](https://www.meetup.com/DevMeetUpArizona/)
 * [GeoDev Oregon at Meetup](https://www.meetup.com/DevMeetUpOregon/)
 * [GeoDev Texas at Meetup](https://www.meetup.com/DevMeetUpTexas/)
 * [GeoDev Washington at Meetup](https://www.meetup.com/DevMeetUpWashington/)

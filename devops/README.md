@@ -5,10 +5,11 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Code](#code)
-- [Amazon Web Services (AWS) AMIs](#amazon-web-services-aws-amis)
-- [Articles](#articles)
-- [Contributions](#contributions)
+- [Chef](#chef)
+  - [Code](#code)
+  - [Amazon Web Services (AWS) AMIs](#amazon-web-services-aws-amis)
+  - [Articles](#articles)
+  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

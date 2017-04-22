@@ -10,7 +10,11 @@ The [Web Scene Viewer](http://www.esri.com/software/scene-viewer) is a web tool 
 **Table of contents**
 
 - [Training](#training)
-- [Get the tools](#get-the-tools)
+  - [Tutorials](#tutorials)
+  - [Demos](#demos)
+  - [Documentation](#documentation)
+  - [Examples](#examples)
+- [Build apps](#build-apps)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

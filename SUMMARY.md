@@ -29,6 +29,7 @@
     - [Arcgis Rest Api](arcgis/open-specifications/arcgis-rest-api/README.md)
     - [I 3 S](arcgis/open-specifications/i3s/README.md)
     - [Web Map](arcgis/open-specifications/web-map/README.md)
+    - [Web Scene](arcgis/open-specifications/web-scene/README.md)
   - [Products](arcgis/products/README.md)
     - [Appstudio](arcgis/products/appstudio/README.md)
     - [Arcgis Desktop](arcgis/products/arcgis-desktop/README.md)

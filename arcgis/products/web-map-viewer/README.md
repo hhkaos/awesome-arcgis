@@ -9,9 +9,12 @@ The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web to
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [ArcGIS Online](#arcgis-online)
-- [Portal for ArcGIS](#portal-for-arcgis)
-- [Get the tool](#get-the-tool)
+- [Introduction](#introduction)
+- [Training](#training)
+  - [Tutorials](#tutorials)
+  - [Demos](#demos)
+  - [Documentation](#documentation)
+- [Build apps](#build-apps)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

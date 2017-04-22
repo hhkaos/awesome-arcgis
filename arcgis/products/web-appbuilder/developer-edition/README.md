@@ -1,7 +1,7 @@
 > Please [feel free to help us](#contributions) to improve this page.
 
 # Web AppBuilder for ArcGIS (Developer Edition)
-[Web AppBuilder](http://www.esri.com/software/web-appbuilder) is a WYSIWYG tool that allow any user to build map-centric app (*with a full screen map*) without writing any code. You as a web developer can add new widgets and themes or customize the existing ones.
+[Web AppBuilder](../README.md) **Developer Edition** is a WYSIWYG tool that allow any user to build 2D and 3D map-centric apps (*with a full screen map*) without writing any code. You as a web developer can add new widgets and themes or customize the existing ones.
 
 ---
 
@@ -28,13 +28,7 @@
 ---
 
 ## Introduction
-Web AppBuilder is:
-* For non-developers: A WYSIWYG tool that allow them to build and export responsive web apps adding and configuring pre-defined widgets and themes.
-
-* For developers: It is also a framework that can be extended adding custom
-themes and widgets.
-
-![Web AppBuilder](images/web-appbuilder.png)
+If you are not a developer please skip to the [Web AppBuilder hosted version](../README.md).
 
 The builder itself is written in NodeJS and can be downloaded from the [developer console](https://developers.arcgis.com/downloads/) but you will need at least to have a [free account](https://developers.arcgis.com/sign-up/) in order to be able to download it.
 
@@ -52,7 +46,6 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=5049&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-development-tools-and-techniques)|59min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=5048&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 5min 43secs
-|[UC](http://www.esri.com/events/user-conference) 2016|[Web AppBuilder for ArcGIS: Build Web Apps with No Coding](http://www.esri.com/videos/watch?videoid=qEJ7TX_ixEs&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-apps:-web-appbuilder-for-arcgis:-build-web-apps-with-no-coding)|1h 13min 53secs
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 

@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
-# Web Map specification
+# Web Scene specification
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -15,16 +15,10 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Resources
-## Training
-MOOC Plataforma arcgis para desarrolladores
+## Resources
 
-### Videos / Technical talks
-## Community
-## Code
-* consume webmaps using dojo
-* consume webmaps using Angular
-* consume webmaps using leaflet
+* [What is a Web Scene](http://doc.arcgis.com/en/arcgis-online/reference/what-is-web-scene.htm)
+* [Web scene specification](https://developers.arcgis.com/web-scene-specification/)
 
 
 ## People you should know

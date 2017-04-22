@@ -13,12 +13,11 @@ mechanism that allows users of an organization to create and configure
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Story maps](#story-maps)
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
   - [Documentation](#documentation)
 - [Apps developed by Esri](#apps-developed-by-esri)
-  - [Storymaps](#storymaps)
+  - [Story Maps](#story-maps)
   - [Crowdsource apps](#crowdsource-apps)
 - [Community](#community)
 - [Share your work](#share-your-work)

@@ -43,7 +43,8 @@ There are many useful resources, here you have a subset of them:
 |Resource|Level|Format|Details|
 |---|---|---|---|
 |[Get started with ArcGIS Online](http://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)|Beginner|Tutorial|Non developer approach|
-|[What are the items in ArcGIS Online?](http://odoe.net/blog/updated-arcgis-online-item-details-page/)|Beginner|Video|n.a.
+|[ArcGIS DevLabs](https://developers.arcgis.com/labs/)|Beginner|Tutorial|Developer|
+|[What are the items in ArcGIS Online?](http://odoe.net/blog/updated-arcgis-online-item-details-page/)|Beginner|Video|Dev & Non-dev approach
 |[ArcGIS Online available content](content)|Beginner|Wiki|Awesome list section
 |[ArcGIS Geodev Hackerlabs](https://github.com/Esri/geodev-hackerlabs)|Beginner|Tutorial|A place to learn how to build geo apps with the ArcGIS.|
 |[Web Map Viewer](../web-map-viewer/README.md)|Beginner|Wiki|Awesome list section|

@@ -31,10 +31,15 @@ required JavaScript resources which will make your application load faster.
 
 * [arcgis-js-api](https://github.com/Esri/arcgis-js-api): Bower friendly, minified version of the ArcGIS API for JavaScript
 
+* [NPM and ArcGIS API for JavaScript 4.3](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript/blog/2017/04/13/npm-and-arcgis-api-for-javascript-43)
+
 Grunt? Bower?
 
 ### Training
 #### Videos / Technical talks
+
+* [Using NPM with ArcGIS API for JavaScript](https://www.youtube.com/watch?v=i0MOsQ8rAjg)
+
 * [Optimizing Your JavaScript App for Performance](http://www.esri.com/videos/watch?videoid=5029&channelid=LegacyVideo&isLegacy=true&title=optimizing-your-javascript-app-for-performance)
 
 * [A Few of Our Favorite Things](http://www.esri.com/videos/watch?videoid=4541&channelid=LegacyVideo&isLegacy=true&title=a-few-of-our-favorite-things)

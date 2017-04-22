@@ -28,10 +28,7 @@ With ArcGIS Online you have everything you need to build powerful applications:
 * [Content](content/README.md)
 * [APIs](rest-apis/ready-to-use-services/README.md)
 * [Developer console](developer-console/README.md)
-* [Web Map viewer](../web-map-viewer/README.md)
-* [Scene viewer](../scene-viewer/README.md)
-* [Web AppBuilder](../web-appbuilder/README.md) (hosted version)
-* [Configurable apps](../configurable-apps/README.md)
+* [Apps](#Apps)
 
 You can create a developer account an choose the essentials plan for free to get started.
 
@@ -55,11 +52,22 @@ There are many useful resources, here you have a subset of them:
 |[REST APIs](rest-apis)|Intermediate|Wiki|Awesome list section
 |[Instructional Guide for The ArcGIS Book ](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=303&moduleID=0)|n.a.|Book|$59.99|
 
-https://learn.arcgis.com/en/projects/get-started-with-arcgis-online
-
 ## Community
 * [ArcGIS Online at Geonet](https://geonet.esri.com/community/gis/web-gis/arcgisonline)
 * [ArcGIS Online Developers at Geonet](https://geonet.esri.com/community/developers/web-developers/arcgis-online-developers)
+
+## Apps
+
+There are multiple apps hosted in ArcGIS Online:
+* [Web Map viewer](../web-map-viewer/README.md)
+* [Web Scene viewer](../scene-viewer/README.md)
+* [Workforce](../workforce/README.md)
+
+But you also have app builders ready to use:
+* [Web AppBuilder](../web-appbuilder/README.md) (hosted version)
+* [Configurable apps](../configurable-apps/README.md) & Storymaps
+* [AppStudio](../appstudio/README.md)
+* [Survey123](../survey123/README.md)
 
 ## Tools
 These are pretty awesome tools to manage and automate your ArcGIS Online account:

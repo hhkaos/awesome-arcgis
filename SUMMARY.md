@@ -2,6 +2,7 @@
 
 - [Ar](ar/README.md)
 - [Arcgis](arcgis/README.md)
+  - [3 D](arcgis/3d/README.md)
   - [Account Types](arcgis/account-types/README.md)
   - [Arcade](arcgis/arcade/README.md)
   - [Best Practices](arcgis/best-practices/README.md)
@@ -11,6 +12,7 @@
       - [Dynamic Map Service](arcgis/content/service-types/dynamic-map-service/README.md)
       - [Feature Service](arcgis/content/service-types/feature-service/README.md)
       - [Ogc Service](arcgis/content/service-types/ogc-service/README.md)
+      - [Scene Service](arcgis/content/service-types/scene-service/README.md)
       - [Tile Map Service](arcgis/content/service-types/tile-map-service/README.md)
         - [Image Tiles](arcgis/content/service-types/tile-map-service/image-tiles/README.md)
         - [Vector Tiles](arcgis/content/service-types/tile-map-service/vector-tiles/README.md)
@@ -58,6 +60,7 @@
     - [Web Appbuilder](arcgis/products/web-appbuilder/README.md)
       - [Developer Edition](arcgis/products/web-appbuilder/developer-edition/README.md)
     - [Web Map Viewer](arcgis/products/web-map-viewer/README.md)
+    - [Workforce](arcgis/products/workforce/README.md)
   - [Smart Mapping](arcgis/smart-mapping/README.md)
   - [Spatial Analysis](arcgis/spatial-analysis/README.md)
 - [Back End](back-end/README.md)

@@ -7,6 +7,12 @@ It is a web and mobile app that can be use to manage your workforce for field in
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Training](#training)
+  - [Videos](#videos)
+- [Downloads](#downloads)
+- [Code](#code)
+- [Community](#community)
+- [News](#news)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

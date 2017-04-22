@@ -14,6 +14,7 @@ find geolocated data, build maps, analyze information, etc.
 - [Introduction](#introduction)
 - [Training](#training)
 - [Community](#community)
+- [Apps](#apps)
 - [Tools](#tools)
 - [Get an account](#get-an-account)
 - [News](#news)

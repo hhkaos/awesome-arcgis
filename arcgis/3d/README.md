@@ -5,11 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Developer account](#developer-account)
-- [Organization account](#organization-account)
-- [Esri.com account](#esricom-account)
-- [ArcGIS.com account](#arcgiscom-account)
-- [Contributions](#contributions)
+- [Introduction](#introduction)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -7,6 +7,8 @@ It is an native (Android, iOS, Windows, OS X and Linux) and web app builder that
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Survey123 Online version](#survey123-online-version)
+- [Survey123 Native version](#survey123-native-version)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

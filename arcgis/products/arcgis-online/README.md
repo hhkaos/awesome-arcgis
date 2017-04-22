@@ -47,7 +47,7 @@ There are many useful resources, here you have a subset of them:
 |[ArcGIS Online available content](content)|Beginner|Wiki|Awesome list section
 |[ArcGIS Geodev Hackerlabs](https://github.com/Esri/geodev-hackerlabs)|Beginner|Tutorial|A place to learn how to build geo apps with the ArcGIS.|
 |[Web Map Viewer](../web-map-viewer/README.md)|Beginner|Wiki|Awesome list section|
-|[Scene viewer](../scene-viewer/README.md)|Beginner|Wiki|Awesome list section|
+|[Scene viewer](../web-scene-viewer/README.md)|Beginner|Wiki|Awesome list section|
 |[ArcGIS Online Administrators Wiki](https://github.com/Esri/ago-admin-wiki/wiki)|Beginner|Wiki|n.a.|
 |[Authentication](https://developers.arcgis.com/authentication/)|Intermediate|API Reference|n.a.|
 |[REST APIs](rest-apis)|Intermediate|Wiki|Awesome list section
@@ -61,7 +61,7 @@ There are many useful resources, here you have a subset of them:
 
 There are multiple apps hosted in ArcGIS Online:
 * [Web Map viewer](../web-map-viewer/README.md)
-* [Web Scene viewer](../scene-viewer/README.md)
+* [Web Scene viewer](../web-scene-viewer/README.md)
 * [Workforce](../workforce/README.md)
 
 But you also have app builders ready to use:

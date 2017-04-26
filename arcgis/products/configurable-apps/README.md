@@ -13,12 +13,11 @@ mechanism that allows users of an organization to create and configure
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Story maps](#story-maps)
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
   - [Documentation](#documentation)
 - [Apps developed by Esri](#apps-developed-by-esri)
-  - [Storymaps](#storymaps)
+  - [Story Maps](#story-maps)
   - [Crowdsource apps](#crowdsource-apps)
 - [Community](#community)
 - [Share your work](#share-your-work)
@@ -48,14 +47,6 @@ Check the configurable apps Esri has been releasing during the last years:
 You can see a [full list of configurable apps](http://www.arcgis.com/home/search.html?q=tags%3AArcGIS%20web%20application%20template%20owner%3Aesri_en&t=content&sortField=modified&sortOrder=desc) on
 [ArcGIS Online](../../../../arcgis/products/arcgis-online/README.md) and
 [Portal for ArcGIS](../../../../arcgis/products/arcgis-enterprise/portal-for-arcgis/README.md)
-
-## Story maps
-Those applications which are design to tell a story are called
-[**storymaps**](https://storymaps.arcgis.com/en/). You can check a full list of
-them [here](https://storymaps.arcgis.com/en/app-list/).
-
-You may also want to take a look to some [great examples of customizations made
-by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:customized) to our out of the box Story Maps apps.
 
 ## Training
 Esri's formal training: (*available with a current maintenance subscription*)
@@ -146,7 +137,13 @@ The Social Media Template has an innovative use of social media, which allows yo
 
 * [local-perspective](https://github.com/SpatialAgent/local-perspective): Highlights features within a buffered distance of a user-selected location. Allows users to scroll through operational layers in the map to explore that location. Also provides demographic data, lifestyle data, live weather feed, and directions.
 
-### Storymaps
+### Story Maps
+
+[Story Maps](https://storymaps.arcgis.com/en/) are configurable apps designed specifically to help you tell a story.
+
+You will find more information, tutorials and galleries for every story map at: [storymaps.arcgis.com/en/app-list](https://storymaps.arcgis.com/en/app-list/)
+
+If you are a developer you may also want to take a look to some [great examples of customizations made by developers](http://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-format:customized) to our out of the box Story Maps apps.
 
 * [map-tour-storytelling-template-js](https://github.com/Esri/map-tour-storytelling-template-js):
 The Story Map Tour is ideal when you want to present a linear, place-based

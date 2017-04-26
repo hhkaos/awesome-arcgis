@@ -5,9 +5,9 @@ require([
   var MAX_DESCRIPTION_SIZE = 500
   var state = gitbook.state
   var INDEX_DATA = {}
-  var usePushState = (typeof history.pushState !== 'undefined')
+  var usePushState = (typeof window.history.pushState !== 'undefined')
 
-    // DOM Elements
+  // DOM Elements
   var $body = $('body')
   var $bookSearchResults
   var $searchList
@@ -15,13 +15,13 @@ require([
   var $searchResultsCount
   var $searchQuery
 
-    // Throttle search
+  // Throttle search
   function throttle (fn, wait) {
     var timeout
 
     return function () {
-      var ctx = this,
-        args = arguments
+      var ctx = this
+      var args = arguments
       if (!timeout) {
         timeout = setTimeout(function () {
           timeout = null
@@ -43,14 +43,14 @@ require([
     var noResults = res.count == 0
     $bookSearchResults.toggleClass('no-results', noResults)
 
-        // Clear old results
+    // Clear old results
     $searchList.empty()
 
-        // Display title for research
+    // Display title for research
     $searchResultsCount.text(res.count)
     $searchQuery.text(res.query)
 
-        // Create an <li> element for each result
+    // Create an <li> element for each result
     res.results.forEach(function (item) {
       var $li = $('<li>', {
         'class': 'search-results-item'
@@ -64,7 +64,7 @@ require([
         'data-is-search': 1
       })
 
-      if ($link[0].href.split('?')[0] === location.href.split('?')[0]) {
+      if ($link[0].href.split('?')[0] === window.location.href.split('?')[0]) {
         $link[0].setAttribute('data-need-reload', 1)
       }
 
@@ -83,21 +83,25 @@ require([
   }
 
   function escapeRegExp (keyword) {
-        // escape regexp prevserve word
+    // escape regexp prevserve word
     return String(keyword).replace(/([-.*+?^${}()|[\]\/\\])/g, '\\$1')
   }
 
   function query (keyword) {
     if (keyword == null || keyword.trim() === '') return
-
-    var results = [],
-      index = -1
+    keyword = keyword.toLowerCase()
+    var results = []
+    var index = -1
     for (var page in INDEX_DATA) {
-      if ((index = INDEX_DATA[page].body.toLowerCase().indexOf(keyword.toLowerCase())) !== -1) {
+      var store = INDEX_DATA[page]
+      if (
+        ~store.keywords.toLowerCase().indexOf(keyword) ||
+        ~(index = store.body.toLowerCase().indexOf(keyword))
+      ) {
         results.push({
           url: page,
-          title: INDEX_DATA[page].title,
-          body: INDEX_DATA[page].body.substr(Math.max(0, index - 50), MAX_DESCRIPTION_SIZE)
+          title: store.title,
+          body: store.body.substr(Math.max(0, index - 50), MAX_DESCRIPTION_SIZE)
                     .replace(/^[^\s,.]+./, '').replace(/(..*)[\s,.].*/, '$1') // prevent break word
                     .replace(new RegExp('(' + escapeRegExp(keyword) + ')', 'gi'), '<span class="search-highlight-keyword">$1</span>')
         })
@@ -111,7 +115,7 @@ require([
   }
 
   function launchSearch (keyword) {
-        // Add class for loading
+    // Add class for loading
     $body.addClass('with-search')
     $body.addClass('search-loading')
 
@@ -129,15 +133,15 @@ require([
   }
 
   function bindSearch () {
-        // Bind DOM
+    // Bind DOM
     var $body = $('body')
 
-        // Launch query based on input content
+    // Launch query based on input content
     function handleUpdate () {
       var $searchInput = $('#book-search-input input')
       var keyword = $searchInput.val()
 
-      if (keyword.length == 0) {
+      if (keyword.length === 0) {
         closeSearch()
       } else {
         launchSearch(keyword)
@@ -148,7 +152,7 @@ require([
       if (e.keyCode === 13) {
         if (usePushState) {
           var uri = updateQueryString('q', $(this).val())
-          history.pushState({
+          window.history.pushState({
             path: uri
           }, null, uri)
         }
@@ -156,12 +160,12 @@ require([
       handleUpdate()
     })
 
-        // Push to history on blur
+    // Push to history on blur
     $body.on('blur', '#book-search-input input', function (e) {
-            // Update history state
+      // Update history state
       if (usePushState) {
         var uri = updateQueryString('q', $(this).val())
-        history.pushState({
+        window.history.pushState({
           path: uri
         }, null, uri)
       }
@@ -177,7 +181,7 @@ require([
     })
   })
 
-    // 高亮文本
+  // highlight
   var highLightPageInner = function (keyword) {
     $('.page-inner').mark(keyword, {
       'ignoreJoiners': true,
@@ -195,7 +199,7 @@ require([
 
   function showResult () {
     var keyword, type
-    if (/\b(q|h)=([^&]+)/.test(location.search)) {
+    if (/\b(q|h)=([^&]+)/.test(window.location.search)) {
       type = RegExp.$1
       keyword = decodeURIComponent(RegExp.$2)
       if (type === 'q') {
@@ -209,16 +213,6 @@ require([
 
   gitbook.events.on('page.change', showResult)
 
-  function getParameterByName (name) {
-    var url = window.location.href
-    name = name.replace(/[\[\]]/g, '\\$&')
-    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)', 'i'),
-      results = regex.exec(url)
-    if (!results) return null
-    if (!results[2]) return ''
-    return decodeURIComponent(results[2].replace(/\+/g, ' '))
-  }
-
   function updateQueryString (key, value) {
     value = encodeURIComponent(value)
 
@@ -228,8 +222,8 @@ require([
       }
       return ''
     })
-    var re = new RegExp('([?&])' + key + '=.*?(&|#|$)(.*)', 'gi'),
-      hash
+    var re = new RegExp('([?&])' + key + '=.*?(&|#|$)(.*)', 'gi')
+    var hash
 
     if (re.test(url)) {
       if (typeof value !== 'undefined' && value !== null) { return url.replace(re, '$1' + key + '=' + value + '$2$3') } else {
@@ -251,7 +245,7 @@ require([
   window.addEventListener('click', function (e) {
     if (e.target.tagName === 'A' && e.target.getAttribute('data-need-reload')) {
       setTimeout(function () {
-        location.reload()
+        window.location.reload()
       }, 100)
     }
   }, true)

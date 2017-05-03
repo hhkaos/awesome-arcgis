@@ -40,6 +40,7 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[GeoEvent Server: Internet of Things (IoT)](https://www.youtube.com/watch?v=n-UGR-QJ0m4&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E&index=1)|1h 01min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Real-Time GIS: GeoEvent Extension](http://www.esri.com/videos/watch?videoid=5019&channelid=LegacyVideo&isLegacy=true&title=real-time-gis:-geoevent-extension)|1h 02min 14secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Real-Time GIS: Leveraging Stream Services](http://www.esri.com/videos/watch?videoid=5021&channelid=LegacyVideo&isLegacy=true&title=real-time-gis:-leveraging-stream-services)|55min 58secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Real-Time GIS: Best Practices](http://www.esri.com/videos/watch?videoid=4361&isLegacy=true&title=arcgis-geoevent-extension-for-server-creating-processors-with-the-sdk)|1h 04min 34secs

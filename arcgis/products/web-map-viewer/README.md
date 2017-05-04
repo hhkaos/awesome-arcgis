@@ -60,7 +60,17 @@ Step by step tutorials:
 
 ## Build apps
 
-After you finish your Web map you can easly create apps combining it with [configurable apps](../configurable-apps/README.md), the hosted version on ArcGIS Online or Portal of [Web AppBuilder](../web-appbuilder/README.md) and also with [AppStudio basic](../appstudio/README.md).
+After you finish your Web map you can easily create apps combining it with [configurable apps](../configurable-apps/README.md), the hosted version on ArcGIS Online or Portal of [Web AppBuilder](../web-appbuilder/README.md) and also with [AppStudio basic](../appstudio/README.md).
+
+## Localized resources
+
+### Spanish
+* [Introducción a la interfaz de Web Map Viewer](https://www.youtube.com/watch?v=hM_-Ta_27a8)
+* [Cargar un CSV con coordenadas en ArcGIS Online](https://www.youtube.com/watch?v=tHy3ecKKZTM)
+* [Simbología y smart mapping en ArcGIS Online](https://www.youtube.com/watch?v=WZ0IHyOtqMk)
+* [ArcGIS Web Map Viewer - WMS, WMTS, vector y tile layers](https://www.youtube.com/watch?v=UT4u0P6XTtI&feature=youtu.be)
+* [Análisis de áreas de influencia](https://www.youtube.com/watch?v=vTLlRVCurtA)
+* [Análisis de geoenriquecimiento](https://www.youtube.com/watch?v=MvKPced5oI8)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

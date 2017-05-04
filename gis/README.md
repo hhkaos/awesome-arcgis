@@ -16,6 +16,10 @@ resources to get on board.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## What is GIS
+
+[1000 GIS Applications & Uses – How GIS Is Changing the World](http://gisgeography.com/gis-applications-uses/)
+
 ## Coordinate System
 * [Coordinate system IDs](https://developers.arcgis.com/javascript/3/jshelp/ref_coordsystems.html)
 

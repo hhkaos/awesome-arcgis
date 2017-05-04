@@ -14,7 +14,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Pending
-* [ ] Add [1000 GIS Applications & Uses – How GIS Is Changing the World](http://gisgeography.com/gis-applications-uses/)
 * [ ] The ArcGIS Book: https://learn.arcgis.com/en/arcgis-book/
 * [ ] Add ideas.esri.com somewhere
 * [ ] Add codesharing.arcgis.com

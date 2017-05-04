@@ -8,6 +8,7 @@ resources to get on board.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [What is GIS](#what-is-gis)
 - [Coordinate System](#coordinate-system)
 - [Spatial reference](#spatial-reference)
 - [Projection](#projection)

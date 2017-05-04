@@ -15,6 +15,8 @@ The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web to
   - [Demos](#demos)
   - [Documentation](#documentation)
 - [Build apps](#build-apps)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

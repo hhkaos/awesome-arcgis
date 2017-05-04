@@ -100,6 +100,7 @@
       - [3.x](front-end/technologies/dojo/3.x/README.md)
       - [4.x](front-end/technologies/dojo/4.x/README.md)
       - [Offline Editor Js](front-end/technologies/dojo/offline-editor-js/README.md)
+    - [Electron](front-end/technologies/electron/README.md)
     - [Elm](front-end/technologies/elm/README.md)
     - [Ember](front-end/technologies/ember/README.md)
     - [Jquery](front-end/technologies/jquery/README.md)

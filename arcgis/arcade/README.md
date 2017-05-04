@@ -6,7 +6,10 @@
 **Table of contents**
 
 - [Documentation](#documentation)
-- [Videos](#videos)
+- [Videos / Technical talks](#videos--technical-talks)
+- [Code samples](#code-samples)
+- [Blog posts](#blog-posts)
+- [Arcade Playground](#arcade-playground)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

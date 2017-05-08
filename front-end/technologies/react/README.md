@@ -29,6 +29,9 @@ https://developers.arcgis.com/javascript/latest/sample-code/widgets-frameworks-r
 
   [React Component for rendering ESRI maps](https://github.com/socialradar/react-esri-map)
 
+
+https://github.com/ynunokawa/react-webmap
+
 ## Community
 * [Stackoverflow: [react] and [arcgis]](http://stackoverflow.com/search?q=%5Breact%5D+and+%5Barcgis%5D)
 * You can also ask on [GeoNet](https://geonet.esri.com)

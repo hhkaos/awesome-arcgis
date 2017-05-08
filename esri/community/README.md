@@ -66,6 +66,18 @@ There are many **initiatives for developers** running simultaneously around Esri
 * [GeoDev Texas at Meetup](https://www.meetup.com/DevMeetUpTexas/)
 * [GeoDev Washington at Meetup](https://www.meetup.com/DevMeetUpWashington/)
 
+## People you should know
+
+There are some people you should know leading this initiatives:
+
+|Photo|Name|Country|Twitter|Github|
+|---|---|---|---|---|
+|![Jose](https://pbs.twimg.com/profile_images/650824308957253633/C2E24jbi_400x400.png)|[Jose Medina](http://linkedin.com/in/josemedinab)|Argentina|[@josemanuel_mb](https://twitter.com/josemanuel_mb)|n.a.
+|![Lars](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/005/01b/0e3/36c6d5b.jpg)|[Lars Schmitz](https://www.linkedin.com/in/larsschmitz/)|Germany|[@pilukinum](https://twitter.com/pilukinum)|n.a.
+|![Mark](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/006/081/3600517.jpg)|[Mark Jagt](https://www.linkedin.com/in/markjagt)|Netherlands|n.a.|n.a.
+|![Raul](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/01c/2dd/1be9db8.jpg)|[Raul Jimenez](https://es.linkedin.com/in/jimenezortegaraul)|Spain|[@hhkaos](https://www.twitter.com/hhkaos)|[@hhkaos](https://www.github.com/hhkaos)
+|![Sean](https://pbs.twimg.com/profile_images/796784416710361088/aV5HxrRh_400x400.jpg)|[Sean MacGee](https://www.linkedin.com/in/hertswestuk/)|UK|[@hertswestuk](https://twitter.com/hertswestuk)|[@smcgee2](https://github.com/smcgee2)
+|![David](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA3NAAAAJGY5YmYyZDkxLTkzZmItNDA5Ni05YzYwLWI0MTc2MGZiMWE2Mg.jpg)|[David Martinez](https://www.linkedin.com/in/david-martinez-7682392/)|USA|[@davidjmart](https://twitter.com/davidjmart)|[dmartine](https://github.com/dmartine)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

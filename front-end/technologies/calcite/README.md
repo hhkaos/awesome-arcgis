@@ -35,6 +35,13 @@ properties
   * [calcite-maps](https://github.com/Esri/calcite-maps/)
   * [calcite-maps-styler-template](https://github.com/Esri/calcite-maps-styler-template): An ArcGIS configurable application for creating, styling and sharing modern-looking 2D and 3D map apps. Built with ArcGIS for Javascript API v4, Calcite Maps and Bootstrap.
 
+## Videos / Technical talks
+
+
+  |Source|Title|Length|
+  |---|---|---|
+  |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Designing Great UX/UI with Calcite Maps Apps](https://youtu.be/Q1Zm9lwKMMo?list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E)|48min 55secs|
+
 ## Community
 * If you need help with a specific plugin/project try at the repository issues
 

@@ -9,6 +9,7 @@
   - [Calcite web](#calcite-web)
   - [Calcite maps](#calcite-maps)
 - [Code](#code)
+- [Videos / Technical talks](#videos--technical-talks)
 - [Community](#community)
 - [Contributions](#contributions)
 

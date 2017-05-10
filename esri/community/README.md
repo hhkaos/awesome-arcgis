@@ -74,6 +74,7 @@ There are some people you should know leading this initiatives:
 |Photo|Name|Country|Twitter|Github|
 |---|---|---|---|---|
 |![Jose](./img/jose_medina.png)|[Jose Medina](http://linkedin.com/in/josemedinab)|Argentina|[@josemanuel_mb](https://twitter.com/josemanuel_mb)|n.a.
+|![Marta](./img/marta_ines.jpg)|[Marta Inês](https://www.linkedin.com/in/marta-ines-cifuentes-27380810/)|Colombia|[@mcifuentes77tw](https://twitter.com/mcifuentes77tw)| n.a.
 |![Lars](./img/lars_schmitz.jpg)|[Lars Schmitz](https://www.linkedin.com/in/larsschmitz/)|Germany|[@pilukinum](https://twitter.com/pilukinum)|n.a.
 |![Mark](./img/mark_jagt.jpg)|[Mark Jagt](https://www.linkedin.com/in/markjagt)|Netherlands|n.a.|n.a.
 |![Raul](./img/raul_jimenez.jpg)|[Raul Jimenez](https://es.linkedin.com/in/jimenezortegaraul)|Spain|[@hhkaos](https://www.twitter.com/hhkaos)|[@hhkaos](https://www.github.com/hhkaos)

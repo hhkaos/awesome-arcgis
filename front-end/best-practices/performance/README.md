@@ -42,7 +42,7 @@ Grunt? Bower?
 
 * [Optimizing Your JavaScript App for Performance](http://www.esri.com/videos/watch?videoid=5029&channelid=LegacyVideo&isLegacy=true&title=optimizing-your-javascript-app-for-performance)
 
-* [A Few of Our Favorite Things](http://www.esri.com/videos/watch?videoid=4541&channelid=LegacyVideo&isLegacy=true&title=a-few-of-our-favorite-things)
+* [A Few of Our Favorite Things: node (npm, bower, grunt, grunt-esri-slurp), AMD Butler, generator-dojo-widget, grunt-arcgis-press, Travis CI](http://www.esri.com/videos/watch?videoid=4541&channelid=LegacyVideo&isLegacy=true&title=a-few-of-our-favorite-things)
 
 * [Rocking and Tooling Your GeoDev Environment](http://www.esri.com/videos/watch?videoid=4368&channelid=LegacyVideo&isLegacy=true&title=rocking-and-tooling-your-geodev-environment)
 

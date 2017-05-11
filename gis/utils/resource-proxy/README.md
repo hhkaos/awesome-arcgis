@@ -4,7 +4,7 @@
 [Resource proxy](https://github.com/Esri/resource-proxy) allow you to solve
 [CORS](https://enable-cors.org/) problems when working with ArcGIS platform,
 but also to manage authentication (OAuth) to access secured services or use
-credit-consuming APIs, ... 
+credit-consuming APIs, ...
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -12,6 +12,7 @@ credit-consuming APIs, ...
 
 - [Introduction](#introduction)
 - [Resources](#resources)
+- [Videos](#videos)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -28,13 +29,17 @@ This is an Open Source project from Esri with proxy files in three different lan
 ## Resources
 
 * **Documentation**: [Proxy configuration settings](https://github.com/Esri/resource-proxy#proxy-configuration-settings)
-* **Video**: [Use Online Services without End-user Login with Resource-Proxy](http://www.esri.com/videos/watch?videoid=4305&channelid=LegacyVideo&isLegacy=true&title=use-online-services-without-end-user-login-with-resource-proxy)
-  * Slides: [PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_202.pdf)
-  * Length: 1h 04min 58secs
-  * Source: [DevSummit](http://www.esri.com/events/devsummit) 2015
 * **Community**:
   * [Resource proxy at GeoNet](https://geonet.esri.com/groups/resource-proxy)
   * [Github issues](https://github.com/Esri/resource-proxy/issues)
+
+## Videos
+|Source|Title|Length|Slides|
+|---|---|---|---|
+|[Odoenet](http://odoe.net/blog/adding-oauth-arcgis-js-apps/) 2016|[Adding OAuth to your ArcGIS JS Apps](https://www.youtube.com/watch?v=QaxLRtoTZls)|17min 11secs|--|
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[Use Online Services without End-user Login with Resource-Proxy](http://www.esri.com/videos/watch?videoid=4305&channelid=LegacyVideo&isLegacy=true&title=use-online-services-without-end-user-login-with-resource-proxy)|1h 04min 58secs|[PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_202.pdf)|
+
+
 
 ## Contributions
 Please **feel free to help us** to improve this list:

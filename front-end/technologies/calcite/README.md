@@ -38,7 +38,6 @@ properties
 
 ## Videos / Technical talks
 
-
   |Source|Title|Length|
   |---|---|---|
   |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Designing Great UX/UI with Calcite Maps Apps](https://youtu.be/Q1Zm9lwKMMo?list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E)|48min 55secs|

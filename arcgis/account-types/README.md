@@ -1,4 +1,5 @@
 > **Note**: this page is only a draft, [help us](#contributions).
+
 # ArcGIS Account types
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

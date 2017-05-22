@@ -14,36 +14,36 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-ArcGIS Server
+## ArcGIS Enterprise
+GIS Server
+
 Data Store
 Portal for ArcGIS
-GeoEvent
 Spatiotemporal Big Data Store
 
+### GeoEvent Server
 Extensions
-hadoop for geoevent
-mongodb for geoevent
+* hadoop for geoevent
+* mongodb for geoevent
 
-Operations
-Amazon AMIs
-Koop-docker
+## Chef
+Chef cookbook for ArcGIS:
 
-# Chef
-[arcgis-cookbox (or chef)](Chef cookbook for ArcGIS)
-[wiki](https://github.com/esri/arcgis-cookbook/wiki)
-[Video](https://www.youtube.com/watch?v=0kIe_Ujb0VA&feature=youtu.be)
+* [Repo](https://github.com/esri/arcgis-cookbook)
+* [Wiki](https://github.com/esri/arcgis-cookbook/wiki)
+* [Video](https://www.youtube.com/watch?v=0kIe_Ujb0VA&feature=youtu.be)
 
+## Koop
 koop
+Koop-docker
+[Sample provider for Koop](https://github.com/koopjs/koop-sample-provider)
 
+## Docker
 [docker-arcgis](https://github.com/mraad/docker-arcgis)
 [Using Apache Spark in an ArcMap Toolbox](https://github.com/mraad/SparkProject)
 
 ## Code
-[Sample provider for Koop](https://github.com/koopjs/koop-sample-provider)
-
 Python tools, nodejs,
-
-
 
 ## Amazon Web Services (AWS) AMIs
 Amazon Cloud formation templates?<- https://youtu.be/0kIe_Ujb0VA?t=5m6s

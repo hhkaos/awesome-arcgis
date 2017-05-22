@@ -41,6 +41,7 @@ You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to b
 * Use de ArcGIS Online [Web Map Viewer](arcgis/products/web-map-viewer/README.md)
 * Build [Web Maps](arcgis/open-specifications/web-map/README.md)
 * Use the [ready to use services](arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md)
+* If you want to learn about ArcGIS and GIS in general you should have a look at [our learning resources](http://learn.arcgis.com/). You´ll find guided tutorials about our tools.
 * etc.
 
 Know more about the [developer plans](arcgis/developer-plan/README.md).

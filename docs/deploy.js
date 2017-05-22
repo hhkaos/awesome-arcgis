@@ -33,6 +33,21 @@ var walk = function(dir, done) {
   });
 };
 
+var build_book = function(build){
+  if(build){
+    var cmd = 'node node_modules/gitbook-cli/bin/gitbook.js build';
+
+    exec(cmd, function(error, stdout, stderr) {
+      console.log("Building book: ",stdout);
+
+      var cmd = 'mv _book docs';
+      exec(cmd, function(error, stdout, stderr) {
+        console.log("Renaming folder ./books to ./docs ",stdout);
+      });
+    });
+  }
+}
+
 var links = false,
     rm_docs = true,
     update_summary = true,
@@ -97,39 +112,35 @@ if(links){
   });
 }
 
-var cmd = "node node_modules/gitbook-cli/bin/gitbook.js install";
-exec(cmd, function(error, stdout, stderr) {
-  console.log(stdout);
-});
-
-cmd = "rm SUMMARY.md && node node_modules/doctoc/doctoc.js --title '**Table of contents**' .";
-exec(cmd, function(error, stdout, stderr) {
-  console.log(stdout);
-});
-
-if(update_summary){
-  var cmd = 'node node_modules/gitbook-summary/bin/summary.js sm';
-  exec(cmd, function(error, stdout, stderr) {
-    console.log(stdout);
-  });
-}
-
 if(rm_docs){
   var cmd = 'rm -rf docs && rm ab-results*';
   exec(cmd, function(error, stdout, stderr) {
-    console.log(stdout);
+    console.log("Removing last deploy",stdout);
   });
 }
 
-if(build){
-  var cmd = 'node node_modules/gitbook-cli/bin/gitbook.js build';
+var cmd = "node node_modules/gitbook-cli/bin/gitbook.js install";
+exec(cmd, function(error, stdout, stderr) {
+  console.log("Installing/updating pluggins: ",stdout);
+});
 
+cmd = "rm SUMMARY.md'";
+exec(cmd, function(error, stdout, stderr) {
+  console.log("Removing old summary ",stdout);
+
+  cmd = "node node_modules/doctoc/doctoc.js --title '**Table of contents**' .";
   exec(cmd, function(error, stdout, stderr) {
-    console.log(stdout);
+    console.log("Updating tables of contents: ",stdout);
 
-    var cmd = 'mv _book docs';
-    exec(cmd, function(error, stdout, stderr) {
-      console.log(stdout);
-    });
+    if(update_summary){
+      var cmd = 'node node_modules/gitbook-summary/bin/summary.js sm';
+      exec(cmd, function(error, stdout, stderr) {
+        console.log("Updating summary: ", stdout);
+        build_book(build);
+      });
+    }else{
+      build_book(build);
+    }
+
   });
-}
+});

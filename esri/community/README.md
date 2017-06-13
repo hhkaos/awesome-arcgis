@@ -76,6 +76,7 @@ There are some people you should know leading this initiatives:
 |![Deiro González](./img/deiro-gonzalez.jpg)|[ Deiro González](https://www.linkedin.com/in/deironica/)|Colombia|[@deironica](https://twitter.com/deironica)| n.a.
 |![Lars](./img/lars_schmitz.jpg)|[Lars Schmitz](https://www.linkedin.com/in/larsschmitz/)|Germany|[@pilukinum](https://twitter.com/pilukinum)|n.a.
 |![Vijay](./img/vijay_kumar.jpg)|[Vijay Kumar](https://www.linkedin.com/in/vijaykumar1/?locale=en_US)|India|[@vijaysiwal](https://twitter.com/vijaysiwal)|n.a.
+|![Takahiro KAMIYA](./img/takahiro_kamiya.jpg)|Takahiro Kamiya|Japan|[@freedom_tk](https://twitter.com/freedom_tk)|n.a.
 |![Mark](./img/mark_jagt.jpg)|[Mark Jagt](https://www.linkedin.com/in/markjagt)|Netherlands|n.a.|n.a.
 |![Kevin Escalera Robles](./img/kevin-escalera.jpg)|[Kevin Escalera](https://www.linkedin.com/in/kescalera84/photo/)|Panama|[@kescalera84](https://twitter.com/kescalera84)|[@kescalera84](https://github.com/kescalera84)
 |![Raul](./img/raul_jimenez.jpg)|[Raul Jimenez](https://es.linkedin.com/in/jimenezortegaraul)|Spain|[@hhkaos](https://www.twitter.com/hhkaos)|[@hhkaos](https://www.github.com/hhkaos)

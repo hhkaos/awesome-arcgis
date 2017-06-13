@@ -9,6 +9,17 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Introduction
+
+Learn more about:
+
+* [Esri Startup program](startup-program/README.md)
+* [Esri's Open Vision](open-vision/README.md)
+* [Community](community/README.md): developer initiatives, international program managers, etc.
+* [Events](events/README.md): hackathons and developer events
+* [R&D Centers](r-and-d/README.md) in North America, Europe, Australia, Asia and Africa
+* [Brand](brand/README.md): colors, logos, etc.
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

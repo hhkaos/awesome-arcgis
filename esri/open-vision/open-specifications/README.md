@@ -12,7 +12,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-As part of the [Esri's Open Vision](http://www.esri.com/software/open), we are
+As part of the [Esri's Open Vision](../README.md), we are
 building [Open APIs and Specifications](http://www.esri.com/software/open/open-apis-and-specs) like:
 
 ## Specifications

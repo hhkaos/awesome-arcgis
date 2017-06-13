@@ -25,7 +25,7 @@ If you are one of those who do not like reading and prefer to learn by looking a
 If you are still reading ... go to "**[Technologies](technologies/README.md)**" to learn how to combine ArcGIS JS API with almost any other framework/library. Do not forget to read the [best practices](best-practices/README.md) in order to get the most of ArcGIS.
 
 ### Pricing
-There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using [custom vector maps](../arcgis/vector-tiles/README.md), [store geolocated data](../arcgis/content/service-types/README.md), use [webmaps](../arcgis/open-specifications/web-map/README.md), use the [smart-mapping](../arcgis/smart-mapping/README.md) tools, use some [ready to use services](../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md), etc we recommend you to [**sign up for a free account**](https://developers.arcgis.com/sign-up/).
+There is no technical restrictions that avoid you to start building web applications without signing up, but in order to be able to take the advantage of using [custom vector maps](../arcgis/vector-tiles/README.md), [store geolocated data](../arcgis/content/service-types/README.md), use [webmaps](../esri/open-vision/open-specifications/web-map/README.md), use the [smart-mapping](../arcgis/smart-mapping/README.md) tools, use some [ready to use services](../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md), etc we recommend you to [**sign up for a free account**](https://developers.arcgis.com/sign-up/).
 
 Learn more about pricing at: [ArcGIS > Developer Plan > Background > Web](../arcgis/developer-plan/background/web/README.md).
 

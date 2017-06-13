@@ -6,7 +6,12 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Specifications](#specifications)
+- [Open Standards](#open-standards)
+- [Data Interoperability](#data-interoperability)
+- [Open Data](#open-data)
+- [Open APIs and Specifications](#open-apis-and-specifications)
+- [Open Source](#open-source)
+- [Community](#community)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

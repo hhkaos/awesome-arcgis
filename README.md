@@ -39,7 +39,7 @@ You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to b
 * Download some tools: the SDKs for [mobile](mobile/README.md) or [desktop](desktop/README.md) developers, [Web AppBuilder Developer Edition](arcgis/products/web-appbuilder/README.md), etc.
 * [Store data](arcgis/content/README.md) in [ArcGIS Online](arcgis/products/arcgis-online/README.md)
 * Use de ArcGIS Online [Web Map Viewer](arcgis/products/web-map-viewer/README.md)
-* Build [Web Maps](arcgis/open-specifications/web-map/README.md)
+* Build [Web Maps](esri/open-vision/open-specifications/web-map/README.md)
 * Use the [ready to use services](arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md)
 * etc.
 

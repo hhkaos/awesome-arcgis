@@ -17,7 +17,7 @@ As a backend developer you will have three options to interact with ArcGIS:
 2. Though an on-premise infrastructure using [ArcGIS Enterprise](../arcgis/products/arcgis-enterprise/README.md)
 3. Or by and hybrid approach
 
-Anyhow you should understand how [ArcGIS REST APIs](../arcgis/open-specifications/arcgis-rest-api/README.md) works in order to be able to:
+Anyhow you should understand how [ArcGIS REST APIs](../esri/open-vision/open-specifications/arcgis-rest-api/README.md) works in order to be able to:
 * Geoenrich your data
 * Run spatial analysis
 * Find geolocated data
@@ -29,7 +29,7 @@ You will find some libraries built on [ruby, python and nodejs](technologies/REA
 
 We also recommend you to read the [best practices](best-practices/README.md).
 
-You will probably also interested on understanding some of our [open specifications](../arcgis/open-specifications/README.md)
+You will probably also interested on understanding some of our [open specifications](../esri/open-vision/open-specifications/README.md)
 in order to be able to read and interpret some content.
 
 If you are also interested on

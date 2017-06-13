@@ -22,7 +22,7 @@ A module that implements the dojo/store API for ArcGIS Server REST services.
 Make your own geocoder
 
 ## REST API
-[ArcGIS REST API](../../../open-specifications/arcgis-rest-api/README.md)
+[ArcGIS REST API](../../../../esri/open-vision/open-specifications/arcgis-rest-api/README.md)
 
 
 https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api

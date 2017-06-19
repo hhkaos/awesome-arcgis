@@ -31,6 +31,7 @@ As last resource, you may even consider to make an application or prototype as f
 * [Android Trainings at esri.com/training](https://www.esri.com/training/Bookmark/BJ7CvLE9l)
 * ["Android + ArcGIS" at Youtube videos](https://www.youtube.com/results?search_query=android+arcgis)
 * [Mobile map package](https://developers.arcgis.com/android/latest/guide/mobile-map-package.htm): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
+* [Using Kotlin Android Extensions with ArcGIS Android](https://blogs.esri.com/esri/arcgis/2017/05/19/using-kotlin-android-extensions-with-arcgis-android/)
 
 ## Community
 

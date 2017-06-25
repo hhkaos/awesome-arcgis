@@ -1,6 +1,6 @@
 > Please [feel free to help us](#contributions) to improve this page.
 
-#Python developers
+# Python developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -15,30 +15,36 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-ArcPy
+## ArcPy
 
-https://blogs.esri.com/esri/arcgis/category/subject-python/
+[ArcREST](http://stackoverflow.com/users/720773/gary-s)
 
-ArcREST
-Python API
+## Python API
 
-https://geonet.esri.com/groups/arcgis-python-api
+### Resources
 
-# Resources
-## Training
-### Videos / Technical talks
-## Community
-https://geonet.esri.com/groups/arcgis-python-api
+#### Training
 
-## Code
+* [Download using Conda or Docker](https://developers.arcgis.com/python/guide/install-and-set-up/)
+* [Documentation](https://developers.arcgis.com/python/)|
+
+#### Videos / Technical talks
+
+#### Community
+
+* [GeoNet group](https://geonet.esri.com/groups/arcgis-python-api)
+
+#### Code
 
 #People you should know
-|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|Name|Tech|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
+|![Gary Sheppard](https://avatars2.githubusercontent.com/u/3091666?v=3&s=50)|ArcPy|[Gary Sheppard Wayson](https://www.linkedin.com/in/glsheppardjr/)|[Github](https://github.com/garys-esri)|[Twitter](https://twitter.com/shepshep)|n/a|n.a.|[Stackoverflow](http://stackoverflow.com/users/720773/gary-s)|
+|![Rohit Singh](https://avatars3.githubusercontent.com/u/17867943?v=3&s=50)|Python API|n.a.|[Github](https://github.com/rohitgeo)|n.a.|n/a|n.a.|n.a.|
 
-Gary Sheppard
-https://github.com/garys-esri
-http://stackoverflow.com/users/720773/gary-s
+## News
+
+* [Python at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/subject-python/)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

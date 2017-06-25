@@ -17,6 +17,19 @@ of R.
 
 
 ## Introduction
+
+https://r-arcgis.github.io/
+https://github.com/R-ArcGIS/r-bridge-install
+
+## Videos
+
+Marjean Pobuda (RStudio-Conda): https://youtu.be/hQzNeJBtWHQ?t=8m27s
+
+## People you should know
+
+https://github.com/marpobuda/r_conda_demo
+
+## Articles
 https://blogs.esri.com/esri/arcgis/2017/02/10/r-you-bridging-yet/
 https://blogs.esri.com/esri/arcgis/2017/02/03/r-arcgis-news-and-plans-for-2017/
 

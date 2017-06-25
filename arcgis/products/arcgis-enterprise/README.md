@@ -5,12 +5,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+  - [Introduction](#introduction)
 - [Resources](#resources)
   - [Training](#training)
     - [Videos / Technical talks](#videos--technical-talks)
   - [Community](#community)
   - [Code](#code)
+  - [Tools](#tools)
+- [People you should know](#people-you-should-know)
   - [Get the tool](#get-the-tool)
+  - [Spanish](#spanish)
   - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

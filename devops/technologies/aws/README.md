@@ -5,14 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [ArcGIS Enterprise](#arcgis-enterprise)
-  - [GeoEvent Server](#geoevent-server)
-- [Chef](#chef)
-- [Koop](#koop)
-- [Docker](#docker)
-- [Code](#code)
-- [Amazon Web Services (AWS) AMIs](#amazon-web-services-aws-amis)
-- [Articles](#articles)
+- [Introduction](#introduction)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

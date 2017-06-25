@@ -5,12 +5,15 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Resources](#resources)
-  - [Training](#training)
+- [ArcPy](#arcpy)
+- [Python API](#python-api)
+  - [Resources](#resources)
+    - [Training](#training)
     - [Videos / Technical talks](#videos--technical-talks)
-  - [Community](#community)
-  - [Code](#code)
-  - [Contributions](#contributions)
+    - [Community](#community)
+    - [Code](#code)
+- [News](#news)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

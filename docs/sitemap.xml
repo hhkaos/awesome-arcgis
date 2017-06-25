@@ -35,10 +35,10 @@
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcmap-arccatalog/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/image-server/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-extensions/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-interceptors/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/geoevent-extension/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/image-server/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/portal-for-arcgis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-online/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-online/content/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -76,6 +76,8 @@
 <url> <loc>https://hhkaos.github.io/desktop/technologies/qt/app-studio/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/devops/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/devops/best-practices/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/devops/technologies/aws/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/devops/technologies/wordpress/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/brand/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/community/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

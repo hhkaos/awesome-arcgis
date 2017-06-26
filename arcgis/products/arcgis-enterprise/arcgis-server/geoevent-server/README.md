@@ -1,6 +1,6 @@
 > Please [feel free to help us](#contributions) to improve this page.
 
-# Geoevent Extension for server
+# Geoevent Server
 [ArcGIS GeoEvent Server](http://www.esri.com/arcgis/products/geoevent-server)
 enables you to work with Real-Time Mapping and Analytics
 

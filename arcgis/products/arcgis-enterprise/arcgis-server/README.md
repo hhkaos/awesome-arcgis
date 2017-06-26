@@ -17,6 +17,14 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+[ArcGIS Server](http://server.arcgis.com/en/server/) is a key component of ArcGIS Enterprise. 
+
+Now it have different licensing roles:
+  * GIS Server
+  * [Image Server](arcgis-server/image-server/README.md)
+  * [GeoEvent Server](arcgis-server/geoevent-server/README.md)
+  * GeoAnalytics
+  * Business Analyst Server
 
 # Resources
 

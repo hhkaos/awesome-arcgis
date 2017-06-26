@@ -10,6 +10,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Introduction
+
 [ArcGIS Image Server](http://www.esri.com/arcgis/products/image-server)
 
 ## Get the tool

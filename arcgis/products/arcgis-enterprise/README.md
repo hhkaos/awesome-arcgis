@@ -25,12 +25,7 @@
 
 It has four components:
 
-* [ArcGIS Server](arcgis-server/README.md): to power everything behind the hood. Now have different licensing roles:
-  * GIS Server
-  * [Image Server](arcgis-server/image-server/README.md)
-  * [GeoEvent Server](arcgis-server/geoevent-server/README.md)
-  * GeoAnalytics
-  * Business Analyst Server
+* [ArcGIS Server](arcgis-server/README.md): to power everything behind the hood. 
 * [Portal for ArcGIS](portal-for-arcgis/README.md): the geographic CMS 
 * ArcGIS Data Store: to store the data within the system
 * ArcGIS Web Adaptor: for security an enable to web clients

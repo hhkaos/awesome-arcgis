@@ -10,6 +10,14 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Introduction
+
+[ArcGIS Desktop](http://desktop.arcgis.com/en/) allows you to collect and manage data, create professional maps, perform traditional and advanced spatial analysis, and solve real problems using the power of GIS.
+
+ArcGIS Desktop is a combination of:
+
+* [ArcMap & ArcCatalog](arcmap-arccatalog/README.md)
+* [ArcGIS Pro](arcgis-pro/README.md)
 
 ## Get the tool
 

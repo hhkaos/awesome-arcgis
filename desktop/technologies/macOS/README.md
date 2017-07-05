@@ -22,6 +22,11 @@
 # Community
 [Find our community for MacOS developer working with ArcGIS at GeoNet](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-macos)
 
+## People you should know
+
+Divesh Goyal
+Will Crick
+
 ## Download the SDK
 
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able

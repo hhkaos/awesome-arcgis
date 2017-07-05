@@ -57,6 +57,12 @@ We recommend you to take a look to:
 * [Best practices](../../best-practices/README.md): testing, performance, ...
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
+## People you should know
+
+Julie Powell
+Jeremy Bartley
+Bjorn Svensson
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

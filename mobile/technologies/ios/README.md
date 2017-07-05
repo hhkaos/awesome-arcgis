@@ -43,6 +43,11 @@ to [download de ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/downlo
 
 https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-ios
 
+## People you should know
+
+Divesh Goyal
+Will Crick
+
 ## Awesome lists for iOS
 You will find a lot of interesting resources to learn an improve your skills
 with iOS:

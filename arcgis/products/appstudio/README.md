@@ -46,6 +46,10 @@ AppStudio Standard is a development environment that embeds a custom version of 
   * [API Guide](http://doc.arcgis.com/en/appstudio/api-guide/)
   * [API Reference](http://links.esri.com/appstudio/apireference/)
 
+## People you should know
+
+[Ismael Chivite](https://www.linkedin.com/in/ismaelchivite/)
+[Chris LeSueur](https://www.linkedin.com/in/chris-lesueur-20927813/)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
-# Desktop developers
+# Mobile developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -23,6 +23,15 @@ Use any of our Runtime SDKs:
 |[Android](technologies/android/README.md)|Java|Android|
 |[iOS](technologies/ios/README.md)|Swift & Objective-C|iOS|
 |[Qt](technologies/qt/README.md)|C++ & QML|Android, iOS|
+
+## Wereables
+
+Like:
+
+* [AR](../ar/README.md): Google Glass
+* [VR](../vr/README.md): Oculus Rift, Google Cardboard, etc.
+* Android Wear
+* ...
 
 ## Configure and build
 The ArcGIS Platform also include some products that allow you to make mobile applications with a simple and powerful interface, [check this out](../arcgis/products/README.md#app-builders).

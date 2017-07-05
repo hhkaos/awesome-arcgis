@@ -23,6 +23,9 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 
 [Download any of these versions here](http://doc.arcgis.com/en/survey123/download/).
 
+## People you should know
+
+[James Tedrick](https://www.linkedin.com/in/james-tedrick-3455403/)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

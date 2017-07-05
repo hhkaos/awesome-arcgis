@@ -74,6 +74,10 @@ to [download de ArcGIS Pro SDK for .NET](https://developers.arcgis.com/downloads
 * [Developer spaces, groups, etc on GeoNet](https://geonet.esri.com/community/developers)
 https://geonet.esri.com/community/developers/gis-developers/python
 
+## People you should know
+
+Christopher Zent
+
 ## News
 [Blogs.esri.com tag "ArcGIS Pro SDK"](https://blogs.esri.com/esri/arcgis/tag/arcgis-pro-sdk/)
 

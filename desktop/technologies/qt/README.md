@@ -22,6 +22,12 @@ You also have an IDE to use Qt and QML with several templates, it is called
 ### Documentation
 * Mobile map package - [QML](https://developers.arcgis.com/qt/latest/qml/guide/mobile-map-package.htm) & [C++](https://developers.arcgis.com/qt/latest/cpp/guide/mobile-map-package.htm): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
 
+## People you should know
+
+Sathya Prasad
+
+https://github.com/sathyaprasad?tab=repositories
+
 ## Download the SDK
 
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able

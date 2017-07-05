@@ -44,6 +44,8 @@ As last resource, you may even consider to make an application or prototype as f
 |---|---|---|---|---|---|---|---|
 |Gary Sheppard|n.a.|[Github](https://github.com/garys-esri)|n.a|n.a|n.a.|[Stackoverflow](http://stackoverflow.com/users/720773/gary-s)
 
+Eric Bader: https://github.com/eric906
+
 ## Code
 
 * [Android repos on Esri's Github](https://github.com/search?q=org%3AEsri+android)

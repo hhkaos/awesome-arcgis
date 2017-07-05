@@ -55,6 +55,9 @@ Here have collected some video and sample projects using different headsets.
 * Project: [VR Map Explorer: Google Cardboard SDK and Esri SDKs (on Android)](https://devpost.com/software/arcvrcardboard)
 * Video: [Urban walkthrough](https://www.youtube.com/watch?v=ghABH6q7eXI&spfreload=10)
 
+## People you should know
+
+* [Rex Hansen](https://github.com/rexhansen)
 
 ## Related resources
 

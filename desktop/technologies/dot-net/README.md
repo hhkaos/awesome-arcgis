@@ -25,9 +25,17 @@ In case you are interested on learning [how to extend ArcGIS Pro using .NET](../
 ### Documentation
 * Mobile map package - [WPF](https://developers.arcgis.com/net/latest/wpf/guide/display-a-map.htm) & [UWP](https://developers.arcgis.com/net/latest/uwp/guide/display-a-map.htm): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
 
+## People you should know
+
 Morten Nielsen
 https://twitter.com/dotMorten
 
+Rex Hansen
+https://github.com/rexhansen
+
+## Videos
+
+[Migrating Your WPF Apps to the New ArcGIS Runtime SDK for .NET](http://www.esri.com/videos/watch?videoid=3457&channelid=LegacyVideo&isLegacy=true&title=migrating-your-wpf-apps-to-the-new-arcgis-runtime-sdk-for-.net)
 
 ## Community
 [ArcGIS Runtime SDK for .NET](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)

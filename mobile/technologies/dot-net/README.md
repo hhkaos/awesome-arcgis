@@ -28,6 +28,11 @@ You will find a lot of interesting resources to learn an improve your skills
 with .NET:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
+## People you should know
+
+Rex Hansen
+https://github.com/rexhansen
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

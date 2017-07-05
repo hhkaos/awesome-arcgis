@@ -10,6 +10,8 @@
 - [Introduction](#introduction)
 - [Training](#training)
   - [Documentation](#documentation)
+- [People you should know](#people-you-should-know)
+- [Videos](#videos)
 - [Community](#community)
 - [Download the SDK](#download-the-sdk)
 - [Contributions](#contributions)

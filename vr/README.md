@@ -14,6 +14,7 @@ Export 3D scenarios built using [City Engine](../arcgis/products/city-engine/REA
   - [Oculus Rift](#oculus-rift)
   - [Samsung Gear](#samsung-gear)
   - [Cardboard](#cardboard)
+- [People you should know](#people-you-should-know)
 - [Related resources](#related-resources)
 - [Contributions](#contributions)
 

@@ -7,6 +7,7 @@
 
 - [Introduction](#introduction)
 - [HoloLens](#hololens)
+- [AuGeo](#augeo)
 - [Mobile devices](#mobile-devices)
 - [Google Glass](#google-glass)
 - [Contributions](#contributions)

@@ -8,6 +8,7 @@
 
 - [Training](#training)
   - [Documentation](#documentation)
+- [People you should know](#people-you-should-know)
 - [Download the SDK](#download-the-sdk)
 - [Contributions](#contributions)
 

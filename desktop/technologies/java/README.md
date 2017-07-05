@@ -7,6 +7,7 @@
 
 - [Training](#training)
   - [Documentation](#documentation)
+- [People you should know](#people-you-should-know)
 - [Community](#community)
 - [Contributions](#contributions)
 

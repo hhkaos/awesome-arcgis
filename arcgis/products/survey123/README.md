@@ -9,6 +9,7 @@ It is an native (Android, iOS, Windows, OS X and Linux) and web app builder that
 
 - [Survey123 Online version](#survey123-online-version)
 - [Survey123 Native version](#survey123-native-version)
+- [People you should know](#people-you-should-know)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -14,6 +14,7 @@ allow you to build powerful maps, spatial analysis, data visualizations, etc.
   - [Videos / Technical talks](#videos--technical-talks)
 - [Community](#community)
 - [More resources](#more-resources)
+- [People you should know](#people-you-should-know)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

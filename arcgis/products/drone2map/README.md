@@ -31,6 +31,10 @@ working with [ArcGIS Server](../arcgis-enterprise/README.md) and
 
 [ArcGIS Apps: Drone2Map for ArcGIS: Bring Drone Imagery into ArcGIS](http://www.esri.com/videos/watch?videoid=63qAQJZGab8&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-apps:-drone2map-for-arcgis:-bring-drone-imagery-into-arcgis)
 
+## Resources
+
+* [Storymap: Unlock the insights hidden in your Drone Images](https://www.arcgis.com/apps/Cascade/index.html?appid=f8ea0352786a47b5b5295222fa56576c): Drone Point Clouds Classification
+
 ## Related technologies
 * [Full Motion Video Add in](../arcgis-desktop/add-ins/full-motion-video/README.md)
 

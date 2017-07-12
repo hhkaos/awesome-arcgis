@@ -50,6 +50,8 @@ There are many **initiatives for developers** running simultaneously around Esri
 ### UK
 * [GeoDev on Meetup](https://www.meetup.com/geodev/)
 * [@EsriUKGeoDev on Twitter](https://twitter.com/EsriUKGeoDev/)
+* [Esri UK Offical Github](https://github.com/esriuk)
+* [Esri UK Map Labs](https://github.com/maplabs)
 
 ### USA
 * [GeoDev on Facebook](https://www.facebook.com/EsriGeoDev)

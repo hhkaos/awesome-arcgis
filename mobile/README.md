@@ -6,6 +6,7 @@
 **Table of contents**
 
 - [Build from scratch](#build-from-scratch)
+- [Wereables](#wereables)
 - [Configure and build](#configure-and-build)
 - [Extent the Platform](#extent-the-platform)
 - [Contributions](#contributions)

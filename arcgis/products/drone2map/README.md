@@ -7,6 +7,7 @@
 
 - [Introduction](#introduction)
 - [Training](#training)
+- [Resources](#resources)
 - [Related technologies](#related-technologies)
 - [Get the tool](#get-the-tool)
 - [Contributions](#contributions)

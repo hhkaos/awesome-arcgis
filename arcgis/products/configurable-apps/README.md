@@ -58,6 +58,7 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 
 |Source|Title|Length|
 |---|---|---|
+|n.a. 2016|[How to create a Geoform](https://www.youtube.com/watch?v=NayBcQxoc7o)|13min 51secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Online and Portal: Developing Custom JavaScript Applications](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)|48min 5 secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
 |Esri Training 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs
@@ -67,7 +68,6 @@ On [**video.esri.com**](http://video.esri.com) you will find many technical talk
 |n.a. 2014|[Customizing Story Map Web Apps](http://www.esri.com/videos/watch?videoid=3354&channelid=LegacyVideo&isLegacy=true&title=customizing-story-map-web-apps)|27min 59secs
 |[UC](http://www.esri.com/events/user-conference) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)|20min 18secs
 |n.a. 2011|[Ready to Use Configurable Web Apps](http://www.esri.com/videos/watch?videoid=222&channelid=LegacyVideo&isLegacy=true&title=ready-to-use-configurable-web-apps)|8min 42secs
-|n.a. 2016|[How to create a Geoform](https://www.youtube.com/watch?v=NayBcQxoc7o)|13min 51secs
 
 
 ### Documentation

@@ -36,6 +36,10 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 
 |Event|Title|Length|
 |---|---|---|
+|n.a. 2017|[Military Tools for ArcGIS in Web AppBuilder: Using Coordinate Conversion](http://www.esri.com/videos/watch?videoid=Tmlw00CavR8&channelid=UCZTiOg3n0pqUDSatq7mS2PA&title=military-tools-for-arcgis-in-web-appbuilder:-using-coordinate-conversion)|2min 44secs
+|n.a. 2017|[Military Tools for ArcGIS in Web AppBuilder: Using Distance and Direction](http://www.esri.com/videos/watch?videoid=KQqzYlcY3ro&channelid=UCZTiOg3n0pqUDSatq7mS2PA&title=military-tools-for-arcgis-in-web-appbuilder:-using-distance-and-direction)|2min 24secs
+|n.a. 2017|[Military Tools for ArcGIS in Web AppBuilder: Using Visibility](http://www.esri.com/videos/watch?videoid=nQCwgwkDu1g&channelid=UCZTiOg3n0pqUDSatq7mS2PA&title=military-tools-for-arcgis-in-web-appbuilder:-using-visibility)|1min 35secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS: JavaScript Apps Made Easy](http://www.esri.com/videos/watch?videoid=5hsprKc_Wo0&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis:-javascript-apps-made-easy|1h 7min 19secs
 |[UC](http://www.esri.com/events/user-conference) 2016|[Web AppBuilder for ArcGIS: Build Web Apps with No Coding](http://www.esri.com/videos/watch?videoid=qEJ7TX_ixEs&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-apps:-web-appbuilder-for-arcgis:-build-web-apps-with-no-coding)|1h 13min 53secs
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).

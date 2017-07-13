@@ -44,6 +44,11 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS Enterprise Deployments](http://www.esri.com/videos/watch?videoid=gDuuNTeMDlQ&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis-enterprise-deployments)|50min 50secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS Advanced Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=WpA5ld-EGp4&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis-advanced-development-tools-and-techniques)|42min 42secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS: Building 3D Apps](http://www.esri.com/videos/watch?videoid=qAGF5W5icjU&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis:-building-3d-apps)|45min 41secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[ArcGIS Web AppBuilder: Creating New Themes](http://www.esri.com/videos/watch?videoid=mVVEwtnfe80&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-web-appbuilder:-creating-new-themes)|51min 59secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=9JttgbuZsEs&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 2min 59secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=5049&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-development-tools-and-techniques)|59min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=5048&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 5min 43secs
 

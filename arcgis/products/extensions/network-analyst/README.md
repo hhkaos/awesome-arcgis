@@ -78,7 +78,7 @@ technology so we recommend you to follow them.
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|---|
-|<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/171/2ea/3ca4591.jpg" width="50" alt="Scott Sandusky">|Scott Sandusky|[Linkedin](https://www.linkedin.com/in/scott-sandusky-184aa9a/)|n.a.|n.a.|n.a.|n.a.|n.a.|n.a.|
+|<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/171/2ea/3ca4591.jpg" width="50" alt="Scott Sandusky">|Scott Sandusky|[Linkedin](https://www.linkedin.com/in/scott-sandusky-184aa9a/)|n.a.|n.a.|n.a.|n.a.|
 |![Patick Stevens](https://avatars4.githubusercontent.com/u/2279249?v=4&s=50)|Patrick Stevens|n.a.|[Github](https://github.com/PatrickStevens)|n.a.|n.a.|n.a.|n.a.|
 |<img src="https://blogs.esri.com/esri/arcgis/files/userphoto/6940.jpg" width="50" alt="Robert Garrity">|Robert Garrity|n.a.|[Github](https://github.com/rgarrity)|n.a.|n.a.|n.a.|n.a.|
 

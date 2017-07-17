@@ -30,6 +30,17 @@ It has four components:
 * ArcGIS Data Store: to store the data within the system
 * ArcGIS Web Adaptor: for security an enable to web clients
 
+
+## Levels
+
+### Standard
+
+Includes: ..
+
+### Advanced
+
+Includes: ..
+
 # Resources
 
 ## Training

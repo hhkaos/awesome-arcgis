@@ -28,6 +28,8 @@
 |Stream service|As item|Yes
 |Geoprocessing service|As item|Yes
 
+> Note: [What is geoprocessing?](http://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/basics/what-is-geoprocessing-.htm)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

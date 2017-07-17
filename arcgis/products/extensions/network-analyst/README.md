@@ -47,6 +47,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst
 [Network Analyst channel](http://www.esri.com/videos/watch?playlistid=series_54&channelid=LegacyVideo&isLegacy=true&title=network-analyst) (short video tutorials) http://www.esri.com/videos/watch?playlistid=series_54&channelid=LegacyVideo&isLegacy=true&title=network-analyst
 
 |Title|Length|
+|---|---|
 |[Creating Network datasets using ArcMap: Cost Attributes and Evaluators](http://www.esri.com/videos/watch?videoid=2109&isLegacy=true&title=creating-network-datasets:-cost-attributes-and-evaluators)|6min 33secs
 |[Creating Network Datasets: Evaluators for Time-Based Cost Attributes](http://www.esri.com/videos/watch?videoid=2110&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-evaluators-for-time-based-cost-attributes)|3min 38secs
 |[Creating Network Datasets: Restriction Attributes](http://www.esri.com/videos/watch?videoid=2111&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-restriction-attributes)|5min 13secs
@@ -78,7 +79,7 @@ technology so we recommend you to follow them.
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|---|
-|<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/171/2ea/3ca4591.jpg" width="50" alt="Scott Sandusky">|Scott Sandusky|[Linkedin](https://www.linkedin.com/in/scott-sandusky-184aa9a/)|n.a.|n.a.|n.a.|n.a.|
+|<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/171/2ea/3ca4591.jpg" width="50" alt="Scott Sandusky">|Scott Sandusky|[Linkedin](https://www.linkedin.com/in/scott-sandusky-184aa9a/)|n.a.|n.a.|n.a.|n.a.|n.a.|
 |![Patick Stevens](https://avatars4.githubusercontent.com/u/2279249?v=4&s=50)|Patrick Stevens|n.a.|[Github](https://github.com/PatrickStevens)|n.a.|n.a.|n.a.|n.a.|
 |<img src="https://blogs.esri.com/esri/arcgis/files/userphoto/6940.jpg" width="50" alt="Robert Garrity">|Robert Garrity|n.a.|[Github](https://github.com/rgarrity)|n.a.|n.a.|n.a.|n.a.|
 

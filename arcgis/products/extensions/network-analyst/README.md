@@ -9,6 +9,8 @@
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
 - [People you should know](#people-you-should-know)
+- [Community](#community)
+- [Other resources](#other-resources)
 - [News](#news)
 - [Licensing](#licensing)
 

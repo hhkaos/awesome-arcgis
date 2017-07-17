@@ -5,9 +5,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Examples](#examples)
-- [Learn more](#learn-more)
-- [Contributions](#contributions)
+- [Introduction](#introduction)
+- [Training](#training)
+  - [Videos / Technical talks](#videos--technical-talks)
+- [People you should know](#people-you-should-know)
+- [News](#news)
+- [Licensing](#licensing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -33,20 +36,27 @@ Network Analyst is an Extension available for [ArcGIS Pro](../../arcgis-desktop/
 * [Overview of Network Analyst in ArcGIS for Server](http://desktop.arcgis.com/en/arcmap/latest/extensions/network-analyst/overview-of-network-analyst-in-arcgis-for-server.htm)
 * Network analysis services on: [Linux](http://server.arcgis.com/en/server/latest/publish-services/linux/network-analysis-services.htm) and [Windows](http://server.arcgis.com/en/server/latest/publish-services/windows/network-analysis-services.htm)
 * [Network Analyst at esri.com/training](https://www.esri.com/training/Bookmark/BJn4l-qr-)
+  * [Using Network Analyst in ArcGIS Desktop 10 (2010)](https://www.esri.com/training/catalog/57630437851d31e02a43f28a/using-network-analyst-in-arcgis-desktop-10/) (~60min)
 
 
 ### Videos / Technical talks
 On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst%22#?sortby=recent&channels=esri,ArcGIS,Industries,ArcGIS,esri) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?ie=UTF-8#q=site%3Aproceedings.esri.com%20network).
 
+[Network Analyst channel](http://www.esri.com/videos/watch?playlistid=series_54&channelid=LegacyVideo&isLegacy=true&title=network-analyst) (short video tutorials) http://www.esri.com/videos/watch?playlistid=series_54&channelid=LegacyVideo&isLegacy=true&title=network-analyst
+
+|Title|Length|
+|[Creating Network datasets using ArcMap: Cost Attributes and Evaluators](http://www.esri.com/videos/watch?videoid=2109&isLegacy=true&title=creating-network-datasets:-cost-attributes-and-evaluators)|6min 33secs
+|[Creating Network Datasets: Evaluators for Time-Based Cost Attributes](http://www.esri.com/videos/watch?videoid=2110&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-evaluators-for-time-based-cost-attributes)|3min 38secs
+|[Creating Network Datasets: Restriction Attributes](http://www.esri.com/videos/watch?videoid=2111&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-restriction-attributes)|5min 13secs
+|[Creating Network Datasets: One-Way Streets](http://www.esri.com/videos/watch?videoid=2112&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-one-way-streets)|7min 42secs
+|[Creating Network Datasets: Maximum Weight Limits](http://www.esri.com/videos/watch?videoid=2113&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-maximum-weight-limits)|10min 12secs
+|[Vehicle Routing Problem Example: Appliance Delivery](http://www.esri.com/videos/watch?videoid=686&channelid=ArcGISVideo&isLegacy=true&title=vehicle-routing-problem-example:-appliance-delivery)|12min 30secs
+
+
 |Event|Title|Length|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[3D Routing in a Web Browser](http://www.esri.com/videos/watch?videoid=4374&channelid=LegacyVideo&isLegacy=true&title=3d-routing-in-a-web-browser)|42min 49secs
 |[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst—Creating Network Datasets](http://www.esri.com/videos/watch?videoid=2556&isLegacy=true&title=network-analyst%E2%80%94creating-network-datasets)|1h 16min 22secs
-|Tutorial 2013|[Creating Network datasets using ArcMap: Cost Attributes and Evaluators](http://www.esri.com/videos/watch?videoid=2109&isLegacy=true&title=creating-network-datasets:-cost-attributes-and-evaluators)|6min 33secs
-|Tutorial 2013|[Creating Network Datasets: Evaluators for Time-Based Cost Attributes](http://www.esri.com/videos/watch?videoid=2110&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-evaluators-for-time-based-cost-attributes)|3min 38secs
-|Tutorial 2013|[Creating Network Datasets: Restriction Attributes](http://www.esri.com/videos/watch?videoid=2111&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-restriction-attributes)|5min 13secs
-|Tutorial 2013|[Creating Network Datasets: One-Way Streets](http://www.esri.com/videos/watch?videoid=2112&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-one-way-streets)|7min 42secs
-|Tutorial 2013|[Creating Network Datasets: Maximum Weight Limits](http://www.esri.com/videos/watch?videoid=2113&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-maximum-weight-limits)|10min 12secs
 |[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst: An Introduction](http://www.esri.com/videos/watch?videoid=2916&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-an-introduction)|1h 2min 16secs
 |[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst: Performing Network Analysis](http://www.esri.com/videos/watch?videoid=2918&isLegacy=true&title=network-analyst:-performing-network-analysis)|1h 16min 32secs
 |[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst: Designing Your Network Analyst Workflow](http://www.esri.com/videos/watch?videoid=2917&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-designing-your-network-analyst-workflow)|26min 59secs
@@ -56,7 +66,6 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst
 |[UC](http://www.esri.com/events/user-conference) 2012|[Network Analyst: Performing Network Analysis](http://www.esri.com/videos/watch?videoid=1676&isLegacy=true&title=network-analyst:-performing-network-analysis)|1h 17min 4secs
 |[UC](http://www.esri.com/events/user-conference) 2012|[ArcGIS Network Analyst—Creating Network Datasets](http://www.esri.com/videos/watch?videoid=1834&isLegacy=true&title=arcgis-network-analyst%E2%80%94creating-network-datasets)|1h 3min 19secs
 |[UC](http://www.esri.com/events/user-conference) 2012|[Network Analysis with ArcGIS for Server](http://www.esri.com/videos/watch?videoid=1941&channelid=LegacyVideo&isLegacy=true&title=network-analysis-with-arcgis-for-server-)|1h 09min 41secs
-|Tutorial 2011|[Vehicle Routing Problem Example: Appliance Delivery](http://www.esri.com/videos/watch?videoid=686&channelid=ArcGISVideo&isLegacy=true&title=vehicle-routing-problem-example:-appliance-delivery)|12min 30secs
 |Tutorial 2010|[Network Analysis](http://www.esri.com/videos/watch?videoid=41&channelid=LegacyVideo&isLegacy=true&title=network-analysis)|8min 36secs
 |[UC](http://www.esri.com/events/user-conference) 2010|[Network Analyst - An Introduction](http://www.esri.com/videos/watch?videoid=92&channelid=LegacyVideo&isLegacy=true&title=network-analyst-an-introduction)|1h 11min 0secs
 
@@ -70,6 +79,15 @@ technology so we recommend you to follow them.
 |<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/171/2ea/3ca4591.jpg" width="50" alt="Scott Sandusky">|Scott Sandusky|[Linkedin](https://www.linkedin.com/in/scott-sandusky-184aa9a/)|n.a.|n.a.|n.a.|n.a.|n.a.|n.a.|
 |![Patick Stevens](https://avatars4.githubusercontent.com/u/2279249?v=4&s=50)|Patrick Stevens|n.a.|[Github](https://github.com/PatrickStevens)|n.a.|n.a.|n.a.|n.a.|
 |<img src="https://blogs.esri.com/esri/arcgis/files/userphoto/6940.jpg" width="50" alt="Robert Garrity">|Robert Garrity|n.a.|[Github](https://github.com/rgarrity)|n.a.|n.a.|n.a.|n.a.|
+
+
+## Community
+
+* [Network Analyst on GeoNet](https://geonet.esri.com/community/gis/analysis/network-analyst)
+
+## Other resources
+
+* [ArcGIS Network Analyst Tutorial Data](https://www.arcgis.com/home/item.html?id=d6bd91b2fddc483b8ccbc66942db84cb): This desktop application template is simply a zip file containing the Network Analyst tutorial and workflow data referenced in the documentation. 
 
 ## News
 

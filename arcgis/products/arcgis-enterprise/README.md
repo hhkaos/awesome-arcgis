@@ -6,6 +6,9 @@
 **Table of contents**
 
   - [Introduction](#introduction)
+  - [Levels](#levels)
+    - [Standard](#standard)
+    - [Advanced](#advanced)
 - [Resources](#resources)
   - [Training](#training)
     - [Videos / Technical talks](#videos--technical-talks)

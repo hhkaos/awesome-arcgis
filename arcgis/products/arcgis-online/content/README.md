@@ -9,6 +9,7 @@
   - [Ready to use services](#ready-to-use-services)
 - [Living atlas](#living-atlas)
   - [Premium content](#premium-content)
+  - [Training](#training)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

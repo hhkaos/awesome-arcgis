@@ -42,9 +42,8 @@ Network Analyst is an Extension available for [ArcGIS Pro](../../arcgis-desktop/
 
 
 ### Videos / Technical talks
-On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst%22#?sortby=recent&channels=esri,ArcGIS,Industries,ArcGIS,esri) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?ie=UTF-8#q=site%3Aproceedings.esri.com%20network).
 
-[Network Analyst channel](http://www.esri.com/videos/watch?playlistid=series_54&channelid=LegacyVideo&isLegacy=true&title=network-analyst) (short video tutorials) http://www.esri.com/videos/watch?playlistid=series_54&channelid=LegacyVideo&isLegacy=true&title=network-analyst
+[Network Analyst channel](http://www.esri.com/videos/watch?playlistid=series_54&channelid=LegacyVideo&isLegacy=true&title=network-analyst) (short video tutorials):
 
 |Title|Length|
 |---|---|
@@ -55,6 +54,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst
 |[Creating Network Datasets: Maximum Weight Limits](http://www.esri.com/videos/watch?videoid=2113&channelid=ArcGISVideo&isLegacy=true&title=creating-network-datasets:-maximum-weight-limits)|10min 12secs
 |[Vehicle Routing Problem Example: Appliance Delivery](http://www.esri.com/videos/watch?videoid=686&channelid=ArcGISVideo&isLegacy=true&title=vehicle-routing-problem-example:-appliance-delivery)|12min 30secs
 
+On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst%22#?sortby=recent&channels=esri,ArcGIS,Industries,ArcGIS,esri) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?ie=UTF-8#q=site%3Aproceedings.esri.com%20network).
 
 |Event|Title|Length|
 |---|---|---|

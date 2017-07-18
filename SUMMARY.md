@@ -55,6 +55,7 @@
     - [Extensions](arcgis/products/extensions/README.md)
       - [Network Analyst](arcgis/products/extensions/network-analyst/README.md)
     - [Marketplace](arcgis/products/marketplace/README.md)
+    - [Navigator For Arcgis](arcgis/products/navigator-for-arcgis/README.md)
     - [Operations Dashboard](arcgis/products/operations-dashboard/README.md)
     - [Survey 123](arcgis/products/survey123/README.md)
     - [Web Appbuilder](arcgis/products/web-appbuilder/README.md)

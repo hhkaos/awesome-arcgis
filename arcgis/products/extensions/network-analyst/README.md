@@ -91,6 +91,7 @@ technology so we recommend you to follow them.
 ## Other resources
 
 * [ArcGIS Network Analyst Tutorial Data](https://www.arcgis.com/home/item.html?id=d6bd91b2fddc483b8ccbc66942db84cb): This desktop application template is simply a zip file containing the Network Analyst tutorial and workflow data referenced in the documentation. 
+* [Google Search among ArcGIS sites (term: "Network Analyst")](https://esri-es.github.io/arcgis-search/#gsc.tab=0&gsc.q=%22Network%20Analyst%22&gsc.sort=)
 
 ## News
 

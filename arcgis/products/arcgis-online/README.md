@@ -42,6 +42,7 @@ There are many useful resources, here you have a subset of them:
 
 |Resource|Level|Format|Details|
 |---|---|---|---|
+|[ArcGIS Online quick exercises](https://doc.arcgis.com/en/arcgis-online/get-started/online-quick-exercises.htm)|Beginner|Tutorial|Non developer approach|
 |[Get started with ArcGIS Online](http://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)|Beginner|Tutorial|Non developer approach|
 |[ArcGIS DevLabs](https://developers.arcgis.com/labs/)|Beginner|Tutorial|Developer|
 |[What are the items in ArcGIS Online?](http://odoe.net/blog/updated-arcgis-online-item-details-page/)|Beginner|Video|Dev & Non-dev approach

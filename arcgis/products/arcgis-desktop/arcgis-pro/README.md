@@ -43,10 +43,14 @@ using Pro’s new APIs.
   * [Using ArcGIS Pro to Create a Hexbin Grid and Reshape Polygon Data](http://ryanruthart.com/using-arcgis-pro-to-create-a-hexbin-grid-and-reshape-polygon-data/)
 
 ### Videos
-On **video.esri.com** there are [more than 234 videos related to ArcGIS Pro](http://www.esri.com/videos/search?q=%22arcgis%20pro%22#?sortby=relevance&channels=esri,Events,ArcGIS,Industries,ArcGIS,esri). You can also find it slides at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=geoevent+site:proceedings.esri.com).
+On **video.esri.com** there are [more than 234 videos related to ArcGIS Pro](http://www.esri.com/videos/search?q=%22arcgis%20pro%22#?sortby=relevance&channels=esri,Events,ArcGIS,Industries,ArcGIS,esri). You can also find it slides at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arcgis+pro+site:proceedings.esri.com).
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[ArcGIS Pro SDK for .NET: UI Design for Accessibility and High DPI](https://www.youtube.com/watch?v=AgzPAsPFiBA&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E&index=52)|53min 48secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[ArcGIS Pro SDK for .NET: UI Design and MVVM](https://www.youtube.com/watch?v=5PgaeZycWXc&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E&index=53)|1h 1min 18secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Python: Map Automation in ArcGIS Pro](https://www.youtube.com/watch?v=evRKO70L_g8&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E&index=88)|49min 43secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[ArcGIS Pro SDK for .NET: Map Authoring and Exploration](https://www.youtube.com/watch?v=mgIqopFMcBI&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E&index=92)|59min 8secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Pro SDK for .NET: Programming Patterns](http://www.esri.com/videos/watch?videoid=5035&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-programming-patterns)|58min 51secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Pro SDK for .NET: UI Design and MVVM](http://www.esri.com/videos/watch?videoid=5037&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-ui-design-and-mvvm)|1h 01min 56secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Pro SDK for .NET: Editing and GDB Integration](http://www.esri.com/videos/watch?videoid=5038&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-editing-and-gdb-integration)|42min 04secs
@@ -77,7 +81,7 @@ https://geonet.esri.com/community/developers/gis-developers/python
 
 ## People you should know
 
-Christopher Zent
+* [Christopher Zent](https://www.linkedin.com/in/christopher-zent-3578579/)
 
 ## News
 [Blogs.esri.com tag "ArcGIS Pro SDK"](https://blogs.esri.com/esri/arcgis/tag/arcgis-pro-sdk/)

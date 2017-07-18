@@ -77,7 +77,7 @@ to [download de ArcGIS Pro SDK for .NET](https://developers.arcgis.com/downloads
 ## Community
 * [ArcGIS Pro SDK Group on GeoNet](https://geonet.esri.com/groups/arcgis-pro-sdk)
 * [Developer spaces, groups, etc on GeoNet](https://geonet.esri.com/community/developers)
-https://geonet.esri.com/community/developers/gis-developers/python
+* [GIS Developers - Python](https://geonet.esri.com/community/developers/gis-developers/python)
 
 ## People you should know
 

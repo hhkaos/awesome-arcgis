@@ -49,6 +49,17 @@ The benefits from storing content inside ArcGIS are:
 * Been able to run spatial analysis
 * ...
 
+## Formats
+
+
+### GTFS
+
+The General Transit Feed Specification (GTFS) defines an open standard format for exchanging public transportation schedule, geographic and fare information. 
+
+* [How to make a shapes.txt file for your GTFS dataset with ArcGIS](https://blogs.esri.com/esri/arcgis/2017/07/19/how-to-make-a-shapes-txt-file-for-your-gtfs-dataset-with-arcgis/)
+* [public-transit-tools: GTFS](https://github.com/Esri/public-transit-tools)
+
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

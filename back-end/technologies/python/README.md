@@ -39,6 +39,8 @@
 
 #### Code
 
+[Python SDK for ArcGIS REST API](https://pypi.python.org/pypi/arcgis-sdk)
+
 #People you should know
 |Name|Tech|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|

@@ -199,6 +199,10 @@ and sharing insights related to this technology so we recommend you to follow th
 |![Stephen Sylvia](https://avatars1.githubusercontent.com/u/1211360?v=3&s=50)|[Stephen Sylvia](https://www.linkedin.com/in/stephen-sylvia-0aa04620/)|[@ssylvia](https://github.com/ssylvia)|n.a.|n.a.|[@SSylvia-esristaff](https://geonet.esri.com/people/SSylvia-esristaff)
 |![Allison Muise](https://geonet.esri.com/people/AMuise-esristaff/avatar/46.png?a=7395)|Allison Muise|[@allisonmuise](https://github.com/allisonmuise)|n.a.|n.a.|[@AMuise-esristaff](https://geonet.esri.com/people/AMuise-esristaff)
 
+Tim Witt - https://timw1984.github.io/basemap/
+James Tedrick - https://www.linkedin.com/in/james-tedrick-3455403/ - https://github.com/tedrick/
+Steven Kitterman - https://github.com/skitterm
+
 
 ## News about Configurable Apps
 

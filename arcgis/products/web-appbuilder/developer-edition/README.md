@@ -51,6 +51,10 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=9JttgbuZsEs&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 2min 59secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=5049&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-development-tools-and-techniques)|59min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=5048&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 5min 43secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Web AppBuilder: Development Tools and Techniques
+](http://www.esri.com/videos/watch?videoid=4568&isLegacy=true&title=arcgis-web-appbuilder-development-tools-and-techniques)|27min 18secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Customizing and Extending Web AppBuilder for ArcGIS](http://www.esri.com/videos/watch?videoid=3362&channelid=LegacyVideo&isLegacy=true&title=customizing-and-extending-web-appbuilder-for-arcgis)|1h 16min 16secs
+
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 

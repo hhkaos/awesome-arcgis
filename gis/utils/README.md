@@ -20,6 +20,7 @@ help you during your developments.
 ## Tools
 ### Format converters
 * [Convert a CSV to GeoJSON ](https://github.com/gavinr/csv-to-geojson)
+* [Convert Esri JSON to GeoJSON ](http://arcgisjson.togeojson.com/)
 
 * [Dump vector tiles to GeoJSON](https://github.com/mapbox/vt2geojson)
 

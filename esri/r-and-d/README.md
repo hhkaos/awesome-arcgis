@@ -62,7 +62,7 @@ Github accounts:
 
 ### Prototype labs
 
-* [Applications Prototype Lab demos](https://maps.esri.com/demo/)
+* [Applications Prototype Lab demos](https://maps.esri.com/portal/WebApps/index.html)
 * [Applications Prototype Lab at blogs.esri.com](https://blogs.esri.com/esri/apl/)
 * Prototype Lab Video: [Esri's prototype lab](https://www.youtube.com/watch?v=zeNTqlTXkQg)
 

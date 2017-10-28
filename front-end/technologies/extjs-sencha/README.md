@@ -38,16 +38,16 @@ technology so we recommend you to follow them.
 
 ||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|---|
-|![Nicholas Furness](https://avatars1.githubusercontent.com/u/25374?s=50&v=4)|[Nicholas Furness](https://www.linkedin.com/in/nixta/)|[@nixta](https://github.com/nixta)|[geeknixta](https://twitter.com/geeknixta)|n.a.|[@NFurness-esristaff](https://community.esri.com/people/NFurness-esristaff)
+|![Nicholas Furness](https://avatars1.githubusercontent.com/u/25374?s=50&v=4)|[Nicholas Furness](https://www.linkedin.com/in/nixta/)|[@nixta](https://github.com/nixta)|[geeknixta](https://twitter.com/geeknixta)|n.a.|[@NFurness-esristaff](https://community.esri.com/people/NFurness-esristaff)|n.a.
 
 ## More resources
 We recommend you to take a look to:
 * [GIS Utils](../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)
-* [Awesome ExtJS](https://github.com/abenhamdine/awesome-extjs)
 
 Here you will find a lot of interesting resources to learn an improve your skills
-with Sencha:
+with ExtJS/Sencha:
+* [Awesome ExtJS](https://github.com/abenhamdine/awesome-extjs)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
 ## Contributions

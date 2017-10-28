@@ -212,6 +212,16 @@ You are always welcome to share your work at [GeoNet](https://geonet.esri.com/gr
 
 * Share a **configurable app** you have written with the community. In this case please feel free to [add a contribution](#contributions) to this page.
 
+## Sell your configurable app
+
+Are you interested on selling your app? Then can do it if you you have:
+
+* Created manually a configurable app or storymap
+* Extended the functionality or improved the UX of an existing one
+* Created a configurable app using web app builder
+
+You just need to publish your app here: [arcgis.domake.io](https://arcgis.domake.io/)
+
 ## People you should know
 They don't work on the support team but they are opening some projects
 and sharing insights related to this technology so we recommend you to follow them.

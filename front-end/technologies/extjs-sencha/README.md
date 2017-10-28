@@ -28,7 +28,8 @@
 * [Organic Petrology Atlas View 3, Extjs 5, Arcgis Javascript 3.9](https://github.com/MarkInNVA/OP3)
 
 ## Community
-https://community.esri.com/search.jspa?place=/places/148899&facet=content&q=extjs*
+
+* [Questions on GeoNet about]: [ExtJS](https://community.esri.com/search.jspa?place=/places/148899&facet=content&q=extjs*) and [Sencha](https://community.esri.com/search.jspa?place=/places/148899&facet=content&q=sencha*)
 
 ## People you should know
 They don't work on the support team and some may even not work at Esri,

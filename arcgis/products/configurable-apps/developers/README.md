@@ -4,7 +4,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Develop a Configurable apps](#develop-a-configurable-apps)
+- [Configurable app types](#configurable-app-types)
   - [Introduction](#introduction)
   - [Contributions](#contributions)
 

@@ -17,6 +17,7 @@ Learn how to combine the ArcGIS JS API with:
 * [Dojo](dojo/README.md)
 * [Elm](elm/README.md)
 * [Ember](ember/README.md)
+* [ExtJS & Sencha](extjs-sencha/README.md)
 * [jQuery](jquery/README.md)
 * [Knockout](knockout/README.md)
 * [Leaflet](leaflet/README.md)
@@ -24,7 +25,6 @@ Learn how to combine the ArcGIS JS API with:
 * [Phonegap](phonegap/README.md)
 * [Polymer](polymer/README.md)
 * [React](react/README.md)
-* [Sencha](sencha/README.md)
 * [VueJS](vuejs/README.md)
 
 **Choosing the best framework**: There are several talks that may help you understand which framework/library you should use:

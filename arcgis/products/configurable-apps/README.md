@@ -49,15 +49,26 @@ You can see a [full list of configurable apps](http://www.arcgis.com/home/search
 [Portal for ArcGIS](../../../../arcgis/products/arcgis-enterprise/portal-for-arcgis/README.md)
 
 ## Training
+* [Story Maps Resources compilation](http://storymaps.arcgis.com/en/resources/): Basic lessons, FAQ, Community, etc.
+
 Esri's formal training: (*available with a current maintenance subscription*)
 * [Getting the Most Out of ArcGIS Configurable Web Apps - 2016](http://arcg.is/2k7u5Nh)
+* [Frequently Asked Questions](http://storymaps.arcgis.com/en/faq/)
 * [Creating Web Applications Using Templates and Web AppBuilder for ArcGIS](https://www.esri.com/training/catalog/57630433851d31e02a43eee6/creating-web-applications-using-templates-and-web-appbuilder-for-arcgis/)
+* [Step-by-step tutorial: Get Started with Story Maps](https://learn.arcgis.com/en/projects/get-started-with-story-maps/)
+* [MOOC: Do-It-Yourself Geo Apps](https://www.esri.com/mooc/diy-geo-apps)
+
+> **Paid course**: [Creating Story Maps with ArcGIS](https://www.esri.com/training/catalog/5887d359378ef44b34da22b2/creating-story-maps-with-arcgis/)
 
 ### Videos / Technical talks
-On [**video.esri.com**](http://video.esri.com) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
+On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#?sortby=recent) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
 
 |Source|Title|Length|
 |---|---|---|
+|n.a. 2017|[Story Maps and Sustainable Development Goals
+](https://www.youtube.com/watch?v=JecHOlEhgoo)|1h 23min 27secs
+|n.a. 2017|[Design Story Maps to Change Hearts and Minds](https://www.youtube.com/watch?v=53vmpAkdmS0)|50min 34secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Story Maps: Configuring and Customizing Web Apps](https://www.youtube.com/watch?v=XfPMFRnm_Pk)|47min 8secs
 |n.a. 2016|[How to create a Geoform](https://www.youtube.com/watch?v=NayBcQxoc7o)|13min 51secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Online and Portal: Developing Custom JavaScript Applications](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)|48min 5 secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
@@ -174,35 +185,52 @@ narrative featuring images or videos.
 
 * [crowdsource-reporter](https://github.com/Esri/crowdsource-reporter): Crowdsource Reporter is a configurable group app template that can be used for submitting a variety of issues or observations in a single application. Reports can be submitted anonymously, by ArcGIS named users, or by Facebook, Google+, or Twitter users. The app can also be configured to support voting for and commenting on reports submitted by others - [More info](http://solutions.arcgis.com/local-government/help/crowdsource-reporter/).
 
+## Code
+
+* [Switch basemap button for Map Journal](https://github.com/timw1984/timw1984.github.io/tree/master/basemap): [preview](https://timw1984.github.io/basemap/)
+
+* [Custom configurable app: youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
+
+* [storymap-journal-analytics](https://github.com/hhkaos/storymap-journal-analytics): Esri's Story Map Journal enhanced with Maptiks and Google Analytics ([preview](http://bit.ly/2yaCaLU))
+
+* [custom-storymap-journal](https://github.com/hhkaos/custom-storymap-journal): Storymap Journal with dynamic charts using Cedar
+
 ## Community
 * [ArcGIS Online Templates at GeoNet](https://geonet.esri.com/groups/arcgis-online-templates)
+* [Story Maps at GeoNet](https://community.esri.com/community/gis/web-gis/storymaps/overview)
+* [ArcGIS Ideas on GeoNet](http://links.esri.com/storymaps/story_maps_geonet_ideas)
 * [Crowdsourcing group at GeoNet](https://geonet.esri.com/groups/crowdsourcing)
 * If you need help with a specific configurable app try at the repository issues
 
 ## Share your work
-You are always welcome to share your work at [GeoNet](https://geonet.esri.com/groups/arcgis-online-templates), Twitter (do not forget mention [@EsriStoryMaps](http://www.twitter.com/EsriStoryMaps)), Linkedin, etc. But you can also:
+You are always welcome to share your work at [GeoNet](https://geonet.esri.com/groups/arcgis-online-templates), Twitter and Linkedin (do not forget to mention: [@EsriStoryMaps](http://www.twitter.com/EsriStoryMaps)), [storymaps influencers](#people-you-should-know), etc. But you can also:
 
 * Share a **story map** submitting it to [Planet Story Maps](http://go.esri.com/planet-story-maps), an Esri e-newsletter featuring cool new story map examples, tips to help you produce better story maps, announcements about new apps and contests, and more. [Maria Jordan](https://www.linkedin.com/in/maria-jordan-68523325/) is the editor. Contact her at [mjordan@esri.com](mailto:mjordan@esri.com).
 
-* Share a **configurable app** you have written with the community. In this case please feel free to [add a contribution](#contributions) to this page. Example:
-
-  * [youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
+* Share a **configurable app** you have written with the community. In this case please feel free to [add a contribution](#contributions) to this page.
 
 ## People you should know
 They don't work on the support team but they are opening some projects
 and sharing insights related to this technology so we recommend you to follow them.
 
+### Story tellers
+
 ||Linkedin|Github|Twitter|ArcGIS Online|Geonet|
 |---|---|---|---|---|---|
-|![Owen Evans](https://avatars2.githubusercontent.com/u/3215530?v=3&s=50)|[Owen Evans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
 |![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.|
+|![Allen Carroll](https://avatars1.githubusercontent.com/u/5605521?s=50&v=4)|[Allen Carroll](https://www.linkedin.com/in/allencarroll/)|[@acarroll51](https://github.com/acarroll51)|[@AllenCarroll](https://twitter.com/AllenCarroll)|[@StoryMaps](http://www.arcgis.com/home/search.html?q=owner%3AStoryMaps)|n.a.
+|![Owen Evans](https://avatars2.githubusercontent.com/u/3215530?v=3&s=50)|[Owen Evans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
+|<img src="https://pbs.twimg.com/profile_images/877539569746419712/zOOkdAkE_400x400.jpg" alt="John Nelson"|[John Nelson](https://www.linkedin.com/in/johnmnelson/)|n.a.|[@John_M_Nelson](https://twitter.com/John_M_Nelson)|n.a.|n.a.
+|<img src="https://pbs.twimg.com/profile_images/877316597932670977/ByX5n-2q_400x400.jpg" style="width:50px" alt="Jennifer Bell">|[Jennifer Bell](https://www.linkedin.com/in/jennifer-bell-181b108a/)| n.a.|[@jbellmaps](https://twitter.com/jbellmaps)|n.a.|n.a.
+
+### Developers
+
+||Linkedin|Github|Twitter|ArcGIS Online|Geonet|
+|---|---|---|---|---|---|
+|![Tim Witt](./img/tim_witt_esri.jpg)|Tim Witt|[@timw1984](https://github.com/timw1984/)|n.a.|n.a
 |![Stephen Sylvia](https://avatars1.githubusercontent.com/u/1211360?v=3&s=50)|[Stephen Sylvia](https://www.linkedin.com/in/stephen-sylvia-0aa04620/)|[@ssylvia](https://github.com/ssylvia)|n.a.|n.a.|[@SSylvia-esristaff](https://geonet.esri.com/people/SSylvia-esristaff)
 |![Allison Muise](https://geonet.esri.com/people/AMuise-esristaff/avatar/46.png?a=7395)|Allison Muise|[@allisonmuise](https://github.com/allisonmuise)|n.a.|n.a.|[@AMuise-esristaff](https://geonet.esri.com/people/AMuise-esristaff)
-
-Tim Witt - https://timw1984.github.io/basemap/
-James Tedrick - https://www.linkedin.com/in/james-tedrick-3455403/ - https://github.com/tedrick/
-Steven Kitterman - https://github.com/skitterm
-
+|![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.|
 
 ## News about Configurable Apps
 

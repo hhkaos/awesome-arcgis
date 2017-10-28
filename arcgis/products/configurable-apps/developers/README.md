@@ -12,12 +12,13 @@
 
 > **Note**: this page is only a draft, please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to finish this page for the awesome list of resources for ArcGIS Developers.
 
-# Develop a Configurable apps
+# Configurable app types
 
 ## Introduction
 You can build apps from templates using the Web Map Viewer. There are two different types:
 * auto Configurable
 * configurables
+
 
 ## Contributions
 Please **feel free to help us** to improve this list:

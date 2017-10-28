@@ -233,7 +233,6 @@ and sharing insights related to this technology so we recommend you to follow th
 |![Tim Witt](./img/tim_witt_esri.jpg)|Tim Witt|[@timw1984](https://github.com/timw1984/)|n.a.|n.a|n.a.
 |![Stephen Sylvia](https://avatars1.githubusercontent.com/u/1211360?v=3&s=50)|[Stephen Sylvia](https://www.linkedin.com/in/stephen-sylvia-0aa04620/)|[@ssylvia](https://github.com/ssylvia)|n.a.|n.a.|[@SSylvia-esristaff](https://geonet.esri.com/people/SSylvia-esristaff)
 |![Allison Muise](https://geonet.esri.com/people/AMuise-esristaff/avatar/46.png?a=7395)|Allison Muise|[@allisonmuise](https://github.com/allisonmuise)|n.a.|n.a.|[@AMuise-esristaff](https://geonet.esri.com/people/AMuise-esristaff)
-|![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.|
 
 ## News about Configurable Apps
 

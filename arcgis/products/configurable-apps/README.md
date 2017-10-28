@@ -22,6 +22,7 @@ mechanism that allows users of an organization to create and configure
 - [Code](#code)
 - [Community](#community)
 - [Share your work](#share-your-work)
+- [Sell your configurable app](#sell-your-configurable-app)
 - [People you should know](#people-you-should-know)
   - [Story tellers](#story-tellers)
   - [Developers](#developers)
@@ -68,8 +69,7 @@ On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#
 
 |Source|Title|Length|
 |---|---|---|
-|n.a. 2017|[Story Maps and Sustainable Development Goals
-](https://www.youtube.com/watch?v=JecHOlEhgoo)|1h 23min 27secs
+|n.a. 2017|[Story Maps and Sustainable Development Goals](https://www.youtube.com/watch?v=JecHOlEhgoo)|1h 23min 27secs
 |n.a. 2017|[Design Story Maps to Change Hearts and Minds](https://www.youtube.com/watch?v=53vmpAkdmS0)|50min 34secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Story Maps: Configuring and Customizing Web Apps](https://www.youtube.com/watch?v=XfPMFRnm_Pk)|47min 8secs
 |n.a. 2016|[How to create a Geoform](https://www.youtube.com/watch?v=NayBcQxoc7o)|13min 51secs

@@ -190,7 +190,7 @@ narrative featuring images or videos.
 
 ## Code
 
-* [Switch basemap button for Map Journal](https://github.com/timw1984/timw1984.github.io/tree/master/basemap): [preview](https://timw1984.github.io/basemap/)
+* [Switch basemap button for Map Journal](https://github.com/timw1984/timw1984.github.io/tree/master/basemap)  ([preview](https://timw1984.github.io/basemap/))
 
 * [Custom configurable app: youtube-video-tour](https://github.com/Geo-Developers/youtube-video-tour): This application shows a route path synchronised with a video. It uses a GPX file with GPS coordinates and a timestamp with a video on Youtube.
 

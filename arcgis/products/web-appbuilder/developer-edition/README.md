@@ -70,6 +70,7 @@ code and helping other developers here:
 * [All Web AppBuilder Groups on GeoNet](https://geonet.esri.com/places?query=appbuilder)
 
 ## Code
+*  [wab-app-build-script](https://github.com/Esri-DevCenter-Beijing/wab-app-build-script): speed up your app's loading performance
 * Widgets & Themes:
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
   * [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo

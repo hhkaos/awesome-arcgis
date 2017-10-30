@@ -91,9 +91,10 @@ technology so we recommend you to follow them.
 ||Linkedin|Github|Twitter|ArcGIS Online|GeoNet|Stackoverflow|
 |---|---|---|---|---|---|---|
 |![Robert J Scheitlin](https://avatars1.githubusercontent.com/u/1216460?v=3&s=50)|[Robert J Scheitlin](https://www.linkedin.com/in/robertscheitlin)|[Github](https://github.com/rscheitlin)|n/a|[ArcGIS](http://www.arcgis.com/home/search.html?q=owner:rscheitlin)|[GeoNet](https://geonet.esri.com/people/rscheitlin)|n.a.
-|![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?v=3&s=50)|[Gavin Rehkemper](http://www.linkedin.com/in/gavinrehkemper)|[Github](https://github.com/gavinr)|[Twitter](https://twitter.com/gavinrehkemper)|[ArcGIS](http://www.arcgis.com/home/search.html?q=owner:gavinrehkemper)|n/a|[Stackoverflow](http://stackoverflow.com/users/2039/gavinr)
-
-Derek Law
+|![Gavin Rehkemper](https://avatars3.githubusercontent.com/u/209355?v=3&s=50)|[Gavin Rehkemper](http://www.linkedin.com/in/gavinrehkemper)|[Github](https://github.com/gavinr)|[Twitter](https://twitter.com/gavinrehkemper)|[ArcGIS](http://www.arcgis.com/home/search.html?q=owner:gavinrehkemper)|n/a|[Stackoverflow](http://stackoverflow.com/users/2039/gavinr)|
+|![Derek Law](https://avatars3.githubusercontent.com/u/1037228?s=50&v=4)|[Derek Law](https://www.linkedin.com/in/dereklaw88/)|[Github](https://github.com/DerekLaw)|[Twitter](https://twitter.com/gis_bandit)|n.a.|[GeoNet](https://community.esri.com/people/dlaw-esristaff)|n.a.
+|![Jianxia Song](https://avatars2.githubusercontent.com/u/5741973?s=50&v=4)|[Jianxia Song](https://www.linkedin.com/in/jianxia-song-a8b78429/)|[Github](https://github.com/Jianxia)|n.a.|n.a.|[GeoNet](https://community.esri.com/people/jsong-esristaff)|n.a.
+|![Lemao Wu](https://avatars1.githubusercontent.com/u/4428300?s=50&v=4)|[Lemao Wu](https://www.linkedin.com/in/lemao-wu-4533b922/)|[Github](https://github.com/wlmbj)|[Twitter](https://twitter.com/lemaowu)|n.a.|[GeoNet](https://community.esri.com/people/LWu-esristaff)|n.a.
 
 ## News
 * [blogs.esri.com (tag: Web AppBuilder)](https://blogs.esri.com/esri/arcgis/tag/web-appbuilder/)

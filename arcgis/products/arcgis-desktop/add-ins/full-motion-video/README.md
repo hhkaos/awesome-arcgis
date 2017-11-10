@@ -12,8 +12,10 @@ comprised of the Video Player, Video Manager and associated GP Tools
 
 - [Introduction](#introduction)
 - [Training](#training)
+- [People you should know](#people-you-should-know)
 - [Community](#community)
 - [News](#news)
+- [You didn't find you answer?](#you-didnt-find-you-answer)
 - [Related technologies](#related-technologies)
 - [Contributions](#contributions)
 
@@ -39,6 +41,18 @@ You can add a file or an stream source if you plain to work with real time video
 * [Full Motion Video - Tutorial (Document)](https://esri.app.box.com/s/pgsmra3npv54thnmgfwesu82uqey5bc4)
 * [FMV FAQ](https://geonet.esri.com/docs/DOC-8379-frequently-asked-questions-about-fmv)
 
+## People you should know
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
+|---|---|---|---|---|---|---|
+|<img src="https://media-exp1.licdn.com/media/AAEAAQAAAAAAAAoHAAAAJDFiYmQ4Mjg2LTdmZTctNDcyZi1iM2M3LTk5YmNhNGI5ZTk5Mg.jpg" width="80" alt="Cody Benkelman">|[Cody Benkelman](https://www.linkedin.com/in/cody-benkelman-0b62761/)|[Github](https://github.com/codybenkelman)|n.a.|n.a.|n.a.|n.a.
+|<img src="https://media-exp1.licdn.com/media/p/8/000/1fd/2dd/3244746.jpg" width="80" alt="Clark Swinehart">|[Clark Swinehart](https://www.linkedin.com/in/clark-swinehart-96064b1/)|n.a.|n.a.|n.a.|n.a.|n.a.
+
+
+
 ## Community
 
 [Imagery and Remote Sensing at GeoNet](https://geonet.esri.com/community/gis/imagery-and-remote-sensing/content?filterID=contentstatus%5Bpublished%5D~category%5Bfull-motion-video%5D)
@@ -46,6 +60,10 @@ You can add a file or an stream source if you plain to work with real time video
 ## News
 
 * [FMW at blogs.esri.com](https://blogs.esri.com/esri/globalsearch/?mssearch=fmv&msp=1&mswhere=all)
+
+## You didn't find you answer?
+
+Probably not all the resources are in this list, please "check in this search engine" looking for: [FMV or Full Motion Video](https://esri-es.github.io/arcgis-search/?search=fmv%20or%20%22full%20motion%20video%22).
 
 ## Related technologies
 

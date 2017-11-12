@@ -6,6 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Third party integrations](#third-party-integrations)
 - [Choosing the best technology](#choosing-the-best-technology)
 - [Contributions](#contributions)
 

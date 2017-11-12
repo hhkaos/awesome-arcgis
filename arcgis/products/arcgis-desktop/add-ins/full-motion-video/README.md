@@ -15,6 +15,7 @@ comprised of the Video Player, Video Manager and associated GP Tools
 - [People you should know](#people-you-should-know)
 - [Community](#community)
 - [News](#news)
+- [Other resources](#other-resources)
 - [You didn't find you answer?](#you-didnt-find-you-answer)
 - [Related technologies](#related-technologies)
 - [Contributions](#contributions)

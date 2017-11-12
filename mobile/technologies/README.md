@@ -12,6 +12,10 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
+## Third party integrations
+
+* [ArcGIS Runtime SDK for React Native](https://community.esri.com/ideas/13356-arcgis-runtime-sdk-for-react-native)
+
 ## Choosing the best technology
 
 ## Contributions

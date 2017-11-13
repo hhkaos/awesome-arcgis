@@ -65,6 +65,7 @@ technology so we recommend you to follow them.
 ## Other resources
 
 * [FMV Server](http://fmvserver.com/shop/) (by LG Spatial), versions available: Web AppBuilder Widget, FMW Widget for Configurable Map Viewer and Full Motion Video Server.
+* [LineVision Esri Maps](https://www.remotegeo.com/) (by RemoteGeo), versions available: [ArcMap Add-in](https://www.remotegeo.com/geospatial-video-software/desktop-video-gis/lv-esri-arcmap-add-in/), [desktop app with Esri Maps](https://www.remotegeo.com/geospatial-video-software/desktop-video-gis/linevision-esri-maps/), [cloud & server](https://www.remotegeo.com/geospatial-video-software/cloud-video-gis/), etc.
 
 ## You didn't find you answer?
 

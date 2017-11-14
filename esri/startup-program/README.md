@@ -31,7 +31,9 @@ Check at the [Esri Partners Directory](http://partners.esri.com/PartnerSearchRes
 
 ## Resources
 
-* [Esri Startup Program Onboarding Orientation Blog Series](https://geonet.esri.com/groups/esristartups/blog/2015/11/11/esri-startup-program-onboarding-orientation-blog-series)
+Please, check the [Esri Startup Program Blog](https://community.esri.com/groups/esristartups/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
+
+And also read the [Esri Startup Program Onboarding Orientation Blog Series](https://geonet.esri.com/groups/esristartups/blog/2015/11/11/esri-startup-program-onboarding-orientation-blog-series)
   * [Program Benefits](https://geonet.esri.com/groups/esristartups/blog/2015/11/11/esri-startup-program-onboarding-orientation-program-benefits)
   * [Socializing the ArcGIS Platform](https://geonet.esri.com/groups/esristartups/blog/2015/11/12/arcgis-platform)
   * [Acceptance & Onboarding](https://geonet.esri.com/groups/esristartups/blog/2015/11/11/esri-startup-program-onboarding-orientation-acceptance-onboarding)

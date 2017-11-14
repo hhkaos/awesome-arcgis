@@ -31,6 +31,8 @@
 
 ## News
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="scene service"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
 
 ## Contributions
 Please **feel free to help us** to improve this list:
@@ -38,4 +40,4 @@ Please **feel free to help us** to improve this list:
 * [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
 * Or writing a comment:
   * If you find a broken link
-  * Or if we are missing a nice resource ([find more resources](https://esri-es.github.io/arcgis-search/?search=scene%20services)).
+  * Or if we are missing a nice resource ([find more resources](https://esri-es.github.io/arcgis-search/?search=scene%20services&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)).

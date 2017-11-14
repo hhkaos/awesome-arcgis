@@ -91,8 +91,11 @@ technology so we recommend you to follow them.
 
 ## Other resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["network alayst"](https://esri-es.github.io/arcgis-search/?search="network alayst"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+Featured resources:
+
 * [ArcGIS Network Analyst Tutorial Data](https://www.arcgis.com/home/item.html?id=d6bd91b2fddc483b8ccbc66942db84cb): This desktop application template is simply a zip file containing the Network Analyst tutorial and workflow data referenced in the documentation.
-* [Google Search among ArcGIS sites (term: "Network Analyst")](https://esri-es.github.io/arcgis-search/#gsc.tab=0&gsc.q=%22Network%20Analyst%22&gsc.sort=)
 
 ## News
 

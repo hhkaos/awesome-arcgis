@@ -11,7 +11,6 @@
 - [Training](#training)
   - [Documentation](#documentation)
   - [Videos](#videos)
-- [Code](#code)
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News](#news)

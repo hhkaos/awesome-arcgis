@@ -35,6 +35,7 @@
       - [Arcmap Arccatalog](arcgis/products/arcgis-desktop/arcmap-arccatalog/README.md)
     - [Arcgis Enterprise](arcgis/products/arcgis-enterprise/README.md)
       - [Arcgis Server](arcgis/products/arcgis-enterprise/arcgis-server/README.md)
+        - [Geoanalytics Server](arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md)
         - [Geoevent Server](arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md)
         - [Image Server](arcgis/products/arcgis-enterprise/arcgis-server/image-server/README.md)
         - [Server Object Extensions](arcgis/products/arcgis-enterprise/arcgis-server/server-object-extensions/README.md)

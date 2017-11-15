@@ -17,6 +17,7 @@ enables you to work with Real-Time Mapping and Analytics
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News](#news)
+- [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

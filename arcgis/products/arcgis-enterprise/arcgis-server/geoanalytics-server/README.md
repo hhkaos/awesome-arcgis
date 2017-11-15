@@ -14,6 +14,7 @@
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News](#news)
+- [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -66,6 +67,11 @@ technology so we recommend you to follow them.
 ## News
 * [A Fix for the Create Space Time Cube Tool in GeoAnalytics Server](https://blogs.esri.com/esri/arcgis/2017/07/18/a-fix-for-the-create-space-time-cube-tool-in-geoanalytics-server/)
 * More at: [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
+
+## Localized resources
+
+### Spanish
+* [Análisis de Big Data con GeoAnalytics](https://www.youtube.com/watch?v=uATC_Cunf8o) at [CEsri17](http://ce17.esri.es/) (56:59)
 
 ## Additional resources
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoanalytics"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

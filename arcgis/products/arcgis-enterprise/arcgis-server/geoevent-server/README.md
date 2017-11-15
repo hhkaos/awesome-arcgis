@@ -64,6 +64,7 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
   * [Connector for receiving raw data in the NMEA format.](https://github.com/Esri/nmea-for-geoevent)
   * [Http Inbound Transport for polling a REST endpoint](https://github.com/Esri/httpPoll-for-geoevent)
 * [Sample JavaScript Aggregation Viewer using Map Service queries with an Aggregation Renderer and rendering images server side](https://github.com/esri/aggregation-viewer-server-map-service)
+* [Sample JavaScript Aggregation Viewer using aggregation (lod) queries and rendering aggregation bins client side](https://github.com/esri/aggregation-viewer-client-feature-layer)
 * More sample code on github: [geoev search](https://github.com/Esri?utf8=%E2%9C%93&q=geoev) & [geoevent topic](https://github.com/topics/geoevent)
 
 ## Community
@@ -83,6 +84,9 @@ technology so we recommend you to follow them.
 
 ## News
 * [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoevent&search=Search)
+
+## Additional resources
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoevent"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ## Contributions
 Please **feel free to help us** to improve this list:

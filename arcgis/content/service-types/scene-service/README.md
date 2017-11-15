@@ -23,7 +23,7 @@
 
 
 ## Resources
-
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="scene service"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ## Utils
 
@@ -31,7 +31,7 @@
 
 ## News
 
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="scene service"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
 
 
 ## Contributions

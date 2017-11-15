@@ -67,6 +67,10 @@ technology so we recommend you to follow them.
 * [A Fix for the Create Space Time Cube Tool in GeoAnalytics Server](https://blogs.esri.com/esri/arcgis/2017/07/18/a-fix-for-the-create-space-time-cube-tool-in-geoanalytics-server/)
 * More at: [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
 
+## Additional resources
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoanalytics"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

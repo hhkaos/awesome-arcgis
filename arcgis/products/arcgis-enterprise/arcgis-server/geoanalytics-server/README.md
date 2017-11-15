@@ -49,10 +49,6 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 |[FedGIS](http://www.esri.com/events/federal) 2017|[Real-Time GIS and GeoAnalytics](https://www.youtube.com/watch?v=OaodLd--Muk)|5:43
 |[UC](http://www.esri.com/about/events/uc) 2016|[GeoAnalytics Server](https://www.youtube.com/watch?v=tydfltQcy8A)|5:43
 
-## Code
-
-* More [sample code on github](https://github.com/Esri?utf8=%E2%9C%93&q=geoan)
-
 ## Community
 * [Real-Time & Big Data GIS on GeoNet](https://geonet.esri.com/groups/real-time-gis)
 * [GeoAnalytics on stackexchange](https://gis.stackexchange.com/search?q=geoanalytics)

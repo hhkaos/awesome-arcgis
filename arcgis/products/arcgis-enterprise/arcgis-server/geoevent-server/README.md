@@ -33,6 +33,7 @@ situational awareness for coordinated field activities.
 * [Extending GeoEvent Server](http://server.arcgis.com/en/geoevent/latest/administer/extending-geoevent-server.htm)
 * [Tutorials](http://www.arcgis.com/home/search.html?q=tutorial%20owner%3AGeoEventTeam&t=content)
 * [GeoEvent Team items on ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner%3AGeoEventTeam&t=content&focus=all)
+* [ArcGIS GeoEvent Server Gallery](http://geoevent.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=186a8c8df5954bf1a8ec7dd847cbee14)
 
 ### Videos
 On **video.esri.com** there are [more than 40 videos related to GeoEvent](http://www.esri.com/videos/search?q=geoevent#?sortby=recent&channels=esri,Events,ArcGIS,Industries,ArcGIS,esri). You can also find it slides at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=geoevent+site:proceedings.esri.com).
@@ -49,6 +50,7 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 
 ## Code
 * [Proxy that handles tokens for versions of ArcGIS GeoEvent Processor for Server and ArcGIS GeoEvent Extension for Server](https://github.com/Esri/geoevent-datastore-proxy)
+* [The Cluster Simulator functions as a source of data feeding GeoEvents into a cluster of ArcGIS Servers running GeoEvent Extension.](https://github.com/Esri/cluster-simulator-for-geoevent)
 * [Custom processors, adapters and transports for geoevent server.](https://github.com/Esri/solutions-geoevent-java)
 * ArcGIS GeoEvent Extension Samples:
   * [MongoDB Outbound Connector for storing GeoEvents.](https://github.com/Esri/mongodb-for-geoevent)
@@ -75,6 +77,8 @@ technology so we recommend you to follow them.
 |Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
 |---|---|---|---|---|---|---|
 |![Mansour Raad](https://avatars2.githubusercontent.com/u/984730?v=3&s=50)|Mansour Raad|[Github](https://github.com/mraad)|[Twitter](mraad)|n.a.|n.a.|n.a.|
+|![Adam Mollenkopf](https://avatars0.githubusercontent.com/u/4580532?s=50&v=4)|[Adam Mollenkopf](https://www.linkedin.com/in/adammollenkopf)|[Github](https://github.com/amollenkopf)|[Twitter](https://www.twitter.com/amollenkopf)|n.a.|n.a.|n.a.|
+|<img src="https://pbs.twimg.com/profile_images/489426544264085506/BsgyioAS_400x400.jpeg" width="50" alt="Suzzane">|Suzzane Foss|n.a.|[Twitter](https://www.twitter.com/sfoss_esri)|n.a.|n.a.|n.a.
 
 ## News
 * [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoevent&search=Search)

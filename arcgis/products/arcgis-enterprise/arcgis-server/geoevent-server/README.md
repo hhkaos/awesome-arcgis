@@ -63,7 +63,8 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
   * [KML Connector](https://github.com/Esri/kml-for-geoevent)
   * [Connector for receiving raw data in the NMEA format.](https://github.com/Esri/nmea-for-geoevent)
   * [Http Inbound Transport for polling a REST endpoint](https://github.com/Esri/httpPoll-for-geoevent)
-* More [sample code on github](https://github.com/Esri?utf8=%E2%9C%93&q=geoev)
+* [Sample JavaScript Aggregation Viewer using Map Service queries with an Aggregation Renderer and rendering images server side](https://github.com/esri/aggregation-viewer-server-map-service)
+* More sample code on github: [geoev search](https://github.com/Esri?utf8=%E2%9C%93&q=geoev) & [geoevent topic](https://github.com/topics/geoevent)
 
 ## Community
 * [Real-Time & Big Data GIS on GeoNet](https://geonet.esri.com/groups/real-time-gis)

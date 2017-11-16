@@ -14,6 +14,8 @@
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News](#news)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

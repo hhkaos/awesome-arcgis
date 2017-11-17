@@ -73,7 +73,16 @@ technology so we recommend you to follow them.
 ## Localized resources
 
 ### Spanish
-* [Análisis de Big Data con GeoAnalytics](https://www.youtube.com/watch?v=uATC_Cunf8o) at [CEsri17](http://ce17.esri.es/) (56:59)
+
+Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/user/esriSpainTV/search?query=geoanalytics).
+
+|Descripción|Fecha|Duración|
+|---|---|---|
+|[Webinar de GeoEvent y GeoAnalytics](https://youtu.be/dgahu7MgXoA)|Abr 2017|58:26
+|[Tiempo Real - Integrando redes de sensores e IoT](https://youtu.be/p6QjUROOZKY?t=49m7s)|Abr 2017|~30min
+|[Caso práctico de GeoAnalytics de los autobuses de la EMT en la plenaria de la Conferencia de Esri España de 2016](https://youtu.be/s7BW1PbyRj8)|Oct 2016|10:57
+|[Sesión técnica de GeoAnalytics en la Conferencia de Esri España de 2016](https://youtu.be/uATC_Cunf8o)|Oct 2016|56:59
+
 
 ## Additional resources
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoanalytics"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

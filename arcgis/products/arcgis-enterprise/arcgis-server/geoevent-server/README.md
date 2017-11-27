@@ -97,7 +97,6 @@ Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/us
 |Descripción|Fecha|Duración|
 |---|---|---|
 |[Webinar de GeoEvent y GeoAnalytics](https://youtu.be/dgahu7MgXoA)|Abr 2017|58:26
-|[Tiempo Real - Integrando redes de sensores e IoT](https://www.youtube.com/watch?v=p6QjUROOZKY&t=2611s)|Abr 2017|~30min
 
 ## Additional resources
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoevent"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

@@ -36,12 +36,27 @@ working with [ArcGIS Server](../arcgis-enterprise/README.md) and
 
 * [Storymap: Unlock the insights hidden in your Drone Images](https://www.arcgis.com/apps/Cascade/index.html?appid=f8ea0352786a47b5b5295222fa56576c): Drone Point Clouds Classification
 
+## News
+
+[Drone2map Esri Blog](https://blogs.esri.com/esri/arcgis/tag/drone2map/)
+
 ## Related technologies
 * [Full Motion Video Add in](../arcgis-desktop/add-ins/full-motion-video/README.md)
 
 ## Get the tool
 * Premium app
 * Thought the startup program
+
+
+## People you should know
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
+|---|---|---|---|---|---|---|
+|<img src="https://media-exp1.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/01e/1b6/247e0c4.jpg" width="50" alt="Tony Mason">|[Tony Mason](https://www.linkedin.com/in/tonymmason/)|n.a.|n.a.|n.a.|[Geonet](https://community.esri.com/people/amason-esristaff)|n.a.|
+
 
 ## Contributions
 Please **feel free to help us** to improve this list:

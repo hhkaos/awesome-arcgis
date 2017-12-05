@@ -39,15 +39,16 @@ Product related:
 * [CityEngineTV](https://www.youtube.com/user/CityEngineTV)
 
 Country Specifics
-* [Esri Spain](https://www.youtube.com/channel/UCGHLSveM47-mnV7F4P7wfjw)
 * [Esri UK](https://www.youtube.com/user/ESRIUK1)
-* [Esri Deutschland](https://www.youtube.com/user/EsriDeutschlandTV)
-* [Esri France](https://www.youtube.com/user/esrifranceTV)
 * [Esri Australia](https://www.youtube.com/user/EsriAustralia)
+* [Esri Spain](https://www.youtube.com/channel/UCGHLSveM47-mnV7F4P7wfjw) (Spanish)
+* [Esri France](https://www.youtube.com/user/esrifranceTV) (French)
+* [Esri Deutschland](https://www.youtube.com/user/EsriDeutschlandTV) (German)
 
 Other channels:
 
 * [Rene Rubalcava](https://www.youtube.com/channel/UCo7tc3KZgH4GMUcqcSFBLOQ)
+* [GeoDevelopers](youtube.com/geo-developers) (mixed languages: Spanish & English)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

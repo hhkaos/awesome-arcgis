@@ -6,6 +6,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Youtube channles](#youtube-channles)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -22,8 +23,6 @@ Learn more about:
 * [Brand](brand/README.md): colors, logos, etc.
 
 ## Youtube channles
-
-# Youtube channels
 
 You can also find more information on any of our Youtube Channels:
 
@@ -44,6 +43,7 @@ Country Specifics
 * [Esri UK](https://www.youtube.com/user/ESRIUK1)
 * [Esri Deutschland](https://www.youtube.com/user/EsriDeutschlandTV)
 * [Esri France](https://www.youtube.com/user/esrifranceTV)
+* [Esri Australia](https://www.youtube.com/user/EsriAustralia)
 
 Other channels:
 

@@ -13,6 +13,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 - [Resources](#resources)
 - [Utils](#utils)
 - [News](#news)
+- [People you should know](#people-you-should-know)
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
 - [Contributions](#contributions)

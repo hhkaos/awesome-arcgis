@@ -6,7 +6,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Youtube channles](#youtube-channles)
+- [Youtube channels](#youtube-channels)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -22,7 +22,7 @@ Learn more about:
 * [R&D Centers](r-and-d/README.md) in North America, Europe, Australia, Asia and Africa
 * [Brand](brand/README.md): colors, logos, etc.
 
-## Youtube channles
+## Youtube channels
 
 You can also find more information on any of our Youtube Channels:
 

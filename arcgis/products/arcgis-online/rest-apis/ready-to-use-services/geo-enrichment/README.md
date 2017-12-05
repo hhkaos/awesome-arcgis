@@ -7,10 +7,13 @@ GeoEnrichment is the process of adding demographic and lifestyle data to your ma
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Introduction](#introduction)
-  - [Geocoder](#geocoder)
-  - [More resources](#more-resources)
-- [Contributions](#contributions)
+  - [Introduction](#introduction)
+- [Terms of use](#terms-of-use)
+  - [News](#news)
+  - [More info](#more-info)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
+  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

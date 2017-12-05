@@ -21,6 +21,34 @@ Learn more about:
 * [R&D Centers](r-and-d/README.md) in North America, Europe, Australia, Asia and Africa
 * [Brand](brand/README.md): colors, logos, etc.
 
+## Youtube channles
+
+# Youtube channels
+
+You can also find more information on any of our Youtube Channels:
+
+|Name|Subscribers|Topics (Playlists)|
+|---|---|
+|[Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw)|+4425|>23 [playlists](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/playlists?disable_polymer=1): [2017 Developer Summit Plenary](https://www.youtube.com/playlist?list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), ...
+|[ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw)|+3500|>35 [playlists](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/playlists?disable_polymer=1): [Insights](https://www.youtube.com/playlist?list=PLGZUzt4E4O2LEMMMP3AEZz9MOSFMfo7LF), [GeoDev Webinar Series](https://www.youtube.com/watch?v=8BObxY7ZtzA&list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx),...
+|[Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA)|+1300|>23 [playlists](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/playlists?disable_polymer=1): [Goverment](https://www.youtube.com/playlist?list=PLdVnJnpRENTmRj1Cw75aE5inYwNxv4HfK), [Public Safety](https://www.youtube.com/playlist?list=PLdVnJnpRENTnAoQ-WGz7z0qfY6hoPQzff), [Water](https://www.youtube.com/playlist?list=PLdVnJnpRENTkXRhExx_Jwp3JLxq4hN2JF)
+|[EsriTV](https://www.youtube.com/user/esritv)|+800|>8 [playlists](https://www.youtube.com/user/esritv/playlists?disable_polymer=1): [ArcGIS Pro](https://www.youtube.com/playlist?list=PL1U1yOIVhnz8-m-j0yOYEBImsDjR4EPqh), [Esri 2017 Federal GIS Plenary](https://www.youtube.com/playlist?list=PLaPDDLTCmy4Z2QVB_SOlMrj50H46IBYg0), ...
+|[Esri R&D Center](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)|+180|[Few videos](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)
+
+Product related:
+* [AppStudioForArcGIS at Esri](https://www.youtube.com/channel/UCaDpuQi3gcd5YD9KW-_jsQg)
+* [CityEngineTV](https://www.youtube.com/user/CityEngineTV)
+
+Country Specifics
+* [Esri Spain](https://www.youtube.com/channel/UCGHLSveM47-mnV7F4P7wfjw)
+* [Esri UK](https://www.youtube.com/user/ESRIUK1)
+* [Esri Deutschland](https://www.youtube.com/user/EsriDeutschlandTV)
+* [Esri France](https://www.youtube.com/user/esrifranceTV)
+
+Other channels:
+
+* [Rene Rubalcava](https://www.youtube.com/channel/UCo7tc3KZgH4GMUcqcSFBLOQ)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

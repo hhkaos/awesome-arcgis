@@ -47,6 +47,7 @@
       - [Developer Console](arcgis/products/arcgis-online/developer-console/README.md)
       - [Rest Apis](arcgis/products/arcgis-online/rest-apis/README.md)
         - [Ready To Use Services](arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md)
+          - [Geo Enrichment](arcgis/products/arcgis-online/rest-apis/ready-to-use-services/geo-enrichment/README.md)
     - [City Engine](arcgis/products/city-engine/README.md)
     - [Collector For Arcgis](arcgis/products/collector-for-arcgis/README.md)
     - [Configurable Apps](arcgis/products/configurable-apps/README.md)

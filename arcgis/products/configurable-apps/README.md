@@ -199,6 +199,9 @@ narrative featuring images or videos.
 * [custom-storymap-journal](https://github.com/hhkaos/custom-storymap-journal): Storymap Journal with dynamic charts using Cedar
 
 ## Community
+
+If you have a question about a specific storymap **we highly recommend you to open an issue on the specific repository**.
+
 * [ArcGIS Online Templates at GeoNet](https://geonet.esri.com/groups/arcgis-online-templates)
 * [Story Maps at GeoNet](https://community.esri.com/community/gis/web-gis/storymaps/overview)
 * [ArcGIS Ideas on GeoNet](http://links.esri.com/storymaps/story_maps_geonet_ideas)

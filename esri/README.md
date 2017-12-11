@@ -33,6 +33,7 @@ You can also find more information on any of our Youtube Channels:
 |[Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA)|+1300|>23 [playlists](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/playlists?disable_polymer=1): [Goverment](https://www.youtube.com/playlist?list=PLdVnJnpRENTmRj1Cw75aE5inYwNxv4HfK), [Public Safety](https://www.youtube.com/playlist?list=PLdVnJnpRENTnAoQ-WGz7z0qfY6hoPQzff), [Water](https://www.youtube.com/playlist?list=PLdVnJnpRENTkXRhExx_Jwp3JLxq4hN2JF)
 |[EsriTV](https://www.youtube.com/user/esritv)|+800|>8 [playlists](https://www.youtube.com/user/esritv/playlists?disable_polymer=1): [ArcGIS Pro](https://www.youtube.com/playlist?list=PL1U1yOIVhnz8-m-j0yOYEBImsDjR4EPqh), [Esri 2017 Federal GIS Plenary](https://www.youtube.com/playlist?list=PLaPDDLTCmy4Z2QVB_SOlMrj50H46IBYg0), ...
 |[Esri R&D Center](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)|+180|[Few videos](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)
+|[Esri Applications Prototype Lab](https://www.youtube.com/user/prototypelab)|+130|[+40 videos](https://www.youtube.com/user/PrototypeLab/videos)
 
 Product related:
 * [AppStudioForArcGIS at Esri](https://www.youtube.com/channel/UCaDpuQi3gcd5YD9KW-_jsQg)

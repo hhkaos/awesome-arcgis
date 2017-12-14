@@ -45,6 +45,9 @@ Find more searching for ["ArcGIS Hub" on Youtube](https://www.youtube.com/result
 
 This playlist ([ArcGIS Hub and Open Data](https://www.youtube.com/watch?v=HsFdhsWQiI8&list=PLJN4HgE09_NS_VL3TKG72EIGWXYBpBdYk)) from Andrew Turner is also interesting
 
+## Code
+
+* [MyStreet](https://github.com/Esri/MyStreet): Prototype city-viewer app to demonstrate [hub-ready requirements](https://github.com/Esri/MyStreet/blob/master/hub-ready.md).
 
 ## Community
 

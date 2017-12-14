@@ -19,6 +19,9 @@
 ### Videos / Technical talks
 ## Community
 ## Code
+
+* [arcgis-rest-js](https://github.com/esri/arcgis-rest-js): compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers. http://arcgis-rest-js.surge.sh/
+
 ArcNode
 * [node-arcgis](https://github.com/Esri/node-arcgis): Client library for wrapping REST API functions. Primarily focused on filling the gaps of Geoservices.js - specifically content management, org administration, etc.
 

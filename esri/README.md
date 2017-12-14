@@ -49,7 +49,9 @@ Country Specifics
 Other channels:
 
 * [Rene Rubalcava](https://www.youtube.com/channel/UCo7tc3KZgH4GMUcqcSFBLOQ)
+* [Hussein Nasser](https://www.youtube.com/user/GISIGeometry/playlists)
 * [GeoDevelopers](youtube.com/geo-developers) (mixed languages: Spanish & English)
+* [Andrew Turner](https://www.youtube.com/user/ajt3h)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

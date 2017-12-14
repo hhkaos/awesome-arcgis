@@ -41,7 +41,7 @@ Find more searching for ["ArcGIS Hub" on Youtube](https://www.youtube.com/result
 
 |Event|Title|Length|Slides
 |---|---|---|---|
-|[GeoDev Webinar series](http://go.esri.com/geodev) |ArcGIS Hub |n.a.|[Slides](https://johngravois.com/presentations/geodev-hub/#/)
+|[GeoDev Webinar series](https://www.youtube.com/watch?v=8BObxY7ZtzA&list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx) |ArcGIS Hub |n.a.|[Slides](https://johngravois.com/presentations/geodev-hub/#/)
 |[UC](http://www.esri.com/events/user-conference) 2017|[ArcGIS Online: Getting Started with Open Data and Initiatives in the ArcGIS Hub](https://www.youtube.com/watch?v=HsFdhsWQiI8)|1h 13min 43secs|n.a.
 |[UC](http://www.esri.com/events/user-conference) 2017|[Esri UC 2017: ArcGIS Hub](https://www.youtube.com/watch?v=7OrvBKEqQiU)|6m 37secs|n.a.|
 
@@ -76,7 +76,7 @@ This playlist ([ArcGIS Hub and Open Data](https://www.youtube.com/watch?v=HsFdhs
 * [ArcGIS Hub Blog on GeoNet](https://community.esri.com/community/gis/web-gis/arcgis-hub)
 
 ## Resources
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["arcgis hug"](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=%22arcgis+hub%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["arcgis hub"](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=%22arcgis+hub%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ## Contributions
 Please **feel free to help us** to improve this list:

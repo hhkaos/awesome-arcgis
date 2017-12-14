@@ -10,10 +10,12 @@
     - [Videos / Technical talks](#videos--technical-talks)
   - [Community](#community)
   - [Code](#code)
-  - [Tools](#tools)
 - [People you should know](#people-you-should-know)
+  - [News](#news)
   - [Get the tool](#get-the-tool)
-  - [Spanish](#spanish)
+  - [Resources](#resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
   - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

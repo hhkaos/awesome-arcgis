@@ -41,7 +41,9 @@
         - [Server Object Extensions](arcgis/products/arcgis-enterprise/arcgis-server/server-object-extensions/README.md)
         - [Server Object Interceptors](arcgis/products/arcgis-enterprise/arcgis-server/server-object-interceptors/README.md)
       - [Portal For Arcgis](arcgis/products/arcgis-enterprise/portal-for-arcgis/README.md)
+    - [Arcgis Hub](arcgis/products/arcgis-hub/README.md)
     - [Arcgis Online](arcgis/products/arcgis-online/README.md)
+      - [Arcgis Open Data](arcgis/products/arcgis-online/arcgis-open-data/README.md)
       - [Content](arcgis/products/arcgis-online/content/README.md)
       - [Credits](arcgis/products/arcgis-online/credits/README.md)
       - [Developer Console](arcgis/products/arcgis-online/developer-console/README.md)
@@ -86,6 +88,7 @@
   - [Best Practices](devops/best-practices/README.md)
   - Technologies
     - [Aws](devops/technologies/aws/README.md)
+    - [Koop](devops/technologies/koop/README.md)
     - [Wordpress](devops/technologies/wordpress/README.md)
 - [Esri](esri/README.md)
   - [Brand](esri/brand/README.md)

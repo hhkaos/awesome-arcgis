@@ -6,6 +6,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Code](#code)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

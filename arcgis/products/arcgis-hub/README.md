@@ -8,12 +8,13 @@
   - [Introduction](#introduction)
   - [Training](#training)
     - [Videos / Technical talks](#videos--technical-talks)
-  - [Community](#community)
   - [Code](#code)
-  - [Tools](#tools)
+  - [Community](#community)
 - [People you should know](#people-you-should-know)
   - [Get the tool](#get-the-tool)
   - [Spanish](#spanish)
+  - [News](#news)
+  - [Resources](#resources)
   - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -31,7 +32,8 @@ ArcGIS Hub Sample Instance: [hub.arcgis.com](http://hub.arcgis.com/)
 
 ## Training
 
-Documentación oficial: [doc.arcgis.com/en/hub](https://doc.arcgis.com/en/hub/).
+* Documentation: [doc.arcgis.com/en/hub](https://doc.arcgis.com/en/hub/).
+* [Hub-Tutorials](https://github.com/esridc/Hub-Tutorials)
 
 ### Videos / Technical talks
 

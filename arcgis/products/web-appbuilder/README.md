@@ -10,6 +10,7 @@
 - [Introduction](#introduction)
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
+- [News](#news)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

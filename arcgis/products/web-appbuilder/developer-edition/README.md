@@ -99,6 +99,9 @@ technology so we recommend you to follow them.
 
 ## News
 * [blogs.esri.com (tag: Web AppBuilder)](https://blogs.esri.com/esri/arcgis/tag/web-appbuilder/)
+* Blog posts - GeoNet:
+    * [Web AppBuilder Custom Widgets Group](https://community.esri.com/groups/web-app-builder-custom-widgets/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
+    * [Web AppBuilder Custom Themes Group ](https://community.esri.com/groups/web-appbuilder-custom-themes/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
 ## More resources
 * [GIS Utils](../../../../gis/utils/README.md)

@@ -44,6 +44,9 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 
+## News
+* Web AppBuilder for ArcGIS - [Blog posts at GeoNet](https://community.esri.com/community/gis/web-gis/web-appbuilder/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

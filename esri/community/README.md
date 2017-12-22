@@ -91,8 +91,8 @@ There are some people you should know leading this initiatives:
 
 ### Developer Advocates
 
-|Picture|Name|Country|Background/Expertise|Social networks
-|---|---|---|---|---|---|
+|Picture|Name|Country|Background/Expertise|Social networks|
+|---|---|---|---|---|
 |![Andy](https://avatars2.githubusercontent.com/u/510440?s=70&v=4)|Andy Gup|USA|JavaScript, Phonegap, AngularJS; projects: Offline-editor-js, quickstart-map-phonegap, ...|[twitter.com/andygup](http://twitter.com/andygup)<br>[github.com/andygup](http://github.com/andygup)
 |![Allan](https://avatars3.githubusercontent.com/u/2539681?s=70&v=4)|Allan Laframboise|USA|UI/UX; projects: Calcite Maps, ...|[twitter.com/alaframboise](https://twitter.com/alaframboise)<br>[github.com/alaframboise](https://github.com/alaframboise)
 |![John](https://avatars1.githubusercontent.com/u/1399179?s=70&v=4)|John Yaist |USA|ArcGIS Pro (scripting with Python)|[twitter.com/TheMapsHaps](https://twitter.com/TheMapsHaps)<br>[github.com/jyaistMap](https://github.com/jyaistMap)

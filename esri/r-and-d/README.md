@@ -1,7 +1,7 @@
 > **Note**: this page is only a draft, [help us](#contributions).
 
 # Research & Development
-Esri invests 27% of it earnings yearly on R&D (~$1M/day) to keep introducing innovation to the ArcGIS Platform.
+Esri invests [25-30]% of it earnings yearly on R&D ([~$1M/day](https://youtu.be/qNrySnLVJ_A?t=7m48s)) to keep introducing innovation to the ArcGIS Platform.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

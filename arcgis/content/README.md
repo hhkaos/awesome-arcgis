@@ -28,7 +28,7 @@ This content is delivered though ArcGIS Server services, you can learn more abou
 
 [ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book)
 
-## Find geolocated content
+## Find existing geolocated content
 ### Inside the ArcGIS
 There are several places in the ArcGIS Platform where you can find/share content
 for ArcGIS apps.
@@ -51,16 +51,13 @@ The benefits from storing content inside ArcGIS are:
 * Been able to run spatial analysis
 * ...
 
-## Formats
+## Data types (and formats)
 
+Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_4835793C55C0439593A46FD5BC9E64B9) and if you need more you can also use the [ArcGIS Data Interoperability extension for Desktop](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_17EE0659B23345B9A655752949E49E3E).
 
-### GTFS
-
-The General Transit Feed Specification (GTFS) defines an open standard format for exchanging public transportation schedule, geographic and fare information. 
-
-* [How to make a shapes.txt file for your GTFS dataset with ArcGIS](https://blogs.esri.com/esri/arcgis/2017/07/19/how-to-make-a-shapes-txt-file-for-your-gtfs-dataset-with-arcgis/)
-* [public-transit-tools: GTFS](https://github.com/Esri/public-transit-tools)
-
+* [LAS dataset](./data-types/las/README.md)
+* [GTFS](./data-types/gtfs/README.md)
+* [Find more](./data-types/README.md)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

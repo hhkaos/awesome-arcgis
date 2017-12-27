@@ -8,12 +8,6 @@ A LAS dataset stores reference to one or more LAS files on disk, as well as to a
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Find geolocated content](#find-geolocated-content)
-  - [Inside the ArcGIS](#inside-the-arcgis)
-  - [Outside ArcGIS](#outside-arcgis)
-- [Store content](#store-content)
-- [Formats](#formats)
-  - [GTFS](#gtfs)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

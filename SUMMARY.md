@@ -8,6 +8,10 @@
   - [Best Practices](arcgis/best-practices/README.md)
     - [Performance](arcgis/best-practices/performance/README.md)
   - [Content](arcgis/content/README.md)
+    - [Data Types](arcgis/content/data-types/README.md)
+      - [Gtfs](arcgis/content/data-types/gtfs/README.md)
+      - [Las](arcgis/content/data-types/las/README.md)
+        - [Lidar](arcgis/content/data-types/las/lidar/README.md)
     - [Service Types](arcgis/content/service-types/README.md)
       - [Feature Service](arcgis/content/service-types/feature-service/README.md)
       - Map Service

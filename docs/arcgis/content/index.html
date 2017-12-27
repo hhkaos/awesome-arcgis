@@ -61,7 +61,7 @@
     <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="service-types/" />
+    <link rel="next" href="data-types/" />
     
     
     <link rel="prev" href="../best-practices/performance/" />
@@ -218,7 +218,71 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.5.1" data-path="service-types/">
+        <li class="chapter " data-level="1.3.5.1" data-path="data-types/">
+            
+                <a href="data-types/">
+            
+                    
+                    Data Types
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.5.1.1" data-path="data-types/gtfs/">
+            
+                <a href="data-types/gtfs/">
+            
+                    
+                    Gtfs
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5.1.2" data-path="data-types/las/">
+            
+                <a href="data-types/las/">
+            
+                    
+                    Las
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.5.1.2.1" data-path="data-types/las/lidar/">
+            
+                <a href="data-types/las/lidar/">
+            
+                    
+                    Lidar
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5.2" data-path="service-types/">
             
                 <a href="service-types/">
             
@@ -232,7 +296,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.5.1.1" data-path="service-types/feature-service/">
+        <li class="chapter " data-level="1.3.5.2.1" data-path="service-types/feature-service/">
             
                 <a href="service-types/feature-service/">
             
@@ -245,7 +309,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.5.1.2" >
+        <li class="chapter " data-level="1.3.5.2.2" >
             
                 <span>
             
@@ -259,7 +323,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.5.1.2.1" data-path="service-types/map-service/dynamic-map-service/">
+        <li class="chapter " data-level="1.3.5.2.2.1" data-path="service-types/map-service/dynamic-map-service/">
             
                 <a href="service-types/map-service/dynamic-map-service/">
             
@@ -272,7 +336,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.5.1.2.2" data-path="service-types/map-service/tile-map-service/">
+        <li class="chapter " data-level="1.3.5.2.2.2" data-path="service-types/map-service/tile-map-service/">
             
                 <a href="service-types/map-service/tile-map-service/">
             
@@ -286,7 +350,7 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.5.1.2.2.1" data-path="service-types/map-service/tile-map-service/image-tiles/">
+        <li class="chapter " data-level="1.3.5.2.2.2.1" data-path="service-types/map-service/tile-map-service/image-tiles/">
             
                 <a href="service-types/map-service/tile-map-service/image-tiles/">
             
@@ -299,7 +363,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.5.1.2.2.2" data-path="service-types/map-service/tile-map-service/vector-tiles/">
+        <li class="chapter " data-level="1.3.5.2.2.2.2" data-path="service-types/map-service/tile-map-service/vector-tiles/">
             
                 <a href="service-types/map-service/tile-map-service/vector-tiles/">
             
@@ -322,7 +386,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.5.1.3" data-path="service-types/ogc-service/">
+        <li class="chapter " data-level="1.3.5.2.3" data-path="service-types/ogc-service/">
             
                 <a href="service-types/ogc-service/">
             
@@ -335,7 +399,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.5.1.4" data-path="service-types/scene-service/">
+        <li class="chapter " data-level="1.3.5.2.4" data-path="service-types/scene-service/">
             
                 <a href="service-types/scene-service/">
             
@@ -2228,16 +2292,13 @@
 <p><strong>Table of contents</strong></p>
 <ul>
 <li><a href="#introduction">Introduction</a></li>
-<li><a href="#find-geolocated-content">Find geolocated content</a><ul>
+<li><a href="#find-existing-geolocated-content">Find existing geolocated content</a><ul>
 <li><a href="#inside-the-arcgis">Inside the ArcGIS</a></li>
 <li><a href="#outside-arcgis">Outside ArcGIS</a></li>
 </ul>
 </li>
 <li><a href="#store-content">Store content</a></li>
-<li><a href="#formats">Formats</a><ul>
-<li><a href="#gtfs">GTFS</a></li>
-</ul>
-</li>
+<li><a href="#data-types-and-formats">Data types (and formats)</a></li>
 <li><a href="#contributions">Contributions</a></li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -2250,7 +2311,7 @@
 <p>This content is delivered though ArcGIS Server services, you can learn more about
 <a href="service-types/">which type of services are available in ArcGIS Server</a>.</p>
 <p><a href="https://learn.arcgis.com/en/arcgis-imagery-book" target="_blank">ArcGIS Imagery Book</a></p>
-<h2 id="find-geolocated-content">Find geolocated content</h2>
+<h2 id="find-existing-geolocated-content">Find existing geolocated content</h2>
 <h3 id="inside-the-arcgis">Inside the ArcGIS</h3>
 <p>There are several places in the ArcGIS Platform where you can find/share content
 for ArcGIS apps.</p>
@@ -2301,12 +2362,12 @@ for ArcGIS apps.</p>
 <li>Been able to run spatial analysis</li>
 <li>...</li>
 </ul>
-<h2 id="formats">Formats</h2>
-<h3 id="gtfs">GTFS</h3>
-<p>The General Transit Feed Specification (GTFS) defines an open standard format for exchanging public transportation schedule, geographic and fare information. </p>
+<h2 id="data-types-and-formats">Data types (and formats)</h2>
+<p>Check the <a href="http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_4835793C55C0439593A46FD5BC9E64B9" target="_blank">list of data formats supported in ArcGIS</a> and if you need more you can also use the <a href="http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_17EE0659B23345B9A655752949E49E3E" target="_blank">ArcGIS Data Interoperability extension for Desktop</a>.</p>
 <ul>
-<li><a href="https://blogs.esri.com/esri/arcgis/2017/07/19/how-to-make-a-shapes-txt-file-for-your-gtfs-dataset-with-arcgis/" target="_blank">How to make a shapes.txt file for your GTFS dataset with ArcGIS</a></li>
-<li><a href="https://github.com/Esri/public-transit-tools" target="_blank">public-transit-tools: GTFS</a></li>
+<li><a href="data-types/las/">LAS dataset</a></li>
+<li><a href="data-types/gtfs/">GTFS</a></li>
+<li><a href="data-types/">Find more</a></li>
 </ul>
 <h2 id="contributions">Contributions</h2>
 <p>Please <strong>feel free to help us</strong> to improve this list:</p>
@@ -2350,7 +2411,7 @@ for ArcGIS apps.</p>
                 </a>
                 
                 
-                <a href="service-types/" class="navigation navigation-next " aria-label="Next page: Service Types">
+                <a href="data-types/" class="navigation navigation-next " aria-label="Next page: Data Types">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -2361,7 +2422,7 @@ for ArcGIS apps.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Content","level":"1.3.5","depth":2,"next":{"title":"Service Types","level":"1.3.5.1","depth":3,"path":"arcgis/content/service-types/README.md","ref":"arcgis/content/service-types/README.md","articles":[{"title":"Feature Service","level":"1.3.5.1.1","depth":4,"path":"arcgis/content/service-types/feature-service/README.md","ref":"arcgis/content/service-types/feature-service/README.md","articles":[]},{"title":"Map Service","level":"1.3.5.1.2","depth":4,"ref":"","articles":[{"title":"Dynamic Map Service","level":"1.3.5.1.2.1","depth":5,"path":"arcgis/content/service-types/map-service/dynamic-map-service/README.md","ref":"arcgis/content/service-types/map-service/dynamic-map-service/README.md","articles":[]},{"title":"Tile Map Service","level":"1.3.5.1.2.2","depth":5,"path":"arcgis/content/service-types/map-service/tile-map-service/README.md","ref":"arcgis/content/service-types/map-service/tile-map-service/README.md","articles":[{"title":"Image Tiles","level":"1.3.5.1.2.2.1","depth":6,"path":"arcgis/content/service-types/map-service/tile-map-service/image-tiles/README.md","ref":"arcgis/content/service-types/map-service/tile-map-service/image-tiles/README.md","articles":[]},{"title":"Vector Tiles","level":"1.3.5.1.2.2.2","depth":6,"path":"arcgis/content/service-types/map-service/tile-map-service/vector-tiles/README.md","ref":"arcgis/content/service-types/map-service/tile-map-service/vector-tiles/README.md","articles":[]}]}]},{"title":"Ogc Service","level":"1.3.5.1.3","depth":4,"path":"arcgis/content/service-types/ogc-service/README.md","ref":"arcgis/content/service-types/ogc-service/README.md","articles":[]},{"title":"Scene Service","level":"1.3.5.1.4","depth":4,"path":"arcgis/content/service-types/scene-service/README.md","ref":"arcgis/content/service-types/scene-service/README.md","articles":[]}]},"previous":{"title":"Performance","level":"1.3.4.1","depth":3,"path":"arcgis/best-practices/performance/README.md","ref":"arcgis/best-practices/performance/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/README.md","mtime":"2017-12-19T17:24:22.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-12-19T17:24:28.255Z"},"basePath":"../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Content","level":"1.3.5","depth":2,"next":{"title":"Data Types","level":"1.3.5.1","depth":3,"path":"arcgis/content/data-types/README.md","ref":"arcgis/content/data-types/README.md","articles":[{"title":"Gtfs","level":"1.3.5.1.1","depth":4,"path":"arcgis/content/data-types/gtfs/README.md","ref":"arcgis/content/data-types/gtfs/README.md","articles":[]},{"title":"Las","level":"1.3.5.1.2","depth":4,"path":"arcgis/content/data-types/las/README.md","ref":"arcgis/content/data-types/las/README.md","articles":[{"title":"Lidar","level":"1.3.5.1.2.1","depth":5,"path":"arcgis/content/data-types/las/lidar/README.md","ref":"arcgis/content/data-types/las/lidar/README.md","articles":[]}]}]},"previous":{"title":"Performance","level":"1.3.4.1","depth":3,"path":"arcgis/best-practices/performance/README.md","ref":"arcgis/best-practices/performance/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/README.md","mtime":"2017-12-27T11:19:48.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-12-27T11:20:23.882Z"},"basePath":"../..","book":{"language":""}});
         });
     </script>
 </div>

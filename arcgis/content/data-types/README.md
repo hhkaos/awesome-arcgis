@@ -8,12 +8,7 @@ Most of the topics in this help section document how to use the geodatabase and 
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Find geolocated content](#find-geolocated-content)
-  - [Inside the ArcGIS](#inside-the-arcgis)
-  - [Outside ArcGIS](#outside-arcgis)
-- [Store content](#store-content)
-- [Formats](#formats)
-  - [GTFS](#gtfs)
+- [Data types (and formats)](#data-types-and-formats)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

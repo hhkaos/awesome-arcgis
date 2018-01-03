@@ -24,14 +24,11 @@ Vue (pronounced /vjuː/, like view) is a progressive framework for building user
 * [ArcGIS API 4 for JS with Vue-cli and Nuxt](http://odoe.net/blog/arcgis-api-4-for-js-with-vue-cli-and-nuxt)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=VueJS](https://esri-es.github.io/arcgis-experts/?topic=VueJS)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
-|![Rene Rubalcava](https://avatars2.githubusercontent.com/u/206462?v=3&s=50)|Rubalcava|[Github](https://github.com/odoe)|[Twitter](https://twitter.com/odoenet)|n.a.|n.a.|
 
 ## Related resources
 * [GIS Utils](../../../../gis/utils/README.md)

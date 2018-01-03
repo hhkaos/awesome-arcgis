@@ -65,12 +65,13 @@ Yeoman - Generator for ArcGIS JS API applications
 https://github.com/odoe/generator-arcgis-js-app
 
 #People you should know
-|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://github.com/esri-es/arcgis-experts](https://github.com/esri-es/arcgis-experts)
 
-Gary Sheppard
-https://github.com/garys-esri
-http://stackoverflow.com/users/720773/gary-s
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+## More info
 
 [@ArcGISJSAPI](https://twitter.com/ArcGISJSAPI)
 

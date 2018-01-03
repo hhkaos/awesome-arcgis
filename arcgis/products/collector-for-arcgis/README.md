@@ -54,9 +54,11 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=collector#?sortby=re
 * [Collector on GeoNet](https://geonet.esri.com/community/gis/applications/collector-for-arcgis)
 
 ## People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Collector%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Collector%20for%20ArcGIS)
 
-* [Jeff Shaner](https://www.linkedin.com/in/jeff-shaner-b77bb311/)
-* [Ismael Chivite](https://www.linkedin.com/in/ismaelchivite/)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## News
 

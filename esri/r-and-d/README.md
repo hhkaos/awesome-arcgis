@@ -72,7 +72,7 @@ green-infrastructure.esri.com/LandCover/index.html
 |---|---|---|---|---|---|---|
 |![Al Pascual](https://avatars3.githubusercontent.com/u/467682?v=3&s=50)|[Al Pascual](https://www.linkedin.com/in/alpascual/)|[Github](https://github.com/alpascual)|[Twitter](https://twitter.com/alpascual)|n.a.|n.a.|n.a.|
 |![John Grayson](https://avatars2.githubusercontent.com/u/5324720?v=3&s=50)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|[ArcGIS](http://www.arcgis.com/home/search.html?q=owner%3Ajgrayson)|n.a.|n.a.|
-|![Richie Carmichael](https://avatars1.githubusercontent.com/u/2531121?v=3&s=50)|Richie Carmichael|[Github](https://github.com/richiecarmichael)|n.a.|n.a.|n.a.|n.a.
+|![Richie Carmichael](https://avatars1.githubusercontent.com/u/2531121?v=3&s=50)|Richie Carmichael|[Github](https://github.com/richiecarmichael)|[Twitter](https://twitter.com/KiwiRichie?s=03)|n.a.|n.a.|n.a.
 
 ## Contributions
 Please **feel free to help us** to improve this list:

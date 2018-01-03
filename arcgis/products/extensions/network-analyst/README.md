@@ -73,17 +73,11 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst
 |[UC](http://www.esri.com/events/user-conference) 2010|[Network Analyst - An Introduction](http://www.esri.com/videos/watch?videoid=92&channelid=LegacyVideo&isLegacy=true&title=network-analyst-an-introduction)|1h 11min 0secs
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Network%20Analyst](https://esri-es.github.io/arcgis-experts/?topic=Network%20Analyst)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
-|---|---|---|---|---|---|---|---|
-|<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/171/2ea/3ca4591.jpg" width="50" alt="Scott Sandusky">|Scott Sandusky|[Linkedin](https://www.linkedin.com/in/scott-sandusky-184aa9a/)|n.a.|n.a.|n.a.|n.a.|n.a.|
-|![Patick Stevens](https://avatars4.githubusercontent.com/u/2279249?v=4&s=50)|Patrick Stevens|n.a.|[Github](https://github.com/PatrickStevens)|n.a.|n.a.|n.a.|n.a.|
-|<img src="https://blogs.esri.com/esri/arcgis/files/userphoto/6940.jpg" width="50" alt="Robert Garrity">|Robert Garrity|n.a.|[Github](https://github.com/rgarrity)|n.a.|n.a.|n.a.|n.a.|
-|<img src="https://pbs.twimg.com/profile_images/652943605137444864/dNhYTL54_400x400.jpg" width="50" alt="Melinda Morang">|Melinda Morang|[Linkedin](https://www.linkedin.com/in/melinda-morang-915a1b35/)|n.a.|[Twitter](https://twitter.com/MelindaMorang)|n.a.|n.a.|n.a.|
-
 
 ## Community
 

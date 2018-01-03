@@ -24,8 +24,8 @@
 
 It has four components:
 
-* [ArcGIS Server](arcgis-server/README.md): to power everything behind the hood. 
-* [Portal for ArcGIS](portal-for-arcgis/README.md): the geographic CMS 
+* [ArcGIS Server](arcgis-server/README.md): to power everything behind the hood.
+* [Portal for ArcGIS](portal-for-arcgis/README.md): the geographic CMS
 * ArcGIS Data Store: to store the data within the system
 * ArcGIS Web Adaptor: for security an enable to web clients
 
@@ -63,10 +63,11 @@ It has four components:
 * [Fiddler](http://www.telerik.com/fiddler): free web debugging proxy which logs all HTTP(s) traffic between your computer and the Internet. Use it to debug traffic from virtually any application.
 
 # People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Enterprise](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Enterprise)
 
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow
-|---|---|---|---|---|---|---|---|---|
-|![Philip Heede](https://avatars3.githubusercontent.com/u/1400423?v=4&s=50)|Philip Heede|[Linkedin](https://www.linkedin.com/in/pheede/)|[Github](https://github.com/pheede)|[Twitter](https://twitter.com/pheede)|n.a.|n.a.|n.a.
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Get the tool
 

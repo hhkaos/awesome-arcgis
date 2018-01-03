@@ -35,13 +35,11 @@
 
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Offline-editor-js](https://esri-es.github.io/arcgis-experts/?topic=Offline-editor-js)
 
-Andy doesn't work on the support team but he was one of the developer leads of
-this project. This project is not over maintenance yet but may want to follow him.
-
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
-|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|Andy Gup|[andy-gup](https://www.linkedin.com/in/andy-gup-0a865a)|[@andygup](https://github.com/andygup)|[@agup](https://twitter.com/agup)|[andygup](http://www.arcgis.com/home/search.html?q=owner:andygup)|[@agup-esristaff](https://geonet.esri.com/people/agup-esristaff)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Contributions
 Please **feel free to help us** to improve this list:

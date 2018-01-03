@@ -57,8 +57,11 @@ Here have collected some video and sample projects using different headsets.
 * Video: [Urban walkthrough](https://www.youtube.com/watch?v=ghABH6q7eXI&spfreload=10)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Virtual%20Reality%20(VR)](https://esri-es.github.io/arcgis-experts/?topic=Virtual%20Reality%20(VR))
 
-* [Rex Hansen](https://github.com/rexhansen)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Related resources
 

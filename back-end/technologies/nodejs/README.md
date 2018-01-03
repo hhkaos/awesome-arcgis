@@ -40,9 +40,11 @@ https://github.com/Esri/pushlet: A simple HTTP wrapper around the Apple Push Not
 * [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
 
 #People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=NodeJS](https://esri-es.github.io/arcgis-experts/?topic=NodeJS)
 
-|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Contributions
 Please **feel free to help us** to improve this list:

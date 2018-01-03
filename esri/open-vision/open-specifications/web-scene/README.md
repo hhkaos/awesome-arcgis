@@ -18,8 +18,11 @@
 
 
 ## People you should know
-|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Web%20Scene%20specification](https://esri-es.github.io/arcgis-experts/?topic=Web%20Scene%20specification)
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Contributions
 Please **feel free to help us** to improve this list:

@@ -56,15 +56,11 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 * [GeoAnalytics on stackexchange](https://gis.stackexchange.com/search?q=geoanalytics)
 
 ## People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=GeoAnalytics%20Server](https://esri-es.github.io/arcgis-experts/?topic=GeoAnalytics%20Server)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
-|---|---|---|---|---|---|---|
-|![Philip Heede](https://avatars3.githubusercontent.com/u/1400423?v=4&s=50)|[Philip Heede](https://www.linkedin.com/in/pheede/)|[Github](https://github.com/pheede)|[Twitter](https://twitter.com/pheede)|n.a.|n.a.|n.a.
-|![Adam Mollenkopf](https://avatars0.githubusercontent.com/u/4580532?s=50&v=4)|[Adam Mollenkopf](https://www.linkedin.com/in/adammollenkopf)|[Github](https://github.com/amollenkopf)|[Twitter](https://www.twitter.com/amollenkopf)|n.a.|n.a.|n.a.|
-|<img src="https://pbs.twimg.com/profile_images/489426544264085506/BsgyioAS_400x400.jpeg" width="50" alt="Suzzane">|Suzzane Foss|n.a.|[Twitter](https://www.twitter.com/sfoss_esri)|n.a.|n.a.|n.a.
 
 ## News
 * [A Fix for the Create Space Time Cube Tool in GeoAnalytics Server](https://blogs.esri.com/esri/arcgis/2017/07/18/a-fix-for-the-create-space-time-cube-tool-in-geoanalytics-server/)

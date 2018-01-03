@@ -50,9 +50,11 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 * [Survey123 on blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/survey123/)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Survey123%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Survey123%20for%20ArcGIS)
 
-[James Tedrick](https://www.linkedin.com/in/james-tedrick-3455403/)
-[Ismael Chivite](https://www.linkedin.com/in/ismaelchivite/)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Contributions
 Please **feel free to help us** to improve this list:

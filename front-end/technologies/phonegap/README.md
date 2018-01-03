@@ -48,14 +48,11 @@ On [**video.esri.com**](http://video.esri.com/search/phonegap) you will find man
 * If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Phonegap](https://esri-es.github.io/arcgis-experts/?topic=Phonegap)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
-|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|Andy Gup|[Linkedin](https://www.linkedin.com/in/andy-gup-0a865a)|[Github](https://github.com/andygup)|[@Twitter](https://twitter.com/agup)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:andygup)|[GeoNet](https://geonet.esri.com/people/agup-esristaff)
-|![Lloyd](https://avatars3.githubusercontent.com/u/1824760?v=3&s=50)|Lloyd Heberlie|n.a.|[Github](https://github.com/lheberlie)|[Twitter](https://twitter.com/lheberlie)|n.a.|[GeoNet](https://geonet.esri.com/people/lheberlie-esristaff)|
 
 ## News
 * [Choosing a mobile development strategy](https://blogs.esri.com/esri/arcgis/2013/03/19/choosing-a-mobile-development-strategy-2/)

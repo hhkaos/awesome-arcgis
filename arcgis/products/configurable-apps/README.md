@@ -226,26 +226,11 @@ Are you interested on selling your app? Then can do it if you you have:
 You just need to publish your app here: [arcgis.domake.io](https://arcgis.domake.io/)
 
 ## People you should know
-They don't work on the support team but they are opening some projects
-and sharing insights related to this technology so we recommend you to follow them.
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Storymaps](https://esri-es.github.io/arcgis-experts/?topic=Storymaps)
 
-### Story tellers
-
-||Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|
-|![Sajit Thomas](https://avatars0.githubusercontent.com/u/4028925?v=3&s=50)|[Sajit Thomas](https://www.linkedin.com/in/sajit-thomas-33a9a034)|[@SpatialAgent](https://github.com/SpatialAgent)|[@SpatialAgent](https://twitter.com/SpatialAgent)|[sajitthomas](http://www.arcgis.com/home/search.html?q=owner:sajitthomas)|n.a.|
-|![Allen Carroll](https://avatars1.githubusercontent.com/u/5605521?s=50&v=4)|[Allen Carroll](https://www.linkedin.com/in/allencarroll/)|[@acarroll51](https://github.com/acarroll51)|[@AllenCarroll](https://twitter.com/AllenCarroll)|[@StoryMaps](http://www.arcgis.com/home/search.html?q=owner%3AStoryMaps)|n.a.
-|![Owen Evans](https://avatars2.githubusercontent.com/u/3215530?v=3&s=50)|[Owen Evans](https://www.linkedin.com/in/owenjevans)|[@oevans](https://github.com/oevans)|[@OwenGeo](https://twitter.com/OwenGeo)|[oevans_public](http://www.arcgis.com/home/search.html?q=owner:oevans_public)|[@OEvans-esristaff](https://geonet.esri.com/people/OEvans-esristaff)
-|<img src="https://pbs.twimg.com/profile_images/877539569746419712/zOOkdAkE_400x400.jpg" alt="John Nelson" style="width:50px">|[John Nelson](https://www.linkedin.com/in/johnmnelson/)|n.a.|[@John_M_Nelson](https://twitter.com/John_M_Nelson)|n.a.|n.a.
-|<img src="https://pbs.twimg.com/profile_images/877316597932670977/ByX5n-2q_400x400.jpg" style="width:50px" alt="Jennifer Bell">|[Jennifer Bell](https://www.linkedin.com/in/jennifer-bell-181b108a/)| n.a.|[@jbellmaps](https://twitter.com/jbellmaps)|n.a.|n.a.
-
-### Developers
-
-||Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|
-|![Tim Witt](img/tim_witt_esri.jpg)|Tim Witt|[@timw1984](https://github.com/timw1984/)|n.a.|n.a|n.a.
-|![Stephen Sylvia](https://avatars1.githubusercontent.com/u/1211360?v=3&s=50)|[Stephen Sylvia](https://www.linkedin.com/in/stephen-sylvia-0aa04620/)|[@ssylvia](https://github.com/ssylvia)|n.a.|n.a.|[@SSylvia-esristaff](https://geonet.esri.com/people/SSylvia-esristaff)
-|![Allison Muise](https://geonet.esri.com/people/AMuise-esristaff/avatar/46.png?a=7395)|Allison Muise|[@allisonmuise](https://github.com/allisonmuise)|n.a.|n.a.|[@AMuise-esristaff](https://geonet.esri.com/people/AMuise-esristaff)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## News about Configurable Apps
 

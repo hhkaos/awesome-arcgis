@@ -80,8 +80,11 @@ to [download de ArcGIS Pro SDK for .NET](https://developers.arcgis.com/downloads
 * [GIS Developers - Python](https://geonet.esri.com/community/developers/gis-developers/python)
 
 ## People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Pro](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Pro)
 
-* [Christopher Zent](https://www.linkedin.com/in/christopher-zent-3578579/)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## News
 [Blogs.esri.com tag "ArcGIS Pro SDK"](https://blogs.esri.com/esri/arcgis/tag/arcgis-pro-sdk/)

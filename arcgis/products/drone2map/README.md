@@ -51,13 +51,11 @@ working with [ArcGIS Server](../arcgis-enterprise/README.md) and
 
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Drone2Map](https://esri-es.github.io/arcgis-experts/?topic=Drone2Map)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
-|---|---|---|---|---|---|---|
-|<img src="https://media-exp1.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/01e/1b6/247e0c4.jpg" width="50" alt="Tony Mason">|[Tony Mason](https://www.linkedin.com/in/tonymmason/)|n.a.|n.a.|n.a.|[Geonet](https://community.esri.com/people/amason-esristaff)|n.a.|
 
 
 ## Contributions

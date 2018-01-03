@@ -42,10 +42,11 @@
 [Python SDK for ArcGIS REST API](https://pypi.python.org/pypi/arcgis-sdk)
 
 #People you should know
-|Name|Tech|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
-|![Gary Sheppard](https://avatars2.githubusercontent.com/u/3091666?v=3&s=50)|ArcPy|[Gary Sheppard Wayson](https://www.linkedin.com/in/glsheppardjr/)|[Github](https://github.com/garys-esri)|[Twitter](https://twitter.com/shepshep)|n/a|n.a.|[Stackoverflow](http://stackoverflow.com/users/720773/gary-s)|
-|![Rohit Singh](https://avatars3.githubusercontent.com/u/17867943?v=3&s=50)|Python API|n.a.|[Github](https://github.com/rohitgeo)|n.a.|n/a|n.a.|n.a.|
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Python](https://esri-es.github.io/arcgis-experts/?topic=Python)
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## News
 

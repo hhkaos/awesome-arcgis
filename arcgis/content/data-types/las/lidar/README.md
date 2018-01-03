@@ -30,13 +30,11 @@ We recommend you to ask your question at:
 
 ## People you should know
 
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Lidar](https://esri-es.github.io/arcgis-experts/?topic=Lidar)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|StackExchange|
-|---|---|---|---|---|---|---|
-|<img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAwrAAAAJGNiNTJkZmYwLWE5YWEtNDA4OC1iODY0LTI2MzQ1Y2NkMjZmMg.jpg" height="50" alt="Isaac Medel">|[Isaac Medel](https://www.linkedin.com/in/isaac-medel-calvo-485186a/)|n.a.|n.a.|n.a|[GeoNet](https://community.esri.com/people/isaac.medelesri-es-esridist)|n.a.|
 
 ## Related topics
 

@@ -43,16 +43,11 @@ You can add a file or an stream source if you plain to work with real time video
 * [FMV FAQ](https://geonet.esri.com/docs/DOC-8379-frequently-asked-questions-about-fmv)
 
 ## People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Full%20Motion%20Video](https://esri-es.github.io/arcgis-experts/?topic=Full%20Motion%20Video)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
-|---|---|---|---|---|---|---|
-|<img src="https://media-exp1.licdn.com/media/AAEAAQAAAAAAAAoHAAAAJDFiYmQ4Mjg2LTdmZTctNDcyZi1iM2M3LTk5YmNhNGI5ZTk5Mg.jpg" width="80" alt="Cody Benkelman">|[Cody Benkelman](https://www.linkedin.com/in/cody-benkelman-0b62761/)|[Github](https://github.com/codybenkelman)|n.a.|n.a.|n.a.|n.a.
-|<img src="https://media-exp1.licdn.com/media/p/8/000/1fd/2dd/3244746.jpg" width="80" alt="Clark Swinehart">|[Clark Swinehart](https://www.linkedin.com/in/clark-swinehart-96064b1/)|n.a.|n.a.|n.a.|n.a.|n.a.
-
-
 
 ## Community
 

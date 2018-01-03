@@ -23,14 +23,18 @@ of R.
 
 https://r-arcgis.github.io/
 https://github.com/R-ArcGIS/r-bridge-install
+https://github.com/marpobuda/r_conda_demo
 
 ## Videos
 
 Marjean Pobuda (RStudio-Conda): https://youtu.be/hQzNeJBtWHQ?t=8m27s
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=R-language](https://esri-es.github.io/arcgis-experts/?topic=R-language)
 
-https://github.com/marpobuda/r_conda_demo
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Articles
 https://blogs.esri.com/esri/arcgis/2017/02/10/r-you-bridging-yet/

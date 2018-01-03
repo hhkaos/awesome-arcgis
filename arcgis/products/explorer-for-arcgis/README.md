@@ -15,9 +15,11 @@
 ## Introduction
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Explorer%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Explorer%20for%20ArcGIS)
 
-[Ismael Chivite](https://www.linkedin.com/in/ismaelchivite/)
-[Chris LeSueur](https://www.linkedin.com/in/chris-lesueur-20927813/)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Contributions
 Please **feel free to help us** to improve this list:

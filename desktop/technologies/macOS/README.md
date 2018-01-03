@@ -24,9 +24,11 @@
 [Find our community for MacOS developer working with ArcGIS at GeoNet](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-macos)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20macOS](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20macOS)
 
-Divesh Goyal
-Will Crick
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Download the SDK
 

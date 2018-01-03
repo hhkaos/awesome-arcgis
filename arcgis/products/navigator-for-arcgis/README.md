@@ -48,9 +48,11 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=navigator#?sortby=re
 * [Navigator on GeoNet](https://geonet.esri.com/groups/navigator)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Navigator%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Navigator%20for%20ArcGIS)
 
-* [Brent Pierce](https://www.linkedin.com/in/brent-pierce-8bb5b55/)
-* [Ismael Chivite](https://www.linkedin.com/in/ismaelchivite/)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## News
 

@@ -38,14 +38,11 @@ https://github.com/ynunokawa/react-webmap
 * If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ReactJS](https://esri-es.github.io/arcgis-experts/?topic=ReactJS)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
-|![Rene Rubalcava](https://avatars2.githubusercontent.com/u/206462?v=3&s=50)|Rubalcava|[Github](https://github.com/odoe)|[Twitter](https://twitter.com/odoenet)|n.a.|n.a.|
 
 ## Related resources
 We recommend you to take a look to:

@@ -68,6 +68,8 @@ International program managers
 |![Laura](./img/laura-berman.jpg)|[Laura Berman](https://www.linkedin.com/in/laura-berman-13330312/)|n.a.|Australia
 |![Lucian](./img/lucian-zavate.jpg)|[Lucian Zavate](https://www.linkedin.com/in/lucian-zavate-05891834/)|n.a.|Rumania
 
+But you would probably want to know also about more [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/).
+
 ## Others
 
 * Esri Spain Startup Program website: [startups.esri.es](http://startup.esri.es)

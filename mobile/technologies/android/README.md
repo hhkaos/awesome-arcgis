@@ -39,12 +39,11 @@ As last resource, you may even consider to make an application or prototype as f
 * [Stackoverflow questions: [android] and [arcgis] or [android] and [esri]](http://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D+or+%5Bandroid%5D+and+%5Besri%5D+)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Android](https://esri-es.github.io/arcgis-experts/?topic=Android)
 
-|Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
-|---|---|---|---|---|---|---|---|
-|Gary Sheppard|n.a.|[Github](https://github.com/garys-esri)|n.a|n.a|n.a.|[Stackoverflow](http://stackoverflow.com/users/720773/gary-s)
-
-Eric Bader: https://github.com/eric906
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Code
 

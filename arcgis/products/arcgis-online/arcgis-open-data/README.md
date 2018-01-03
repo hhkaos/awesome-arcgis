@@ -68,11 +68,11 @@ Many componentes of the ArcGIS Open Data product are Open Source themselves, her
 And more at [EsriDC Github account](https://github.com/esridc).
 
 # People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Open%20Data](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Open%20Data)
 
-|Photo|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow
-|---|---|---|---|---|---|---|---|---|
-|![Andrew Turner](https://avatars2.githubusercontent.com/u/1218?v=3&s=50)|[Andrew turner](https://www.linkedin.com/in/ajturner/)|[Github](https://github.com/ajturner)|[Twitter](https://twitter.com/ajturner)|n.a.|n.a.|n.a.
-|![John Gravois](https://avatars1.githubusercontent.com/u/3011734?v=3&s=50)|[John Gravois](https://www.linkedin.com/in/johngravois)|[Github](https://github.com/jgravois)|[Twitter](https://twitter.com/geogangster)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:jgravois)|[GeoNet](https://geonet.esri.com/people/JGravois-esristaff)|[Stackoverflow](http://stackoverflow.com/users/494139/jgravois)|
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## News
 

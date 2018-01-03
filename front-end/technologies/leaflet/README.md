@@ -67,12 +67,11 @@ On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many
 * If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know
-They don't work on the support team but they contribute to the projects and share insight related to this technology so we recommend you follow them.
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Esri%20Leaflet](https://esri-es.github.io/arcgis-experts/?topic=Esri%20Leaflet)
 
-|Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
-|---|---|---|---|---|---|---|
-|![John Gravois](https://avatars1.githubusercontent.com/u/3011734?v=3&s=50)|[John Gravois](https://www.linkedin.com/in/johngravois)|[Github](https://github.com/jgravois)|[Twitter](https://twitter.com/geogangster)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:jgravois)|[GeoNet](https://geonet.esri.com/people/JGravois-esristaff)|[Stackoverflow](http://stackoverflow.com/users/494139/jgravois)|
-|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|[Patrick Arlt](https://www.linkedin.com/in/patrickarlt)|[Github](https://github.com/patrickarlt)|[Twitter](https://twitter.com/patrickarlt)|n.a.|[GeoNet](https://geonet.esri.com/people/PArlt-esristaff)|[Stackoverflow](http://stackoverflow.com/users/449686/patrick-arlt)|
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Awesome projects
 A list of awesome projects built with Esri Leaflet:

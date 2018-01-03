@@ -32,13 +32,11 @@
 * [Questions on GeoNet about]: [ExtJS](https://community.esri.com/search.jspa?place=/places/148899&facet=content&q=extjs*) and [Sencha](https://community.esri.com/search.jspa?place=/places/148899&facet=content&q=sencha*)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Sencha](https://esri-es.github.io/arcgis-experts/?topic=Sencha)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|
-|---|---|---|---|---|---|---|
-|![Nicholas Furness](https://avatars1.githubusercontent.com/u/25374?s=50&v=4)|[Nicholas Furness](https://www.linkedin.com/in/nixta/)|[@nixta](https://github.com/nixta)|[geeknixta](https://twitter.com/geeknixta)|n.a.|[@NFurness-esristaff](https://community.esri.com/people/NFurness-esristaff)|n.a.
 
 ## More resources
 We recommend you to take a look to:

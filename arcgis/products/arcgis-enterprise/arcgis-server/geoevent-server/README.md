@@ -75,15 +75,11 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 * [GeoEvent on GeoNet](https://geonet.esri.com/community/gis/enterprise-gis/geoevent)
 
 ## People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=GeoEvent%20Server](https://esri-es.github.io/arcgis-experts/?topic=GeoEvent%20Server)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
-|---|---|---|---|---|---|---|
-|![Mansour Raad](https://avatars2.githubusercontent.com/u/984730?v=3&s=50)|Mansour Raad|[Github](https://github.com/mraad)|[Twitter](mraad)|n.a.|n.a.|n.a.|
-|![Adam Mollenkopf](https://avatars0.githubusercontent.com/u/4580532?s=50&v=4)|[Adam Mollenkopf](https://www.linkedin.com/in/adammollenkopf)|[Github](https://github.com/amollenkopf)|[Twitter](https://www.twitter.com/amollenkopf)|n.a.|n.a.|n.a.|
-|<img src="https://pbs.twimg.com/profile_images/489426544264085506/BsgyioAS_400x400.jpeg" width="50" alt="Suzzane">|Suzzane Foss|n.a.|[Twitter](https://www.twitter.com/sfoss_esri)|n.a.|n.a.|n.a.
 
 ## News
 * [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoevent&search=Search)

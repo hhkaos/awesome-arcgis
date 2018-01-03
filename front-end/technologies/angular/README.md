@@ -67,18 +67,11 @@ Angular 2 (and above):
 * If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Angular](https://esri-es.github.io/arcgis-experts/?topic=Angular)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
-|---|---|---|---|---|---|---|
-|![Tom Wayson](https://avatars2.githubusercontent.com/u/662944?v=3&s=50)|[Tom Wayson](https://www.linkedin.com/in/tomwayson)|[Github](https://github.com/tomwayson)|[Twitter](https://twitter.com/tomwayson)|n/a|[GeoNet](https://geonet.esri.com/people/TWayson-esristaff)|[Stackoverflow](http://stackoverflow.com/users/656010/tomwayson)|
-|![Jacob Wasilkowski](https://avatars2.githubusercontent.com/u/4933392?v=3&s=50)|Jacob Wasilkowski|[Github](https://github.com/jwasilgeo)|[Twitter](https://twitter.com/jwasilgeo)|n/a|n/a|n/a|
-|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|[Andy Gup](https://www.linkedin.com/in/andy-gup-0a865a)|[Github](https://github.com/andygup)|[Twitter](https://twitter.com/agup)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:andygup)|[GeoNet](https://geonet.esri.com/people/agup-esristaff)|n/a|
-|![Patrick Arlt](https://avatars2.githubusercontent.com/u/378557?v=3&s=50)|[Patrick Arlt](https://www.linkedin.com/in/patrickarlt)|[Github](https://github.com/patrickarlt)|[Twitter](https://twitter.com/patrickarlt)|n.a.|[GeoNet](https://geonet.esri.com/people/PArlt-esristaff)|[Stackoverflow](http://stackoverflow.com/users/449686/patrick-arlt)|
-|![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://geonet.esri.com/people/dbouwman)|n.a.|
-|![Keith Stewart](https://avatars3.githubusercontent.com/u/2197094?v=3&s=50)|[Keith Stewart](https://www.linkedin.com/in/keithgstewart)|[Github](https://github.com/kgs916)|[Twitter](https://twitter.com/TheKeithStewart)|n.a.|n.a.|n.a.
 
 ## Localized resources
 

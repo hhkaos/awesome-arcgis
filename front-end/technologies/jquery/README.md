@@ -57,15 +57,11 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
   * [jquery-mobile-map-js](https://github.com/Esri/jquery-mobile-map-js/issues)
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=jQuery](https://esri-es.github.io/arcgis-experts/?topic=jQuery)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Name|Linkedin|Github|Twitter|ArcGIS Online|GeoNet|
-|---|---|---|---|---|---|---|
-|![Allan Laframboise](https://avatars2.githubusercontent.com/u/2539681?v=3&s=50)|[Allan Laframboise](https://www.linkedin.com/in/allan-laframboise-33745b8)|[Github](https://github.com/alaframboise)|[Twitter](https://twitter.com/al_laframboise?lang=en)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:al_geodev)|[GeoNet](https://geonet.esri.com/people/alaframboise-esristaff)
-|![Andy Gup](https://avatars1.githubusercontent.com/u/510440?v=3&s=50)|[Andy Gup](https://www.linkedin.com/in/andy-gup-0a865a)|[Github](https://github.com/andygup)|[Twitter](https://twitter.com/agup)|[ArcGIS Online](http://www.arcgis.com/home/search.html?q=owner:andygup)|[GeoNet](https://geonet.esri.com/people/agup-esristaff)
-|![Erich Rainville](https://avatars3.githubusercontent.com/u/5419306?v=3&s=50)|Erich Rainville|[Github](https://github.com/TheBlueDog)|[Twitter](https://twitter.com/TheBlueDog)|n.a.|n.a.
 
 ## Related resources
 We recommend you to take a look to:

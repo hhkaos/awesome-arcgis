@@ -53,13 +53,11 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 * [Vector Basemaps at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-basemap/)
 
 ## People you should know
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Vector%20Tiles](https://esri-es.github.io/arcgis-experts/?topic=Vector%20Tiles)
+
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-|Avatar|Name|Github|Twitter|ArcGIS Online|GeoNet|Stack Overflow|
-|---|---|---|---|---|---|---|
-|<img src="https://media-exp1.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAzSAAAAJDE3YjdjNTM2LTczMGYtNDczYy05M2I5LWM4NTNjYTA3ZjBiOQ.jpg" id="Deane Kensok">|[Deane Kensok](https://www.linkedin.com/in/deane-kensok-6596904/)|n.a.|n.a.|n.a.|n.a.|n.a.|
 
 
 ## Localized resources

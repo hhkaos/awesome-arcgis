@@ -15,7 +15,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction 
+## Introduction
 
 Web maps are an Esri specification in JSON that allow different applications, APIs, and SDKs to create, edit, and display maps. Web maps can be used in almost any products inside the platform.
 
@@ -44,12 +44,11 @@ Consume webmaps using:
 
 
 ## People you should know
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Web%20Map%20specification](https://esri-es.github.io/arcgis-experts/?topic=Web%20Map%20specification)
 
-||Name|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
-|---|---|---|---|---|---|---|---|
-|![Bjorn Svensson](https://avatars0.githubusercontent.com/u/808357?v=3&s=50)|Bjorn Svensson|[Linkedin](https://www.linkedin.com/in/bjornman/)|[Github](https://github.com/bsvensson)|n.a.|n.a.|n.a.|n.a.
-|<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/00e/266/35e1bfc.jpg" width="50" alt="Jeremy Bartley">|Jeremy Bartley|[Linkedin](https://www.linkedin.com/in/jeremy-bartley-52559a4/)|[Github](https://github.com/jbartley)|[Twitter](https://twitter.com/mapdex?lang=en)|n.a|n.a|n.a
-|<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/088/3a5/3cd9749.jpg" width="50" alt="Justin Colville">|Justin Colville|[Linkedin](https://www.linkedin.com/in/justin-colville-18b29aa4/)|[Github](https://github.com/justincolville)|n.a.|n.a.|n.a.|n.a.
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 
 ## Localized resources

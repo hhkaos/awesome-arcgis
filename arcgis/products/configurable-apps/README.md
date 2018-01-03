@@ -24,8 +24,6 @@ mechanism that allows users of an organization to create and configure
 - [Share your work](#share-your-work)
 - [Sell your configurable app](#sell-your-configurable-app)
 - [People you should know](#people-you-should-know)
-  - [Story tellers](#story-tellers)
-  - [Developers](#developers)
 - [News about Configurable Apps](#news-about-configurable-apps)
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)

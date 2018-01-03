@@ -5,6 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [More info](#more-info)
 - [More resources](#more-resources)
 - [Contributions](#contributions)
 

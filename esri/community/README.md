@@ -13,8 +13,6 @@
   - [UK](#uk)
   - [USA](#usa)
 - [People you should know](#people-you-should-know)
-  - [Developer Program Managers](#developer-program-managers)
-  - [Developer Advocates](#developer-advocates)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

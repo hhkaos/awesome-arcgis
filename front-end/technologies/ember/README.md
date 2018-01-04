@@ -12,16 +12,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-You can combine ArcGIS API for JavaScript with Ember in your developments,
-we will show you how in this page.
+See the [ArcGIS API resources Ember page](https://github.com/Esri/jsapi-resources/tree/master/frameworks/ember) for links to libraries and example applications that use the ArcGIS API for JavaScript in Ember applications.
 
-* Ember | Follow: [@ffaubry](https://github.com/ffaubry) & [@odoe](https://github.com/odoe) & [@dbouwman](https://github.com/dbouwman)
-  * [Ember CLI Addon for using AMD libraries](https://github.com/Esri/ember-cli-amd)
-
-[ArcGIS API for JavaScript Using it with EmberJS](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
+* Ember | Follow: [@ffaubry](https://github.com/ffaubry) & [@odoe](https://github.com/odoe) & [@dbouwman](https://github.com/dbouwman) & [@tomwayson](https://github.com/tomwayson)
 
 ## Community
-* If you need help with a specific plugin/project try at the repository issues
+* If you need help with any of the above addons/applications, try at the repository issues
 
 ## People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=EmberJS](https://esri-es.github.io/arcgis-experts/?topic=EmberJS)

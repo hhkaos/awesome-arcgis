@@ -3,6 +3,8 @@
 Please feel free to contribute to this list. The technology change fast and
 some resources may be out to date.
 
+You can use the "[resource page template](RESOURCE_PAGE_TEMPLATE.md)" to start a new resource page or to get ideas on which resources could be included.
+
 A sample resources list that shows what we are trying to collect on each page is the
 [Web AppBuilder resource page](arcgis/products/web-appbuilder/README.md).
 

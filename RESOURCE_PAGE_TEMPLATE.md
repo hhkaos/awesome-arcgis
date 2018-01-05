@@ -1,5 +1,11 @@
+> **Goal**: compile everything a developer interested in this topic should know about it in the Esri World.
+
+---
+
+> Please [feel free to help us](#contributions) to improve this page, you could follow [this template to help you out](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md).
+
 # [TOPIC]
-*Brief description*
+*Very short description about it*
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -27,7 +33,13 @@
 
 ## Training
 
-* Compilation of documentation, tutorials ([DevLabs](https://developers.arcgis.com/labs), [learn.arcgis.com](https://learn.arcgis.com/en/), ...), [training courses](https://www.esri.com/training),
+### Documentation
+
+*Compilation of official documentation, [training courses](https://www.esri.com/training), ...*
+
+### Tutorials
+
+*Tutorials ([DevLabs](https://developers.arcgis.com/labs), [learn.arcgis.com](https://learn.arcgis.com/en/), ...)*
 
 ### Videos
 

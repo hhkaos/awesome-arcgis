@@ -1,11 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of contents**
-
-- [Important](#important)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Important
 
 Please **do not use** this issues to request help to solve specific problems with your developemts, this issues are meant to:

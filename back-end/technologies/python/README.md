@@ -42,6 +42,7 @@
 [Python SDK for ArcGIS REST API](https://pypi.python.org/pypi/arcgis-sdk)
 
 #People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Python](https://esri-es.github.io/arcgis-experts/?topic=Python)
 
 They don't work on the support team and some may even not work at Esri,

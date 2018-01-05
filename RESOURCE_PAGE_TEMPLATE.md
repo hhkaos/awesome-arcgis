@@ -13,6 +13,8 @@
 
 - [Introduction](#introduction)
 - [Training](#training)
+  - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
   - [Videos](#videos)
 - [Get the tool](#get-the-tool)
 - [Code](#code)

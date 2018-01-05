@@ -1,0 +1,103 @@
+# [TOPIC]
+*Brief description*
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Introduction](#introduction)
+- [Training](#training)
+  - [Videos](#videos)
+- [Get the tool](#get-the-tool)
+- [Code](#code)
+- [Tools](#tools)
+- [Awesome projects](#awesome-projects)
+- [Community](#community)
+- [People you should know](#people-you-should-know)
+- [News](#news)
+- [Resources](#resources)
+- [Locatized resources](#locatized-resources)
+- [Related resources](#related-resources)
+- [Contributions](#contributions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Introduction
+*Link to the official page and more extended description*
+
+## Training
+
+* Compilation of documentation, tutorials ([DevLabs](https://developers.arcgis.com/labs), [learn.arcgis.com](https://learn.arcgis.com/en/), ...), [training courses](https://www.esri.com/training),
+
+### Videos
+
+Replace `TOPIC` in the next paragram and remove the \`\`\`.
+
+```
+On [*video.esri.com*](http://video.esri.com/search/TOPIC) you will find many technical talks and slides from [*proceedings.esri.com*](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20TOPIC).
+```
+
+And
+
+|Event|Title|Length|
+
+## Get the tool
+
+*If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, if it is accesible though the Startup Program (or any other program), etc*
+
+## Code
+
+* Compilation of sample code on: Github repositories, [codesharing.arcgis.com](http://codesharing.arcgis.com/) or any other known source.
+
+## Tools
+
+*Any additional tool that could help the developer to speedup*
+
+## Awesome projects
+
+*If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example), business cases, etc*
+
+## Community
+
+Where can a developer find the community talking about this technology? (GeoNet?, Stackoverflow?, Stackexchange?, Github?, ....)
+
+## People you should know
+
+Replace `TOPIC` in the next paragram and remove the \`\`\`.
+
+```
+Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=TOPIC](https://esri-es.github.io/arcgis-experts/?topic=TOPIC)
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+```
+
+## News
+
+* Links to articles to specific articles but also to any source of news. E.g: [blogs.esri.com](blogs.esri.com/esri/arcgis/tag/TOPIC/), [esri.com/search?filter=Blogs&q=TOPIC&search=Search](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search), [Blog Posts insite Places at GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-api-for-javascript/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D), etc.
+
+
+## Resources
+
+Replace `TOPIC` in the next paragram and remove the \`\`\`.
+
+```
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["TOPIC"](https://esri-es.github.io/arcgis-search/?search="TOPIC"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+```
+
+## Locatized resources
+
+*In case a distributor has made additional documentation, docs, etc* (add a ```#Language``` section)
+
+## Related resources
+
+*Other pages in the awesome list that could be helpful for the target audience of this page*
+
+## Contributions
+Please **feel free to help us** to improve this list:
+
+* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
+* Or writing a comment:
+  * If you find a broken link
+  * Or if we are missing a nice resource.

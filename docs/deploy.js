@@ -1,5 +1,8 @@
 var fs = require('fs');
 var path = require('path');
+
+var exclude = ["docs", "ISSUE_TEMPLATE.md", "CONTRIBUTING.md", "RESOURCE_PAGE_TEMPLATE.md"]
+
 var walk = function(dir, done) {
   var results = [];
   fs.readdir(dir, function(err, list) {
@@ -10,7 +13,8 @@ var walk = function(dir, done) {
       file = path.resolve(dir, file);
       basename = path.basename(file);
       //console.log("basename=",basename);
-      if(basename === "docs"){
+      if(exclude.indeOf(basename) !== -1){
+        console.log("excluding ", basename);
         if (!--pending) done(null, results);
       }else{
         fs.stat(file, function(err, stat) {

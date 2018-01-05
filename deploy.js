@@ -132,7 +132,10 @@ cmd = "rm SUMMARY.md'";
 exec(cmd, function(error, stdout, stderr) {
   console.log("Removing old summary ",stdout);
 
-  cmd = "node node_modules/doctoc/doctoc.js --title '**Table of contents**' .";
+  var excludeFiles = ["ISSUE_TEMPLATE.md","RESOURCE_PAGE_TEMPLATE.md","SUMMARY.md"]
+  excludeFiles = excludeFiles.join(" ! -name ");
+
+  cmd = `find . -path "./node_modules" -prune -o -name "*.md" ! -name ${excludeFiles} | xargs node ./node_modules/doctoc/doctoc.js --title '**Table of contents**'`;
   exec(cmd, function(error, stdout, stderr) {
     console.log("Updating tables of contents: ",stdout);
 

@@ -12,4 +12,25 @@ Ways to contribute:
 * If you find a broken link feel free to [open an issue](issue) or add a comment on Disqus
 * If you find some missing information do the same thing
 * You can help us just adding resources directly editing from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)).
-* If you are a developer you can also fork this repo and do a pull request.
+* If you are a developer you can also fork this repo, do a pull request and optionally create a new deployment.
+
+## Develop and build locally
+
+First you need to have [npm](https://www.npmjs.com/) installed in your computer and they from the root folder run:
+
+```
+$ npm install
+$ npm run install
+```
+
+To start the development environment run:
+
+`$ npm run serve`
+
+> Be patient, it will take some time but whenever it is ready you will see a message saying `Serving book on http://localhost:4000`
+
+And whenever you are ready to create the new deployment run:
+
+`$ npm run build`
+
+> Be patient, this process can take a few minutes

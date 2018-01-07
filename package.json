@@ -18,7 +18,9 @@
     "gitbook-summary": "^1.1.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "node ./node_modules/gitbook-cli/bin/gitbook.js serve",
+    "install": "node ./node_modules/gitbook-cli/bin/gitbook.js install",
+    "deploy": "node deploy.js"
   },
   "repository": {
     "type": "git",

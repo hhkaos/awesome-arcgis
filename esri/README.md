@@ -6,7 +6,15 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Youtube channels](#youtube-channels)
+- [Websites](#websites)
+  - [For the General Public](#for-the-general-public)
+  - [For ArcGIS Users](#for-arcgis-users)
+  - [For ArcGIS Developers](#for-arcgis-developers)
+  - [For anyone working with ArcGIS](#for-anyone-working-with-arcgis)
+    - [Youtube channels](#youtube-channels)
+      - [Product related](#product-related)
+      - [Country Specifics](#country-specifics)
+      - [Community channels:](#community-channels)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -22,7 +22,73 @@ Learn more about:
 * [R&D Centers](r-and-d/README.md) in North America, Europe, Australia, Asia and Africa
 * [Brand](brand/README.md): colors, logos, etc.
 
-## Youtube channels
+## Websites
+
+First thing you will notice when entering to "the Esri World" is the tons of websites and resources that are available to you. With this list we would like to help you better understand which they are and
+
+
+### For the General Public
+
+
+|Domain|Description|
+|---|---|
+|[www.esri.com](https://www.esri.com)|Information about the company, products, Industries, etc.|
+|[blogs.esri.com](https://blogs.esri.com)|Esri Blogs about: products, labs, communities, training, ...|
+|[blog.esri.com](http://blog.esri.com)|The Esri blog tells stories about the unique way that GIS connects seemingly unrelated information through the common attribute of location. Keep up-to-speed on the latest applications of GIS.
+|[www.arcgis.com](https://www.arcgis.com)|This is our product called [ArcGIS Online](./../arcgis/products/arcgis-online/README.md) (our cloud product)
+|[hub.arcgis.com](http://hub.arcgis.com/)|This is our product called [ArcGIS hub](./../arcgis/products/arcgis-hub/README.md) which can be adquired with [ArcGIS Online](./../arcgis/products/arcgis-online/README.md)
+|[coolmaps.esri.com](https://coolmaps.esri.com)|A collection of creative maps that use the Esri Mapping Platform to demonstrate how solutions can be enriched with the power of location
+|[esri.com/products/maps-we-love](http://www.esri.com/products/maps-we-love)|Another collection of awesome maps
+|[maps.esri.com](https://maps.esri.com/portal/WebApps/index.html)|[Esri’s Applications Prototype Lab](../esri/r-and-d/README.md#prototype-labs) site. It showcases our latest demonstrations, prototypes and proof of concepts
+|[pdx.esri.com](http://pdx.esri.com/)|Esri Portland R&D Center
+|[dc.esri.com](http://dc.esri.com/)| Esri R&D DC
+
+### For ArcGIS Users
+
+ArcGIS administrators, desktop users, ...
+
+|Domain|Description|
+|---|---|
+|[learn.arcgis.com](https://learn.arcgis.com)|Guided lessons (tutorials) based on real-world problems
+|[my.esri.com](https://my.esri.com/)|Support page for Esri Customers
+|[resources.arcgis.com](https://resources.arcgis.com)|Non developer documentation for ArcGIS Products
+|[help.arcgis.com](https://help.arcgis.com)|Alias of [resources.arcgis.com](https://resources.arcgis.com)
+|[marketplace.arcgis.com](https://marketplace.arcgis.com)|Third party applications
+|[pro.arcgis.com](https://pro.arcgis.com)|n.a.
+|[server.arcgis.com](https://server.arcgis.com)|n.a.
+|[landsatexplorer.esri.com](http://landsatexplorer.esri.com/)|Users draw on Landsat's different bands to better explore the planet's geology, vegetation, agriculture, and cities. Additionally, the app offers instant access to the entire Landsat archive, allowing users to visualize how the Earth's surface has changed over the last forty years.
+
+### For ArcGIS Developers
+
+|Domain|Description|
+|---|---|
+|[developers.arcgis.com](https://developers.arcgis.com)|Developer documentation
+|[developers.arcgis.com/labs](https://developers.arcgis.com/labs/)|Developer tutoriales
+|[resources.arcgis.com/en/help/arcgis-rest-api/](http://resources.arcgis.com/en/help/arcgis-rest-api/)|n.a.
+|[github.com/esri](https://github.com/esri)|Github Account
+|[ago-assistant.esri.com](https://ago-assistant.esri.com/)|n.a.
+|[terraformer.io](http://terraformer.io)|n.a.
+
+### For anyone working with ArcGIS
+
+|Domain|Description|
+|---|---|
+|[doc.arcgis.com](https://doc.arcgis.com)|Landing page with links to every product's documentation page
+|[training.esri.com](https://www.esri.com/training/)|Free courses and paid courses
+|[esripress.esri.com](https://esripress.esri.com/display/index.cfm)|Esri Press publishes books and tutorials on GIS, cartography, and the application of spatial analysis. All publications are available to purchase online.
+|[esri.com/mooc](http://www.esri.com/mooc)|Esri massive open online courses (MOOCs)
+|[community.esri.com](https://community.esri.com)|Esri Community Site|
+|[earlyadopter.esri.com](https://earlyadopter.esri.com/welcome/)|Early adopter community
+|[codesharing.arcgis.com](https://codesharing.arcgis.com)|Interface to help anyone to find code samples hosted as items in ArcGIS Online ([equivalent search](http://www.arcgis.com/home/search.html?q=%28type%3A%22code%20samples%22%20OR%20type%3A%22add-ins%22%20OR%20type%3A%22geoprocessing%20samples%22%29%20-type%3A%22Code%20Attachment%22%20-type%3A%22Featured%20Items%22%20-type%3A%22Symbol%20Set%22%20-type%3A%22Color%20Set%22%20-type%3A%22Windows%20Viewer%20Add%20In%22%20-type%3A%22Windows%20Viewer%20Configuration%22&start=1&sortOrder=desc&sortField=relevance%29))
+|[proceedings.esri.com](http://proceedings.esri.com/library/userconf/index.html)|Official channel to host the slides of every Esri Event but also to find User Groups|
+|[support.esri.com](https://support.esri.com)|Technical articles, white papers, patches, software updates, product lifecycles, system requirements
+|[video.esri.com](https://video.esri.com)|Video portal mixing content hosted by itself and our [Youtube channels](#youtube-channels).
+|[geonet.esri.com](https://geonet.esri.com)|Alias of [community.esri.com](https://community.esri.com)
+|[forums.esri.com](http:/forums.esri.com)|Alias of [community.esri.com](https://community.esri.com)
+|[beta.esri.com](http://beta.esri.com)|Alias of [earlyadopter.esri.com](https://earlyadopter.esri.com/welcome/)
+
+
+#### Youtube channels
 
 You can also find more information on any of our Youtube Channels:
 
@@ -35,22 +101,28 @@ You can also find more information on any of our Youtube Channels:
 |[Esri R&D Center](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)|+180|[Few videos](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)
 |[Esri Applications Prototype Lab](https://www.youtube.com/user/prototypelab)|+130|[+40 videos](https://www.youtube.com/user/PrototypeLab/videos)
 
-Product related:
+##### Product related
+
 * [AppStudioForArcGIS at Esri](https://www.youtube.com/channel/UCaDpuQi3gcd5YD9KW-_jsQg)
 * [CityEngineTV](https://www.youtube.com/user/CityEngineTV)
 
-Country Specifics
+##### Country Specifics
+
+Official distributor channels
+
 * [Esri UK](https://www.youtube.com/user/ESRIUK1)
 * [Esri Australia](https://www.youtube.com/user/EsriAustralia)
 * [Esri Spain](https://www.youtube.com/channel/UCGHLSveM47-mnV7F4P7wfjw) (Spanish)
+    * [GeoDevelopers](youtube.com/geo-developers) (Spanish Developer Program Channel, mixes languages: Spanish & English)
 * [Esri France](https://www.youtube.com/user/esrifranceTV) (French)
 * [Esri Deutschland](https://www.youtube.com/user/EsriDeutschlandTV) (German)
 
-Other channels:
+##### Community channels:
+
+Esri employees:
 
 * [Rene Rubalcava](https://www.youtube.com/channel/UCo7tc3KZgH4GMUcqcSFBLOQ)
 * [Hussein Nasser](https://www.youtube.com/user/GISIGeometry/playlists)
-* [GeoDevelopers](youtube.com/geo-developers) (mixed languages: Spanish & English)
 * [Andrew Turner](https://www.youtube.com/user/ajt3h)
 
 ## Contributions

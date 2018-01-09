@@ -28,7 +28,7 @@ Not even the search engines available<sup>[1](#search-engines)</sup>
 
 That's why we decided to build this project, a collection of *[awesome lists](https://github.com/sindresorhus/awesome/blob/master/awesome.md)* for ArcGIS developers, a place where anyone could find **one page per technology or topic** with the best official but also the best community resources we know, included the localized ones.
 
-> **Example awesome pages**: [Web AppBuilder Developer Edition](../arcgis/products/web-appbuilder/developer-edition/), [Configurable Apps](../arcgis/products/configurable-apps/), [Web Map Spec](../esri/open-vision/open-specifications/web-map/), [Esri-Leaflet](../front-end/technologies/leaflet/), [ArcGIS Pro and it's SDK](../arcgis/products/arcgis-desktop/arcgis-pro/), [Runtime SDK for Android](../mobile/technologies/android/), [REST APIs](../esri/open-vision/open-specifications/arcgis-rest-api/), etc,
+> **Example awesome pages**: [Web AppBuilder Developer Edition](../arcgis/products/web-appbuilder/developer-edition/README.md), [Configurable Apps](../arcgis/products/configurable-apps/README.md), [Web Map Spec](../esri/open-vision/open-specifications/web-map/README.md), [Esri-Leaflet](../front-end/technologies/leaflet/README.md), [ArcGIS Pro and it's SDK](../arcgis/products/arcgis-desktop/arcgis-pro/README.md), [Runtime SDK for Android](../mobile/technologies/android/README.md), [REST APIs](../esri/open-vision/open-specifications/arcgis-rest-api/README.md), etc,
 
 We are working closely with many [ArcGIS experts](https://esri-es.github.io/arcgis-experts/) to collect the best information available for each topic, but of course we would love you could   [contribute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).
 

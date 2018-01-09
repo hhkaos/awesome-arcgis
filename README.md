@@ -2,7 +2,7 @@
 improve this page.
 
 # Awesome list for ArcGIS Developers
-Awesome resource list for ArcGIS Developers ([why we started this project?](./about.md))
+Awesome resource list for ArcGIS Developers ([why we started this project?](./ABOUT.md))
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -51,21 +51,7 @@ ArcGIS is a 360º software platform built by Esri and it already have more than
 applications or mobile Applications but there are also many tools for developers
 and devops as you will see in this awesome list of resources.
 
-**About Esri**
-
-[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/pdf/pledge-letters/Dangermond_Letter.pdf). Today it software ( [ArcGIS](https://en.wikipedia.org/wiki/ArcGIS) ) is been used by a [40% of the global market](https://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](http://www.esri.com/about-esri#who-we-are), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
-
-It [organize multiple events](http://www.esri.com/events) annually and the biggest one (the [User Conference](http://www.esri.com/events/user-conference) in San Diego) brings together more than 15000 users. There is also a developer focused event, the **Developer Summit**, it take place at [Palm Springs](http://www.esri.com/events/devsummit) (USA) and [Berlin](http://www.esri.com/events/devsummit-europe) (EU) every year.
-
-Check this diagram to know more about the GIS and Esri evolution:
-
-[![Esri Evolution](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/pub?w=1227&h=692)](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/edit?usp=sharing)
-
-If you want to know more about ArcGIS capabilities, features, ... we encourage you to can start checking some of these sites:
-* [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
-* [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
-* [ArcGIS patterns](http://www.esri.com/software/arcgis/patterns): analysis and planification, operational awareness, field data collection, assets management and community engagement.
-* [How GIS works](http://www.esri.com/what-is-gis/howgisworks): five steps: ask, collect, examine, analyze and act.
+Learn more about the [ArcGIS platform](./arcgis/README.md) and it's creator [Esri](./esri/README.md).
 
 ## Contributions
 Please review the [guidelines for contributing](CONTRIBUTING.md) to this repository.

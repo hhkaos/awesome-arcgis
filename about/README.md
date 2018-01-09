@@ -41,7 +41,7 @@ Our goals are to make it easier for anyone:
 We really hope this project helps you to become an [ArcGIS experts](https://esri-es.github.io/arcgis-experts/) in the ArcGIS Platform.
 
 Sincerely,<br>
-[The contributors](graphs/contributors)
+[The contributors](https://github.com/hhkaos/awesome-arcgis/graphs/contributors)
 
 ---
 

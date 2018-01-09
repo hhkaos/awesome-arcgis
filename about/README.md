@@ -1,6 +1,17 @@
+> **Note**: this project is targeting developers but we also think ArcGIS users can benefit from it.
+
 # About
 
-> This project is targeting developers but we also think ArcGIS users can benefit from it.
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Context](#context)
+- [About the project](#about-the-project)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Context
 
 In this page I will try to explain to you why we started this project and the objective that it pursues.
 
@@ -12,6 +23,8 @@ But even if you are already familiar with ArcGIS you might also suffer sometimes
 
 Not even the search engines available<sup>[1](#search-engines)</sup>
 . can offer a fulfilling solution to this problem, because not everything is ready to be indexed (for example some: community content or international distributor resources), and even if they could, they probably would not be able to properly structure and curate their results.
+
+## About the project
 
 That's why we decided to build this project, a collection of *[awesome lists](https://github.com/sindresorhus/awesome/blob/master/awesome.md)* for ArcGIS developers, a place where anyone could find **one page per technology or topic** with the best official but also the best community resources we know, included the localized ones.
 

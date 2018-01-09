@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [About](#about)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # About
 
 > This project is targeting developers but we also think ArcGIS users can benefit from it.

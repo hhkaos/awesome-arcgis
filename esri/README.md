@@ -46,11 +46,13 @@ Learn more about:
 
 ## Websites
 
-First thing you will notice when entering to "the Esri World" is the tons of websites and resources that are available to you. With this list we would like to help you better understand which they are and
+First thing you will notice when entering to "the Esri World" is the tons of websites and resources that are available to you. With this list we would like to help you better understand which they are and what they are about.
 
+> Note: there still many [domains missing in this page](https://github.com/hhkaos/awesome-arcgis/issues/19), we will try to extend it as soon as possible.
 
 ### For the General Public
 
+This domains collect general information, news and sample apps anyone could be interested when trying to understand what Esri and ArcGIS, some also include open datasets anyone could use and community initiatives anyone could join.
 
 |Domain|Description|
 |---|---|
@@ -65,9 +67,9 @@ First thing you will notice when entering to "the Esri World" is the tons of web
 |[pdx.esri.com](http://pdx.esri.com/)|Esri Portland R&D Center
 |[dc.esri.com](http://dc.esri.com/)| Esri R&D DC
 
-### For ArcGIS Users
+### Specific for ArcGIS Users
 
-ArcGIS administrators, desktop users, ...
+If you are an ArcGIS administrators or a desktop users you will find specific tutorials, support pages, tools and documentation on these domains.
 
 |Domain|Description|
 |---|---|
@@ -80,18 +82,22 @@ ArcGIS administrators, desktop users, ...
 |[server.arcgis.com](https://server.arcgis.com)|n.a.
 |[landsatexplorer.esri.com](http://landsatexplorer.esri.com/)|Users draw on Landsat's different bands to better explore the planet's geology, vegetation, agriculture, and cities. Additionally, the app offers instant access to the entire Landsat archive, allowing users to visualize how the Earth's surface has changed over the last forty years.
 
-### For ArcGIS Developers
+### Specific for ArcGIS Developers
+
+If you are a developer you will find documentation, tutorials, tools and sample codes in these domains.
 
 |Domain|Description|
 |---|---|
 |[developers.arcgis.com](https://developers.arcgis.com)|Developer documentation
-|[developers.arcgis.com/labs](https://developers.arcgis.com/labs/)|Developer tutoriales
+|[developers.arcgis.com/labs](https://developers.arcgis.com/labs/)|Developer tutorials
 |[resources.arcgis.com/en/help/arcgis-rest-api/](http://resources.arcgis.com/en/help/arcgis-rest-api/)|n.a.
 |[github.com/esri](https://github.com/esri)|Github Account
 |[ago-assistant.esri.com](https://ago-assistant.esri.com/)|n.a.
 |[terraformer.io](http://terraformer.io)|n.a.
 
-### For anyone working with ArcGIS
+### For anyone (users, admins and developers) working with ArcGIS
+
+No matter what's your job, you will find documentation, courses, books, community pages, tools, ... for ArcGIS users on this domains.
 
 |Domain|Description|
 |---|---|

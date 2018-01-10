@@ -5,6 +5,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+Test
+
 - [Training](#training)
   - [Documentation](#documentation)
 - [People you should know](#people-you-should-know)

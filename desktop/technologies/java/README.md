@@ -50,6 +50,7 @@ DevLabs:
 * [Create a 2D map with a layer](https://developers.arcgis.com/labs/java/create-a-2d-map-with-a-layer/)
 * [Display a web map](https://developers.arcgis.com/labs/java/display-a-web-map/)
 * [Display a map while offline](https://developers.arcgis.com/labs/java/display-a-map-while-offline/)
+* [More ArcGIS Runtime SDK for Java DevLabs here](https://developers.arcgis.com/labs/browse/?topic=any&product=Java)
 
 Sample code:
 * [GitHub ArcGIS Runtime Java Samples](https://github.com/Esri/arcgis-runtime-samples-java)
@@ -115,9 +116,13 @@ technology so we recommend you to follow them.
 
 ## Additional resources
 
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
 ### Localized resources
 
 ### Other related list of resources
+
+* [ArcGIS Online Resources](https://arcgisruntime.maps.arcgis.com/home/search.html?q=owner%3A%20ArcGISRuntimeSDK&t=content&start=1&sortOrder=desc&sortField=relevance)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

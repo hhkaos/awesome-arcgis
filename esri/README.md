@@ -34,6 +34,7 @@ If you want to know more about ArcGIS capabilities, features, ... we encourage y
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
 * [ArcGIS patterns](http://www.esri.com/software/arcgis/patterns): analysis and planification, operational awareness, field data collection, assets management and community engagement.
 * [How GIS works](http://www.esri.com/what-is-gis/howgisworks): five steps: ask, collect, examine, analyse and act.
+* [Esri Map Book](http://www.esri.com/esri-map-book/): Esri Map Book showcases maps and applications that use ArcGIS to evaluate the sustainability of resources, determine efficient transportation routes, mitigate the effects of natural disasters, and much more
 
 Learn more about:
 
@@ -140,6 +141,7 @@ Official distributor channels
 
 * [Esri UK](https://www.youtube.com/user/ESRIUK1)
 * [Esri Australia](https://www.youtube.com/user/EsriAustralia)
+* [Esri Canada](https://www.youtube.com/channel/UCwAw9sorqR55IN6e_IyaUKg)
 * [Esri Spain](https://www.youtube.com/channel/UCGHLSveM47-mnV7F4P7wfjw) (Spanish)
     * [GeoDevelopers](youtube.com/geo-developers) (Spanish Developer Program Channel, mixes languages: Spanish & English)
 * [Esri France](https://www.youtube.com/user/esrifranceTV) (French)

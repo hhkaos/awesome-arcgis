@@ -18,12 +18,14 @@ In addition to geodatabases, a fundamental goal of ArcGIS is to work with numero
 
 ArcGIS lets you work with a number of data formats from many sources. Some of the supported data sources are listed here.
 
-## Data types (and formats)
+## Data formats
 
 Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_4835793C55C0439593A46FD5BC9E64B9) and if you need more you can also use the [ArcGIS Data Interoperability extension for Desktop](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_17EE0659B23345B9A655752949E49E3E).
 
-* [LAS dataset](./las/README.md)
-* [GTFS](./gtfs/README.md)
+* [LAS dataset](./las/README.md) (industry-standard binary format for storing airborne [lidar data](./las/lidar/README.md))
+* [GTFS](./gtfs/README.md) (General Transit Feed Specification format for exchanging public transportation schedule, geographic and fare information)
+* [Shapefile](./shapefile/README.md) (this format can spatially describe vector features: points, lines, and polygons)
+* [CAD](./cad/README.md) (Computer-Aided Design aids in the creation, modification, analysis, or optimization of a 2D and 3D designs)
 * ... ([check more](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm))
 
 ## Contributions

@@ -50,7 +50,7 @@ DevLabs:
 * [Create a 2D map with a layer](https://developers.arcgis.com/labs/java/create-a-2d-map-with-a-layer/)
 * [Display a web map](https://developers.arcgis.com/labs/java/display-a-web-map/)
 * [Display a map while offline](https://developers.arcgis.com/labs/java/display-a-map-while-offline/)
-* [More ArcGIS Runtime SDK for Java DevLabs here](https://developers.arcgis.com/labs/browse/?topic=any&product=Java)
+* [More ArcGIS Runtime SDK for Java DevLabs here...](https://developers.arcgis.com/labs/browse/?topic=any&product=Java)
 
 Sample code:
 * [GitHub ArcGIS Runtime Java Samples](https://github.com/Esri/arcgis-runtime-samples-java)

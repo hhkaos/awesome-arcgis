@@ -35,6 +35,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Bringing Your Data to Life in ArcGIS API for JavaScript: Vector Tiles](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 2min 42secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Vector Tiles in the ArcGIS Platform](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 1min 30secs
 |[UC](http://www.esri.com/events/user-conference) 2016|[Content: Vector Tiles: Styling Your Own Base Maps](http://www.esri.com/videos/watch?videoid=rYo2YUIM6Yk&title=content:-vector-tiles:-styling-your-own-base-maps)|56min 49secs
 |[UC](http://www.esri.com/events/user-conference) 2016|[Mapping: Desktop Mapping: Creating Vector Tiles](http://www.esri.com/videos/watch?videoid=L2ds2rb-d5c&title=mapping:-desktop-mapping:-creating-vector-tiles)| 1h 15min 45secs
@@ -59,6 +60,20 @@ They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
+## News
+
+[Vector tile articles at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-tile/):
+    * [Introducing Esri Vector Basemaps (Beta)](https://blogs.esri.com/esri/arcgis/2015/11/18/introducing-esri-vector-basemaps-beta/)
+    * [How to Customize Esri Vector Basemaps](https://blogs.esri.com/esri/arcgis/2015/11/19/how-to-customize-esri-vector-basemaps/)
+    * [Customize Esri Vector Basemap Boundaries and Labels](https://blogs.esri.com/esri/arcgis/2015/11/23/customize-esri-vector-basemap-boundaries-and-labels/)
+    * [Understanding Esri Vector Basemap File Structure](https://blogs.esri.com/esri/arcgis/2015/12/02/understanding-esri-vector-basemap-file-structure/)
+    * [What’s new in Esri Vector Basemaps (May 2017)](https://blogs.esri.com/esri/arcgis/2017/05/04/whats-new-in-esri-vector-basemaps-may-2017/)
+
+Additional search engines for news: [esri.com/search](http://www.esri.com/search?filter=Blogs&q=vector%20tiles&search=Search)
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["vector tiles"](https://esri-es.github.io/arcgis-search/?search="vector tiles"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ## Localized resources
 

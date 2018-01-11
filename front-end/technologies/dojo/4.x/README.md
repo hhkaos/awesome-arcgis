@@ -14,6 +14,11 @@
 
 ## Video
 
+|Event|Title|Length|
+|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Using TypeScript with ArcGIS API for JavaScript](https://www.youtube.com/watch?v=09GtEgyINdo&index=18&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E)|58min 10secs
+
+
 [ArcGIS API for JavaScript Discover 4.0 the Next Generation](http://www.esri.com/videos/watch?playlistid=series_259&channelid=LegacyVideo&isLegacy=true&title=2016-esri-developer-summit:-javascript-tech-sessions)
 
 

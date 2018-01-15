@@ -50,13 +50,13 @@ The benefits from storing content inside ArcGIS are:
 * Been able to run spatial analysis
 * ...
 
-## Data types (and formats)
+## Data formats
 
 Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_4835793C55C0439593A46FD5BC9E64B9) and if you need more you can also use the [ArcGIS Data Interoperability extension for Desktop](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_17EE0659B23345B9A655752949E49E3E).
 
-* [LAS dataset](./data-types/las/README.md)
-* [GTFS](./data-types/gtfs/README.md)
-* [Find more](./data-types/README.md)
+* [LAS dataset](./data-formats/las/README.md)
+* [GTFS](./data-formats/gtfs/README.md)
+* [Find more](./data-formats/README.md)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

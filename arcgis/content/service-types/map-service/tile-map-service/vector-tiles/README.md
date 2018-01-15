@@ -81,6 +81,12 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [Introducción a los mapas vectoriales de ArcGIS](http://www.geodevelopers.org/academy/)
 * Personalizar mapas vectoriales y consumirlos con AngularJS: [Vídeo](http://www.geodevelopers.org/academy/) & [Tutorial](https://docs.google.com/document/d/1VJ2gU8HZ7rkBXg_mtPYJl34rtGqLVKbbIc9HZ-fKByg/edit?usp=sharing)
 
+## Third party acknowledgements
+
+[Esri Third Party OSS/FOSS Software Acknowledgments](http://www.esri.com/~/media/Files/Pdfs/legal/pdfs/third-party-software-acknowledgements.pdf).
+
+Esri vector tiles uses or had used, [Earcut](https://github.com/mapbox/earcut), [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native), [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec), [Mapbox vector-style-spec](https://github.com/mapbox/vector-tile-spec) & [Node-sqlite3](https://github.com/mapbox/node-sqlite3).
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

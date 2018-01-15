@@ -112,6 +112,7 @@ No matter what's your job, you will find documentation, courses, books, communit
 |[proceedings.esri.com](http://proceedings.esri.com/library/userconf/index.html)|Official channel to host the slides of every Esri Event but also to find User Groups|
 |[support.esri.com](https://support.esri.com)|Technical articles, white papers, patches, software updates, product lifecycles, system requirements
 |[video.esri.com](https://video.esri.com)|Video portal mixing content hosted by itself and our [Youtube channels](#youtube-channels).
+|[enterprise.arcgis.com](enterprise.arcgis.com)|n.a
 |[geonet.esri.com](https://geonet.esri.com)|Alias of [community.esri.com](https://community.esri.com)
 |[forums.esri.com](http:/forums.esri.com)|Alias of [community.esri.com](https://community.esri.com)
 |[beta.esri.com](http://beta.esri.com)|Alias of [earlyadopter.esri.com](https://earlyadopter.esri.com/welcome/)

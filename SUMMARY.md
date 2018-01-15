@@ -9,10 +9,19 @@
   - [Best Practices](arcgis/best-practices/README.md)
     - [Performance](arcgis/best-practices/performance/README.md)
   - [Content](arcgis/content/README.md)
+    - Data Storage
+      - [Geodatabase](arcgis/content/data-storage/geodatabase/README.md)
+        - [Enterprise Geodatabase](arcgis/content/data-storage/geodatabase/enterprise-geodatabase/README.md)
+        - [File Geodatabase](arcgis/content/data-storage/geodatabase/file-geodatabase/README.md)
+        - [Personal Geodatabase](arcgis/content/data-storage/geodatabase/personal-geodatabase/README.md)
+      - [Shapefile](arcgis/content/data-storage/shapefile/README.md)
     - [Data Types](arcgis/content/data-types/README.md)
-      - [Gtfs](arcgis/content/data-types/gtfs/README.md)
-      - [Las](arcgis/content/data-types/las/README.md)
-        - [Lidar](arcgis/content/data-types/las/lidar/README.md)
+      - Raster
+        - [Las](arcgis/content/data-types/raster/las/README.md)
+          - [Lidar](arcgis/content/data-types/raster/las/lidar/README.md)
+      - Vector
+        - [Cad](arcgis/content/data-types/vector/cad/README.md)
+        - [Gtfs](arcgis/content/data-types/vector/gtfs/README.md)
     - [Service Types](arcgis/content/service-types/README.md)
       - [Feature Service](arcgis/content/service-types/feature-service/README.md)
       - Map Service

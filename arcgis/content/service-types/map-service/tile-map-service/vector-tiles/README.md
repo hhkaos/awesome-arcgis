@@ -14,8 +14,11 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 - [Utils](#utils)
 - [News](#news)
 - [People you should know](#people-you-should-know)
+- [News](#news-1)
+- [Additional resources](#additional-resources)
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
+- [Third party acknowledgements](#third-party-acknowledgements)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

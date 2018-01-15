@@ -8,7 +8,7 @@ Most of the topics in this help section document how to use the geodatabase and 
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Data formats](#data-types-and-formats)
+- [Types](#types)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

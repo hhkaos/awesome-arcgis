@@ -55,6 +55,7 @@ There are many **initiatives for developers** running simultaneously around Esri
 
 ### USA
 * [GeoDev on Facebook](https://www.facebook.com/EsriGeoDev)
+* [GeoDev on GeoNet](https://geonet.esri.com/groups/geodev)
 * [@EsriGeoDev on Twitter](https://twitter.com/EsriGeoDev)
 * [GeoDev Northeast at Meetup](https://www.meetup.com/DevMeetUpNortheast/)
 * [GeoDev Northern Rockies at Meetup](https://www.meetup.com/devmeetupnorthernrockies/)

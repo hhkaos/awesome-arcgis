@@ -21,15 +21,30 @@
 
 ## ArcPy
 
-[ArcREST](http://stackoverflow.com/users/720773/gary-s)
 
-## Python API
+### Get the tool
+
+ArcPy library is only included in [ArcGIS Desktop](../../../arcgis/products/arcgis-desktop/README.md) or [ArcGIS Enterprise](../../../arcgis/products/arcgis-enterprise/README.md).
+
+### Resources
+
+* [ArcREST](http://stackoverflow.com/users/720773/gary-s)
+
+
+## ArcGIS API for Python
+
+The [ArcGIS API for Python](https://developers.arcgis.com/python/) provides tools for vector and raster analysis, geocoding, map making, routing and directions, as well as for organizing and managing a GIS with users, groups and information item.
+
+> **Note:** The Geometry native type methods in the Python API require Arcpy
+
+### Get the tool
+
+You can use your developer Subscription to download it from developers.arcgis.com. But you can also [download using Conda or Docker](https://developers.arcgis.com/python/guide/install-and-set-up/)
 
 ### Resources
 
 #### Training
 
-* [Download using Conda or Docker](https://developers.arcgis.com/python/guide/install-and-set-up/)
 * [Documentation](https://developers.arcgis.com/python/)|
 
 #### Videos / Technical talks
@@ -40,15 +55,17 @@
 
 #### Code
 
-[Python SDK for ArcGIS REST API](https://pypi.python.org/pypi/arcgis-sdk)
+* [Python SDK for ArcGIS REST API](https://pypi.python.org/pypi/arcgis-sdk)
 
 # People you should know
 
-Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Python](https://esri-es.github.io/arcgis-experts/?topic=Python)
+Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=Python):
 
-They don't work on the support team and some may even not work at Esri,
-but they are opening some projects and sharing insights related to this
-technology so we recommend you to follow them.
+![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)
+
+## Other community resources
+
+* [ArcGIS SDK](https://github.com/mongkok/arcgis-sdk): Python SDK for ArcGIS API - [https://pypi.python.org/pypi/arcgis-sdk](https://pypi.python.org/pypi/arcgis-sdk)
 
 ## News
 

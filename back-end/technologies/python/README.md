@@ -6,13 +6,17 @@
 **Table of contents**
 
   - [ArcPy](#arcpy)
-  - [Python API](#python-api)
+    - [Get the tool](#get-the-tool)
     - [Resources](#resources)
+  - [ArcGIS API for Python](#arcgis-api-for-python)
+    - [Get the tool](#get-the-tool-1)
+    - [Resources](#resources-1)
       - [Training](#training)
       - [Videos / Technical talks](#videos--technical-talks)
       - [Community](#community)
       - [Code](#code)
 - [People you should know](#people-you-should-know)
+  - [Other community resources](#other-community-resources)
   - [News](#news)
   - [Contributions](#contributions)
 

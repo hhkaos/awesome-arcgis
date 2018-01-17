@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # ArcGIS REST API
 [ArcGIS Platform](../../README.md#about-arcgis) provides REST APIs for several products

@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # ArcGIS API for Javascript version 3.x
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -65,7 +65,7 @@ https://geonet.esri.com/groups/cmv
 Yeoman - Generator for ArcGIS JS API applications
 https://github.com/odoe/generator-arcgis-js-app
 
-#People you should know
+# People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://github.com/esri-es/arcgis-experts](https://github.com/esri-es/arcgis-experts)
 
 They don't work on the support team and some may even not work at Esri,

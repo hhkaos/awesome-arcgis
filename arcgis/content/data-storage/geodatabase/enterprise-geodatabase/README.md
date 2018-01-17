@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you could follow [this template to help you out](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Enterprise Geodatabase
 The Enterprise Geodatabase also call ArcSDE geodatabase is a collection of tables, views and functions stored inside a SGDBM

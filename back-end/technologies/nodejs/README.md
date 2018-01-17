@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # NodeJS developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -39,7 +39,7 @@ https://github.com/Esri/pushlet: A simple HTTP wrapper around the Apple Push Not
 ### Spanish
 * [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
 
-#People you should know
+# People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=NodeJS](https://esri-es.github.io/arcgis-experts/?topic=NodeJS)
 
 They don't work on the support team and some may even not work at Esri,

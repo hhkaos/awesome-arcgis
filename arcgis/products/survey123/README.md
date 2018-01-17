@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Survey123
 It is an native (Android, iOS, Windows, OS X and Linux) and web app builder that allow you to create smart forms to collect data anywhere at anytime.

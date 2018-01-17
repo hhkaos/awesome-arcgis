@@ -1,5 +1,4 @@
-> Please [feel free to help us](https://github.com/hhkaos/awesome-arcgis#contributions) to
-improve this page.
+> Please [feel free to help us](#contributions) to improve this page. 
 
 # Awesome list for ArcGIS Developers
 Awesome resource list for ArcGIS Developers ([why we started this project?](./about/README.md))

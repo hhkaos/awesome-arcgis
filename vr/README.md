@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Virtual Reality Developers
 Export 3D scenarios built using [City Engine](../arcgis/products/city-engine/README.md), export them to [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine) and build your application using any VR SDK to finish the application for your [VR](https://en.wikipedia.org/wiki/Virtual_reality) [headset](https://en.wikipedia.org/wiki/Virtual_reality_headset).

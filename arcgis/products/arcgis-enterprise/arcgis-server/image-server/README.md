@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # ArcGIS Image Server
 ArcGIS Image Server provides serving, processing, analysis, and extracting value from massive collections of imagery, rasters, and remotely sensed data. The two capabilities ArcGIS Image Server provides are described below.

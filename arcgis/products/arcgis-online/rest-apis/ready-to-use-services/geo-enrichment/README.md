@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # GeoEnrichment
 GeoEnrichment is the process of adding demographic and lifestyle data to your maps. So the [Esri GeoEnrichment Service](https://developers.arcgis.com/features/geo-enrichment/) allows you to add demographic, business, and landscape data to your maps and applications

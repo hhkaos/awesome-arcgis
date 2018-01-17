@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you could follow [this template to help you out](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Shapefile
 Shapefile format is a geospatial vector data format for geographic information system software. The shapefile format can spatially describe vector features: points, lines, and polygons, representing, for example, water wells, rivers, and lakes. Each item usually has attributes that describe it, such as name or temperature.

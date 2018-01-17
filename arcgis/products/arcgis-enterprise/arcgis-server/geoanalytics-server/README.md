@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # GeoAnalytics Server
 [ArcGIS GeoAnalytics Server](http://www.esri.com/arcgis/products/geoanalytics-server) allow you to answer difficult questions—the kind that involve large volumes of data—in minutes or hours instead of days or weeks. ArcGIS GeoAnalytics Server uses the power of distributed computing to speed up your geospatial analysis and make you more productive with ArcGIS Pro and ArcGIS Enterprise.

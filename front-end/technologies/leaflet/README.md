@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Leaflet developers
 [Leaflet](http://leafletjs.com/) is an open-source JavaScript library for mobile-friendly interactive maps. Using [Esri Leaflet](https://github.com/Esri/esri-leaflet) makes it a pleasure to work with ArcGIS Services in Leaflet.

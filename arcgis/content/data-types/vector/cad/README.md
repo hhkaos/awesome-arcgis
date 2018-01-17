@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you could follow [this template to help you out](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # CAD format
 Computer-Aided Design aids in the creation, modification, analysis, or optimization of a 2D and 3D designs. It is extensively used in many applications, including automotive, shipbuilding, and aerospace industries, industrial and architectural design, prosthetics, and many more

@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Offline editor
 [offline-editor-js](https://github.com/Esri/offline-editor-js) is an Open Source ArcGIS JavaScript library for handling offline editing and tiling.

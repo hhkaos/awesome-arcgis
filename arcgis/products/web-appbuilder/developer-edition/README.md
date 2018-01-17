@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Web AppBuilder for ArcGIS (Developer Edition)
 [Web AppBuilder](../README.md) **Developer Edition** is a WYSIWYG tool that allow any user to build 2D and 3D map-centric apps (*with a full screen map*) without writing any code. You as a web developer can add new widgets and themes or customize the existing ones.

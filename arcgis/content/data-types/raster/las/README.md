@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # LAS dataset
 A LAS dataset stores reference to one or more LAS files on disk, as well as to additional surface features; and a LAS file is an industry-standard binary format for storing airborne [lidar data](./lidar/README.md).

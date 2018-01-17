@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # AppStudio
 It is an extendable AppBuilder that help you to build cross-platform apps, web and native (Android, iOS, Windows, OS X and Linux), from your maps in order to be able to publish them using your own brand anywhere.

@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # ExtJS & Sencha developers
 [Ext JS](https://www.sencha.com/products/extjs) is a pure JavaScript application framework for building interactive cross platform web applications using techniques such as Ajax, DHTML and DOM scripting

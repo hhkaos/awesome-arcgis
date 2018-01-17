@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Web Map Viewer
 The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web tool that allow you to create and modify [Web maps](../../../esri/open-vision/open-specifications/web-map/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).

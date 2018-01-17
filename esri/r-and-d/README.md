@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, [help us](#contributions).
+> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Research & Development
 Esri invests [25-30]% of it earnings yearly on R&D ([~$1M/day](https://youtu.be/qNrySnLVJ_A?t=7m48s)) to keep introducing innovation to the ArcGIS Platform.

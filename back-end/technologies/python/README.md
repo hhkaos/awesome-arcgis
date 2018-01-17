@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page.
+> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # Python developers
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -41,7 +41,7 @@
 
 [Python SDK for ArcGIS REST API](https://pypi.python.org/pypi/arcgis-sdk)
 
-#People you should know
+# People you should know
 
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Python](https://esri-es.github.io/arcgis-experts/?topic=Python)
 

@@ -79,15 +79,16 @@ Where can a developer find the community talking about this technology? (GeoNet?
 
 ### People you should know
 
-Replace `TOPIC` in the next paragram and remove the \`\`\`.
+> Replace `TOPIC` in the next paragram
 
-```
-Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=TOPIC](https://esri-es.github.io/arcgis-experts/?topic=TOPIC)
+
+Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
+
+![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-```
 
 ## News
 

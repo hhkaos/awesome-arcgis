@@ -5,15 +5,16 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [ArcPy](#arcpy)
-- [Python API](#python-api)
-  - [Resources](#resources)
-    - [Training](#training)
-    - [Videos / Technical talks](#videos--technical-talks)
-    - [Community](#community)
-    - [Code](#code)
-- [News](#news)
-- [Contributions](#contributions)
+  - [ArcPy](#arcpy)
+  - [Python API](#python-api)
+    - [Resources](#resources)
+      - [Training](#training)
+      - [Videos / Technical talks](#videos--technical-talks)
+      - [Community](#community)
+      - [Code](#code)
+- [People you should know](#people-you-should-know)
+  - [News](#news)
+  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

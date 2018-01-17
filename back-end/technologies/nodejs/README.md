@@ -5,13 +5,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Training](#training)
-  - [Videos / Technical talks](#videos--technical-talks)
-- [Community](#community)
-- [Code](#code)
-- [Localized resources](#localized-resources)
-  - [Spanish](#spanish)
-- [Contributions](#contributions)
+  - [Training](#training)
+    - [Videos / Technical talks](#videos--technical-talks)
+  - [Community](#community)
+  - [Code](#code)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
+- [People you should know](#people-you-should-know)
+  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

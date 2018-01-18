@@ -11,10 +11,19 @@
   - [Specific for ArcGIS Users](#specific-for-arcgis-users)
   - [Specific for ArcGIS Developers](#specific-for-arcgis-developers)
   - [For anyone (users, admins and developers) working with ArcGIS](#for-anyone-users-admins-and-developers-working-with-arcgis)
-    - [Youtube channels](#youtube-channels)
-      - [Product related](#product-related)
-      - [Country Specifics](#country-specifics)
-      - [Community channels:](#community-channels)
+- [Youtube channels](#youtube-channels)
+  - [Product related](#product-related)
+  - [Country Specifics](#country-specifics)
+  - [Community channels](#community-channels)
+- [Twitter accounts](#twitter-accounts)
+  - [Corporative accounts](#corporative-accounts)
+  - [Product](#product)
+  - [Events](#events)
+  - [Teams](#teams)
+  - [Programs](#programs)
+  - [Training & learning](#training--learning)
+  - [Topics](#topics)
+  - [Other accounts](#other-accounts)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -29,7 +38,7 @@ Check this diagram to know more about the GIS and Esri evolution:
 
 [![Esri Evolution](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/pub?w=1227&h=692)](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/edit?usp=sharing)
 
-If you want to know more about ArcGIS capabilities, features, ... we encourage you to can start checking some of these sites:
+If you want to know more about ArcGIS capabilities, features, ... we encourage you to start checking some of these sites:
 * [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
 * [ArcGIS patterns](http://www.esri.com/software/arcgis/patterns): analysis and planification, operational awareness, field data collection, assets management and community engagement.
@@ -118,7 +127,7 @@ No matter what's your job, you will find documentation, courses, books, communit
 |[beta.esri.com](http://beta.esri.com)|Alias of [earlyadopter.esri.com](https://earlyadopter.esri.com/welcome/)
 
 
-#### Youtube channels
+## Youtube channels
 
 You can also find more information on any of our Youtube Channels:
 
@@ -131,12 +140,12 @@ You can also find more information on any of our Youtube Channels:
 |[Esri R&D Center](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)|+180|[Few videos](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)
 |[Esri Applications Prototype Lab](https://www.youtube.com/user/prototypelab)|+130|[+40 videos](https://www.youtube.com/user/PrototypeLab/videos)
 
-##### Product related
+### Product related
 
 * [AppStudioForArcGIS at Esri](https://www.youtube.com/channel/UCaDpuQi3gcd5YD9KW-_jsQg)
 * [CityEngineTV](https://www.youtube.com/user/CityEngineTV)
 
-##### Country Specifics
+### Country Specifics
 
 Official distributor channels
 
@@ -148,7 +157,7 @@ Official distributor channels
 * [Esri France](https://www.youtube.com/user/esrifranceTV) (French)
 * [Esri Deutschland](https://www.youtube.com/user/EsriDeutschlandTV) (German)
 
-##### Community channels:
+### Community channels
 
 Esri employees:
 
@@ -156,9 +165,9 @@ Esri employees:
 * [Hussein Nasser](https://www.youtube.com/user/GISIGeometry/playlists)
 * [Andrew Turner](https://www.youtube.com/user/ajt3h)
 
-#### Twitter accounts
+## Twitter accounts
 
-##### Corporative accounts
+### Corporative accounts
 
 |Account|Description|
 |---|---|
@@ -168,7 +177,7 @@ Esri employees:
 |[Esri Support](https://twitter.com/EsriSuptInfo)|Esri Support Services provides world-class support to help our customers. Via Twitter, we'll share info about Esri's online support resources and more! - [support.esri.com](https://support.esri.com)|
 |[Esri Careers](https://twitter.com/EsriCareers)|Connect with us for insight into the #EsriExperience! - [esri.com/careers](https://www.esri.com/careers/)
 
-##### Product
+### Product
 
 * [ArcGIS Earth](https://twitter.com/ArcGISEarth)
 * [ArcGIS Javascript](https://twitter.com/ArcGISJSAPI)
@@ -184,13 +193,13 @@ Esri employees:
 * [Esri Storymaps](https://twitter.com/EsriStoryMaps)
 * [ArcGIS Ideas](https://twitter.com/ArcGISIdeas)
 
-##### Events
+### Events
 
 * [Esri DevSummit](https://twitter.com/EsriDevSummit)
 * [Esri User Conference](https://twitter.com/EsriUC)
 * [Esri Petroleum](https://twitter.com/EsriPetroleum)
 
-##### Teams
+### Teams
 
 * [Esri GeoDev](https://twitter.com/EsriGeoDev)
 * [Esri Interactive](https://twitter.com/EsriInteractive)
@@ -199,12 +208,12 @@ Esri employees:
 * [Esri GIS Education](https://twitter.com/GISEd)
 * [Esri Business Team](https://twitter.com/EsriBizTeam)
 
-##### Programs
+### Programs
 
 * [Esri Startup Program](https://twitter.com/EsriStartups)
 * [Esri Partner Network](https://twitter.com/EsriPartnerNet)
 
-##### Training & learning:
+### Training & learning
 
 * [Esri Training](https://twitter.com/EsriTraining)
 * [Learn ArcGIS](https://twitter.com/LearnArcGIS)
@@ -213,7 +222,7 @@ Esri employees:
 * [Esri MOOCs](https://twitter.com/esrimooc)
 * [What it GIS?](https://twitter.com/GISdotcom)
 
-##### Topics
+### Topics
 
 * [Esri Environment](https://twitter.com/EsriEnvironment)
 * [Esri Public Safety](https://twitter.com/GISPublicSafety)
@@ -223,7 +232,7 @@ Esri employees:
 * [Esri Water](https://twitter.com/EsriWater)
 * [GIS and Science](https://twitter.com/GISandScience)
 
-##### Other accounts
+### Other accounts
 
 * [GeoNet](https://twitter.com/EsriGeoNet)
 * [Esri DC](https://twitter.com/EsriDC)
@@ -231,6 +240,17 @@ Esri employees:
 * [Esri Mapping Center](https://twitter.com/mappingcenter)
 * [Esri Young Pros](https://twitter.com/EsriYPN)
 * [Esri WAsia|ME|Africa](https://twitter.com/EsriWAMEA)
+
+## Github accounts
+
+* [Esri R&D DC](https://github.com/esridc)
+* [Esri R&D PDX](https://github.com/esripdx)
+* [Esri R&D Beijing](https://github.com/Esri-DevCenter-Beijing)
+* [Esri Colombia](https://github.com/GeoGeeks)
+* [Esri Netherlands](http://esrinederland.github.io/)
+* [Esri Spain](https://github.com/esri-es)
+* [Esri UK](https://github.com/esriuk)
+* [Esri UK Map Labs](https://github.com/maplabs)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

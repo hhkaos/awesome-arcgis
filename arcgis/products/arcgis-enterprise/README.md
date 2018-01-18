@@ -62,7 +62,7 @@ It has four components:
 * [ArcGIS-API-REST (postman collection)](https://github.com/esri-es/ArcGIS-REST-API)
 * [Fiddler](http://www.telerik.com/fiddler): free web debugging proxy which logs all HTTP(s) traffic between your computer and the Internet. Use it to debug traffic from virtually any application.
 
-# People you should know
+## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Enterprise](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Enterprise)
 
 They don't work on the support team and some may even not work at Esri,
@@ -76,6 +76,12 @@ For a development environment you can get this tools:
 1. Though the [ArcGIS Developer Program](https://developers.arcgis.com/pricing/) with the Proffesional, Premium and Enterprise plans.
 2. If you are an startup you can also get it though the [Esri Startup Program](http://esri.com/startups)
 3. Otherwise you will need to [contact Esri](http://www.esri.com/about-esri/contact#international)
+
+## News
+
+* [Blogs.esri.com tag "ArcGIS Enterprise"](https://blogs.esri.com/esri/arcgis/tag/arcgis-enterprise/)
+* [ArcGIS Online on Twitter](https://twitter.com/ArcGISXprise)
+
 
 ## Spanish
 

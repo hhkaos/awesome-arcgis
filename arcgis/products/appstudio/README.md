@@ -55,6 +55,11 @@ They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
+## News
+
+* [Blogs.esri.com tag "AppStudio"](https://blogs.esri.com/esri/arcgis/tag/appstudio/)
+* [AppStudio on Twitter](https://twitter.com/AppStudioArcGIS)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

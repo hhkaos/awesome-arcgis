@@ -87,7 +87,9 @@ but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
 ## News
-[Blogs.esri.com tag "ArcGIS Pro SDK"](https://blogs.esri.com/esri/arcgis/tag/arcgis-pro-sdk/)
+
+* [Blogs.esri.com tag "ArcGIS Pro SDK"](https://blogs.esri.com/esri/arcgis/tag/arcgis-pro-sdk/)
+* [ArcGIS Pro Twitter account](https://twitter.com/arcgispro)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

@@ -58,6 +58,10 @@ Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/e
 * [GTFS](./data-formats/gtfs/README.md)
 * [Find more](./data-formats/README.md)
 
+## News
+
+* [LivingAtlas](https://twitter.com/LivingAtlas)
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

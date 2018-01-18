@@ -24,7 +24,7 @@
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Locatized resources](#locatized-resources)
+  - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Contributions](#contributions)
 
@@ -94,6 +94,8 @@ technology so we recommend you to follow them.
 
 * Links to articles to specific articles but also to any source of news. E.g: [blogs.esri.com](blogs.esri.com/esri/arcgis/tag/TOPIC/), [esri.com/search?filter=Blogs&q=TOPIC&search=Search](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search), [Blog Posts insite Places at GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-api-for-javascript/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D), etc.
 
+* Does this topic/product have a Twitter account?
+
 
 ## Additional resources
 
@@ -103,7 +105,7 @@ Replace `TOPIC` in the next paragram and remove the \`\`\`.
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["TOPIC"](https://esri-es.github.io/arcgis-search/?search="TOPIC"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 ```
 
-### Locatized resources
+### Localized resources
 
 *In case a distributor has made additional documentation, docs, etc* (add a ```####Language``` section)
 

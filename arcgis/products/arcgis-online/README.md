@@ -94,6 +94,7 @@ If you are an independent developer we encourage you to start using the
 
 ## News
 * [ArcGIS Online news at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-online/)
+* [ArcGIS Online at Twitter](https://twitter.com/ArcGISOnline)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

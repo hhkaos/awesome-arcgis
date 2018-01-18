@@ -131,61 +131,6 @@ You can also find more information on any of our Youtube Channels:
 |[Esri R&D Center](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)|+180|[Few videos](https://www.youtube.com/channel/UCCLioxZosWvNggiM67UIeFQ)
 |[Esri Applications Prototype Lab](https://www.youtube.com/user/prototypelab)|+130|[+40 videos](https://www.youtube.com/user/PrototypeLab/videos)
 
-#### Twitter accounts
-
-* [Esri](https://twitter.com/esri)
-* Product accounts:
-    * [ArcGIS Earth](https://twitter.com/ArcGISEarth)
-    * [ArcGIS Javascript](https://twitter.com/ArcGISJSAPI)
-    * [ArcGIS Apps](https://twitter.com/ArcGISApps)
-    * [AppStudio for ArcGIS](https://twitter.com/AppStudioArcGIS)
-    * [ArcGIS Enterprise](https://twitter.com/ArcGISXprise)
-    * [ArcGIS Living Atlas of the World](https://twitter.com/LivingAtlas)
-    * [ArcGIS Online](https://twitter.com/ArcGISOnline)
-    * [ArcGIS Hub](https://twitter.com/ArcGISHub)
-    * [ArcGIS Pro](https://twitter.com/ArcGISPro)
-    * [ArcGIS Runtime](https://twitter.com/ArcGISRuntime)
-    * [ArcGIS Explorer](https://twitter.com/ArcGISExplorer)
-    * [Esri Storymaps](https://twitter.com/EsriStoryMaps)
-* Event accounts:
-    * [Esri User Conference](https://twitter.com/EsriUC)
-    * [Esri Petroleum](https://twitter.com/EsriPetroleum)
-    * [Esri DevSummit](https://twitter.com/EsriDevSummit)
-* Teams:
-    * [ArcGISTeamLocalGov](https://twitter.com/ArcGISLocalGov)
-    * [ArcGIS for State Gov](https://twitter.com/ArcGISStateGov)
-    * [Esri GIS Education](https://twitter.com/GISEd)
-* Training:
-    * [Esri Training](https://twitter.com/EsriTraining)
-    * [Learn ArcGIS](https://twitter.com/LearnArcGIS)
-    * [Esri Library](https://twitter.com/EsriLibrary)
-    * [Esri Press](https://twitter.com/EsriPress)
-    * [What it GIS?](https://twitter.com/GISdotcom)
-* [Esri Environment](https://twitter.com/EsriEnvironment)
-* [Esri Public Safety](https://twitter.com/GISPublicSafety)
-* [Esri Careers](https://twitter.com/EsriCareers)
-* [Esri Support](https://twitter.com/EsriSuptInfo)
-* [Esri Blog](https://twitter.com/EsriBlog)
-* [Esri Geospatial](https://twitter.com/Esri_Geospatial)
-* [GeoNet](https://twitter.com/EsriGeoNet)
-* [Esri MOOCs](https://twitter.com/esrimooc)
-* [Esri Business Team](https://twitter.com/EsriBizTeam)
-* [Esri Community Development](https://twitter.com/Esri_Com_Dev)
-* [Esri Public Works](https://twitter.com/EsriPublicWorks)
-* [Esri DC](https://twitter.com/EsriDC)
-* [Esri Mapping Center](https://twitter.com/mappingcenter)
-* [Esri Interactive](https://twitter.com/EsriInteractive)
-* [Esri GeoDev](https://twitter.com/EsriGeoDev)
-* [Esri Startup Program](https://twitter.com/EsriStartups)
-* [GIS and Science](https://twitter.com/GISandScience)
-* [Esri Forestry Group](https://twitter.com/EsriForestry)
-* [ArcGIS Ideas](https://twitter.com/ArcGISIdeas)
-* [Esri Young Pros](https://twitter.com/EsriYPN)
-* [Esri Globe](https://twitter.com/EsriGlobe)
-* [Esri Partner Network](https://twitter.com/EsriPartnerNet)
-* [Esri WAsia|ME|Africa](https://twitter.com/EsriWAMEA)
-* [Esri Water](https://twitter.com/EsriWater)
-
 ##### Product related
 
 * [AppStudioForArcGIS at Esri](https://www.youtube.com/channel/UCaDpuQi3gcd5YD9KW-_jsQg)
@@ -210,6 +155,82 @@ Esri employees:
 * [Rene Rubalcava](https://www.youtube.com/channel/UCo7tc3KZgH4GMUcqcSFBLOQ)
 * [Hussein Nasser](https://www.youtube.com/user/GISIGeometry/playlists)
 * [Andrew Turner](https://www.youtube.com/user/ajt3h)
+
+#### Twitter accounts
+
+##### Corporative accounts
+
+|Account|Description|
+|---|---|
+|[Esri](https://twitter.com/esri)|Esri users create maps that run the world. ArcGIS an open platform for: GIS, 3D, Imagery, Apps, Iot, Cities, BigData, Geodesign, TheScienceofWhere
+|[Esri Blog](https://twitter.com/EsriBlog)| The Esri Blog relates innovation in the real world to the power of GIS.
+|[Esri Globe](https://twitter.com/EsriGlobe)| News on GIS and smart mapping from Esri ([subscribe](http://www.esri.com/esri-news/esri-globe-subscribe) - [esri.com/esri-news](esri.com/esri-news))
+|[Esri Support](https://twitter.com/EsriSuptInfo)|Esri Support Services provides world-class support to help our customers. Via Twitter, we'll share info about Esri's online support resources and more! - [support.esri.com](https://support.esri.com)|
+|[Esri Careers](https://twitter.com/EsriCareers)|Connect with us for insight into the #EsriExperience! - [esri.com/careers](https://www.esri.com/careers/)
+
+##### Product
+
+* [ArcGIS Earth](https://twitter.com/ArcGISEarth)
+* [ArcGIS Javascript](https://twitter.com/ArcGISJSAPI)
+* [ArcGIS Apps](https://twitter.com/ArcGISApps)
+* [AppStudio for ArcGIS](https://twitter.com/AppStudioArcGIS)
+* [ArcGIS Enterprise](https://twitter.com/ArcGISXprise)
+* [ArcGIS Living Atlas of the World](https://twitter.com/LivingAtlas)
+* [ArcGIS Online](https://twitter.com/ArcGISOnline)
+* [ArcGIS Hub](https://twitter.com/ArcGISHub)
+* [ArcGIS Pro](https://twitter.com/ArcGISPro)
+* [ArcGIS Runtime](https://twitter.com/ArcGISRuntime)
+* [ArcGIS Explorer](https://twitter.com/ArcGISExplorer)
+* [Esri Storymaps](https://twitter.com/EsriStoryMaps)
+* [ArcGIS Ideas](https://twitter.com/ArcGISIdeas)
+
+##### Events
+
+* [Esri DevSummit](https://twitter.com/EsriDevSummit)
+* [Esri User Conference](https://twitter.com/EsriUC)
+* [Esri Petroleum](https://twitter.com/EsriPetroleum)
+
+##### Teams
+
+* [Esri GeoDev](https://twitter.com/EsriGeoDev)
+* [Esri Interactive](https://twitter.com/EsriInteractive)
+* [ArcGISTeamLocalGov](https://twitter.com/ArcGISLocalGov)
+* [ArcGIS for State Gov](https://twitter.com/ArcGISStateGov)
+* [Esri GIS Education](https://twitter.com/GISEd)
+* [Esri Business Team](https://twitter.com/EsriBizTeam)
+
+##### Programs
+
+* [Esri Startup Program](https://twitter.com/EsriStartups)
+* [Esri Partner Network](https://twitter.com/EsriPartnerNet)
+
+##### Training & learning:
+
+* [Esri Training](https://twitter.com/EsriTraining)
+* [Learn ArcGIS](https://twitter.com/LearnArcGIS)
+* [Esri Library](https://twitter.com/EsriLibrary)
+* [Esri Press](https://twitter.com/EsriPress)
+* [Esri MOOCs](https://twitter.com/esrimooc)
+* [What it GIS?](https://twitter.com/GISdotcom)
+
+##### Topics
+
+* [Esri Environment](https://twitter.com/EsriEnvironment)
+* [Esri Public Safety](https://twitter.com/GISPublicSafety)
+* [Esri Community Development](https://twitter.com/Esri_Com_Dev)
+* [Esri Public Works](https://twitter.com/EsriPublicWorks)
+* [Esri Forestry Group](https://twitter.com/EsriForestry)
+* [Esri Water](https://twitter.com/EsriWater)
+* [GIS and Science](https://twitter.com/GISandScience)
+
+##### Other accounts
+
+* [GeoNet](https://twitter.com/EsriGeoNet)
+* [Esri DC](https://twitter.com/EsriDC)
+* [Esri Geospatial](https://twitter.com/Esri_Geospatial)
+* [Esri Mapping Center](https://twitter.com/mappingcenter)
+* [Esri Young Pros](https://twitter.com/EsriYPN)
+* [Esri WAsia|ME|Africa](https://twitter.com/EsriWAMEA)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

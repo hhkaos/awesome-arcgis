@@ -24,7 +24,7 @@
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Locatized resources](#locatized-resources)
+  - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Contributions](#contributions)
 
@@ -48,12 +48,18 @@
 Replace `TOPIC` in the next paragram and remove the \`\`\`.
 
 ```
-On [*video.esri.com*](http://video.esri.com/search/TOPIC) you will find many technical talks and slides from [*proceedings.esri.com*](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20TOPIC).
+On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC) you will find many technical talks..
 ```
 
 And
 
 |Event|Title|Length|
+|---|---|---|
+|Event name|Video title| [X]h [Y]min [z]secs|
+
+### Slides
+
+More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+TOPIC) or check on [geonet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
 ## Get the tool
 
@@ -63,7 +69,7 @@ And
 
 ### Code
 
-* Compilation of sample code on: Github repositories, [codesharing.arcgis.com](http://codesharing.arcgis.com/) or any other known source.
+* Compilation of sample code on: anything on [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts) (or using [ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=TOPIC+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)), [codesharing.arcgis.com](http://codesharing.arcgis.com/), or any other known source.
 
 ### Tools
 
@@ -75,7 +81,7 @@ And
 
 ## Community
 
-Where can a developer find the community talking about this technology? (GeoNet?, Stackoverflow?, Stackexchange?, Github?, ....)
+Where can a developer find the community talking about this technology? (GeoNet Group/Place?, [Stackoverflow](http://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
 
 ### People you should know
 
@@ -84,7 +90,7 @@ Where can a developer find the community talking about this technology? (GeoNet?
 
 Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
 
-![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
@@ -92,18 +98,22 @@ technology so we recommend you to follow them.
 
 ## News
 
-* Links to articles to specific articles but also to any source of news. E.g: [blogs.esri.com](blogs.esri.com/esri/arcgis/tag/TOPIC/), [esri.com/search?filter=Blogs&q=TOPIC&search=Search](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search), [Blog Posts insite Places at GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-api-for-javascript/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D), etc.
+> Links to articles to specific articles but also to any source of news. E
 
+* ["TOPIC" at blogs.esri.com](blogs.esri.com/esri/arcgis/tag/TOPIC/), [esri.com/search?filter=Blogs&q=TOPIC&search=Search](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
+* [Blog Posts about "BIM" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+* Does this topic/product have a Twitter account?
+* etc
 
 ## Additional resources
 
-Replace `TOPIC` in the next paragram and remove the \`\`\`.
+Replace `TOPIC` in the next paragraph and remove the \`\`\`.
 
 ```
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["TOPIC"](https://esri-es.github.io/arcgis-search/?search="TOPIC"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 ```
 
-### Locatized resources
+### Localized resources
 
 *In case a distributor has made additional documentation, docs, etc* (add a ```####Language``` section)
 

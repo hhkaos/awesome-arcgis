@@ -9,20 +9,14 @@ Building information modeling (BIM) is a process involving the generation and ma
 
 - [Introduction](#introduction)
 - [Training](#training)
-  - [Documentation](#documentation)
-  - [Tutorials](#tutorials)
   - [Videos](#videos)
-- [Get the tool](#get-the-tool)
-- [Coding](#coding)
-  - [Code](#code)
-  - [Tools](#tools)
-- [Awesome projects](#awesome-projects)
+  - [Slides](#slides)
 - [Community](#community)
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
-  - [Other related list of resources](#other-related-list-of-resources)
+    - [Spanish](#spanish)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

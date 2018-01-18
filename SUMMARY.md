@@ -107,6 +107,8 @@
 - [Esri](esri/README.md)
   - [Brand](esri/brand/README.md)
   - [Community](esri/community/README.md)
+  - Disciplines
+    - [Bim](esri/disciplines/bim/README.md)
   - [Events](esri/events/README.md)
   - [Open Vision](esri/open-vision/README.md)
     - [Open Specifications](esri/open-vision/open-specifications/README.md)

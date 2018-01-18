@@ -13,6 +13,7 @@ It is an extendable AppBuilder that help you to build cross-platform apps, web a
   - [Templates and samples](#templates-and-samples)
 - [Training](#training)
 - [People you should know](#people-you-should-know)
+- [News](#news)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

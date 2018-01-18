@@ -58,12 +58,10 @@ International program managers
 
 |Avatar|Linkedin|Twitter|Country|
 |---|---|---|---|
-|![Kurt](./img/kurt-daradics.jpg)|[Kurt Daradics](https://www.linkedin.com/in/kurtdaradics/)|[Twitter](https://twitter.com/KurtyD)|USA
 |![Lars](../community/img/lars_schmitz.jpg)|[Lars Schmitz](https://www.linkedin.com/in/larsschmitz/)|[@pilukinum](https://twitter.com/pilukinum)|Germany
 |![Raul](../community/img/raul_jimenez.jpg)|[Raul Jimenez](https://es.linkedin.com/in/jimenezortegaraul)|[@hhkaos](https://www.twitter.com/hhkaos)| Spain
 |![Sean](../community/img/sean_mcgee.jpg)|[Sean McGee](https://www.linkedin.com/in/hertswestuk/)|[@hertswestuk](https://twitter.com/hertswestuk)|UK
 |![Marine](./img/marine-sage.jpg)|[Marine Sage](https://www.linkedin.com/in/marinesage/)|[@marinesage](https://twitter.com/marinesage)|France
-|![Shahi](./img/shahi-raj.jpg)|[Shahi Raj](https://www.linkedin.com/in/shahi-raj-35629b1/)|n.a.|Canada
 |![Rui](./img/rui-santos.jpg)|[Rui Santos](https://www.linkedin.com/in/ruimaiasantos/)|[@esrui](https://twitter.com/esrui)|Portugal
 |![Laura](./img/laura-berman.jpg)|[Laura Berman](https://www.linkedin.com/in/laura-berman-13330312/)|n.a.|Australia
 |![Lucian](./img/lucian-zavate.jpg)|[Lucian Zavate](https://www.linkedin.com/in/lucian-zavate-05891834/)|n.a.|Rumania

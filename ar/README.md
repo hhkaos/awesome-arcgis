@@ -18,6 +18,7 @@
 
 
 ## HoloLens
+
 * [Esri HoloMap](https://www.youtube.com/watch?v=hE9GXpZTwAs)
 * [ArcGIS Runtime and the Microsoft HoloLens](http://www.esri.com/videos/watch?videoid=5172&channelid=LegacyVideo&isLegacy=true&title=arcgis-runtime-and-the-microsoft-hololens)
 
@@ -37,9 +38,15 @@ Sample demo:
 * [ARthursSeat](https://github.com/alan-edi/ARthursSeat), [more about the project](https://devpost.com/software/arthur-s-seat)
 
 ## Google Glass
+
 * [Google Glass and Esri - Yes I Can Haz the Maps! - 2014](http://www.esri.com/videos/watch?videoid=3404&isLegacy=true&title=google-glass-and-esri---yes-i-can-haz-the-maps!)
 
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["augmented reality" OR "mixed reality"](https://esri-es.github.io/arcgis-search/?search="augmented%20reality"%20OR%20"mixed%20reality"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
 ## Contributions
+
 Please **feel free to help us** to improve this list:
 
 * [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)

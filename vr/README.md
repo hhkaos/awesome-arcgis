@@ -76,6 +76,10 @@ awesome resources about:
 * [VR resources and projects](https://github.com/melbvr/awesome-VR)
 * [A-Frame, a web framework for building virtual reality (VR) experiences](https://github.com/aframevr/awesome-aframe)
 
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["virtual reality"](https://esri-es.github.io/arcgis-search/?search="virtual%20reality"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
 ## Contributions
 Please **feel free to help us** to improve this list:
 

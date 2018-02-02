@@ -30,7 +30,11 @@
 * [AuGeo Wiki](https://github.com/Esri/AuGeo/wiki)
 
 ## Mobile devices
-Runtime SDKs
+
+You can use the any of the Runtime SDKs to build your Augmented Really Apps.
+
+Sample demo:
+* [ARthursSeat](https://github.com/alan-edi/ARthursSeat), [more about the project](https://devpost.com/software/arthur-s-seat)
 
 ## Google Glass
 * [Google Glass and Esri - Yes I Can Haz the Maps! - 2014](http://www.esri.com/videos/watch?videoid=3404&isLegacy=true&title=google-glass-and-esri---yes-i-can-haz-the-maps!)

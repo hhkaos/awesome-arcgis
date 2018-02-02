@@ -58,7 +58,7 @@ Angular 2 (and above):
  * [Esri-playground: Angular 2 & Esri 4](https://github.com/jwasilgeo/angular2-esri-playground)
  * [Example app using the ArcGIS API for JavaScript v3 in an Angular2 app](https://github.com/tomwayson/angular2-esri-example)
  * [This is an example mapping application using ArcGIS API for JavaScript v4 ](https://github.com/kgs916/ng2cli-esri4)
- * [Another sample application using the ArcGIS API 4 for JavaScript with Angular 2](ng2-jsapi-sample)
+ * [Another sample application using the ArcGIS API 4 for JavaScript with Angular 2](https://github.com/odoe/ng2-jsapi-sample)
 
 ## Community
 * [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)

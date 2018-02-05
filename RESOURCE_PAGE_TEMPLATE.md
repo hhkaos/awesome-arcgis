@@ -105,8 +105,11 @@ technology so we recommend you to follow them.
 
 > Links to articles to specific articles but also to any source of news.
 
-* ["TOPIC" at blogs.esri.com](blogs.esri.com/esri/arcgis/tag/TOPIC/), [esri.com/search?filter=Blogs&q=TOPIC&search=Search](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
-* [Blog Posts about "BIM" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+More news:
+
+* ["TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
+* ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
+* [Blog Posts about "TOPIC" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Does this topic/product have a Twitter account?
 * etc
 

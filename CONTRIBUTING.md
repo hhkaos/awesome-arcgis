@@ -53,11 +53,11 @@ You can also report a broken link or suggest a new resource [opening a new issue
 
 > **Note**: This option requires you to have a Github account
 
-**Edit a resource page from your browser**: [learn how](https://help.github.com/articles/editing-files-in-your-repository/). 
+**Edit a resource page from your browser**: [learn how](https://help.github.com/articles/editing-files-in-your-repository/).
 
 Or you can also watch this video to learn **how to create a new page** using the Github Online Editor:
 
-[![Animation showing how to use the Github Online Editor](./assets/Using- Github Online Editor.gif)](https://www.youtube.com/watch?v=OndbEzpZ124&t=2s&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX&index=1)
+[![Animation showing how to use the Github Online Editor](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Using-%20Github%20Online%20Editor.gif?raw=true)](https://www.youtube.com/watch?v=OndbEzpZ124&t=2s&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX&index=1)
 
 
 ### Using: Your favourite IDE locally

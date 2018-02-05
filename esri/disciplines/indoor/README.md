@@ -92,6 +92,10 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [BIM & Indoor, servicios i3s y realidad virtual, 3D en las nuevas tecnologías - CE17](https://www.youtube.com/watch?v=mV77R2I_M-0)
 * [Otros videos](https://www.youtube.com/user/esriSpainTV/search?query=indoor)
 
+### Other related list of resources
+
+You should also check the [BIM resource page](../bim/README.md).
+
 ## Contributions
 
 This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).

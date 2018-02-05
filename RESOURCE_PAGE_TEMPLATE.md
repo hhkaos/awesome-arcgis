@@ -95,7 +95,7 @@ Where can a developer find the community talking about this technology? (GeoNet 
 
 Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
 
-[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=TOPIC)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this

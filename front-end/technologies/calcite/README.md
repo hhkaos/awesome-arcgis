@@ -46,9 +46,5 @@ properties
 * If you need help with a specific plugin/project try at the repository issues
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

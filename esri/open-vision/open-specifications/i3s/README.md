@@ -12,9 +12,5 @@
 [i3s-spec](https://github.com/Esri/i3s-spec): This repository hosts the specification for the ArcGIS Scene Service, including the Indexed 3D Scene delivery format and the Scene Layer Package definition (both encoded using JSON).
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

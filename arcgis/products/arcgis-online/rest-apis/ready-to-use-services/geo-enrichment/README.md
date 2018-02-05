@@ -47,9 +47,5 @@ Please read [page 5, section 4.0 - DATA](http://www.esri.com/~/media/Files/Pdfs/
 * [Codelab: ArcGIS GeoEnrichment API - ArcGIS DevLabs](https://docs.google.com/document/d/1HIH8zm4Q1alsEsLEySSI0GuU7Zw5LvkQL7TQ2KbGxPE/edit?usp=sharing)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

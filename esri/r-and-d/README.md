@@ -75,9 +75,5 @@ green-infrastructure.esri.com/LandCover/index.html
 |![Richie Carmichael](https://avatars1.githubusercontent.com/u/2531121?v=3&s=50)|Richie Carmichael|[Github](https://github.com/richiecarmichael)|[Twitter](https://twitter.com/KiwiRichie?s=03)|n.a.|n.a.|n.a.
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

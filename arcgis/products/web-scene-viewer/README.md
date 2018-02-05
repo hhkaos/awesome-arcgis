@@ -55,9 +55,5 @@ The Web Map Viewer is available in ArcGIS Online and in Portal for ArcGIS as you
 After you finish your Web scene you can easly create apps combining it with [configurable apps](../configurable-apps/README.md), the hosted version on ArcGIS Online or Portal of [Web AppBuilder](../web-appbuilder/README.md) and also with [AppStudio basic](../appstudio/README.md).
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

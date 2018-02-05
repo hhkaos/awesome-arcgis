@@ -40,9 +40,5 @@ Esri has released 350+ open-source projects. We use and contribute to 200+ more.
 Find Esri users and experts among the growing open community of people who are sharing experiences and ideas. (+10,000 developers, +200,000 questions and much more)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

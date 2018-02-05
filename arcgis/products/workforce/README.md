@@ -57,9 +57,5 @@ Read some [user stories](http://www.esri.com/products/workforce)
 * [Workforce](https://blogs.esri.com/esri/arcgis/tag/workforce-for-arcgis/)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource ([find more resources](https://esri-es.github.io/arcgis-search/?search=workforce&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)).
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

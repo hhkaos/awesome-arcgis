@@ -246,9 +246,5 @@ technology so we recommend you to follow them.
 * [Taller: Aplicaciones configurables ArcGIS](https://www.youtube.com/watch?v=TtvxTudvBX0&index=13&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

@@ -90,9 +90,5 @@ You can find all the [developer advocates at github.io/arcgis-experts](https://e
 <!--|![Jose](./img/jose_medina.png)|[Jose Medina](http://linkedin.com/in/josemedinab)|Argentina|[@josemanuel_mb](https://twitter.com/josemanuel_mb)|n.a.-->
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

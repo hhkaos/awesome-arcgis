@@ -79,9 +79,5 @@ technology so we recommend you to follow them.
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["arcgis hub"](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=%22arcgis+hub%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

@@ -86,9 +86,5 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [BIM & Indoor, servicios i3s y realidad virtual, 3D en las nuevas tecnologías](https://www.youtube.com/watch?v=mV77R2I_M-0) (2017)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

@@ -49,9 +49,5 @@ And of course you can search the [most viewed Web AppBuilder videos on Youtube](
 * Web AppBuilder for ArcGIS - [Blog posts at GeoNet](https://community.esri.com/community/gis/web-gis/web-appbuilder/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

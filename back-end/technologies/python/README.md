@@ -76,9 +76,5 @@ Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.g
 * [Python at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/subject-python/)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

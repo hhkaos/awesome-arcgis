@@ -17,9 +17,5 @@ https://developers.arcgis.com/javascript/3/jshelp/operations-dashboard-extensibi
 Using the ArcGIS API for JavaScript, you can develop extensions for Operations Dashboard.
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

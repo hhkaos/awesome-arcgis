@@ -124,9 +124,5 @@ technology so we recommend you to follow them.
 * [ArcGIS Online Resources](https://arcgisruntime.maps.arcgis.com/home/search.html?q=owner%3A%20ArcGISRuntimeSDK&t=content&start=1&sortOrder=desc&sortField=relevance)
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

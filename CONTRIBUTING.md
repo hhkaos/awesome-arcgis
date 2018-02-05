@@ -13,7 +13,7 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 - [How to contribute](#how-to-contribute)
   - [Commenting on Disqus (< 1 min)](#commenting-on-disqus--1-min)
   - [Opening an issue (< 1 min)](#opening-an-issue--1-min)
-  - [Using: Github Online Editor](#using-github-online-editor)
+  - [Using: Github Online Editor (< 2 min)](#using-github-online-editor--2-min)
   - [Using: Your favourite IDE locally](#using-your-favourite-ide-locally)
 - [Starting a new resources page](#starting-a-new-resources-page)
   - [Sample resource pages](#sample-resource-pages)
@@ -39,7 +39,7 @@ We are looking contributors willing to help:
 
 If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made with [Gitbook](https://github.com/GitbookIO/gitbook) and you can report a broken link or suggest a new resource **using Disqus**. You can do it like so:
 
-[![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)](https://www.youtube.com/watch?v=1FBYMX_abhk)
+[![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)](https://www.youtube.com/watch?v=1FBYMX_abhk&index=3&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX)
 
 ### Opening an issue (< 1 min)
 
@@ -47,13 +47,18 @@ You can also report a broken link or suggest a new resource [opening a new issue
 
 > **Note**: This option requires you to have a Github account
 
-[![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)](https://www.youtube.com/watch?v=HGyQn3hhfIA)
+[![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)](https://www.youtube.com/watch?v=HGyQn3hhfIA&index=2&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX)
 
-### Using: Github Online Editor
+### Using: Github Online Editor (< 2 min)
 
 > **Note**: This option requires you to have a Github account
 
-Creating or edit a Github page from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)) (*Github account required*)
+**Edit a resource page from your browser**: [learn how](https://help.github.com/articles/editing-files-in-your-repository/). 
+
+Or you can also watch this video to learn **how to create a new page** using the Github Online Editor:
+
+[![Animation showing how to use the Github Online Editor](./assets/Using- Github Online Editor.gif)](https://www.youtube.com/watch?v=OndbEzpZ124&t=2s&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX&index=1)
+
 
 ### Using: Your favourite IDE locally
 

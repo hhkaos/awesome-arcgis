@@ -9,13 +9,13 @@ Anyone is welcome to contribute to this repository, not only the [ArcGIS Experts
 **Table of Contents**
 
 - [How to contribute](#how-to-contribute)
-  - [Adding a comment on Disqus (< 1 min)](#adding-a-comment-on-disqus--1-min)
-  - [Option b) Opening an issue (< 1 min)](#option-b-opening-an-issue--1-min)
-  - [Option c) Editing from your browser](#option-c-editing-from-your-browser)
-  - [Option d) Contributing from local](#option-d-contributing-from-local)
+  - [Commenting on Disqus (< 1 min)](#commenting-on-disqus--1-min)
+  - [Opening an issue (< 1 min)](#opening-an-issue--1-min)
+  - [Editing from your browser](#editing-from-your-browser)
+  - [Contributing from local](#contributing-from-local)
 - [Resource page structure](#resource-page-structure)
 - [Develop and build locally](#develop-and-build-locally)
-- [Programatically check existing links](#programatically-check-existing-links)
+- [Check existing links programatically](#check-existing-links-programatically)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -31,13 +31,13 @@ We are looking contributors willing to help:
 
 ### Commenting on Disqus (< 1 min)
 
-If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made with [Gitbook](https://github.com/GitbookIO/gitbook) and you can report a broken link or suggest a new resource, you can do it like so:
+If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made with [Gitbook](https://github.com/GitbookIO/gitbook) and you can report a broken link or suggest a new resource **using Disqus**. You can do it like so:
 
 ![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)
 
 ### Opening an issue (< 1 min)
 
-You can also report a broken link or suggest a new resource [opening a new issue](https://github.com/hhkaos/awesome-arcgis/issues/new).
+You can also report a broken link or suggest a new resource [opening a new issue](https://github.com/hhkaos/awesome-arcgis/issues/new) directly on Github.
 
 > **Note**: This option requires you to have a Github account
 

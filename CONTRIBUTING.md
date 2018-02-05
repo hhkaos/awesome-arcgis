@@ -13,11 +13,9 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 - [How to contribute](#how-to-contribute)
   - [Commenting on Disqus (< 1 min)](#commenting-on-disqus--1-min)
   - [Opening an issue (< 1 min)](#opening-an-issue--1-min)
-  - [Using: Github Online Editor](#using-github-online-editor)
-  - [Using: Your favourite IDE locally](#using-your-favourite-ide-locally)
-- [Starting a new resources page](#starting-a-new-resources-page)
-  - [Resource page structure](#resource-page-structure)
-  - [Sample resource pages](#sample-resource-pages)
+  - [Editing from your browser](#editing-from-your-browser)
+  - [Contributing from local](#contributing-from-local)
+- [Resource page structure](#resource-page-structure)
 - [Develop and build locally](#develop-and-build-locally)
 - [Check existing links programatically](#check-existing-links-programatically)
 - [ArcGIS experts](#arcgis-experts)
@@ -40,7 +38,7 @@ We are looking contributors willing to help:
 
 If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made with [Gitbook](https://github.com/GitbookIO/gitbook) and you can report a broken link or suggest a new resource **using Disqus**. You can do it like so:
 
-![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)
+[![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)](https://www.youtube.com/watch?v=1FBYMX_abhk)
 
 ### Opening an issue (< 1 min)
 
@@ -48,7 +46,7 @@ You can also report a broken link or suggest a new resource [opening a new issue
 
 > **Note**: This option requires you to have a Github account
 
-![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)
+[![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)](https://www.youtube.com/watch?v=HGyQn3hhfIA)
 
 ### Using: Github Online Editor
 
@@ -66,23 +64,25 @@ If you are a developer you can also [fork this repo](https://help.github.com/art
 
 ## Starting a new resources page
 
+When you are considering to start a new resources page first you need to do is search on the [project structure](https://github.com/hhkaos/awesome-arcgis/blob/master/SUMMARY.md) and find or create the section where it should live.
 
+Then you can start drafting this page using the "[resource page template](https://github.com/hhkaos/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md)" we have build (if it makes sense), or directly starting from scratch if you will.
 
-### Resource page structure
-
-We have build this "[resource page template](https://github.com/hhkaos/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md)"  to help anyone to start a new resource page or get ideas on which kind of resources could be included.
+> **Note**: remember you can [ArcGIS Search Engine](https://esri-es.github.io/arcgis-search/) to help you find great resources or try to reach other [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/) to help you with it.
 
 ### Sample resource pages
 
-This pages are resources list that shows what we are trying to collect on each page is the:
+These are sample pages you can check to better understand what we are trying to achieve on each resource page:
 
-* **Vector tiles**:<br> [/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/](https://hhkaos.github.io/awesome-arcgis/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/)
+* **Vector tiles resource page**:<br> [/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/README.md](https://hhkaos.github.io/awesome-arcgis/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/)
 
-* **Web AppBuilder Developer Edition**:<br> [/arcgis/products/web-appbuilder/developer-edition/README.md](https://github.com/hhkaos/awesome-arcgis/blob/master/arcgis/products/web-appbuilder/developer-edition/README.md).
+* **Web AppBuilder Developer Edition resources page**:<br> [/arcgis/products/web-appbuilder/developer-edition/README.md](https://github.com/hhkaos/awesome-arcgis/blob/master/arcgis/products/web-appbuilder/developer-edition/README.md)
 
-* **Java Developers**:<br> [desktop/technologies/java/](https://github.com/hhkaos/awesome-arcgis/tree/master/desktop/technologies/java)
+* **Java Developers resources page**:<br> [/desktop/technologies/java/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/desktop/technologies/java)
 
-* **Leaflet Developers**:<br> [/front-end/technologies/leaflet/](https://github.com/hhkaos/awesome-arcgis/tree/master/front-end/technologies/leaflet)
+* **BIM resources page**:<br> [/esri/disciplines/bim/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/esri/disciplines/bim)
+
+* **Leaflet Developers resources page**:<br> [/front-end/technologies/leaflet/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/front-end/technologies/leaflet)
 
 ## Develop and build locally
 

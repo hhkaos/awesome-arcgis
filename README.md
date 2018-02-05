@@ -93,4 +93,4 @@ There are some extra resources in different languages, here you will find:
 
 ## Contributions
 
-Please review the [guidelines for contributing](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md) to this repository.
+This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

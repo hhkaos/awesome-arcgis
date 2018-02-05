@@ -81,7 +81,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Community
 
-Where can a developer find the community talking about this technology? (GeoNet Group/Place?, [Stackoverflow](http://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
+Where can a developer find the community talking about this technology? (GeoNet Group/Place?, [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
 
 ### People you should know
 

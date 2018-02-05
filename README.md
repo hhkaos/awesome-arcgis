@@ -11,9 +11,9 @@ Awesome resource list for ArcGIS Developers ([why we started this project?](./ab
 - [Quick overview](#quick-overview)
 - [Getting started](#getting-started)
 - [About ArcGIS](#about-arcgis)
-- [Contributions](#contributions)
 - [ArcGIS community](#arcgis-community)
 - [Localized resources lists](#localized-resources-lists)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

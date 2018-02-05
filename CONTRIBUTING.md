@@ -1,19 +1,51 @@
 # Contributions
 
-Please feel free to contribute to this list. The technology change fast and
-some resources may be out to date.
+Anyone is welcome to contribute to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution. 
 
-You can use the "[resource page template](RESOURCE_PAGE_TEMPLATE.md)" to start a new resource page or to get ideas on which resources could be included.
+> **Disclaimer**: The technology change fast and some resources may be out to date or broken.
+
+## How to contribute
+
+We are looking contributors willing to help:
+
+* **Enhancing existing resource pages**:
+  * Fixing broken links
+  * Suggesting missing resources
+* **Adding new resource pages**:
+  * You can help us just adding resources directly
+
+### Adding a comment on Disqus (< 1 min)
+
+If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made with [Gitbook](https://github.com/GitbookIO/gitbook) and you can report a broken link or suggest a new resource, you can do it like so:
+
+![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)
+
+### Option b) Opening an issue (< 1 min)
+
+You can also report a broken link or suggest a new resource [opening a new issue](https://github.com/hhkaos/awesome-arcgis/issues/new).
+
+> **Note**: This option requires you to have a Github account
+
+![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)
+
+### Option c) Editing from your browser
+
+> **Note**: This option requires you to have a Github account
+
+Creating or edit a Github page from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)) (*Github account required*)
+
+### Option d) Contributing from local
+
+> **Note**: This option requires you to have a Github account
+
+If you are a developer you can also [fork this repo](https://help.github.com/articles/fork-a-repo/), do a [pull request](https://help.github.com/articles/about-pull-requests/) and optionally [create a new deployment](#develop-and-build-locally).
+
+## Resource page structure
+
+We have build this "[resource page template](https://github.com/hhkaos/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md)"  to help anyone to start a new resource page or get ideas on which kind of resources could be included.
 
 A sample resources list that shows what we are trying to collect on each page is the
 [Web AppBuilder resource page](arcgis/products/web-appbuilder/README.md).
-
-## Ways to contribute
-
-* If you find a broken link feel free to [open an issue](issue) or add a comment on Disqus
-* If you find some missing information do the same thing
-* You can help us just adding resources directly editing from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)).
-* If you are a developer you can also fork this repo, do a pull request and optionally create a new deployment.
 
 ## Develop and build locally
 
@@ -35,3 +67,7 @@ And whenever you are ready to create the new deployment run:
 `$ npm run build`
 
 > Be patient, this process can take a few minutes
+
+## Programatically check existing links
+
+

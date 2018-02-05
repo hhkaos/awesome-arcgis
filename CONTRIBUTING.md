@@ -1,6 +1,8 @@
 # Contributions
 
-Anyone is welcome to contribute to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution.
+You may know [why we started this project](https://github.com/hhkaos/awesome-arcgis/tree/master/about) or you might not, but whatever it is, we are very happy you are thinking on contributing.
+
+**Anyone is welcome to contribute** to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution.
 
 > **Disclaimer**: The technology change fast and some resources may be out to date or broken.
 
@@ -16,6 +18,7 @@ Anyone is welcome to contribute to this repository, not only the [ArcGIS Experts
 - [Resource page structure](#resource-page-structure)
 - [Develop and build locally](#develop-and-build-locally)
 - [Check existing links programatically](#check-existing-links-programatically)
+- [ArcGIS experts](#arcgis-experts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -23,11 +26,13 @@ Anyone is welcome to contribute to this repository, not only the [ArcGIS Experts
 
 We are looking contributors willing to help:
 
+* **Adding new resource pages**:
+  * You can help us just adding resources directly
 * **Enhancing existing resource pages**:
   * Fixing broken links
   * Suggesting missing resources
-* **Adding new resource pages**:
-  * You can help us just adding resources directly
+
+> You can use the [ArcGIS Search Engine](https://esri-es.github.io/arcgis-search/) to help us find missing resources.
 
 ### Commenting on Disqus (< 1 min)
 
@@ -94,3 +99,7 @@ This will display a link of messages but also it will create a bunch of files (c
 You can place them in the ignored folder `awesomebot-results`.
 
 `$ mkdir awesomebot-results && mv ab-* awesomebot-results`
+
+## ArcGIS experts
+
+Everyone can contribute to this project, but we are also looking for [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/) willing to help us curate and maintain each resource page.

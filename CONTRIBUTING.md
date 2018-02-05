@@ -48,13 +48,13 @@ You can also report a broken link or suggest a new resource [opening a new issue
 
 ![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)
 
-### Using Github Online Editor
+### Using: Github Online Editor
 
 > **Note**: This option requires you to have a Github account
 
 Creating or edit a Github page from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)) (*Github account required*)
 
-### Using to IDE locally
+### Using: Your favourite IDE locally
 
 > **Note**: This option requires you to have a Github account
 

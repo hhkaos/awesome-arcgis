@@ -109,6 +109,7 @@
   - [Community](esri/community/README.md)
   - Disciplines
     - [Bim](esri/disciplines/bim/README.md)
+    - [Indoor](esri/disciplines/indoor/README.md)
   - [Events](esri/events/README.md)
   - [Open Vision](esri/open-vision/README.md)
     - [Open Specifications](esri/open-vision/open-specifications/README.md)

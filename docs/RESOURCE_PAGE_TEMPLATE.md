@@ -4,6 +4,7 @@
 > **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
 
 # [TOPIC]
+
 *Very short description about it*
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -31,13 +32,14 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 *Link to the official page and more extended description*
 
 ## Training
 
 ### Documentation
 
-*Compilation of official documentation, [training courses](https://www.esri.com/training), ...*
+*Compilation of official documentation, [training courses](https://www.esri.com/training/catalog/search/), ...*
 
 ### Tutorials
 
@@ -48,7 +50,8 @@
 Replace `TOPIC` in the next paragram and remove the \`\`\`.
 
 ```
-On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC) you will find many technical talks..
+On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks.
+
 ```
 
 And
@@ -57,13 +60,15 @@ And
 |---|---|---|
 |Event name|Video title| [X]h [Y]min [z]secs|
 
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw), [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
+
 ### Slides
 
 More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+TOPIC) or check on [geonet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
 ## Get the tool
 
-*If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, if it is accesible though the Startup Program (or any other program), etc*
+*If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, if it is accessible though the Startup Program (or any other program), etc*
 
 ## Coding
 
@@ -77,7 +82,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Awesome projects
 
-*If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example), business cases, etc*
+*If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
 
 ## Community
 
@@ -90,7 +95,7 @@ Where can a developer find the community talking about this technology? (GeoNet 
 
 Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
 
-[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=TOPIC)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
@@ -98,10 +103,13 @@ technology so we recommend you to follow them.
 
 ## News
 
-> Links to articles to specific articles but also to any source of news. E
+> Links to articles to specific articles but also to any source of news.
 
-* ["TOPIC" at blogs.esri.com](blogs.esri.com/esri/arcgis/tag/TOPIC/), [esri.com/search?filter=Blogs&q=TOPIC&search=Search](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
-* [Blog Posts about "BIM" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+More news:
+
+* ["TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
+* ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
+* [Blog Posts about "TOPIC" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Does this topic/product have a Twitter account?
 * etc
 
@@ -115,7 +123,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Localized resources
 
-*In case a distributor has made additional documentation, docs, etc* (add a ```####Language``` section)
+*In case a distributor has made additional documentation, docs, etc* (add a ```#### Language``` section)
 
 ### Other related list of resources
 

@@ -48,17 +48,19 @@ You can also report a broken link or suggest a new resource [opening a new issue
 
 ![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)
 
-### Editing from your browser
+### Using: Github Online Editor
 
 > **Note**: This option requires you to have a Github account
 
 Creating or edit a Github page from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)) (*Github account required*)
 
-### Contributing from local
+### Using: Your favourite IDE locally
 
 > **Note**: This option requires you to have a Github account
 
-If you are a developer you can also [fork this repo](https://help.github.com/articles/fork-a-repo/), do a [pull request](https://help.github.com/articles/about-pull-requests/) and optionally [create a new deployment](#develop-and-build-locally).
+If you are a developer you can also [fork this repo](https://help.github.com/articles/fork-a-repo/), make your contributions and do a [pull request](https://help.github.com/articles/about-pull-requests/)
+
+> Optionally you can [test it and create a new build](#develop-and-build-locally).
 
 ## Resource page structure
 

@@ -46,9 +46,9 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| [PDF](http://proceedings.esri.com/library/userconf/devsummit15/papers/dev_int_170.pdf)|58min 35secs
 
 ## Community
-* [GeoNet Group: ArcGIS API for JavaScript](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript)
-* [GeoNet Group: Bootstrap](https://geonet.esri.com/groups/bootstrap)
-* [Stackoverflow: [jquery] and [arcgis]](http://stackoverflow.com/search?q=%5Bjquery%5D+and+%5Barcgis%5D)
+* [GeoNet Group: ArcGIS API for JavaScript](https://community.esri.com/community/developers/web-developers/arcgis-api-for-javascript)
+* [GeoNet Group: Bootstrap](https://community.esri.com/groups/bootstrap)
+* [Stackoverflow: [jquery] and [arcgis]](https://stackoverflow.com/search?q=%5Bjquery%5D+and+%5Barcgis%5D)
 * [GIS StackExchange: jquery [arcgis-javascript-api] ](http://gis.stackexchange.com/search?tab=newest&q=jquery%20%5barcgis-javascript-api%5d)
 * Repository issues:
   * [bootstrap-map-js](https://github.com/Esri/bootstrap-map-js/issues)

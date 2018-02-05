@@ -52,7 +52,7 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 |[UC](http://www.esri.com/about/events/uc) 2016|[GeoAnalytics Server](https://www.youtube.com/watch?v=tydfltQcy8A)|5:43
 
 ## Community
-* [Real-Time & Big Data GIS on GeoNet](https://geonet.esri.com/groups/real-time-gis)
+* [Real-Time & Big Data GIS on GeoNet](https://community.esri.com/groups/real-time-gis)
 * [GeoAnalytics on stackexchange](https://gis.stackexchange.com/search?q=geoanalytics)
 
 ## People you should know

@@ -81,7 +81,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Community
 
-Where can a developer find the community talking about this technology? (GeoNet Group/Place?, [Stackoverflow](http://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
+Where can a developer find the community talking about this technology? (GeoNet Group/Place?, [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
 
 ### People you should know
 
@@ -122,9 +122,5 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 *Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists)*
 
 ## Contributions
-Please **feel free to help us** to improve this list:
 
-* [Doing a pull request / opening an issue](https://github.com/hhkaos/awesome-arcgis#contributions)
-* Or writing a comment:
-  * If you find a broken link
-  * Or if we are missing a nice resource.
+Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).

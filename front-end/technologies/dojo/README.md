@@ -26,7 +26,7 @@ At this point in time there are two generations of the ArcGIS API been maintaine
 
 If you are familiar with the ArcGIS API you can check this
 [functionality matrix](https://developers.arcgis.com/javascript/latest/guide/choose-version/index.html),
-if you are not and need some hep to decide, then go to the [JavaScript API group at GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript).
+if you are not and need some hep to decide, then go to the [JavaScript API group at GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-api-for-javascript).
 
 ## Training
 In this section we will focus on [Dojo Toolkit](https://dojotoolkit.org/) training
@@ -49,8 +49,8 @@ On [**video.esri.com**](http://video.esri.com/search/dojo) you will find many te
 |[DevSummit](http://www.esri.com/events/devsummit) 2014|[Demystifying the Dojo Build System](http://www.esri.com/videos/watch?videoid=3390&isLegacy=true&title=demystifying-the-dojo-build-system)|24min 53 secs| n.a.
 
 ## Community
-* [Developer spaces, groups, etc @ GeoNet](https://geonet.esri.com/community/developers)
-* [ArcGIS API for JavaScript Group @ GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-api-for-javascript)
+* [Developer spaces, groups, etc @ GeoNet](https://community.esri.com/community/developers)
+* [ArcGIS API for JavaScript Group @ GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-api-for-javascript)
 
 ## More resources
 We recommend you to take a look to:

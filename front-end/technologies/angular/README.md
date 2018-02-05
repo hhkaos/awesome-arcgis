@@ -61,9 +61,9 @@ Angular 2 (and above):
  * [Another sample application using the ArcGIS API 4 for JavaScript with Angular 2](https://github.com/odoe/ng2-jsapi-sample)
 
 ## Community
-* [GeoNet Group: Angular JS](https://geonet.esri.com/groups/angularjs)
+* [GeoNet Group: Angular JS](https://community.esri.com/groups/angularjs)
 * [angular-esri-map issues](https://github.com/Esri/angular-esri-map/issues)
-* [Questions at Stackoverflow](http://stackoverflow.com/search?q=angular+%5Barcgis%5D)
+* [Questions at Stackoverflow](https://stackoverflow.com/search?q=angular+%5Barcgis%5D)
 * If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know

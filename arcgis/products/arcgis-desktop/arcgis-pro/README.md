@@ -58,7 +58,7 @@ On **video.esri.com** there are [more than 234 videos related to ArcGIS Pro](htt
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Pro: Map Automation with Python](http://www.esri.com/videos/watch?videoid=4454&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro:-map-automation-with-python)|1h 01min 09secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Pro SDK for .NET: Introduction, Samples, and How to Contribute](http://www.esri.com/videos/watch?videoid=4289&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-introduction,-samples,-and-how-to-contribute)|47min 22secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Pro SDK for .NET: Advanced Programming, Tool Concepts, Map Visualizations, Editing](http://www.esri.com/videos/watch?videoid=4295&channelid=LegacyVideo&isLegacy=true&title=arcgis-pro-sdk-for-.net:-advanced-programming,-tool-concepts,-map-visualizations,-editing)| 1h 03min 19secs
-|[User Conference](http://www.esri.com/events/user-conference) 2015|[Introduction to Tasks in ArcGIS Pro](http://www.esri.com/videos/watch?videoid=4719&channelid=LegacyVideo&isLegacy=true&title=introduction-to-tasks-in-arcgis-pro)| 57min 11secs
+|[User Conference](http://www.esri.com/about/events/uc) 2015|[Introduction to Tasks in ArcGIS Pro](http://www.esri.com/videos/watch?videoid=4719&channelid=LegacyVideo&isLegacy=true&title=introduction-to-tasks-in-arcgis-pro)| 57min 11secs
 
 
 ## Code
@@ -75,9 +75,9 @@ You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be abl
 to [download de ArcGIS Pro SDK for .NET](https://developers.arcgis.com/downloads/).
 
 ## Community
-* [ArcGIS Pro SDK Group on GeoNet](https://geonet.esri.com/groups/arcgis-pro-sdk)
-* [Developer spaces, groups, etc on GeoNet](https://geonet.esri.com/community/developers)
-* [GIS Developers - Python](https://geonet.esri.com/community/developers/gis-developers/python)
+* [ArcGIS Pro SDK Group on GeoNet](https://community.esri.com/groups/arcgis-pro-sdk)
+* [Developer spaces, groups, etc on GeoNet](https://community.esri.com/community/developers)
+* [GIS Developers - Python](https://community.esri.com/community/developers/gis-developers/python)
 
 ## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Pro](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Pro)

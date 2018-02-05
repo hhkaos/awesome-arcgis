@@ -13,7 +13,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-qt
+https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-qt
 
 ## Training
 ### Documentation

@@ -21,7 +21,7 @@
 
 ### Videos / Technical talks
 ## Community
-* [Learn ArcGIS at Geonet](https://geonet.esri.com/groups/learn-arcgis): Hear about new content on the [Learn ArcGIS site](http://learn.arcgis.com), ask questions, tell us what you think, and get in touch with your peers.
+* [Learn ArcGIS at Geonet](https://community.esri.com/groups/learn-arcgis): Hear about new content on the [Learn ArcGIS site](http://learn.arcgis.com), ask questions, tell us what you think, and get in touch with your peers.
 
 ## Code
 

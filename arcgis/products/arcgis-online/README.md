@@ -56,8 +56,8 @@ There are many useful resources, here you have a subset of them:
 |[Instructional Guide for The ArcGIS Book ](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=303&moduleID=0)|n.a.|Book|$59.99|
 
 ## Community
-* [ArcGIS Online at Geonet](https://geonet.esri.com/community/gis/web-gis/arcgisonline)
-* [ArcGIS Online Developers at Geonet](https://geonet.esri.com/community/developers/web-developers/arcgis-online-developers)
+* [ArcGIS Online at Geonet](https://community.esri.com/community/gis/web-gis/arcgisonline)
+* [ArcGIS Online Developers at Geonet](https://community.esri.com/community/developers/web-developers/arcgis-online-developers)
 
 ## Apps
 

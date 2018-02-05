@@ -46,7 +46,7 @@ library for handling offline editing and tiling.
 
 If you are looking for a responsive app to collect points oflline you could take
 a look to [GeoForm](https://github.com/Esri/geoform-template-js), a web app which can make the job (but it offline functionality
-  [is limited](https://geonet.esri.com/groups/survey123/blog/2015/09/04/survey123-collector-and-geoform-a-quick-comparison)).
+  [is limited](https://community.esri.com/groups/survey123/blog/2015/09/04/survey123-collector-and-geoform-a-quick-comparison)).
 
 If you don't know already, you should learn about [progressive web apps](https://developers.google.com/web/progressive-web-apps/) in order to be
 learn how to build reliable, fast and engaging apps even when you have no

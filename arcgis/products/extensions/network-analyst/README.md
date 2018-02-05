@@ -59,18 +59,18 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst
 |Event|Title|Length|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[3D Routing in a Web Browser](http://www.esri.com/videos/watch?videoid=4374&channelid=LegacyVideo&isLegacy=true&title=3d-routing-in-a-web-browser)|42min 49secs
-|[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst—Creating Network Datasets](http://www.esri.com/videos/watch?videoid=2556&isLegacy=true&title=network-analyst%E2%80%94creating-network-datasets)|1h 16min 22secs
-|[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst: An Introduction](http://www.esri.com/videos/watch?videoid=2916&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-an-introduction)|1h 2min 16secs
-|[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst: Performing Network Analysis](http://www.esri.com/videos/watch?videoid=2918&isLegacy=true&title=network-analyst:-performing-network-analysis)|1h 16min 32secs
-|[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst: Designing Your Network Analyst Workflow](http://www.esri.com/videos/watch?videoid=2917&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-designing-your-network-analyst-workflow)|26min 59secs
-|[UC](http://www.esri.com/events/user-conference) 2013|[Network Analyst: Automating Workflows with Geoprocessing](http://www.esri.com/videos/watch?videoid=2919&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-automating-workflows-with-geoprocessing)|1h 7min 56secs
-|[UC](http://www.esri.com/events/user-conference) 2013|[Network Analysis with ArcGIS Online and On-Premise Services](http://www.esri.com/videos/watch?videoid=2920&channelid=LegacyVideo&isLegacy=true&title=network-analysis-with-arcgis-online-and-on-premise-services)|1h 19min 6secs
-|[UC](http://www.esri.com/events/user-conference) 2013 - Lighting talk|[Routing Wrong Way Drivers Using ArcGIS 10.1 Network Analyst](http://www.esri.com/videos/watch?videoid=2908&channelid=LegacyVideo&isLegacy=true&title=routing-wrong-way-drivers-using-arcgis-10.1-network-analyst)|5min 4secs
-|[UC](http://www.esri.com/events/user-conference) 2012|[Network Analyst: Performing Network Analysis](http://www.esri.com/videos/watch?videoid=1676&isLegacy=true&title=network-analyst:-performing-network-analysis)|1h 17min 4secs
-|[UC](http://www.esri.com/events/user-conference) 2012|[ArcGIS Network Analyst—Creating Network Datasets](http://www.esri.com/videos/watch?videoid=1834&isLegacy=true&title=arcgis-network-analyst%E2%80%94creating-network-datasets)|1h 3min 19secs
-|[UC](http://www.esri.com/events/user-conference) 2012|[Network Analysis with ArcGIS for Server](http://www.esri.com/videos/watch?videoid=1941&channelid=LegacyVideo&isLegacy=true&title=network-analysis-with-arcgis-for-server-)|1h 09min 41secs
+|[UC](http://www.esri.com/about/events/uc) 2013|[Network Analyst—Creating Network Datasets](http://www.esri.com/videos/watch?videoid=2556&isLegacy=true&title=network-analyst%E2%80%94creating-network-datasets)|1h 16min 22secs
+|[UC](http://www.esri.com/about/events/uc) 2013|[Network Analyst: An Introduction](http://www.esri.com/videos/watch?videoid=2916&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-an-introduction)|1h 2min 16secs
+|[UC](http://www.esri.com/about/events/uc) 2013|[Network Analyst: Performing Network Analysis](http://www.esri.com/videos/watch?videoid=2918&isLegacy=true&title=network-analyst:-performing-network-analysis)|1h 16min 32secs
+|[UC](http://www.esri.com/about/events/uc) 2013|[Network Analyst: Designing Your Network Analyst Workflow](http://www.esri.com/videos/watch?videoid=2917&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-designing-your-network-analyst-workflow)|26min 59secs
+|[UC](http://www.esri.com/about/events/uc) 2013|[Network Analyst: Automating Workflows with Geoprocessing](http://www.esri.com/videos/watch?videoid=2919&channelid=LegacyVideo&isLegacy=true&title=network-analyst:-automating-workflows-with-geoprocessing)|1h 7min 56secs
+|[UC](http://www.esri.com/about/events/uc) 2013|[Network Analysis with ArcGIS Online and On-Premise Services](http://www.esri.com/videos/watch?videoid=2920&channelid=LegacyVideo&isLegacy=true&title=network-analysis-with-arcgis-online-and-on-premise-services)|1h 19min 6secs
+|[UC](http://www.esri.com/about/events/uc) 2013 - Lighting talk|[Routing Wrong Way Drivers Using ArcGIS 10.1 Network Analyst](http://www.esri.com/videos/watch?videoid=2908&channelid=LegacyVideo&isLegacy=true&title=routing-wrong-way-drivers-using-arcgis-10.1-network-analyst)|5min 4secs
+|[UC](http://www.esri.com/about/events/uc) 2012|[Network Analyst: Performing Network Analysis](http://www.esri.com/videos/watch?videoid=1676&isLegacy=true&title=network-analyst:-performing-network-analysis)|1h 17min 4secs
+|[UC](http://www.esri.com/about/events/uc) 2012|[ArcGIS Network Analyst—Creating Network Datasets](http://www.esri.com/videos/watch?videoid=1834&isLegacy=true&title=arcgis-network-analyst%E2%80%94creating-network-datasets)|1h 3min 19secs
+|[UC](http://www.esri.com/about/events/uc) 2012|[Network Analysis with ArcGIS for Server](http://www.esri.com/videos/watch?videoid=1941&channelid=LegacyVideo&isLegacy=true&title=network-analysis-with-arcgis-for-server-)|1h 09min 41secs
 |Tutorial 2010|[Network Analysis](http://www.esri.com/videos/watch?videoid=41&channelid=LegacyVideo&isLegacy=true&title=network-analysis)|8min 36secs
-|[UC](http://www.esri.com/events/user-conference) 2010|[Network Analyst - An Introduction](http://www.esri.com/videos/watch?videoid=92&channelid=LegacyVideo&isLegacy=true&title=network-analyst-an-introduction)|1h 11min 0secs
+|[UC](http://www.esri.com/about/events/uc) 2010|[Network Analyst - An Introduction](http://www.esri.com/videos/watch?videoid=92&channelid=LegacyVideo&isLegacy=true&title=network-analyst-an-introduction)|1h 11min 0secs
 
 ## People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Network%20Analyst](https://esri-es.github.io/arcgis-experts/?topic=Network%20Analyst)
@@ -81,7 +81,7 @@ technology so we recommend you to follow them.
 
 ## Community
 
-* [Network Analyst on GeoNet](https://geonet.esri.com/community/gis/analysis/network-analyst)
+* [Network Analyst on GeoNet](https://community.esri.com/community/gis/analysis/network-analyst)
 
 ## Other resources
 

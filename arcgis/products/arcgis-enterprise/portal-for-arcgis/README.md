@@ -9,9 +9,9 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-https://geonet.esri.com/groups/arcgis-python-api
+https://community.esri.com/groups/arcgis-python-api
 
-https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api
+https://community.esri.com/community/developers/web-developers/arcgis-rest-api
 
 ## Contributions
 Please **feel free to help us** to improve this list:

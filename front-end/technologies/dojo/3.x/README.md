@@ -61,7 +61,7 @@ https://github.com/Esri/add-shapefile-js : ArcGIS JavaScript sample that let's y
 CMV
 https://cmv.io/
 https://github.com/cmv/cmv-calcite-maps
-https://geonet.esri.com/groups/cmv
+https://community.esri.com/groups/cmv
 
 Yeoman - Generator for ArcGIS JS API applications
 https://github.com/odoe/generator-arcgis-js-app

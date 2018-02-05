@@ -40,12 +40,12 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 
 ## Community
 
-* [Survey123 GeoNet Group](https://geonet.esri.com/groups/survey123)
+* [Survey123 GeoNet Group](https://community.esri.com/groups/survey123)
 * [Survey123Community Repo](https://github.com/Esri/Survey123Community):This is the place where you can add your feedback and issues on Survey123.
 
 ## News
 
-* [GeoNet Blog](https://geonet.esri.com/groups/survey123/blog)
+* [GeoNet Blog](https://community.esri.com/groups/survey123/blog)
 * [@EsriSurvey123 on Twitter](http://twitter.com/esrisurvey123)
 * [Survey123 on blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/survey123/)
 

@@ -30,15 +30,15 @@ ArcGIS Open Data is an
 [ArcGIS REST API](../../../../../esri/open-vision/open-specifications/arcgis-rest-api/README.md)
 [Open Data REST API](../../../../esri/open-vision/open-specifications/arcgis-rest-api/README.md#Open-Data-API)
 
-[ArcGIS Open Data community](https://geonet.esri.com/groups/data-community)
+[ArcGIS Open Data community](https://community.esri.com/groups/data-community)
 
 ## Community
 Fiddler
 
 ## Community
-https://geonet.esri.com/community/gis/web-gis/arcgis-open-data
-https://geonet.esri.com/groups/arcgis-python-api
-[ArcGIS REST API place on GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api)
+https://community.esri.com/community/gis/web-gis/arcgis-open-data
+https://community.esri.com/groups/arcgis-python-api
+[ArcGIS REST API place on GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-rest-api)
 
 ## News
 About ArcGIS Open Data:

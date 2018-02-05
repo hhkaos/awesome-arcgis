@@ -50,7 +50,7 @@ It has four components:
 
 ## Community
 
-* [Enterprise GIS on GeoNet](https://geonet.esri.com/community/gis/enterprise-gis)
+* [Enterprise GIS on GeoNet](https://community.esri.com/community/gis/enterprise-gis)
 
 ## Code
 

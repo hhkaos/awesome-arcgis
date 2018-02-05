@@ -27,7 +27,7 @@
 
 * [Navigator documentation](http://doc.arcgis.com/en/navigator/)
 * [Navigator FAQs](http://doc.arcgis.com/en/navigator/iphone/navigate/faqs.htm)
-* Configure Navigator for ArcGIS licenses on [Linux](http://server.arcgis.com/en/portal/latest/administer/linux/configure-navigator-for-arcgis-licenses.htm) & [Windows](http://server.arcgis.com/en/portal/latest/administer/windows/configure-navigator-for-arcgis-licenses.htm)
+* Configure Navigator for ArcGIS licenses on [Linux](http://enterprise.arcgis.com/en/portal/latest/administer/linux/configure-navigator-for-arcgis-licenses.htm) & [Windows](http://enterprise.arcgis.com/en/portal/latest/administer/windows/configure-navigator-for-arcgis-licenses.htm)
 * [Training at esri.com/training](http://www.esri.com/training/Bookmark/Bkk9_4sSb)
 
 ### Videos
@@ -45,7 +45,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=navigator#?sortby=re
 
 ## Community
 
-* [Navigator on GeoNet](https://geonet.esri.com/groups/navigator)
+* [Navigator on GeoNet](https://community.esri.com/groups/navigator)
 
 ## People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Navigator%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Navigator%20for%20ArcGIS)

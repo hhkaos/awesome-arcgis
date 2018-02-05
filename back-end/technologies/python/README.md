@@ -32,7 +32,7 @@ ArcPy library is only included in [ArcGIS Desktop](../../../arcgis/products/arcg
 
 ### Resources
 
-* [ArcREST](http://stackoverflow.com/users/720773/gary-s)
+* [ArcREST](https://stackoverflow.com/users/720773/gary-s)
 
 
 ## ArcGIS API for Python
@@ -55,7 +55,7 @@ You can use your developer Subscription to download it from developers.arcgis.co
 
 #### Community
 
-* [GeoNet group](https://geonet.esri.com/groups/arcgis-python-api)
+* [GeoNet group](https://community.esri.com/groups/arcgis-python-api)
 
 #### Code
 

@@ -46,7 +46,7 @@ Find more searching for ["ArcGIS Open Data" at Esri Events channel on Youtube](h
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Building A Public Safety Open Data Portal With GIS](https://www.youtube.com/watch?v=vbYjLpcbQmM)|29min 30secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Integrating Open Data](https://www.youtube.com/watch?v=ua2XvONly7g)|55min 44secs
 |ArcGIS (Oct 2016)|[An Overview of ArcGIS Open Data](https://www.youtube.com/watch?v=Vp4avVISRC4)|1h 01min 01sec|
-|[UC](http://www.esri.com/events/user-conference) 2016|[Web GIS: Server and Online: ArcGIS Online: Getting started with Open](https://www.youtube.com/watch?v=6ou15TIw1h4)|1h 15min 17secs|
+|[UC](http://www.esri.com/about/events/uc) 2016|[Web GIS: Server and Online: ArcGIS Online: Getting started with Open](https://www.youtube.com/watch?v=6ou15TIw1h4)|1h 15min 17secs|
 |Esri Australia|[Tips & Tricks for working with ArcGIS Open Data](https://www.youtube.com/watch?v=m9bL4YLbqiU)|25min 04secs
 
 

@@ -30,7 +30,7 @@
   * Source: [DevSummit](http://www.esri.com/events/devsummit) 2014
   * PPTs: [proceedings.esri.com](https://www.google.es/webhp?ie=UTF-8#q=%22offline-editor-js%22+site:proceedings.esri.com)
 * **Community**:
-  * ["offline-editor-js" search at GeoNet](https://geonet.esri.com/search.jspa?q=offline-editor-js)
+  * ["offline-editor-js" search at GeoNet](https://community.esri.com/search.jspa?q=offline-editor-js)
   * [offline-editor-js issues](https://github.com/Esri/offline-editor-js/issues)
 
 

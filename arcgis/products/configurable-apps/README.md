@@ -75,10 +75,10 @@ On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Online: Configuring and Extending Web Application Templates](http://www.esri.com/videos/watch?videoid=4301&channelid=LegacyVideo&isLegacy=true&title=arcgis-online:-configuring-and-extending-web-application-templates)|57min 44secs
 |Esri Training 2016|[ArcGIS Online: App Basics](http://www.esri.com/videos/watch?videoid=56JGkusFQ9U&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=arcgis-online:-app-basics)|1min 53 secs
 |n.a. 2016|[An Overview of the Map and App Gallery](http://www.esri.com/videos/watch?videoid=rrMlBbboWk0&channelid=UCgGDPs8cte-VLJbgpaK4GPw&title=an-overview-of-the-map-and-app-gallery)|24min 24 secs
-|[UC](http://www.esri.com/events/user-conference) 2016|[Mapping: Story Maps: How to Tell Your Story Using Esri's Storytelling Apps](https://www.youtube.com/watch?v=lfLa-KJjoxA)| 1h 12min 35secs
+|[UC](http://www.esri.com/about/events/uc) 2016|[Mapping: Story Maps: How to Tell Your Story Using Esri's Storytelling Apps](https://www.youtube.com/watch?v=lfLa-KJjoxA)| 1h 12min 35secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Story Maps: Configuring and Customizing Web Apps](http://www.esri.com/videos/watch?videoid=4469&channelid=LegacyVideo&isLegacy=true&title=story-maps:-configuring-and-customizing-web-apps)|1h 1min 32secs
 |n.a. 2014|[Customizing Story Map Web Apps](http://www.esri.com/videos/watch?videoid=3354&channelid=LegacyVideo&isLegacy=true&title=customizing-story-map-web-apps)|27min 59secs
-|[UC](http://www.esri.com/events/user-conference) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)|20min 18secs
+|[UC](http://www.esri.com/about/events/uc) 2013|[Configuring Maps and Apps for the Public](http://www.esri.com/videos/watch?videoid=2730&channelid=ArcGISVideo&isLegacy=true&title=configuring-maps-and-apps-for-the-public)|20min 18secs
 |n.a. 2011|[Ready to Use Configurable Web Apps](http://www.esri.com/videos/watch?videoid=222&channelid=LegacyVideo&isLegacy=true&title=ready-to-use-configurable-web-apps)|8min 42secs
 
 
@@ -200,14 +200,14 @@ narrative featuring images or videos.
 
 If you have a question about a specific storymap **we highly recommend you to open an issue on the specific repository**.
 
-* [ArcGIS Online Templates at GeoNet](https://geonet.esri.com/groups/arcgis-online-templates)
+* [ArcGIS Online Templates at GeoNet](https://community.esri.com/groups/arcgis-online-templates)
 * [Story Maps at GeoNet](https://community.esri.com/community/gis/web-gis/storymaps/overview)
 * [ArcGIS Ideas on GeoNet](http://links.esri.com/storymaps/story_maps_geonet_ideas)
-* [Crowdsourcing group at GeoNet](https://geonet.esri.com/groups/crowdsourcing)
+* [Crowdsourcing group at GeoNet](https://community.esri.com/groups/crowdsourcing)
 * If you need help with a specific configurable app try at the repository issues
 
 ## Share your work
-You are always welcome to share your work at [GeoNet](https://geonet.esri.com/groups/arcgis-online-templates), Twitter and Linkedin (do not forget to mention: [@EsriStoryMaps](http://www.twitter.com/EsriStoryMaps)), [storymaps influencers](#people-you-should-know), etc. But you can also:
+You are always welcome to share your work at [GeoNet](https://community.esri.com/groups/arcgis-online-templates), Twitter and Linkedin (do not forget to mention: [@EsriStoryMaps](http://www.twitter.com/EsriStoryMaps)), [storymaps influencers](#people-you-should-know), etc. But you can also:
 
 * Share a **story map** submitting it to [Planet Story Maps](http://go.esri.com/planet-story-maps), an Esri e-newsletter featuring cool new story map examples, tips to help you produce better story maps, announcements about new apps and contests, and more. [Maria Jordan](https://www.linkedin.com/in/maria-jordan-68523325/) is the editor. Contact her at [mjordan@esri.com](mailto:mjordan@esri.com).
 

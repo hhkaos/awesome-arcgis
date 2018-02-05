@@ -62,8 +62,8 @@ On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many
 * [esri leaflet bundler](https://github.com/Esri/esri-leaflet-bundler): Custom build tool for Esri Leaflet
 
 ## Community
-* [Esri Leaflet group at GeoNet](https://geonet.esri.com/groups/esri-leaflet)
-* [Questions at Stackoverflow](http://stackoverflow.com/search?q=%5Bleaflet%5D+and+%5Barcgis%5D+or+%5Besri-leaflet%5D+or+%5Bleaflet%5D+and+%5Besri%5D+)
+* [Esri Leaflet group at GeoNet](https://community.esri.com/groups/esri-leaflet)
+* [Questions at Stackoverflow](https://stackoverflow.com/search?q=%5Bleaflet%5D+and+%5Barcgis%5D+or+%5Besri-leaflet%5D+or+%5Bleaflet%5D+and+%5Besri%5D+)
 * If you need help with a specific plugin/project try at the repository issues
 
 ## People you should know

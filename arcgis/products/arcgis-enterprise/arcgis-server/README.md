@@ -61,9 +61,9 @@ A module that implements the dojo/store API for ArcGIS Server REST services.
 
 ## Community
 
-* [ArcGIS for Server](https://geonet.esri.com/community/gis/enterprise-gis/arcgis-for-server)
-* [ArcGIS REST API on GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api)
-* [SOE/SOI on GeoNet](https://geonet.esri.com/groups/server-object-extensions-server-object-interceptors)
+* [ArcGIS for Server](https://community.esri.com/community/gis/enterprise-gis/arcgis-for-server)
+* [ArcGIS REST API on GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-rest-api)
+* [SOE/SOI on GeoNet](https://community.esri.com/groups/server-object-extensions-server-object-interceptors)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

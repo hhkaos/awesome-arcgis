@@ -35,8 +35,8 @@ As last resource, you may even consider to make an application or prototype as f
 
 ## Community
 
-* [ArcGIS Runtime SDK for Android on GeoNet](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android)
-* [Stackoverflow questions: [android] and [arcgis] or [android] and [esri]](http://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D+or+%5Bandroid%5D+and+%5Besri%5D+)
+* [ArcGIS Runtime SDK for Android on GeoNet](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android)
+* [Stackoverflow questions: [android] and [arcgis] or [android] and [esri]](https://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D+or+%5Bandroid%5D+and+%5Besri%5D+)
 
 ## People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Android](https://esri-es.github.io/arcgis-experts/?topic=Android)

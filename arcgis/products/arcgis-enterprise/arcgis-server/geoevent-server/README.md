@@ -71,8 +71,8 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 * More sample code on github: [geoev search](https://github.com/Esri?utf8=%E2%9C%93&q=geoev) & [geoevent topic](https://github.com/topics/geoevent)
 
 ## Community
-* [Real-Time & Big Data GIS on GeoNet](https://geonet.esri.com/groups/real-time-gis)
-* [GeoEvent on GeoNet](https://geonet.esri.com/community/gis/enterprise-gis/geoevent)
+* [Real-Time & Big Data GIS on GeoNet](https://community.esri.com/groups/real-time-gis)
+* [GeoEvent on GeoNet](https://community.esri.com/community/gis/enterprise-gis/geoevent)
 
 ## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=GeoEvent%20Server](https://esri-es.github.io/arcgis-experts/?topic=GeoEvent%20Server)

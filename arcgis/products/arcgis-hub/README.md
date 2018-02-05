@@ -42,8 +42,8 @@ Find more searching for ["ArcGIS Hub" on Youtube](https://www.youtube.com/result
 |Event|Title|Length|Slides
 |---|---|---|---|
 |[GeoDev Webinar series](https://www.youtube.com/watch?v=8BObxY7ZtzA&list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx) |ArcGIS Hub |n.a.|[Slides](https://johngravois.com/presentations/geodev-hub/#/)
-|[UC](http://www.esri.com/events/user-conference) 2017|[ArcGIS Online: Getting Started with Open Data and Initiatives in the ArcGIS Hub](https://www.youtube.com/watch?v=HsFdhsWQiI8)|1h 13min 43secs|n.a.
-|[UC](http://www.esri.com/events/user-conference) 2017|[Esri UC 2017: ArcGIS Hub](https://www.youtube.com/watch?v=7OrvBKEqQiU)|6m 37secs|n.a.|
+|[UC](http://www.esri.com/about/events/uc) 2017|[ArcGIS Online: Getting Started with Open Data and Initiatives in the ArcGIS Hub](https://www.youtube.com/watch?v=HsFdhsWQiI8)|1h 13min 43secs|n.a.
+|[UC](http://www.esri.com/about/events/uc) 2017|[Esri UC 2017: ArcGIS Hub](https://www.youtube.com/watch?v=7OrvBKEqQiU)|6m 37secs|n.a.|
 
 This playlist ([ArcGIS Hub and Open Data](https://www.youtube.com/watch?v=HsFdhsWQiI8&list=PLJN4HgE09_NS_VL3TKG72EIGWXYBpBdYk)) from Andrew Turner is also interesting
 

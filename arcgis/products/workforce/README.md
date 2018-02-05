@@ -36,7 +36,7 @@ It enables a common view in the field and the office. Get the right worker to th
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[What is new in Workforce for ArcGIS](http://www.esri.com/videos/watch?videoid=Gvu_pfYwgTs&title=what-is-new-in-workforce-for-arcgis)|1h 3min 51secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Automating Workforce for ArcGIS with Python](http://www.esri.com/videos/watch?videoid=7sum6LbLgrw&title=automating-workforce-for-arcgis-with-python)|58min 31secs
-|[UC](http://www.esri.com/events/user-conference) 2016|[ArcGIS Apps: Workforce for ArcGIS: Coordinate Your Field Workforce](https://www.youtube.com/watch?v=3zNWJBi1_08)|1h 28min 20secs
+|[UC](http://www.esri.com/about/events/uc) 2016|[ArcGIS Apps: Workforce for ArcGIS: Coordinate Your Field Workforce](https://www.youtube.com/watch?v=3zNWJBi1_08)|1h 28min 20secs
 |Esri Ireland Webinar|[Getting Started with Workforce for ArcGIS](https://www.youtube.com/watch?v=Lw8NVsoRc24)|44min 22secs
 
 ## Downloads
@@ -51,7 +51,7 @@ Read some [user stories](http://www.esri.com/products/workforce)
 * [A set of scripts to help administer Workforce projects.](https://github.com/Esri/workforce-scripts)
 
 ## Community
-* [Workforce GeoNet Group](https://geonet.esri.com/groups/workforce-for-arcgis)
+* [Workforce GeoNet Group](https://community.esri.com/groups/workforce-for-arcgis)
 
 ## News
 * [Workforce](https://blogs.esri.com/esri/arcgis/tag/workforce-for-arcgis/)

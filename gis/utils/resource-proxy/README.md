@@ -20,7 +20,7 @@ credit-consuming APIs, ...
 ## Introduction
 This is an Open Source project from Esri with proxy files in three different languages: [DotNet](https://github.com/Esri/resource-proxy/tree/master/DotNet), [Java](https://github.com/Esri/resource-proxy/tree/master/Java) and [PHP](https://github.com/Esri/resource-proxy/tree/master/PHP). These supports:
 * Accessing cross domain resources (CORS)
-* Requests that exceed 2048 characters (avoid [URL length restrictions](http://stackoverflow.com/questions/417142/what-is-the-maximum-length-of-a-url-in-different-browsers#answer-417184))
+* Requests that exceed 2048 characters (avoid [URL length restrictions](https://stackoverflow.com/questions/417142/what-is-the-maximum-length-of-a-url-in-different-browsers#answer-417184))
 * Accessing resources secured with [token based authentication](https://developers.arcgis.com/authentication/#security-methodologies).
 * [OAuth 2.0 app logins](https://developers.arcgis.com/authentication).
 * Enabling logging
@@ -30,7 +30,7 @@ This is an Open Source project from Esri with proxy files in three different lan
 
 * **Documentation**: [Proxy configuration settings](https://github.com/Esri/resource-proxy#proxy-configuration-settings)
 * **Community**:
-  * [Resource proxy at GeoNet](https://geonet.esri.com/groups/resource-proxy)
+  * [Resource proxy at GeoNet](https://community.esri.com/groups/resource-proxy)
   * [Github issues](https://github.com/Esri/resource-proxy/issues)
 
 ## Videos

@@ -40,8 +40,8 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Bringing Your Data to Life in ArcGIS API for JavaScript: Vector Tiles](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 2min 42secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Vector Tiles in the ArcGIS Platform](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 1min 30secs
-|[UC](http://www.esri.com/events/user-conference) 2016|[Content: Vector Tiles: Styling Your Own Base Maps](http://www.esri.com/videos/watch?videoid=rYo2YUIM6Yk&title=content:-vector-tiles:-styling-your-own-base-maps)|56min 49secs
-|[UC](http://www.esri.com/events/user-conference) 2016|[Mapping: Desktop Mapping: Creating Vector Tiles](http://www.esri.com/videos/watch?videoid=L2ds2rb-d5c&title=mapping:-desktop-mapping:-creating-vector-tiles)| 1h 15min 45secs
+|[UC](http://www.esri.com/about/events/uc) 2016|[Content: Vector Tiles: Styling Your Own Base Maps](http://www.esri.com/videos/watch?videoid=rYo2YUIM6Yk&title=content:-vector-tiles:-styling-your-own-base-maps)|56min 49secs
+|[UC](http://www.esri.com/about/events/uc) 2016|[Mapping: Desktop Mapping: Creating Vector Tiles](http://www.esri.com/videos/watch?videoid=L2ds2rb-d5c&title=mapping:-desktop-mapping:-creating-vector-tiles)| 1h 15min 45secs
 
 ## Resources
 * [Vector Basemaps showcase](https://github.com/esri-es/arcgis-vector-tiles)

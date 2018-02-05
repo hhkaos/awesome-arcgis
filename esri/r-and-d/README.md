@@ -57,13 +57,13 @@ Github accounts:
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|
 |![Andrew Turner](https://avatars2.githubusercontent.com/u/1218?v=3&s=50)|[Andrew turner](https://www.linkedin.com/in/ajturner/)|[Github](https://github.com/ajturner)|[Twitter](https://twitter.com/ajturner)|n.a.|n.a.|n.a.
-|![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://geonet.esri.com/people/dbouwman)|n.a.|
+|![Dave Bouwman](https://avatars2.githubusercontent.com/u/119129?v=3&s=50)|[Dave Bouwman](https://www.linkedin.com/in/davebouwman)|[Github](https://github.com/dbouwman)|[Twitter](https://twitter.com/dbouwman)|n.a.|[GeoNet](https://community.esri.com/people/dbouwman)|n.a.|
 
 
 ### Prototype labs
 
 * [Applications Prototype Lab demos](https://maps.esri.com/portal/WebApps/index.html)
-* [Applications Prototype Lab at blogs.esri.com](https://blogs.esri.com/esri/apl/)
+* [Applications Prototype Lab at blogs.esri.com](https://community.esri.com/groups/applications-prototype-lab/pages/apl-blog)
 * Prototype Lab Video: [Esri's prototype lab](https://www.youtube.com/watch?v=zeNTqlTXkQg)
 
 green-infrastructure.esri.com/LandCover/index.html

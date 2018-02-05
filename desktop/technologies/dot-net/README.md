@@ -39,7 +39,7 @@ technology so we recommend you to follow them.
 [Migrating Your WPF Apps to the New ArcGIS Runtime SDK for .NET](http://www.esri.com/videos/watch?videoid=3457&channelid=LegacyVideo&isLegacy=true&title=migrating-your-wpf-apps-to-the-new-arcgis-runtime-sdk-for-.net)
 
 ## Community
-[ArcGIS Runtime SDK for .NET](https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)
+[ArcGIS Runtime SDK for .NET](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)
 
 ## Download the SDK
 

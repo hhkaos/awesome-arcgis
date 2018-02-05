@@ -65,16 +65,16 @@ to [download Web AppBuilder Developer Edition](https://developers.arcgis.com/dow
 ## Community
 Web AppBuilder developers are mainly in GeoNet, you will find developers sharing
 code and helping other developers here:
-* [Custom Widgets GeoNet Group ](https://geonet.esri.com/groups/web-app-builder-custom-widgets)
-* [Custom Themes GeoNet Group ](https://geonet.esri.com/groups/web-appbuilder-custom-themes)
-* [All Web AppBuilder Groups on GeoNet](https://geonet.esri.com/places?query=appbuilder)
+* [Custom Widgets GeoNet Group ](https://community.esri.com/groups/web-app-builder-custom-widgets)
+* [Custom Themes GeoNet Group ](https://community.esri.com/groups/web-appbuilder-custom-themes)
+* [All Web AppBuilder Groups on GeoNet](https://community.esri.com/places?query=appbuilder)
 
 ## Code
 *  [wab-app-build-script](https://github.com/Esri-DevCenter-Beijing/wab-app-build-script): speed up your app's loading performance
 * Widgets & Themes:
   * [Query "Web AppBuilder" on Esri's Github](https://github.com/search?q=org%3AEsri+appbuilder)
   * [Custom Widgets directory](http://esri-es.github.io/Web-AppBuilder-Custom-Widgets/) repo
-  * [Web AppBuilder - The custom widgets links list (3/27/2017)](https://geonet.esri.com/blogs/myAlaskaGIS/2017/03/04/web-appbuilder-the-custom-widgets-list-332017)
+  * [Web AppBuilder - The custom widgets links list (3/27/2017)](https://community.esri.com/blogs/myAlaskaGIS/2017/03/04/web-appbuilder-the-custom-widgets-list-332017)
   * [Components for the ArcGIS WebApp Builder](https://github.com/Esri/arcgis-webappbuilder-widgets-themes) repo
   * [Environmental Protection Agency (EPA) - Widgets and themes](https://github.com/USEPA/Public_Web_AppBuilder)
   * Choose "ArcGIS Web AppBuilder" on [ArcGIS Code Sharing](http://codesharing.arcgis.com/)

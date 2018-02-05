@@ -22,7 +22,7 @@ Extending services: [Linux](http://server.arcgis.com/en/server/latest/publish-se
 
 ## Community
 
-[Server Object Extensions & Server Object Interceptors](https://geonet.esri.com/groups/server-object-extensions-server-object-interceptors)
+[Server Object Extensions & Server Object Interceptors](https://community.esri.com/groups/server-object-extensions-server-object-interceptors)
 
 ## Contributions
 Please **feel free to help us** to improve this list:

@@ -39,7 +39,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=collector#?sortby=re
 |Case Study|[Gulfport Energy Realizes Efficiencies with ArcGIS Apps](http://video.esri.com/iframe/5100/000000/width/960/1/00:00:00)|19min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Collector for ArcGIS: Authoring Intelligent Maps](http://www.esri.com/videos/watch?videoid=4473&channelid=LegacyVideo&isLegacy=true&title=collector-for-arcgis:-authoring-intelligent-maps)|56min 64secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Collector for ArcGIS: Using the App](http://www.esri.com/videos/watch?videoid=4471&channelid=LegacyVideo&isLegacy=true&title=collector-for-arcgis:-using-the-app)|1h 7min 41sec
-|[UC](http://www.esri.com/events/user-conference) 2015|[Collector for ArcGIS: An Overview](http://www.esri.com/videos/watch?videoid=4697&channelid=LegacyVideo&isLegacy=true&title=collector-for-arcgis:-an-overview)|54min 47secs
+|[UC](http://www.esri.com/about/events/uc) 2015|[Collector for ArcGIS: An Overview](http://www.esri.com/videos/watch?videoid=4697&channelid=LegacyVideo&isLegacy=true&title=collector-for-arcgis:-an-overview)|54min 47secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Collector for ArcGIS: How We Did It](http://www.esri.com/videos/watch?videoid=4475&channelid=LegacyVideo&isLegacy=true&title=collector-for-arcgis:-how-we-did-it)|51min 11secs
 |Tutorial|[Offline Maps with ArcGIS for Server and Collector for ArcGIS](http://www.esri.com/videos/watch?videoid=4154&channelid=ArcGISVideo&isLegacy=true&title=offline-maps-with-arcgis-for-server-and-collector-for-arcgis)|10min 12secs
 
@@ -51,7 +51,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=collector#?sortby=re
 
 ## Community
 
-* [Collector on GeoNet](https://geonet.esri.com/community/gis/applications/collector-for-arcgis)
+* [Collector on GeoNet](https://community.esri.com/community/gis/applications/collector-for-arcgis)
 
 ## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Collector%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Collector%20for%20ArcGIS)

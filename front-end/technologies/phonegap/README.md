@@ -43,7 +43,7 @@ On [**video.esri.com**](http://video.esri.com/search/phonegap) you will find man
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS API for JavaScript - Building Native Apps using PhoneGap and JQuery](http://www.esri.com/videos/watch?videoid=4293&channelid=LegacyVideo&isLegacy=true&title=arcgis-api-for-javascript---building-native-apps-using-phonegap-and-jquery)| 58min 35secs
 
 ## Community
-* [Stackoverflow: [phonegap] and [arcgis]](http://stackoverflow.com/search?q=%5Bphonegap%5D+and+%5Barcgis%5D)
+* [Stackoverflow: [phonegap] and [arcgis]](https://stackoverflow.com/search?q=%5Bphonegap%5D+and+%5Barcgis%5D)
 * You can also ask on [GeoNet](https://geonet.esri.com)
 * If you need help with a specific plugin/project try at the repository issues
 

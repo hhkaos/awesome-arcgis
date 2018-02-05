@@ -97,7 +97,7 @@ Using [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/):
 
 ## Community
 
-https://geonet.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-java
+https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-java
 
 ### People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20Java](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20Java)

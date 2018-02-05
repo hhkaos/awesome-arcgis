@@ -33,16 +33,15 @@
 
 [Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/pdf/pledge-letters/Dangermond_Letter.pdf). Today it software ( [ArcGIS](https://en.wikipedia.org/wiki/ArcGIS) ) is been used by a [40% of the global market](https://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](http://www.esri.com/about-esri#who-we-are), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
 
-It [organize multiple events](http://www.esri.com/events) annually and the biggest one (the [User Conference](http://www.esri.com/events/user-conference) in San Diego) brings together more than 15000 users. There is also a developer focused event, the **Developer Summit**, it take place at [Palm Springs](http://www.esri.com/events/devsummit) (USA) and [Berlin](http://www.esri.com/events/devsummit-europe) (EU) every year.
+It [organize multiple events](http://www.esri.com/events) annually and the biggest one (the [User Conference](http://www.esri.com/about/events/uc) in San Diego) brings together more than 15000 users. There is also a developer focused event, the **Developer Summit**, it take place at [Palm Springs](http://www.esri.com/events/devsummit) (USA) and [Berlin](http://www.esri.com/events/devsummit-europe) (EU) every year.
 
 Check this diagram to know more about the GIS and Esri evolution:
 
 [![Esri Evolution](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/pub?w=1227&h=692)](https://docs.google.com/drawings/d/11UiTWB7L7kH9lQqSiKPrfJD1rD9_8irPUGMYtnLzoZ4/edit?usp=sharing)
 
 If you want to know more about ArcGIS capabilities, features, ... we encourage you to start checking some of these sites:
-* [ArcGIS capabilities](http://www.esri.com/software/arcgis/capabilities): spatial analysis, real time, big data, 3D, imagery and sensors, etc.
+* [ArcGIS patterns and capabilities](http://www.esri.com/arcgis/about-arcgis): analysis and planification, operational awareness, field data collection, assets management and community engagement | spatial analysis, real time, big data, 3D, imagery and sensors, etc.
 * [ArcGIS features](http://www.arcgis.com/features/features.html): content ready to use, visualization, spatial analysis, team administrations, apps, tools for developers, etc.
-* [ArcGIS patterns](http://www.esri.com/software/arcgis/patterns): analysis and planification, operational awareness, field data collection, assets management and community engagement.
 * [How GIS works](http://www.esri.com/what-is-gis/howgisworks): five steps: ask, collect, examine, analyse and act.
 * [Esri Map Book](http://www.esri.com/esri-map-book/): Esri Map Book showcases maps and applications that use ArcGIS to evaluate the sustainability of resources, determine efficient transportation routes, mitigate the effects of natural disasters, and much more
 
@@ -87,7 +86,7 @@ If you are an ArcGIS administrators or a desktop users you will find specific tu
 |[learn.arcgis.com](https://learn.arcgis.com)|Guided lessons (tutorials) based on real-world problems
 |[my.esri.com](https://my.esri.com/)|Support page for Esri Customers
 |[resources.arcgis.com](https://resources.arcgis.com)|Non developer documentation for ArcGIS Products
-|[help.arcgis.com](https://help.arcgis.com)|Alias of [resources.arcgis.com](https://resources.arcgis.com)
+|[help.arcgis.com](http://help.arcgis.com)|It is no longer updated. Moved to [doc.arcgis.com](https://doc.arcgis.com)
 |[marketplace.arcgis.com](https://marketplace.arcgis.com)|Third party applications
 |[pro.arcgis.com](https://pro.arcgis.com)|n.a.
 |[server.arcgis.com](https://server.arcgis.com)|n.a.
@@ -101,7 +100,7 @@ If you are a developer you will find documentation, tutorials, tools and sample 
 |---|---|
 |[developers.arcgis.com](https://developers.arcgis.com)|Developer documentation
 |[developers.arcgis.com/labs](https://developers.arcgis.com/labs/)|Developer tutorials
-|[resources.arcgis.com/en/help/arcgis-rest-api/](http://resources.arcgis.com/en/help/arcgis-rest-api/)|n.a.
+|[https://developers.arcgis.com/rest/](http://https://developers.arcgis.com/rest/)|n.a.
 |[github.com/esri](https://github.com/esri)|Github Account
 |[ago-assistant.esri.com](https://ago-assistant.esri.com/)|n.a.
 |[terraformer.io](http://terraformer.io)|n.a.
@@ -121,7 +120,7 @@ No matter what's your job, you will find documentation, courses, books, communit
 |[codesharing.arcgis.com](https://codesharing.arcgis.com)|Interface to help anyone to find code samples hosted as items in ArcGIS Online ([equivalent search](http://www.arcgis.com/home/search.html?q=%28type%3A%22code%20samples%22%20OR%20type%3A%22add-ins%22%20OR%20type%3A%22geoprocessing%20samples%22%29%20-type%3A%22Code%20Attachment%22%20-type%3A%22Featured%20Items%22%20-type%3A%22Symbol%20Set%22%20-type%3A%22Color%20Set%22%20-type%3A%22Windows%20Viewer%20Add%20In%22%20-type%3A%22Windows%20Viewer%20Configuration%22&start=1&sortOrder=desc&sortField=relevance%29))
 |[proceedings.esri.com](http://proceedings.esri.com/library/userconf/index.html)|Official channel to host the slides of every Esri Event but also to find User Groups|
 |[support.esri.com](https://support.esri.com)|Technical articles, white papers, patches, software updates, product lifecycles, system requirements
-|[video.esri.com](https://video.esri.com)|Video portal mixing content hosted by itself and our [Youtube channels](#youtube-channels).
+|[video.esri.com](https://www.esri.com/videos)|Video portal mixing content hosted by itself and our [Youtube channels](#youtube-channels).
 |[enterprise.arcgis.com](enterprise.arcgis.com)|n.a
 |[geonet.esri.com](https://geonet.esri.com)|Alias of [community.esri.com](https://community.esri.com)
 |[forums.esri.com](http:/forums.esri.com)|Alias of [community.esri.com](https://community.esri.com)

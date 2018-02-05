@@ -37,10 +37,10 @@ You can add a file or an stream source if you plain to work with real time video
 
 ## Training
 
-* [Full Motion Video 1.3.1 User Manual](https://geonet.esri.com/servlet/JiveServlet/downloadBody/8607-102-1-10723/Full%20Motion%20Video%201.3.1%20User%20Manual.pdf)
+* [Full Motion Video 1.3.1 User Manual](https://community.esri.com/servlet/JiveServlet/downloadBody/8607-102-1-10723/Full%20Motion%20Video%201.3.1%20User%20Manual.pdf)
 * [Full Motion Video - Entire tutorial](https://esri.app.box.com/s/1wj8k5t44so7oy8phcaioik3zebc9bf0)
 * [Full Motion Video - Tutorial (Document)](https://esri.app.box.com/s/pgsmra3npv54thnmgfwesu82uqey5bc4)
-* [FMV FAQ](https://geonet.esri.com/docs/DOC-8379-frequently-asked-questions-about-fmv)
+* [FMV FAQ](https://community.esri.com/docs/DOC-8379-frequently-asked-questions-about-fmv)
 
 ## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Full%20Motion%20Video](https://esri-es.github.io/arcgis-experts/?topic=Full%20Motion%20Video)
@@ -51,7 +51,7 @@ technology so we recommend you to follow them.
 
 ## Community
 
-[Imagery and Remote Sensing at GeoNet](https://geonet.esri.com/community/gis/imagery-and-remote-sensing/content?filterID=contentstatus%5Bpublished%5D~category%5Bfull-motion-video%5D)
+[Imagery and Remote Sensing at GeoNet](https://community.esri.com/community/gis/imagery-and-remote-sensing/content?filterID=contentstatus%5Bpublished%5D~category%5Bfull-motion-video%5D)
 
 ## News
 

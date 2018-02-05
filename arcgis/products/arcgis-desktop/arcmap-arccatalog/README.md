@@ -25,12 +25,12 @@ Extend ArcObjects and build custom components that integrate into the framework.
 
 http://desktop.arcgis.com/en/arcmap/latest/analyze/python/a-quick-tour-of-python.htm
 
-https://geonet.esri.com/community/developers
-https://geonet.esri.com/community/developers/gis-developers/python
+https://community.esri.com/community/developers
+https://community.esri.com/community/developers/gis-developers/python
 
-https://geonet.esri.com/community/developers/gis-developers/arcobjects-sdk
+https://community.esri.com/community/developers/gis-developers/arcobjects-sdk
 
-https://geonet.esri.com/groups/arcobjectsnet
+https://community.esri.com/groups/arcobjectsnet
 
 ## Contributions
 Please **feel free to help us** to improve this list:

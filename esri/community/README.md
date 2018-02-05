@@ -29,11 +29,11 @@ There are many **initiatives for developers** running simultaneously around Esri
 
 ### Germany
 * [Geo-Dev on Meetup](https://www.meetup.com/GeoDev-Germany/)
-* [GeoDev Germany on GeoNet](https://geonet.esri.com/groups/geodev-germany/activity)
+* [GeoDev Germany on GeoNet](https://community.esri.com/groups/geodev-germany/activity)
 * [GeoDevGermany on Twitter](https://twitter.com/GeoDevGermany/)
 
 ### Netherlands
-* [GeoNet Group](https://geonet.esri.com/groups/geodev-netherlands)
+* [GeoNet Group](https://community.esri.com/groups/geodev-netherlands)
 * [@esrinederland on Github](http://esrinederland.github.io/)
 
 ### Spain
@@ -55,7 +55,7 @@ There are many **initiatives for developers** running simultaneously around Esri
 
 ### USA
 * [GeoDev on Facebook](https://www.facebook.com/EsriGeoDev)
-* [GeoDev on GeoNet](https://geonet.esri.com/groups/geodev)
+* [GeoDev on GeoNet](https://community.esri.com/groups/geodev)
 * [@EsriGeoDev on Twitter](https://twitter.com/EsriGeoDev)
 * [GeoDev Northeast at Meetup](https://www.meetup.com/DevMeetUpNortheast/)
 * [GeoDev Northern Rockies at Meetup](https://www.meetup.com/devmeetupnorthernrockies/)

@@ -30,7 +30,7 @@ These are the products which relay on top of REST APIs:
 
 ## Community
 If you need some help using the REST APIs you can go to
-[ArcGIS REST API place on GeoNet](https://geonet.esri.com/community/developers/web-developers/arcgis-rest-api)
+[ArcGIS REST API place on GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-rest-api)
 or you can also look for help in [any other popular community](../../README.md#arcgis-community).
 
 ## Contributions

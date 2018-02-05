@@ -1,8 +1,23 @@
 # Contributions
 
-Anyone is welcome to contribute to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution. 
+Anyone is welcome to contribute to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution.
 
 > **Disclaimer**: The technology change fast and some resources may be out to date or broken.
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [How to contribute](#how-to-contribute)
+  - [Adding a comment on Disqus (< 1 min)](#adding-a-comment-on-disqus--1-min)
+  - [Option b) Opening an issue (< 1 min)](#option-b-opening-an-issue--1-min)
+  - [Option c) Editing from your browser](#option-c-editing-from-your-browser)
+  - [Option d) Contributing from local](#option-d-contributing-from-local)
+- [Resource page structure](#resource-page-structure)
+- [Develop and build locally](#develop-and-build-locally)
+- [Programatically check existing links](#programatically-check-existing-links)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## How to contribute
 
@@ -14,13 +29,13 @@ We are looking contributors willing to help:
 * **Adding new resource pages**:
   * You can help us just adding resources directly
 
-### Adding a comment on Disqus (< 1 min)
+### Commenting on Disqus (< 1 min)
 
 If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made with [Gitbook](https://github.com/GitbookIO/gitbook) and you can report a broken link or suggest a new resource, you can do it like so:
 
 ![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)
 
-### Option b) Opening an issue (< 1 min)
+### Opening an issue (< 1 min)
 
 You can also report a broken link or suggest a new resource [opening a new issue](https://github.com/hhkaos/awesome-arcgis/issues/new).
 
@@ -28,13 +43,13 @@ You can also report a broken link or suggest a new resource [opening a new issue
 
 ![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)
 
-### Option c) Editing from your browser
+### Editing from your browser
 
 > **Note**: This option requires you to have a Github account
 
 Creating or edit a Github page from your browser ([learn how](https://help.github.com/articles/editing-files-in-your-repository/)) (*Github account required*)
 
-### Option d) Contributing from local
+### Contributing from local
 
 > **Note**: This option requires you to have a Github account
 
@@ -68,6 +83,14 @@ And whenever you are ready to create the new deployment run:
 
 > Be patient, this process can take a few minutes
 
-## Programatically check existing links
+## Check existing links programatically
 
+You can help us checking broken links running this command:
 
+`$ node deploy.js --links`
+
+This will display a link of messages but also it will create a bunch of files (called *ab-results--[PATH TO FILE]*) with a JSON containing detailes information about the state of the links in this repo.
+
+You can place them in the ignored folder `awesomebot-results`.
+
+`$ mkdir awesomebot-results && mv ab-* awesomebot-results`

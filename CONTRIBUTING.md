@@ -13,9 +13,11 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 - [How to contribute](#how-to-contribute)
   - [Commenting on Disqus (< 1 min)](#commenting-on-disqus--1-min)
   - [Opening an issue (< 1 min)](#opening-an-issue--1-min)
-  - [Editing from your browser](#editing-from-your-browser)
-  - [Contributing from local](#contributing-from-local)
-- [Resource page structure](#resource-page-structure)
+  - [Using: Github Online Editor](#using-github-online-editor)
+  - [Using: Your favourite IDE locally](#using-your-favourite-ide-locally)
+- [Starting a new resources page](#starting-a-new-resources-page)
+  - [Resource page structure](#resource-page-structure)
+  - [Sample resource pages](#sample-resource-pages)
 - [Develop and build locally](#develop-and-build-locally)
 - [Check existing links programatically](#check-existing-links-programatically)
 - [ArcGIS experts](#arcgis-experts)
@@ -27,7 +29,7 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 We are looking contributors willing to help:
 
 * **Adding new resource pages**:
-  * You can help us just adding resources directly
+  * You can help us [starting a new resources page](#starting-a-new-resources-page)
 * **Enhancing existing resource pages**:
   * Fixing broken links
   * Suggesting missing resources
@@ -62,12 +64,25 @@ If you are a developer you can also [fork this repo](https://help.github.com/art
 
 > Optionally you can [test it and create a new build](#develop-and-build-locally).
 
-## Resource page structure
+## Starting a new resources page
+
+
+
+### Resource page structure
 
 We have build this "[resource page template](https://github.com/hhkaos/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md)"  to help anyone to start a new resource page or get ideas on which kind of resources could be included.
 
-A sample resources list that shows what we are trying to collect on each page is the
-[Web AppBuilder resource page](arcgis/products/web-appbuilder/README.md).
+### Sample resource pages
+
+This pages are resources list that shows what we are trying to collect on each page is the:
+
+* **Vector tiles**:<br> [/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/](https://hhkaos.github.io/awesome-arcgis/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/)
+
+* **Web AppBuilder Developer Edition**:<br> [/arcgis/products/web-appbuilder/developer-edition/README.md](https://github.com/hhkaos/awesome-arcgis/blob/master/arcgis/products/web-appbuilder/developer-edition/README.md).
+
+* **Java Developers**:<br> [desktop/technologies/java/](https://github.com/hhkaos/awesome-arcgis/tree/master/desktop/technologies/java)
+
+* **Leaflet Developers**:<br> [/front-end/technologies/leaflet/](https://github.com/hhkaos/awesome-arcgis/tree/master/front-end/technologies/leaflet)
 
 ## Develop and build locally
 

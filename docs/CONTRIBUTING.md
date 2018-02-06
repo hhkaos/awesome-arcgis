@@ -1,6 +1,6 @@
 # Contributions
 
-You may know [why we started this project](https://github.com/hhkaos/awesome-arcgis/tree/master/about) or you might not, but whatever it is, we are very happy you are thinking on contributing.
+You may know [why we started this project](https://github.com/hhkaos/awesome-arcgis/blob/master/about/README.md) or you might not, but whatever it is, we are very happy you are thinking on contributing.
 
 **Anyone is welcome to contribute** to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution.
 
@@ -8,7 +8,7 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of contents**
+**Table of Contents**
 
 - [How to contribute](#how-to-contribute)
   - [Commenting on Disqus (< 1 min)](#commenting-on-disqus--1-min)
@@ -18,7 +18,8 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 - [Starting a new resources page](#starting-a-new-resources-page)
   - [Sample resource pages](#sample-resource-pages)
 - [Develop and build locally](#develop-and-build-locally)
-- [Check existing links programatically](#check-existing-links-programatically)
+  - [Check existing links programatically](#check-existing-links-programatically)
+  - [Configurations](#configurations)
 - [ArcGIS experts](#arcgis-experts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -111,7 +112,7 @@ And whenever you are ready to create the new deployment run:
 
 > Be patient, this process can take a few minutes
 
-## Check existing links programatically
+### Check existing links programatically
 
 You can help us checking broken links running this command:
 
@@ -122,6 +123,15 @@ This will display a link of messages but also it will create a bunch of files (c
 You can place them in the ignored folder `awesomebot-results`.
 
 `$ mkdir awesomebot-results && mv ab-* awesomebot-results`
+
+### Configurations
+
+* **Ignore files and folders on build**: You can add folders and files you want to ignore during the build process, you can do that adding them to the `ignores` property at [book.json](https://github.com/hhkaos/awesome-arcgis/blob/master/book.json#L6)
+
+* **Exclude from awesomebot**: if we want the `deploy.js` script to avoid checking links on any folder or file we can add it to the `excludeFromLinkChecker` array at [deploy.js](https://github.com/hhkaos/awesome-arcgis/blob/master/deploy.js#L5)
+
+* **Exclude from doctoc**: every table of contents is generated automatically,
+we edit the [deploy.js](https://github.com/hhkaos/awesome-arcgis/blob/master/deploy.js#L11) script to add any file to `excludeFileFromDocToc` array, or any folder to the `excludeFoldersFromDocToc` array if we don't want them to have a TOC.
 
 ## ArcGIS experts
 

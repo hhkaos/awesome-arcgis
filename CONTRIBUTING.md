@@ -1,6 +1,6 @@
 # Contributions
 
-You may know [why we started this project](https://github.com/hhkaos/awesome-arcgis/tree/master/about) or you might not, but whatever it is, we are very happy you are thinking on contributing.
+You may know [why we started this project](https://github.com/hhkaos/awesome-arcgis/blob/master/about/README.md) or you might not, but whatever it is, we are very happy you are thinking on contributing.
 
 **Anyone is welcome to contribute** to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution.
 

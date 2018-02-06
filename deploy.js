@@ -1,7 +1,20 @@
 var fs = require('fs');
 var path = require('path');
 
-var exclude = ["docs", "ISSUE_TEMPLATE.md", "CONTRIBUTING.md", "RESOURCE_PAGE_TEMPLATE.md", "node_modules"]
+// Avoid file and folder when checking broken links
+var excludeFromLinkChecker = [
+                                "docs", "ISSUE_TEMPLATE.md", "CONTRIBUTING.md",
+                                "RESOURCE_PAGE_TEMPLATE.md", "node_modules"
+                             ];
+
+// Avoid this files to create/update their TOCs
+var excludeFileFromDocToc = [
+                            "ISSUE_TEMPLATE.md", "RESOURCE_PAGE_TEMPLATE.md",
+                            "SUMMARY.md", "CONTRIBUTING.md", "about/README.md"
+                        ];
+var excludeFoldersFromDocToc = [
+                            "./about", "./node_modules"
+                        ];
 
 var walk = function(dir, done) {
         var results = [];
@@ -13,7 +26,7 @@ var walk = function(dir, done) {
                 file = path.resolve(dir, file);
                 basename = path.basename(file);
                 //console.log("basename=",basename);
-                if(exclude.indexOf(basename) !== -1){
+                if(excludeFromLinkChecker.indexOf(basename) !== -1){
                     //console.log("excluding ", basename);
                     if (!--pending) done(null, results);
                 }else{
@@ -141,10 +154,11 @@ var commandExists = require('command-exists');
         exec(cmd, function(error, stdout, stderr) {
             console.log("Removing old summary ",stdout);
 
-            var excludeFiles = ["ISSUE_TEMPLATE.md", "RESOURCE_PAGE_TEMPLATE.md", "SUMMARY.md", "CONTRIBUTING.md"];
-            excludeFiles = excludeFiles.join(" ! -name ");
+            excludeFileFromDocToc = excludeFileFromDocToc.join(" ! -name ");
+            excludeFoldersFromDocToc = excludeFoldersFromDocToc.join(" -prune -o -path ");
 
-            cmd = `find . -path "./node_modules" -prune -o -name "*.md" ! -name ${excludeFiles} | xargs node ./node_modules/doctoc/doctoc.js --title '**Table of contents**'`;
+            cmd = `find . -path ${excludeFoldersFromDocToc} -prune -o -name "*.md" ! -name ${excludeFileFromDocToc} -print | xargs node ./node_modules/doctoc/doctoc.js --title '**Table of contents**'`;
+            console.log(cmd);
             exec(cmd, function(error, stdout, stderr) {
                 console.log("Updating tables of contents: ",stdout);
 

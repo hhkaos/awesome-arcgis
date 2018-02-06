@@ -16,6 +16,7 @@
   - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
+  - [Slides](#slides)
 - [Get the tool](#get-the-tool)
 - [Coding](#coding)
   - [Code](#code)

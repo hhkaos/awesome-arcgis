@@ -18,7 +18,8 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 - [Starting a new resources page](#starting-a-new-resources-page)
   - [Sample resource pages](#sample-resource-pages)
 - [Develop and build locally](#develop-and-build-locally)
-- [Check existing links programatically](#check-existing-links-programatically)
+  - [Check existing links programatically](#check-existing-links-programatically)
+  - [Configurations](#configurations)
 - [ArcGIS experts](#arcgis-experts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

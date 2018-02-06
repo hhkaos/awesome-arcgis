@@ -8,7 +8,7 @@ You may know [why we started this project](https://github.com/hhkaos/awesome-arc
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+**Table of contents**
 
 - [How to contribute](#how-to-contribute)
   - [Commenting on Disqus (< 1 min)](#commenting-on-disqus--1-min)

@@ -2,15 +2,6 @@
 
 # About
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of contents**
-
-- [Context](#context)
-- [About the project](#about-the-project)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Context
 
 In this page I will try to explain to you why we started this project and the objective that it pursues.

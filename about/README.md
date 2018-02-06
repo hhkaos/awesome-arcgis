@@ -1,10 +1,10 @@
-> **Note**: this project is targeting developers but we also think ArcGIS users can benefit from it.
-
 # About
 
-## Context
+When we started this project we had in mind to mainly help developers, but later on we realized that it was also helpful for other users with different backgrounds. That's the reason because of [the structure](https://github.com/hhkaos/awesome-arcgis/blob/master/SUMMARY.md) of this project has a "developer taste".
 
-In this page I will try to explain to you why we started this project and the objective that it pursues.
+In this page I will try to explain why we started this **collaborative project** and the objective that it pursues.
+
+## Context
 
 Sometimes we hear **that people new to ArcGIS** find difficult to understand the technology because there are too much information about Esri and ArcGIS, but also because it is [spread in many  websites](../esri/README.md#websites).
 
@@ -21,7 +21,7 @@ That's why we decided to build this project, a collection of *[awesome lists](ht
 
 > **Example awesome pages**: [Web AppBuilder Developer Edition](../arcgis/products/web-appbuilder/developer-edition/README.md), [Configurable Apps](../arcgis/products/configurable-apps/README.md), [Web Map Spec](../esri/open-vision/open-specifications/web-map/README.md), [Esri-Leaflet](../front-end/technologies/leaflet/README.md), [ArcGIS Pro and it's SDK](../arcgis/products/arcgis-desktop/arcgis-pro/README.md), [Runtime SDK for Android](../mobile/technologies/android/README.md), [REST APIs](../esri/open-vision/open-specifications/arcgis-rest-api/README.md), etc,
 
-We are working closely with many [ArcGIS experts](https://esri-es.github.io/arcgis-experts/) to collect the best information available for each topic, but of course we would love you could   [contribute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md).
+We are working closely with many [ArcGIS experts](https://esri-es.github.io/arcgis-experts/) to collect the best information available for each topic, but **anyone is welcome to contribute** ([learn how](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).
 
 Our goals are to make it easier for anyone:
 * To get started developing with ArcGIS
@@ -33,6 +33,11 @@ We really hope this project helps you to become an [ArcGIS experts](https://esri
 
 Sincerely,<br>
 [The contributors](https://github.com/hhkaos/awesome-arcgis/graphs/contributors)
+
+## Frequently Asked Questions
+
+We would love to answer any question you have, or start a conversation with you, in that case please use the [issues section](https://github.com/hhkaos/awesome-arcgis/issues?q=is%3Aopen+is%3Aissue+label%3Aquestion).
+
 
 ---
 

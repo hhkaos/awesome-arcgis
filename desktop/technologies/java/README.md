@@ -123,6 +123,5 @@ technology so we recommend you to follow them.
 
 * [ArcGIS Online Resources](https://arcgisruntime.maps.arcgis.com/home/search.html?q=owner%3A%20ArcGISRuntimeSDK&t=content&start=1&sortOrder=desc&sortField=relevance)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

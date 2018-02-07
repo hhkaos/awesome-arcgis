@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Web Scene Viewer
 The [Web Scene Viewer](http://www.esri.com/software/scene-viewer) is a web tool that allow you to create and modify [Web scenes](../../open-specifications/web-scene/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
@@ -54,6 +54,5 @@ The Web Map Viewer is available in ArcGIS Online and in Portal for ArcGIS as you
 
 After you finish your Web scene you can easly create apps combining it with [configurable apps](../configurable-apps/README.md), the hosted version on ArcGIS Online or Portal of [Web AppBuilder](../web-appbuilder/README.md) and also with [AppStudio basic](../appstudio/README.md).
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Community
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -89,6 +89,5 @@ You can find all the [developer advocates at github.io/arcgis-experts](https://e
 
 <!--|![Jose](./img/jose_medina.png)|[Jose Medina](http://linkedin.com/in/josemedinab)|Argentina|[@josemanuel_mb](https://twitter.com/josemanuel_mb)|n.a.-->
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

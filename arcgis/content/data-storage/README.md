@@ -1,7 +1,7 @@
 > **Goal**: compile everything a developer interested in this topic should know about it in the Esri World.
 
 ---
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Data storage
 
@@ -29,6 +29,5 @@ When working with ArcGIS you will likely have to work with geolocated content on
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["storage"](https://esri-es.github.io/arcgis-search/?search="storage"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

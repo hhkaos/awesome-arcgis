@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS Open Data
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -95,6 +95,5 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [Webinar ArcGIS Open Data](https://www.youtube.com/watch?v=-RveBR6Ah0s)
 * [Crear Geo-Apps usando Open Data](https://www.youtube.com/watch?v=fOYKQb1TW0A)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

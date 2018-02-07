@@ -16,6 +16,5 @@
 * [Web Maps for WordPress (Free)](http://www.geo-jobe.com/web-maps-for-wordpress/free/)
 * [Web Maps for WordPress (Pro Version)](http://www.geo-jobe.com/web-maps-for-wordpress/pro/)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

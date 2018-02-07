@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # AppStudio
 It is an extendable AppBuilder that help you to build cross-platform apps, web and native (Android, iOS, Windows, OS X and Linux), from your maps in order to be able to publish them using your own brand anywhere.
@@ -61,6 +61,5 @@ technology so we recommend you to follow them.
 * [Blogs.esri.com tag "AppStudio"](https://blogs.esri.com/esri/arcgis/tag/appstudio/)
 * [AppStudio on Twitter](https://twitter.com/AppStudioArcGIS)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

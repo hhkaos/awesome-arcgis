@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Research & Development
 Esri invests [25-30]% of it earnings yearly on R&D ([~$1M/day](https://youtu.be/qNrySnLVJ_A?t=7m48s)) to keep introducing innovation to the ArcGIS Platform.
@@ -74,6 +74,5 @@ green-infrastructure.esri.com/LandCover/index.html
 |![John Grayson](https://avatars2.githubusercontent.com/u/5324720?v=3&s=50)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|[ArcGIS](http://www.arcgis.com/home/search.html?q=owner%3Ajgrayson)|n.a.|n.a.|
 |![Richie Carmichael](https://avatars1.githubusercontent.com/u/2531121?v=3&s=50)|Richie Carmichael|[Github](https://github.com/richiecarmichael)|[Twitter](https://twitter.com/KiwiRichie?s=03)|n.a.|n.a.|n.a.
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

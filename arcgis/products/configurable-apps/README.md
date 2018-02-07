@@ -245,6 +245,5 @@ technology so we recommend you to follow them.
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 * [Taller: Aplicaciones configurables ArcGIS](https://www.youtube.com/watch?v=TtvxTudvBX0&index=13&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

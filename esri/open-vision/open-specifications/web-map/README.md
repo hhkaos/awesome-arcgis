@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Web Map specification
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -65,6 +65,5 @@ Slides del MOOC Plataforma ArcGIS Aumentando la productividad:
 * [Consejos y trucos](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/consejos-y-trucos)
 * [Web map como BD + Backoffice + API](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/bd-backoffice-api)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

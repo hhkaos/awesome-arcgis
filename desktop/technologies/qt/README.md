@@ -35,6 +35,5 @@ technology so we recommend you to follow them.
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
 to [download de ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/downloads/).
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

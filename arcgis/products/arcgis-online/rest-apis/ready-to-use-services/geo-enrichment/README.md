@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # GeoEnrichment
 GeoEnrichment is the process of adding demographic and lifestyle data to your maps. So the [Esri GeoEnrichment Service](https://developers.arcgis.com/features/geo-enrichment/) allows you to add demographic, business, and landscape data to your maps and applications
@@ -46,6 +46,5 @@ Please read [page 5, section 4.0 - DATA](http://www.esri.com/~/media/Files/Pdfs/
 
 * [Codelab: ArcGIS GeoEnrichment API - ArcGIS DevLabs](https://docs.google.com/document/d/1HIH8zm4Q1alsEsLEySSI0GuU7Zw5LvkQL7TQ2KbGxPE/edit?usp=sharing)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

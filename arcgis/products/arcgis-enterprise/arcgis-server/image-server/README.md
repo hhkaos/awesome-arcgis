@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS Image Server
 ArcGIS Image Server provides serving, processing, analysis, and extracting value from massive collections of imagery, rasters, and remotely sensed data. The two capabilities ArcGIS Image Server provides are described below.
@@ -34,6 +34,5 @@ You can access to this tool though and [ArcGIS Developer Subscription](https://d
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["image server"](https://esri-es.github.io/arcgis-search/?search="image+server"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

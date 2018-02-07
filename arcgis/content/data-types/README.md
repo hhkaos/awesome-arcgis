@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Data types
 Most of the topics in this help section document how to use the geodatabase and a few other primary data formats that are native to ArcGIS.
@@ -30,6 +30,5 @@ Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/e
      * [CAD](./vector/cad/README.md) (Computer-Aided Design aids in the creation, modification, analysis, or optimization of a 2D and 3D designs)
      * ...
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

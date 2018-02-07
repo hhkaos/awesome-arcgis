@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Open specifications
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -24,6 +24,5 @@ building [Open APIs and Specifications](http://www.esri.com/software/open/open-a
 * [XML Schema for the Geodatabase](http://support.esri.com/en/knowledgebase/whitepapers/view/productid/43/metaid/695)
 * [Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

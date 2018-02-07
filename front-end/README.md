@@ -40,6 +40,6 @@ Did you know how web mapping evolved during the last twenty years? And when each
 
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome#front-end-development): Awesome list of front-end resources
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+
+

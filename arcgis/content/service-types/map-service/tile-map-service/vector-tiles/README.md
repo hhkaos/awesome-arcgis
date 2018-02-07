@@ -90,6 +90,5 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 Esri vector tiles uses or had used, [Earcut](https://github.com/mapbox/earcut), [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native), [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec), [Mapbox vector-style-spec](https://github.com/mapbox/vector-tile-spec) & [Node-sqlite3](https://github.com/mapbox/node-sqlite3).
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

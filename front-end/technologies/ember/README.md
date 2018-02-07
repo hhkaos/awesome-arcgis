@@ -31,7 +31,7 @@ Here you will find a lot of interesting resources to learn an improve your skill
 with Ember:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
-## Contributions
+
 For the sake of the people maintaining this resource pages any resource related to a technology listed inside the [jsapi-resources/frameworks/](https://github.com/Esri/jsapi-resources/tree/master/frameworks/) (like this one) will be included in that repo
 
 > Read more: [Conversation that took place in January 2018 ](https://github.com/hhkaos/awesome-arcgis/pull/13)

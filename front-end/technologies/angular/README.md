@@ -92,6 +92,5 @@ with Angular:
 * [Angular 2: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass](https://github.com/AngularClass/awesome-angular2)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

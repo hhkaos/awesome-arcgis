@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS Online
 [ArcGIS Online](http://www.esri.com/software/arcgis/arcgisonline)
@@ -96,6 +96,5 @@ If you are an independent developer we encourage you to start using the
 * [ArcGIS Online news at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-online/)
 * [ArcGIS Online at Twitter](https://twitter.com/ArcGISOnline)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

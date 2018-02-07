@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Web AppBuilder
 [Web AppBuilder](http://www.esri.com/software/web-appbuilder) is a WYSIWYG tool that allow any user to build 2D and 3D map-centric apps (*with a full screen map*) without writing any code. You as a web developer can add new widgets and themes or customize the existing ones.
@@ -48,6 +48,5 @@ And of course you can search the [most viewed Web AppBuilder videos on Youtube](
 ## News
 * Web AppBuilder for ArcGIS - [Blog posts at GeoNet](https://community.esri.com/community/gis/web-gis/web-appbuilder/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
-## Contributions
 
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+

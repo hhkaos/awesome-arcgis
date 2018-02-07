@@ -5,7 +5,6 @@
 **Table of contents**
 
 - [Developer plans for web developers](#developer-plans-for-web-developers)
-  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

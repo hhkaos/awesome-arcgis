@@ -5,7 +5,6 @@
 **Table of contents**
 
 - [Developer plans based on your background](#developer-plans-based-on-your-background)
-  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

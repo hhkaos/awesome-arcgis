@@ -10,7 +10,6 @@
 - [Organization account](#organization-account)
 - [Esri.com account](#esricom-account)
 - [ArcGIS.com account](#arcgiscom-account)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -13,7 +13,6 @@
 - [Drawing features](#drawing-features)
   - [Using feature services](#using-feature-services)
 - [People you should know](#people-you-should-know)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

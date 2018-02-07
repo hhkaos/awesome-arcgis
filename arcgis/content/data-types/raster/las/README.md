@@ -8,7 +8,6 @@ A LAS dataset stores reference to one or more LAS files on disk, as well as to a
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

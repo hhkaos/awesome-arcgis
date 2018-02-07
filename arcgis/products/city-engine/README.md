@@ -10,7 +10,6 @@
 - [News](#news)
 - [Videos](#videos)
 - [Get the tool](#get-the-tool)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

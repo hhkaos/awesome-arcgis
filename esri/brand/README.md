@@ -6,7 +6,6 @@
 **Table of contents**
 
 - [Brand Color Palettes](#brand-color-palettes)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

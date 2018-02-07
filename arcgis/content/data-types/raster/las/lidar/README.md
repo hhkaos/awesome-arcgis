@@ -12,7 +12,6 @@ Lidar (light detection and ranging) is an optical remote-sensing technique that 
 - [People you should know](#people-you-should-know)
 - [Related topics](#related-topics)
 - [Resources](#resources)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

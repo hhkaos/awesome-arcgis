@@ -14,7 +14,6 @@ It is an native (Android, iOS, Windows, OS X and Linux) and web app builder that
 - [Community](#community)
 - [News](#news)
 - [People you should know](#people-you-should-know)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

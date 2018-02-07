@@ -11,7 +11,6 @@ as you will learn in this page.
 - [Introduction](#introduction)
 - [Products with REST APIs](#products-with-rest-apis)
 - [Community](#community)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

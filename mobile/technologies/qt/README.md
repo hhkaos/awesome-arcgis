@@ -9,7 +9,6 @@
   - [Documentation](#documentation)
 - [Download the SDK](#download-the-sdk)
 - [Awesome lists for Qt](#awesome-lists-for-qt)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

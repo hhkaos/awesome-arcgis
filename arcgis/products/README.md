@@ -10,7 +10,6 @@
 - [Developer products](#developer-products)
 - [Developer related products](#developer-related-products)
 - [Ready to use apps](#ready-to-use-apps)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

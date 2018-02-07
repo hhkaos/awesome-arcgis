@@ -17,7 +17,6 @@ Export 3D scenarios built using [City Engine](../arcgis/products/city-engine/REA
 - [People you should know](#people-you-should-know)
 - [Related resources](#related-resources)
 - [Additional resources](#additional-resources)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

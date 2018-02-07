@@ -6,7 +6,6 @@
 **Table of contents**
 
 - [Get more credits](#get-more-credits)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

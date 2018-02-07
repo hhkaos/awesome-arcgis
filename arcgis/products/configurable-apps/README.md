@@ -27,7 +27,6 @@ mechanism that allows users of an organization to create and configure
 - [News about Configurable Apps](#news-about-configurable-apps)
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

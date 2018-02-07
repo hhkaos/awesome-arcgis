@@ -15,7 +15,6 @@
   - [Runtimes SDKs](#runtimes-sdks)
 - [ArcGIS Online](#arcgis-online)
 - [EDN](#edn)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

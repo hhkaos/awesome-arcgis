@@ -7,7 +7,6 @@
 
 - [Other best practices](#other-best-practices)
 - [Tools](#tools)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

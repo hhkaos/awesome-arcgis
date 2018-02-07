@@ -13,7 +13,6 @@ credit-consuming APIs, ...
 - [Introduction](#introduction)
 - [Resources](#resources)
 - [Videos](#videos)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

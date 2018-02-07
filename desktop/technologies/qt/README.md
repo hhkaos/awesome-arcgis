@@ -10,7 +10,6 @@
   - [Documentation](#documentation)
 - [People you should know](#people-you-should-know)
 - [Download the SDK](#download-the-sdk)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

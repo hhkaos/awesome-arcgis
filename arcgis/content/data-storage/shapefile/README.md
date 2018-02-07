@@ -23,7 +23,6 @@ Shapefile format is a geospatial vector data format for geographic information s
 - [Additional resources](#additional-resources)
   - [Locatized resources](#locatized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -12,7 +12,6 @@ ArcGIS Image Server provides serving, processing, analysis, and extracting value
 - [Training](#training)
 - [Get the tool](#get-the-tool)
 - [More resources](#more-resources)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

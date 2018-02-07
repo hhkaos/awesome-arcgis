@@ -7,7 +7,6 @@
 
 - [Introduction](#introduction)
 - [Training](#training)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## Introduction

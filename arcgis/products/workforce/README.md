@@ -13,7 +13,6 @@
 - [Code](#code)
 - [Community](#community)
 - [News](#news)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -19,7 +19,6 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
 - [Third party acknowledgements](#third-party-acknowledgements)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

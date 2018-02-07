@@ -8,7 +8,6 @@
 - [Introduction](#introduction)
 - [Training](#training)
 - [Community](#community)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

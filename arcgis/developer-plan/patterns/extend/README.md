@@ -5,7 +5,6 @@
 **Table of contents**
 
 - [Extend existing ArcGIS apps](#extend-existing-arcgis-apps)
-  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

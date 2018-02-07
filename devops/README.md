@@ -13,7 +13,6 @@
 - [Code](#code)
 - [Amazon Web Services (AWS) AMIs](#amazon-web-services-aws-amis)
 - [Articles](#articles)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -8,7 +8,6 @@
 - [Build from scratch](#build-from-scratch)
 - [Configure and build](#configure-and-build)
 - [Extent the Platform](#extent-the-platform)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -14,7 +14,6 @@
 - [Videos](#videos)
 - [Community](#community)
 - [Download the SDK](#download-the-sdk)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

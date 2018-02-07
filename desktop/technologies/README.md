@@ -8,7 +8,6 @@ for ArcGIS Developers.
 **Table of contents**
 
 - [Choosing the best technology](#choosing-the-best-technology)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -9,7 +9,6 @@ Most of the topics in this help section document how to use the geodatabase and 
 
 - [Introduction](#introduction)
 - [Types](#types)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

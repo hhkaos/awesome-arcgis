@@ -18,7 +18,6 @@ comprised of the Video Player, Video Manager and associated GP Tools
 - [Other resources](#other-resources)
 - [You didn't find you answer?](#you-didnt-find-you-answer)
 - [Related technologies](#related-technologies)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

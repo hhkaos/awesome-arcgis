@@ -13,7 +13,6 @@
 - [Download the SDK](#download-the-sdk)
 - [News](#news)
 - [Awesome lists for Android](#awesome-lists-for-android)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

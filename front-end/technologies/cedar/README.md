@@ -7,7 +7,6 @@
 
 - [Community](#community)
 - [Mixin with ArmCharts](#mixin-with-armcharts)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 [Cedar](https://github.com/Esri/cedar) is a library for crafting, sharing and

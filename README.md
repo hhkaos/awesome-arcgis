@@ -13,7 +13,6 @@ Awesome resource list for ArcGIS Developers ([why we started this project?](./ab
 - [About ArcGIS](#about-arcgis)
 - [ArcGIS community](#arcgis-community)
 - [Localized resources lists](#localized-resources-lists)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

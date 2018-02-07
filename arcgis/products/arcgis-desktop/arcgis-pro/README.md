@@ -17,7 +17,6 @@ to create, manage, and share geographic maps, data, and analytical models.
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News](#news)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

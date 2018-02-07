@@ -5,7 +5,6 @@
 **Table of contents**
 
 - [Build custom apps](#build-custom-apps)
-  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

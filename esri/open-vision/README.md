@@ -12,7 +12,6 @@
 - [Open APIs and Specifications](#open-apis-and-specifications)
 - [Open Source](#open-source)
 - [Community](#community)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

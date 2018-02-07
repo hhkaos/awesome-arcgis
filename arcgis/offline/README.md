@@ -13,7 +13,6 @@
     - [Services pattern](#services-pattern)
     - [Desktop pattern](#desktop-pattern)
   - [Conflicts](#conflicts)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

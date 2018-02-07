@@ -5,7 +5,6 @@
 **Table of contents**
 
 - [Developer plans for native developers](#developer-plans-for-native-developers)
-  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -11,7 +11,6 @@
   - [Community](#community)
   - [Code](#code)
   - [People you should know](#people-you-should-know)
-  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

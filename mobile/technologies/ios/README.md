@@ -14,7 +14,6 @@
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [Awesome lists for iOS](#awesome-lists-for-ios)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

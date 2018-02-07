@@ -23,7 +23,6 @@ Computer-Aided Design aids in the creation, modification, analysis, or optimizat
 - [Additional resources](#additional-resources)
   - [Locatized resources](#locatized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

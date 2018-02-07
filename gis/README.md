@@ -13,7 +13,6 @@ resources to get on board.
 - [Spatial reference](#spatial-reference)
 - [Projection](#projection)
 - [Well Known IDs (WKIDs)](#well-known-ids-wkids)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -17,7 +17,6 @@ we will show you how in this page.
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
 - [Related resources](#related-resources)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

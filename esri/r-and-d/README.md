@@ -12,7 +12,6 @@ Esri invests [25-30]% of it earnings yearly on R&D ([~$1M/day](https://youtu.be/
   - [Carrers](#carrers)
   - [Team](#team)
   - [Prototype labs](#prototype-labs)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

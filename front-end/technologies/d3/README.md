@@ -46,7 +46,3 @@ Here you will find a lot of interesting resources to learn an improve your skill
 with **d3.js**:
 * [awesome-d3](https://github.com/wbkd/awesome-d3): A curated list of awesome things related to d3.js
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
-
-## Contributions
-
-This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).

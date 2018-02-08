@@ -75,6 +75,7 @@ Resources:
 ## Awesome projects
 
 Live examples:
+* [Facilities Operations Dashboard](http://facilities.maps.arcgis.com/apps/dashboard/index.html#/9681de79e5904dc28a104e8fadda6e00)
 * [Esri Campus Viewer - 3D, Indoor and Routing](http://3dcampus.arcgis.com/EsriCampusViewer/app/)
 * [Esri Spain office - Indoor cloud points](http://preventas.maps.arcgis.com/home/webscene/viewer.html?webscene=c8c7cd0c831c43cbb68ab17abec0ce01)
 * Storymaps:

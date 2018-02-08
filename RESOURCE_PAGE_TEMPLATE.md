@@ -129,7 +129,3 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Other related list of resources
 
 *Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists)*
-
-
-
-

@@ -26,6 +26,7 @@ Learn how to combine the ArcGIS JS API with:
 * [Polymer](polymer/README.md)
 * [React](react/README.md)
 * [VueJS](vuejs/README.md)
+* [D3.js](d3/README.md)
 
 **Choosing the best framework**: There are several talks that may help you understand which framework/library you should use:
 
@@ -36,4 +37,8 @@ Learn how to combine the ArcGIS JS API with:
 |[DevSummit](http://www.esri.com/events/devsummit) 2014|[Working with Frameworks & ArcGIS API](http://www.esri.com/videos/watch?videoid=3334&channelid=LegacyVideo&isLegacy=true&title=working-with-javascript-app-frameworks-&-arcgis-api-for-javascript)|54min 23secs|
 
 
+<<<<<<< HEAD
 
+=======
+This project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+>>>>>>> f159d28bb120cb376ced2a2e155810926fc1276b

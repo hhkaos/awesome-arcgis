@@ -26,6 +26,7 @@ This content is delivered though ArcGIS Server services, you can learn more abou
 [which type of services are available in ArcGIS Server](service-types/README.md).
 
 [ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book)
+[ArcGIS Imagery Book - Instructional Guide](http://downloads.esri.com/LearnArcGIS/pdf/instructional-guide-for-the-arcgis-imagery-book.pdf)
 
 ## Find existing geolocated content
 ### Inside the ArcGIS
@@ -61,6 +62,3 @@ Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/e
 ## News
 
 * [LivingAtlas](https://twitter.com/LivingAtlas)
-
-
-

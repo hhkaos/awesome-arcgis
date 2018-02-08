@@ -17,6 +17,7 @@
 # Resources
 ## Training
 * [Learn ArcGIS site](http://learn.arcgis.com)
+* [Book series](https://learn.arcgis.com/en/arcgis-book-series/#series)
 
 ### Videos / Technical talks
 ## Community
@@ -30,6 +31,3 @@ Please find the ArcGIS Experts (story tellers and developers) on this topic here
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-
-

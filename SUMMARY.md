@@ -129,6 +129,7 @@
     - [Backbone](front-end/technologies/backbone/README.md)
     - [Calcite](front-end/technologies/calcite/README.md)
     - [Cedar](front-end/technologies/cedar/README.md)
+    - [D 3](front-end/technologies/d3/README.md)
     - [Dojo](front-end/technologies/dojo/README.md)
       - [3.x](front-end/technologies/dojo/3.x/README.md)
       - [4.x](front-end/technologies/dojo/4.x/README.md)

@@ -26,6 +26,7 @@ Learn how to combine the ArcGIS JS API with:
 * [Polymer](polymer/README.md)
 * [React](react/README.md)
 * [VueJS](vuejs/README.md)
+* [D3.js](d3/README.md)
 
 **Choosing the best framework**: There are several talks that may help you understand which framework/library you should use:
 

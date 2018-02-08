@@ -1,4 +1,4 @@
-> Please [feel free to help us](#contributions) to improve this page. You can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Vector tiles
 Is a set of web-accessible tiles and the corresponding style for how those tiles should be drawn. Vector tiles are similar to [image tiles](../image-tiles/README.md), but they store a vector representation of the data.

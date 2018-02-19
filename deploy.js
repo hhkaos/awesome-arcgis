@@ -158,7 +158,6 @@ var commandExists = require('command-exists');
             excludeFoldersFromDocToc = excludeFoldersFromDocToc.join(" -prune -o -path ");
 
             cmd = `find . -path ${excludeFoldersFromDocToc} -prune -o -name "*.md" ! -name ${excludeFileFromDocToc} -print | xargs node ./node_modules/doctoc/doctoc.js --title '**Table of contents**'`;
-            console.log(cmd);
             exec(cmd, function(error, stdout, stderr) {
                 console.log("Updating tables of contents: ",stdout);
 

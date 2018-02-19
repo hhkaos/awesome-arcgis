@@ -242,6 +242,7 @@ Esri employees:
 
 ## Github accounts
 
+* [Esri Inc Official](https://github.com/esri)
 * [Esri R&D DC](https://github.com/esridc)
 * [Esri R&D PDX](https://github.com/esripdx)
 * [Esri R&D Beijing](https://github.com/Esri-DevCenter-Beijing)
@@ -250,7 +251,3 @@ Esri employees:
 * [Esri Spain](https://github.com/esri-es)
 * [Esri UK](https://github.com/esriuk)
 * [Esri UK Map Labs](https://github.com/maplabs)
-
-
-
-

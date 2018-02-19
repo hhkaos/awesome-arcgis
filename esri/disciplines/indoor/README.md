@@ -85,6 +85,7 @@ Live examples:
     * [Ontario Mills - Store Performance](http://esribizteam.maps.arcgis.com/apps/MapJournal/index.html?appid=b19fdfb5ae504368b526fb72b00d6185&webmap=c42573f6550c4b85bb51fd5c8571846a)
     * [Ontario Mills Indoor Mapping - Store Layout](http://esribizteam.maps.arcgis.com/apps/MapJournal/index.html?appid=fab506a915e0462aa9f5f4e33187fdc6&webmap=a8a4f7c3152c4b529101740bf0d04f8c)
     * [Ontario Mills Indoor Mapping - Checkout Counter Design](http://esribizteam.maps.arcgis.com/apps/MapJournal/index.html?appid=2ac1f44db0154e879600d4834c1e3940&webmap=e4563813a28d4a8d8af86302c89c32c8)
+* [3D Facility Exploration POC with Indoor Reality](https://mpayson.github.io/indoor-reality-poc/)
 
 |Video|Length|
 |---|---|

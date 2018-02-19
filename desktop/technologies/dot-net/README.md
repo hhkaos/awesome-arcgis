@@ -11,10 +11,17 @@ On this page you will find resources to learn how to develop desktop application
 - [Introduction](#introduction)
 - [Training](#training)
   - [Documentation](#documentation)
-- [People you should know](#people-you-should-know)
-- [Videos](#videos)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Get the tool](#get-the-tool)
+- [Coding](#coding)
+  - [Code](#code)
+  - [Tools](#tools)
 - [Community](#community)
-- [Download the SDK](#download-the-sdk)
+- [People you should know](#people-you-should-know)
+- [News](#news)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

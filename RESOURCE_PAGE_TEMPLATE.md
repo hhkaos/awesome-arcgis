@@ -51,7 +51,7 @@
 Replace `TOPIC` in the next paragram and remove the \`\`\`.
 
 ```
-On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks.
+On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks.
 
 ```
 
@@ -69,7 +69,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Get the tool
 
-*If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, if it is accessible though the Startup Program (or any other program), etc*
+*If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, dowloaded from developers.arcgis.com or any repo, installation guide, if it is accessible though the Startup Program (or any other program), etc*
 
 ## Coding
 

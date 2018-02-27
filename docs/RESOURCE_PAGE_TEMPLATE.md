@@ -87,11 +87,11 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Community
 
-Where can a developer find the community talking about this technology? (GeoNet Group/Place?, [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
+Where can a developer find the community talking about this technology? ([GeoNet Group/Place?](https://community.esri.com/places), [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
 
 ### People you should know
 
-> Replace `TOPIC` in the next paragram
+> Replace `TOPIC` in the next paragraph
 
 
 Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=TOPIC):
@@ -109,7 +109,7 @@ technology so we recommend you to follow them.
 More news:
 
 * ["TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
-* ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
+* ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=TOPIC&search=Search)
 * [Blog Posts about "TOPIC" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Does this topic/product have a Twitter account?
 * etc

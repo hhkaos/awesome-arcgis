@@ -2484,18 +2484,115 @@
                                 <blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis" target="_blank">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions" target="_blank">contribute in less than a minute</a>.</p>
 </blockquote>
-<h1 id="extending-operations-dashboard-for-arcgis">Extending Operations Dashboard for ArcGIS</h1>
+<h1 id="operations-dashboard-for-arcgis">Operations Dashboard for ArcGIS</h1>
+<p><a href="https://www.esri.com/en-us/arcgis/products/operations-dashboard/overview" target="_blank">Operations Dashboard</a> is a <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_blank">WYSIWYG</a> web tool that allows you to easily build interactive dashboards that provides location-aware data visualization and analytics.   </p>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
 <ul>
-<li><a href="#contributions">Contributions</a></li>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#training">Training</a><ul>
+<li><a href="#documentation">Documentation</a></li>
+<li><a href="#tutorials">Tutorials</a></li>
+<li><a href="#videos">Videos</a></li>
+<li><a href="#slides">Slides</a></li>
+</ul>
+</li>
+<li><a href="#get-the-tool">Get the tool</a></li>
+<li><a href="#coding">Coding</a><ul>
+<li><a href="#code">Code</a></li>
+</ul>
+</li>
+<li><a href="#community">Community</a><ul>
+<li><a href="#people-you-should-know">People you should know</a></li>
+</ul>
+</li>
+<li><a href="#news">News</a></li>
+<li><a href="#additional-resources">Additional resources</a></li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-<p>Develop your own widgets, map tools, and feature actions, and include them in an operation view using the ArcGIS API for JavaScript.
-ArcGIS API for JavaScript
-<a href="https://developers.arcgis.com/javascript/3/jshelp/operations-dashboard-extensibility-overview.html" target="_blank">https://developers.arcgis.com/javascript/3/jshelp/operations-dashboard-extensibility-overview.html</a></p>
-<p>Using the ArcGIS API for JavaScript, you can develop extensions for Operations Dashboard.</p>
+<h2 id="introduction">Introduction</h2>
+<p>Using the ArcGIS API for JavaScript, you can develop extensions for Operations, your own widgets, map tools, and feature actions, and include them in an operation view.</p>
+<p><img src="img/operations-dashboard.jpg" alt="Operations Dashboard"></p>
+<h2 id="training">Training</h2>
+<h3 id="documentation">Documentation</h3>
+<ul>
+<li><a href="https://developers.arcgis.com/javascript/3/jshelp/operations-dashboard-extensibility-overview.html" target="_blank">Extend Operations Dashboard</a></li>
+<li><a href="https://doc.arcgis.com/en/operations-dashboard/" target="_blank">Operations Dashboard documentation</a></li>
+<li><a href="http://www.esri.com/training/Bookmark/PKBPTMFVA" target="_blank">Operations Dashboard training courses</a></li>
+</ul>
+<h3 id="tutorials">Tutorials</h3>
+<ul>
+<li><a href="https://learn.arcgis.com/en/projects/monitor-real-time-emergencies/" target="_blank">Monitor Real-Time Emergencies</a> (1h 20min)</li>
+<li><a href="https://learn.arcgis.com/en/projects/oversee-snowplows-in-real-time/" target="_blank">Oversee Snowplows in Real Time</a> (1h 15min)</li>
+</ul>
+<h3 id="videos">Videos</h3>
+<p>On <a href="https://www.esri.com/videos/search?q=Operations Dashboard#?sortby=recent" target="_blank"><em>video.esri.com</em></a> you will find and <a href="https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=Operations+Dashboard" target="_blank">Esri Events</a> you will find many technical talks.</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>Title</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>n.a.</td>
+<td><a href="https://www.youtube.com/watch?v=paiEdhUaRAk" target="_blank">Operations Dashboard for ArcGIS: An Introduction</a></td>
+<td>1h 13min 28secs</td>
+</tr>
+<tr>
+<td>n.a.</td>
+<td><a href="https://www.youtube.com/watch?v=Hol5PBCfZUY" target="_blank">Developing Custom Extensions in Operations Dashboard for ArcGIS</a></td>
+<td>52min 34secs</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>You might also find interesting videos at <a href="https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA" target="_blank">Esri Industries</a>, <a href="https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw" target="_blank">ArcGIS</a>, <a href="https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels" target="_blank">etc</a></p>
+</blockquote>
+<h3 id="slides">Slides</h3>
+<p>More slides in <a href="https://www.google.es/search?q=site%3Aproceedings.esri.com+Operations+Dashboard" target="_blank"><em>proceedings.esri.com</em></a> or check on <a href="https://community.esri.com/content?query=Operations+Dashboard&amp;filterID=all~objecttype~objecttype%5Bdocument%5D" target="_blank">geonet</a>.</p>
+<h2 id="get-the-tool">Get the tool</h2>
+<p>You can <a href="http://www.arcgis.com/apps/opsdashboard/index.html" target="_blank">login to Operations Dashboard</a> with your <a href="https://developers.arcgis.com/sign-up" target="_blank">free Developer Subscription</a>.</p>
+<h2 id="coding">Coding</h2>
+<h3 id="code">Code</h3>
+<ul>
+<li>JavaScript:<ul>
+<li><a href="https://github.com/Esri/dashboard-samples" target="_blank">dashboard-samples</a>: Using the ArcGIS API for JavaScript, you can develop widget, map tools, and feature action extensions for Operations Dashboard running on Windows and in a browser.</li>
+<li><a href="https://github.com/Esri/workflowmanager-dashboard-samples" target="_blank">workflowmanager-dashboard-samples</a>: Sample Workflow Manager widgets inside the Operations Dashboard</li>
+<li><a href="https://github.com/Esri/production-dashboard-js" target="_blank">production-dashboard-js</a>: A collection of Javascript Operations Dashboard widgets that utilize Workflow Manager Server and Data Reviewer Server to visualize data about your organization.</li>
+</ul>
+</li>
+<li>C#:<ul>
+<li><a href="https://github.com/Esri/solutions-widgets-wpf" target="_blank">solutions-widgets-wpf</a>: Solutions Widgets for use in the ArcGIS WPF Operations Dashboard.</li>
+<li><a href="https://github.com/Esri/tableandsearch-opsdashboard-addin" target="_blank">tableandsearch-opsdashboard-addin</a>: Add-in for Operations Dashboard for ArcGIS containing a table widget and search nearby feature action. Additional tools may be added in future.</li>
+<li><a href="https://github.com/Esri/MapSketch-AttributeTable-CensusReport-opsdashboard-addin" target="_blank">MapSketch-AttributeTable-CensusReport-opsdashboard-addin</a>: An Operations Dashboard addin with a sketch map tool, a census report feature action, and an attribute table widget</li>
+<li><a href="https://github.com/Esri?utf8=%E2%9C%93&amp;q=operations&amp;type=&amp;language=" target="_blank">more repos</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="community">Community</h2>
+<p><a href="https://community.esri.com/community/gis/applications/operations-dashboard-for-arcgis" target="_blank">Operations Dashboard for ArcGIS on GeoNet</a></p>
+<h3 id="people-you-should-know">People you should know</h3>
+<p>Please find the <a href="https://esri-es.github.io/arcgis-experts/?topic=Operations+Dashboard" target="_blank">ArcGIS Experts on this topic using this tool</a>:</p>
+<p><a href="https://esri-es.github.io/arcgis-experts/?topic=Operations+Dashboard" target="_blank"><img src="https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true" alt="ArcGIS Experts Tool Screenshot"></a></p>
+<p>They don&apos;t work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.</p>
+<h2 id="news">News</h2>
+<ul>
+<li><a href="https://blogs.esri.com/esri/arcgis/2018/02/06/some-example-operations-dashboard-for-arcgis-apps/" target="_blank">Some Example Operations Dashboard for ArcGIS Apps &amp; Resources</a></li>
+</ul>
+<p>More news:</p>
+<ul>
+<li><a href="https://blogs.esri.com/esri/arcgis/tag/operations-dashboard-for-arcgis/" target="_blank">&quot;Operations Dashboard for ArcGIS&quot; at blogs.esri.com</a></li>
+<li><a href="https://www.esri.com/search?filter=Blogs&amp;q=Operations Dashboard&amp;search=Search" target="_blank">&quot;Operations Dashboard&quot; at esri.com search engine</a></li>
+<li><a href="https://community.esri.com/content?query=Operations Dashboard&amp;filterID=all~objecttype~objecttype%5Bblogpost%5D" target="_blank">Blog Posts about &quot;Operations Dashboard&quot; inside Places at GeoNet</a></li>
+</ul>
+<h2 id="additional-resources">Additional resources</h2>
+<p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/" target="_blank">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;Operations Dashboard&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">&quot;Operations Dashboard&quot;</a>.</p>
 
                                 
                                 </section>
@@ -2539,7 +2636,7 @@ ArcGIS API for JavaScript
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Operations Dashboard","level":"1.4.8.14","depth":3,"next":{"title":"Survey 123","level":"1.4.8.15","depth":3,"path":"arcgis/products/survey123/README.md","ref":"arcgis/products/survey123/README.md","articles":[]},"previous":{"title":"Navigator For Arcgis","level":"1.4.8.13","depth":3,"path":"arcgis/products/navigator-for-arcgis/README.md","ref":"arcgis/products/navigator-for-arcgis/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","RESOURCE_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/operations-dashboard/README.md","mtime":"2018-02-07T16:48:46.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-02-19T13:37:39.031Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Operations Dashboard","level":"1.4.8.14","depth":3,"next":{"title":"Survey 123","level":"1.4.8.15","depth":3,"path":"arcgis/products/survey123/README.md","ref":"arcgis/products/survey123/README.md","articles":[]},"previous":{"title":"Navigator For Arcgis","level":"1.4.8.13","depth":3,"path":"arcgis/products/navigator-for-arcgis/README.md","ref":"arcgis/products/navigator-for-arcgis/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","RESOURCE_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/operations-dashboard/README.md","mtime":"2018-02-27T11:20:19.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-02-27T11:20:31.034Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>

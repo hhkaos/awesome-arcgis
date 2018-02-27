@@ -8,7 +8,19 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Contributions](#contributions)
+- [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Get the tool](#get-the-tool)
+- [Coding](#coding)
+  - [Code](#code)
+- [Community](#community)
+  - [People you should know](#people-you-should-know)
+- [News](#news)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

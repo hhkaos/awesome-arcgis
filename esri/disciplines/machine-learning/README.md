@@ -10,11 +10,9 @@ Machine learning can play a critical role in spatial problem solving in a wide r
 
 - [Introduction](#introduction)
 - [Training](#training)
-  - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Slides](#slides)
-- [Get the tool](#get-the-tool)
 - [Coding](#coding)
   - [Code](#code)
   - [Tools](#tools)
@@ -24,8 +22,8 @@ Machine learning can play a critical role in spatial problem solving in a wide r
 - [News](#news)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
   - [Other related list of resources](#other-related-list-of-resources)
-- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -1,8 +1,8 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Machine Learning
+# Artificial Intelligence
 
-Machine learning can play a critical role in spatial problem solving in a wide range of application areas, from image classification to spatial pattern detection to multivariate prediction.
+Machine learning and deep learning can play a critical role in spatial problem solving in a wide range of application areas, from image classification to spatial pattern detection to multivariate prediction.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -31,12 +31,13 @@ Machine learning can play a critical role in spatial problem solving in a wide r
 
 Machine Learning (ML) refers to a set of data-driven algorithms and techniques that automate the prediction, classification, and clustering of data.
 
-## Training
+Deep learning refers to a subset of machine learning composed of algorithms that permit software to train itself to perform tasks, like speech and image recognition, by exposing multilayered neural networks to vast amounts of data.
 
+## Training
 
 ### Tutorials
 
-* Tutorial: [Predict Seagrass Habitats with Machine Learning](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) using [ArcGIS Pro](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md).
+* Machine Learning Tutorial: [Predict Seagrass Habitats](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) using [ArcGIS Pro](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md).
 
 
 ### Videos
@@ -61,6 +62,7 @@ Find slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ### Code
 
+* Rohit Singh: [Some experiments with deep learning](https://github.com/rohitgeo/deepdive)
 * Search: [machine learning site:github.com](https://esri-es.github.io/arcgis-search/?search=machine%20learning+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 ### Tools
@@ -116,3 +118,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Other related list of resources
 
 * [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+* MOOC:
+  * EDX: [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning)
+  * Coursera: [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+  * Udacity: [Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t-ir)

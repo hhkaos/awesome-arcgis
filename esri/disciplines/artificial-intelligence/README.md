@@ -47,6 +47,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=machine learning#?sor
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2018|[Artificial Intelligence with Geo](https://www.youtube.com/watch?v=UxaXYgVvkKA)|1h 4min 17secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Using Deep Learning to Extract Feature Data from Imagery](https://www.youtube.com/watch?v=UxaXYgVvkKA)|1h 3min 46secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Getting Data Science with R and ArcGIS](https://www.youtube.com/watch?v=KXCupqtb0-4)|59min 39secs
 |[User Conference](http://www.esri.com/about/events/uc) 2017|[Microsoft AI](https://www.youtube.com/watch?v=_iq-_K1OsMA)|4min 48secs|

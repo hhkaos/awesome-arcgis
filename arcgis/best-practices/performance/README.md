@@ -27,7 +27,7 @@ know and then you can check the specific pages for:
 * [Best practices for VR developers](../../../vr/best-practices/README.md)
 
 ## Display large amount of data
-Learn how [Dynamic Map Service](../../content/service-types/dynamic-map-service/README.md)
+Learn how [Dynamic Map Service](../../content/service-types/map-service/dynamic-map-service/README.md)
 allow us to display large amount of data in our app regardless of whether our
 application is web, desktop or mobile.
 
@@ -41,6 +41,3 @@ application is web, desktop or mobile.
 * mobile
 * web
 * ...
-
-
-

@@ -89,7 +89,9 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 
-Where can a developer find the community talking about this technology? ([GeoNet Group/Place?](https://community.esri.com/places), [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
+Where can a developer find the community talking about this technology? ([GeoNet Group/Place?](https://community.esri.com/places) <- add also a link to the "Content->Questions->Answered questions" filter, [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ...)
+
+Is there any category on [ArcGIS Ideas on GeoNet](https://community.esri.com/community/arcgis-ideas) for this topic?
 
 ### People you should know
 

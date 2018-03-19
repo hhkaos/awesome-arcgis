@@ -50,6 +50,7 @@ You can see a [full list of configurable apps](http://www.arcgis.com/home/search
 [Portal for ArcGIS](../../../../arcgis/products/arcgis-enterprise/portal-for-arcgis/README.md)
 
 ## Training
+
 * [Story Maps Resources compilation](http://storymaps.arcgis.com/en/resources/): Basic lessons, FAQ, Community, etc.
 
 Esri's formal training: (*available with a current maintenance subscription*)
@@ -240,9 +241,8 @@ technology so we recommend you to follow them.
 ## Localized resources
 
 ### Spanish
+
+* [Troubleshoot Story maps (under construction)](https://docs.google.com/document/d/1QoEp8qGfBiyZW5wuKrQcuC9LRfUbAAAzfpTyPOE1JeE/edit#heading=h.7ixp7fhw027v)
 * [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 * [Taller: Aplicaciones configurables ArcGIS](https://www.youtube.com/watch?v=TtvxTudvBX0&index=13&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)
-
-
-

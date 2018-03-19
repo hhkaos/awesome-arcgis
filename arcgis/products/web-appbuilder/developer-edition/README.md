@@ -61,7 +61,10 @@ And of course you can search the [most viewed Web AppBuilder videos on Youtube](
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
 to [download Web AppBuilder Developer Edition](https://developers.arcgis.com/downloads/).
 
-## Community
+## Community and support
+
+If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
+
 Web AppBuilder developers are mainly in GeoNet, you will find developers sharing
 code and helping other developers here:
 * [Custom Widgets GeoNet Group ](https://community.esri.com/groups/web-app-builder-custom-widgets)
@@ -108,6 +111,7 @@ You may find more localized resources in you country, check [this list](https://
 ### Spanish
 Además de las noticias sobre algunas novedades de la versión para desarrolladores que encontrarás [desarrolladores.esri.es](http://desarrolladores.esri.es/) hemos recopilado los siguientes recursos.
 
+* [Troubleshoot Web AppBuilder (Borrador)](https://docs.google.com/document/d/1hZshNbTDiqanQDPvYm77jb3g1lIYefjqbm2CoHXcidc/edit#)
 * **Charlas técnicas**:
   * [DevSummit Esri España 2016 - Consejos y herramientas para desarrollar en Web AppBuilder](http://www.geodevelopers.org/academy/xdN5KVG4tfw/view)
   * [Conferencia Esri España 2015 - Extendiendo Web AppBuilder for ArcGIS](http://www.geodevelopers.org/academy/wVmmWNf7quk/view)
@@ -117,6 +121,3 @@ Además de las noticias sobre algunas novedades de la versión para desarrollado
   * Si en lugar de aprender de manera autodidacta buscas una formación completa, guiada y tutorizada te recomendamos:
     * Experto en desarrollo
     * ...
-
-
-

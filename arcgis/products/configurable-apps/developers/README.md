@@ -19,5 +19,6 @@ You can build apps from templates using the Web Map Viewer. There are two differ
 * configurables
 
 
+## Spanish
 
-
+* [Troubleshoot Story maps (under construction)](https://docs.google.com/document/d/1QoEp8qGfBiyZW5wuKrQcuC9LRfUbAAAzfpTyPOE1JeE/edit#heading=h.7ixp7fhw027v)

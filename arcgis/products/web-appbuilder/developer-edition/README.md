@@ -13,7 +13,7 @@
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
 - [Download](#download)
-- [Community](#community)
+- [Community and support](#community-and-support)
 - [Code](#code)
 - [People you should know](#people-you-should-know)
 - [News](#news)

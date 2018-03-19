@@ -20,7 +20,7 @@ mechanism that allows users of an organization to create and configure
   - [Story Maps](#story-maps)
   - [Crowdsource apps](#crowdsource-apps)
 - [Code](#code)
-- [Community](#community)
+- [Community & Support](#community--support)
 - [Share your work](#share-your-work)
 - [Sell your configurable app](#sell-your-configurable-app)
 - [People you should know](#people-you-should-know)

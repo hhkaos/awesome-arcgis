@@ -21,9 +21,12 @@ Building information modeling (BIM) is a process involving the generation and ma
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 A new collaboration between [Autodesk](https://www.autodesk.com/solutions/bim/hub/autodesk-esri) and Esri will put GIS and BIM at the center of construction projects, driving smarter decisions, optimized designs, accelerated project approvals, reduced cost, creating smarter cities and resilient infrastructure. Building the bridge between GIS and BIM will change the way we plan, design, and build our future ([more info](http://www.esri.com/landing-pages/autodesk-esri-strategic-alliance)).
 
 ## Training
+
+Read the [ArcGIS Tools for BIM](https://greenshoots.maps.arcgis.com/apps/Cascade/index.html?appid=df637a80bd17412caf4a4e075019748e) storymap.
 
 ### Videos
 
@@ -83,6 +86,3 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 * [Webinar 3D, BIM y Gestión Indoor](https://www.youtube.com/watch?v=-PzdMRk7n80) (2017)
 * [BIM & Indoor, servicios i3s y realidad virtual, 3D en las nuevas tecnologías](https://www.youtube.com/watch?v=mV77R2I_M-0) (2017)
-
-
-

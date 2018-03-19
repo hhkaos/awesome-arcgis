@@ -76,9 +76,36 @@ You can [login to Operations Dashboard](http://www.arcgis.com/apps/opsdashboard/
     * [MapSketch-AttributeTable-CensusReport-opsdashboard-addin](https://github.com/Esri/MapSketch-AttributeTable-CensusReport-opsdashboard-addin): An Operations Dashboard addin with a sketch map tool, a census report feature action, and an attribute table widget
     * [more repos](https://github.com/Esri?utf8=%E2%9C%93&q=operations&type=&language=)
 
-## Community
+## Awesome projects
 
-[Operations Dashboard for ArcGIS on GeoNet](https://community.esri.com/community/gis/applications/operations-dashboard-for-arcgis)
+Real projects:
+
+* [Tompkins County, NY](http://arcg.is/2mcdgTa)
+* [Will County, IL](http://arcg.is/2qK3xch)
+* [Meath County Council, Ireland](http://arcg.is/2meOxxw)
+* [Orange County Environmental Resources](http://arcg.is/2CJNNYz)
+* [City of Vancouver, BC, Canada](http://arcg.is/2CY2smo)
+* [Massachusetts Emergency Management Agency (MEMA)](http://arcg.is/2E7CwBF)
+* [National Information Sharing Consortium (NISC)](http://arcg.is/2CVusaZ)
+* [Maryland Dept of Transportation](http://arcg.is/2upWsPx)
+* [Emergency Spatial Support Center (Esri Indonesia)](http://arcg.is/2pIfU8v)
+* [St Johns County Public Works, FL](http://arcg.is/2wxFjVh)
+
+Demo Apps:
+
+* [Snowplow Monitoring](https://www.arcgis.com/apps/opsdashboard/index.html#/1ecce900ca404673abd678df592b4d3a)
+* [Water Quality dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/37d0e7637f98479e83f5cdcf51038c3e)
+* [Crime data dashboard](http://www.arcgis.com/apps/opsdashboard/index.html#/9ef296f66f724c36bcaf01fc69768ecd)
+* [Wireless Network dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/d6cbca18bed544d08d4adeb5b5ee15ff)
+
+
+## Community and support
+
+Please go visit: [Operations Dashboard for ArcGIS Place on GeoNet](https://community.esri.com/community/gis/applications/operations-dashboard-for-arcgis)
+
+    * If needed: already [answered questions on GeoNet](https://community.esri.com/community/gis/applications/operations-dashboard-for-arcgis/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D)
+
+And remember, you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 
 ### People you should know
 

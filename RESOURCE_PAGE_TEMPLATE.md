@@ -85,7 +85,9 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 *If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
 
-## Community
+## Community and support
+
+If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 
 Where can a developer find the community talking about this technology? ([GeoNet Group/Place?](https://community.esri.com/places), [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ....)
 

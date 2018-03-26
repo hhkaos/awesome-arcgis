@@ -68,6 +68,10 @@ On **video.esri.com** there are [more than 234 videos related to ArcGIS Pro](htt
 * [Repo: arcgis-pro-sdk-cim-viewer](https://github.com/Esri/arcgis-pro-sdk-cim-viewer)
 * [Addin for ArcMap and Pro for convenient coordinate conversion in Desktop.](https://github.com/Esri/coordinate-conversion-addin-dotnet)
 
+## Awesome projects
+
+[ArcGIS Pro SDK Configurations Demo DevSummit 2017](https://youtu.be/u17Nt-4d_04?t=6m34s)
+
 ## Download the SDK
 
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
@@ -89,6 +93,3 @@ technology so we recommend you to follow them.
 
 * [Blogs.esri.com tag "ArcGIS Pro SDK"](https://blogs.esri.com/esri/arcgis/tag/arcgis-pro-sdk/)
 * [ArcGIS Pro Twitter account](https://twitter.com/arcgispro)
-
-
-

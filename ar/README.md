@@ -21,6 +21,7 @@
 
 * [Esri HoloMap](https://www.youtube.com/watch?v=hE9GXpZTwAs)
 * [ArcGIS Runtime and the Microsoft HoloLens](http://www.esri.com/videos/watch?videoid=5172&channelid=LegacyVideo&isLegacy=true&title=arcgis-runtime-and-the-microsoft-hololens)
+* [Mixing the Real with the Virtual](http://www.esri.com/esri-news/arcnews/winter18articles/mixing-the-real-with-the-virtual)
 
 ## AuGeo
 

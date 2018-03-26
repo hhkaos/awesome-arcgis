@@ -19,10 +19,17 @@
 * Mobile map package - [Android](https://developers.arcgis.com/net/latest/android/guide/display-a-map.htm#ESRI_SECTION2_4CCB74E11EE04611849F3C0F41D9381C), [iOS](https://developers.arcgis.com/net/latest/ios/guide/display-a-map.htm#ESRI_SECTION2_4CCB74E11EE04611849F3C0F41D9381C) & [Forms](https://developers.arcgis.com/net/latest/forms/guide/display-a-map.htm#ESRI_SECTION2_4CCB74E11EE04611849F3C0F41D9381C): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
 
 https://github.com/Esri/indoor-routing-xamarin
+
 ## Download the SDK
 
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
 to [download de ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/downloads/).
+
+
+## Awesome projects
+
+[Xamarin indoors demo - DevSummit 2017](https://youtu.be/u17Nt-4d_04?t=1m44s)
+[.Net & Xamarin indoors demo - DevSummit 2017 Plenary](https://youtu.be/i8FgR_3zumQ?t=35m3s)
 
 ## Awesome lists for .NET
 You will find a lot of interesting resources to learn an improve your skills

@@ -248,3 +248,7 @@ technology so we recommend you to follow them.
 * [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 * [Taller: Aplicaciones configurables ArcGIS](https://www.youtube.com/watch?v=TtvxTudvBX0&index=13&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)
+
+## Additional Resources
+
+ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=owner%3AStoryMaps&restrict=false&start=1&sortOrder=desc&sortField=modified)

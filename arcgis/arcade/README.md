@@ -16,12 +16,14 @@
 [Arcade](https://developers.arcgis.com/arcade/) provides a portable Expression Language which can be used across the ArcGIS Platform to control how features are rendered, or labelling expressions to change the text displayed.
 
 ## Documentation
+
 * [Check full documentation](https://developers.arcgis.com/arcade/)
   * [Guide](https://developers.arcgis.com/arcade/guide/)
   * [Arcade Function Index](https://developers.arcgis.com/arcade/function-reference/)
 * [Arcade - expression language JSAPI 4.x](https://developers.arcgis.com/javascript/latest/guide/arcade/)
 
 ## Videos / Technical talks
+
 On [**video.esri.com**](http://video.esri.com/search/arcade) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?q=site%3Aproceedings.esri.com%20arcade).
 
 |Source|Title|Length|
@@ -33,12 +35,16 @@ On [**video.esri.com**](http://video.esri.com/search/arcade) you will find many 
 
 
 ## Code samples
+
+* [Reuseable Arcade expressions across all supported profiles](https://github.com/Esri/arcade-expressions/)
 * [Create a renderer using Arcade Expressions - JSAPI 3.x](https://developers.arcgis.com/javascript/3/jssamples/renderer_arcade.html)
 * [Label features using Arcade expressions  - JSAPI 3.x](https://developers.arcgis.com/javascript/3/jssamples/labels_arcade.html)
 * [Create a custom visualization using an Arcade expression - JSAPI 4.x](https://developers.arcgis.com/javascript/latest/sample-code/visualization-arcade/index.html)
 
 
 ## Blog posts
+
+* [Share your Arcade expressions as templates](https://blogs.esri.com/esri/arcgis/2018/03/15/share-your-arcade-expressions-as-templates/)
 * [What's New in ArcGIS Online - 14/12/2016](https://blogs.esri.com/esri/arcgis/2016/12/14/whats-new-arcgis-online-december-2016/)
 * [Use Arcade Expressions to Map Your Ideas - 15/12/2016](https://blogs.esri.com/esri/arcgis/2016/12/15/use-arcade-expressions-to-map-your-ideas/)
 * [Introducing Arcade - 19/12/2016](https://blogs.esri.com/esri/arcgis/2016/12/19/introducing-arcade/)
@@ -46,7 +52,15 @@ On [**video.esri.com**](http://video.esri.com/search/arcade) you will find many 
 
 
 ## Arcade Playground
+
 * [ArcGIS Arcade](https://developers.arcgis.com/arcade/playground/)
 
+### People you should know
 
+Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=Arcade):
 
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=Arcade)
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.

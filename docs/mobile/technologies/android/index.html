@@ -2503,43 +2503,119 @@
 <p><strong>Table of contents</strong></p>
 <ul>
 <li><a href="#introduction">Introduction</a></li>
-<li><a href="#training">Training</a></li>
-<li><a href="#community">Community</a></li>
-<li><a href="#people-you-should-know">People you should know</a></li>
+<li><a href="#training">Training</a><ul>
+<li><a href="#documentation">Documentation</a></li>
+<li><a href="#tutorials">Tutorials</a></li>
+<li><a href="#videos">Videos</a></li>
+<li><a href="#slides">Slides</a></li>
+</ul>
+</li>
+<li><a href="#donwload-the-runtime-sdk-for-android">Donwload the Runtime SDK for Android</a></li>
+<li><a href="#coding">Coding</a><ul>
 <li><a href="#code">Code</a></li>
-<li><a href="#download-the-sdk">Download the SDK</a></li>
+<li><a href="#tools">Tools</a></li>
+</ul>
+</li>
+<li><a href="#awesome-projects--cool-demos">Awesome projects &amp; cool demos</a></li>
+<li><a href="#community-and-support">Community and support</a><ul>
+<li><a href="#people-you-should-know">People you should know</a></li>
+</ul>
+</li>
 <li><a href="#news">News</a></li>
-<li><a href="#awesome-lists-for-android">Awesome lists for Android</a></li>
+<li><a href="#additional-resources">Additional resources</a></li>
+<li><a href="#awesome-lists-for-android">Awesome lists for Android</a><ul>
+<li><a href="#localized-resources">Localized resources</a><ul>
+<li><a href="#spanish">Spanish</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <h2 id="introduction">Introduction</h2>
 <p>The <a href="https://developers.arcgis.com/android/" target="_blank">ArcGIS Runtime SDK for Android</a> is the technology you may want to use if you want to build you Android application in Java. If you are interested on building Android applications but not necessarily using this language you could also use:</p>
 <ul>
-<li><a href="../dot-net/README.md">ArcGIS Runtime SDK for .NET</a>, using C# with Xamarin you can build application which runs on Android, iOS and Windows Phones.</li>
+<li><a href="../xamarin/">ArcGIS Runtime SDK for .NET + Xamarin</a>, using C# with Xamarin you can build application which runs on Android, iOS and Windows Phones.</li>
 <li><a href="../qt/">ArcGIS Runtime SDK for Qt</a>: using C++ &amp; QML you can also build application for Android and iOS.</li>
 </ul>
 <p>As last resource, you may even consider to make an application or prototype as fast as possible (without writing any code), in this case you should also consider using some of <a href="../../../arcgis/products/#app-builders">our app builders, like AppStudio or Survey123</a>.</p>
 <h2 id="training">Training</h2>
 <ul>
-<li><a href="https://developers.arcgis.com/android/latest/guide/welcome-to-the-help-for-arcgis-runtime-sdk-for-android.htm" target="_blank">Documentation: Android Guide</a></li>
-<li><a href="https://developers.arcgis.com/android/latest/api-reference/reference/packages.html" target="_blank">Documentation: API Reference</a></li>
 <li><a href="https://www.esri.com/training/Bookmark/BJ7CvLE9l" target="_blank">Android Trainings at esri.com/training</a></li>
-<li><a href="https://www.youtube.com/results?search_query=android+arcgis" target="_blank">&quot;Android + ArcGIS&quot; at Youtube videos</a></li>
-<li><a href="https://developers.arcgis.com/android/latest/guide/mobile-map-package.htm" target="_blank">Mobile map package</a>: is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.</li>
-<li><a href="https://blogs.esri.com/esri/arcgis/2017/05/19/using-kotlin-android-extensions-with-arcgis-android/" target="_blank">Using Kotlin Android Extensions with ArcGIS Android</a></li>
 </ul>
-<h2 id="community">Community</h2>
+<h3 id="documentation">Documentation</h3>
 <ul>
-<li><a href="https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android" target="_blank">ArcGIS Runtime SDK for Android on GeoNet</a></li>
-<li><a href="https://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D+or+%5Bandroid%5D+and+%5Besri%5D+" target="_blank">Stackoverflow questions: [android] and [arcgis] or [android] and [esri]</a></li>
+<li><a href="https://developers.arcgis.com/android/latest/" target="_blank">ArcGIS Runtime SDK for Android Official Documentation</a><ul>
+<li><a href="https://developers.arcgis.com/android/latest/guide/develop-your-first-map-app.htm" target="_blank">Android Guide</a></li>
+<li><a href="https://developers.arcgis.com/android/latest/api-reference/reference/packages.html" target="_blank">Android API Reference</a></li>
 </ul>
-<h2 id="people-you-should-know">People you should know</h2>
-<p>Please find the ArcGIS Experts (story tellers and developers) on this topic here: <a href="https://esri-es.github.io/arcgis-experts/?topic=Android" target="_blank">https://esri-es.github.io/arcgis-experts/?topic=Android</a></p>
-<p>They don&apos;t work on the support team and some may even not work at Esri,
-but they are opening some projects and sharing insights related to this
-technology so we recommend you to follow them.</p>
-<h2 id="code">Code</h2>
+</li>
+</ul>
+<p>Important concepts:</p>
 <ul>
+<li><a href="https://developers.arcgis.com/android/latest/guide/create-an-offline-map.htm" target="_blank">Mobile maps package</a>: is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.</li>
+</ul>
+<h3 id="tutorials">Tutorials</h3>
+<p>Less than 20 minutes tutorials: <a href="https://developers.arcgis.com/labs/browse/?topic=any&amp;product=Android" target="_blank">Android DevLabs</a></p>
+<h3 id="videos">Videos</h3>
+<p>On <a href="https://www.esri.com/videos/search?q=android#?sortby=recent" target="_blank"><em>video.esri.com</em></a> you will find and <a href="https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=android" target="_blank">Esri Events</a> you will find many technical talks.</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>Title</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2017</td>
+<td><a href="https://www.youtube.com/watch?v=B2HVkFXfYmU" target="_blank">ArcGIS Runtime SDK for Android: Building Applications</a></td>
+<td>52min 22secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2017</td>
+<td><a href="https://www.youtube.com/watch?v=CPG7DHq7Wa8" target="_blank">Rounding Up the EMUs App for Android</a></td>
+</tr>
+<tr>
+<td>25min 42secs</td>
+</tr>
+<tr>
+<td>n.a. 2017</td>
+<td><a href="https://www.youtube.com/watch?v=Sf6BF-P2E-E" target="_blank">Ecological Marine Unit Explorer For Android</a></td>
+<td>4min 15secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2016</td>
+<td><a href="https://www.esri.com/videos/watch?videoid=5065&amp;channelid=LegacyVideo&amp;isLegacy=true&amp;title=arcgis-runtime-sdk-for-android:-hit-the-ground-running" target="_blank">ArcGIS Runtime SDK for Android: Hit the Ground Running</a></td>
+<td>1h 0min 44secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2016</td>
+<td><a href="https://www.esri.com/videos/watch?videoid=4435&amp;channelid=LegacyVideo&amp;isLegacy=true&amp;title=collaborate-with-arcgis-runtime-sdk-for-android" target="_blank">Collaborate with ArcGIS Runtime SDK for Android</a></td>
+<td>46min 1secs</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>You might also find interesting videos at <a href="https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA" target="_blank">Esri Industries</a>, <a href="https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw" target="_blank">ArcGIS</a>, <a href="https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels" target="_blank">etc</a></p>
+</blockquote>
+<h3 id="slides">Slides</h3>
+<p>You can find some slides in <a href="https://www.google.es/search?q=site%3Aproceedings.esri.com+Android" target="_blank"><em>proceedings.esri.com</em></a> or check on <a href="https://community.esri.com/content?query=Android&amp;filterID=all~objecttype~objecttype%5Bdocument%5D" target="_blank">GeoNet</a>.</p>
+<h2 id="donwload-the-runtime-sdk-for-android">Donwload the Runtime SDK for Android</h2>
+<p>You can <a href="https://developers.arcgis.com/android/10-2/guide/install-and-set-up.htm#ESRI_SECTION1_C9913E8160D74241977115BEA470E1C3" target="_blank">download it using Gradle</a> or from your <a href="https://developers.arcgis.com/downloads/" target="_blank">Download section</a> using you <a href="https://developers.arcgis.com/sign-up" target="_blank">free ArcGIS Developer account</a> .</p>
+<h2 id="coding">Coding</h2>
+<h3 id="code">Code</h3>
+<ul>
+<li>Example apps:<ul>
+<li><a href="https://developers.arcgis.com/example-apps/ecological-marine-unit-android/" target="_blank">Ecological Marine Unit Android</a></li>
+<li><a href="https://developers.arcgis.com/example-apps/maps-app-android/" target="_blank">Maps App Android</a></li>
+<li><a href="https://developers.arcgis.com/example-apps/nearby-android/" target="_blank">Nearby Places Android</a></li>
+<li><a href="https://developers.arcgis.com/example-apps/mapbook-android/" target="_blank">Offline Mapbook for Android</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/Esri/developer-support/tree/master/runtime-android" target="_blank">developer-support/runtime-android</a></li>
+<li><a href="https://esri-es.github.io/arcgis-search/?search=Android+site%3Agithub.com&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">Android @ ArcGIS Search</a></li>
 <li><a href="https://github.com/search?q=org%3AEsri+android" target="_blank">Android repos on Esri&apos;s Github</a><ul>
 <li><a href="https://github.com/Esri/arcgis-runtime-samples-android" target="_blank">ArcGIS Runtime SDK for Android Samples</a></li>
 <li><a href="https://github.com/Esri/arcgis-runtime-demos-android" target="_blank">Demo applications that have been built by the Esri Android SDK development team</a></li>
@@ -2550,20 +2626,67 @@ technology so we recommend you to follow them.</p>
 <li><a href="https://github.com/Esri/nearby-android" target="_blank">ArcGIS Android app to find places nearby and route to the nearest location</a></li>
 </ul>
 </li>
-<li><a href="http://codesharing.arcgis.com/" target="_blank">ArcGIS Code Sharing</a></li>
-<li><a href="https://developers.arcgis.com/android/latest/sample-code/sample-code.htm" target="_blank">Documentation Sample code</a></li>
-<li><a href="https://github.com/Esri/developer-support/tree/master/runtime-android" target="_blank">developer-support/runtime-android</a></li>
+<li>ArcGIS Online Accounts:<ul>
+<li><a href="https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&amp;restrict=false&amp;start=1&amp;sortOrder=desc&amp;sortField=modified" target="_blank">EsriAndroidTeam</a></li>
+<li><a href="https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&amp;restrict=false&amp;start=1&amp;sortOrder=desc&amp;sortField=modified" target="_blank">ArcGISRuntimeSDK</a></li>
 </ul>
-<h2 id="download-the-sdk">Download the SDK</h2>
-<p>You need to <a href="https://developers.arcgis.com/sign-up/" target="_blank">sign up</a> in order to be able
-to <a href="https://developers.arcgis.com/downloads/" target="_blank">download de ArcGIS Runtime SDK for Android</a>.</p>
+</li>
+<li><a href="https://developers.arcgis.com/android/latest/sample-code/sample-code.htm" target="_blank">Documentation Sample code</a></li>
+<li><a href="http://codesharing.arcgis.com/" target="_blank">ArcGIS Code Sharing</a></li>
+</ul>
+<blockquote>
+<p>You can also search at any other <a href="https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts" target="_blank">Esri&apos;s Github accounts</a>.</p>
+</blockquote>
+<h3 id="tools">Tools</h3>
+<p><em>None yet</em></p>
+<h2 id="awesome-projects--cool-demos">Awesome projects &amp; cool demos</h2>
+<ul>
+<li><a href="https://youtu.be/8ebDGwBZTUI?t=8m27s" target="_blank">ArcGIS Runtime SDK for iOS Demo at 2017 DevSummit Plenary</a></li>
+</ul>
+<h2 id="community-and-support">Community and support</h2>
+<p>If needed, remember you can always check the <a href="https://support.esri.com/en/Products/Developers" target="_blank">Technical Support Website for developer products</a> and the <a href="https://community.esri.com/groups/technical-support/blog/tags#/" target="_blank">Technical Support Blog at GeoNet</a> to find additional resources.</p>
+<p><strong>Community channels:</strong></p>
+<ul>
+<li>GeoNet<ul>
+<li><a href="https://community.esri.com/community/developers" target="_blank">Developers</a> &gt; <a href="https://community.esri.com/community/developers/native-app-developers" target="_blank">Native App Developers</a> &gt; <a href="https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android" target="_blank">ArcGIS Runtime SDK for Android</a><ul>
+<li><a href="https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D" target="_blank">ArcGIS Runtime SDK for Android answered questions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D" target="_blank">Stackoverflow</a></li>
+<li><a href="https://gis.stackexchange.com/search?q=Android" target="_blank">Stackexchange</a></li>
+<li><a href="https://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D+or+%5Bandroid%5D+and+%5Besri%5D+" target="_blank">Stackoverflow questions: [android] and [arcgis] or [android] and [esri]</a></li>
+<li>Sometimes is worth to combine GeoNet with the Github issues of an specific repo</li>
+</ul>
+<p>If you have an idea you can also share it on <a href="https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-runtime%5D&amp;query=android" target="_blank">ArcGIS Ideas -&gt; ArcGIS Runtime</a></p>
+<h3 id="people-you-should-know">People you should know</h3>
+<p>Please find the <a href="https://esri-es.github.io/arcgis-experts/?topic=Android" target="_blank">ArcGIS Experts on this topic using this tool</a>:</p>
+<p><a href="https://esri-es.github.io/arcgis-experts/?topic=Android" target="_blank"><img src="https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true" alt="ArcGIS Experts Tool Screenshot"></a></p>
+<p>They don&apos;t work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.</p>
 <h2 id="news">News</h2>
-<p><a href="https://blogs.esri.com/esri/arcgis/tag/android/" target="_blank">News tagged as &quot;Android&quot; in blogs.esri.com</a></p>
+<ul>
+<li><a href="https://blogs.esri.com/esri/arcgis/tag/android/" target="_blank">News tagged as &quot;Android&quot; at blogs.esri.com</a><ul>
+<li><a href="https://blogs.esri.com/esri/arcgis/2017/05/19/using-kotlin-android-extensions-with-arcgis-android/" target="_blank">Using Kotlin Android Extensions with ArcGIS Android</a></li>
+</ul>
+</li>
+<li><a href="https://www.esri.com/search?filter=Blogs&amp;q=Android&amp;search=Search" target="_blank">&quot;Android&quot; at esri.com search engine</a></li>
+<li><a href="https://community.esri.com/content?query=Android&amp;filterID=all~objecttype~objecttype%5Bblogpost%5D" target="_blank">Blog Posts about &quot;Android&quot; inside Places at GeoNet</a></li>
+</ul>
+<h2 id="additional-resources">Additional resources</h2>
+<p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/" target="_blank">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;Android&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">&quot;Android&quot;</a>.</p>
 <h2 id="awesome-lists-for-android">Awesome lists for Android</h2>
 <p>You will find a lot of interesting resources to learn an improve your skills
 with Android:</p>
 <ul>
 <li><a href="https://github.com/sindresorhus/awesome" target="_blank">Curated list of awesome lists</a></li>
+</ul>
+<h3 id="localized-resources">Localized resources</h3>
+<h4 id="spanish">Spanish</h4>
+<ul>
+<li><a href="http://www.esri.es/cursos-y-master/curso-experto/" target="_blank">Curso experto Experto en Desarrollo GIS</a></li>
 </ul>
 
                                 
@@ -2608,7 +2731,7 @@ with Android:</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Android","level":"1.11.2.1","depth":3,"next":{"title":"Ios","level":"1.11.2.2","depth":3,"path":"mobile/technologies/ios/README.md","ref":"mobile/technologies/ios/README.md","articles":[]},"previous":{"title":"Technologies","level":"1.11.2","depth":2,"path":"mobile/technologies/README.md","ref":"mobile/technologies/README.md","articles":[{"title":"Android","level":"1.11.2.1","depth":3,"path":"mobile/technologies/android/README.md","ref":"mobile/technologies/android/README.md","articles":[]},{"title":"Ios","level":"1.11.2.2","depth":3,"path":"mobile/technologies/ios/README.md","ref":"mobile/technologies/ios/README.md","articles":[]},{"title":"Qt","level":"1.11.2.3","depth":3,"path":"mobile/technologies/qt/README.md","ref":"mobile/technologies/qt/README.md","articles":[]},{"title":"Xamarin","level":"1.11.2.4","depth":3,"path":"mobile/technologies/xamarin/README.md","ref":"mobile/technologies/xamarin/README.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","RESOURCE_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"mobile/technologies/android/README.md","mtime":"2018-03-19T13:02:20.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-19T13:02:25.699Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Android","level":"1.11.2.1","depth":3,"next":{"title":"Ios","level":"1.11.2.2","depth":3,"path":"mobile/technologies/ios/README.md","ref":"mobile/technologies/ios/README.md","articles":[]},"previous":{"title":"Technologies","level":"1.11.2","depth":2,"path":"mobile/technologies/README.md","ref":"mobile/technologies/README.md","articles":[{"title":"Android","level":"1.11.2.1","depth":3,"path":"mobile/technologies/android/README.md","ref":"mobile/technologies/android/README.md","articles":[]},{"title":"Ios","level":"1.11.2.2","depth":3,"path":"mobile/technologies/ios/README.md","ref":"mobile/technologies/ios/README.md","articles":[]},{"title":"Qt","level":"1.11.2.3","depth":3,"path":"mobile/technologies/qt/README.md","ref":"mobile/technologies/qt/README.md","articles":[]},{"title":"Xamarin","level":"1.11.2.4","depth":3,"path":"mobile/technologies/xamarin/README.md","ref":"mobile/technologies/xamarin/README.md","articles":[]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","RESOURCE_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"mobile/technologies/android/README.md","mtime":"2018-03-26T16:48:56.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-26T16:49:06.169Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>

@@ -40,11 +40,11 @@
 
 ### Documentation
 
-*Compilation of official documentation, [training courses](https://www.esri.com/training/catalog/search/), ...*
+*Compilation of official documentation, [training courses](https://www.esri.com/training/catalog/search/),  [example apps](https://developers.arcgis.com/example-apps/),...*
 
 ### Tutorials
 
-*Tutorials ([DevLabs](https://developers.arcgis.com/labs), [learn.arcgis.com](https://learn.arcgis.com/en/), ...)*
+*Tutorials ([DevLabs](https://developers.arcgis.com/labs),  [learn.arcgis.com](https://learn.arcgis.com/en/), ...)*
 
 ### Videos
 
@@ -75,21 +75,28 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ### Code
 
-* Compilation of sample code on: anything on [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts) (or using [ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=TOPIC+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)), [codesharing.arcgis.com](http://codesharing.arcgis.com/), or any other known source.
+* Compilation of sample code on: anything on [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts) (or using [ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=TOPIC+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)), [codesharing.arcgis.com](http://codesharing.arcgis.com/), team account on ArcGIS Online ([EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [EsriQtTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified), ...), or any other known source.
 
 ### Tools
 
 *Any additional tool that could help the developer to speedup*
 
-## Awesome projects
+## Awesome projects & cool demos
 
-*If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
+*If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example: [2018](https://www.youtube.com/watch?v=K2lBYyAGN_c&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe), [2017](https://www.youtube.com/watch?v=uHDkhm3QiTY&list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), [2016](https://www.youtube.com/watch?v=Qn7ezk-9iqs&list=PLaPDDLTCmy4ZvztJzqBnGTBoD0Lz9r39S)), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
 
 ## Community and support
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 
-Where can a developer find the community talking about this technology? ([GeoNet Group/Place?](https://community.esri.com/places) <- add also a link to the "Content->Questions->Answered questions" filter, [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)?, [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)?, a Github repo?, ...)
+
+**Community channels:**
+
+* Where can a developer find the community talking about this technology? ([GeoNet Group/Place?](https://community.esri.com/places) <- add also a link to the "Content->Questions->Answered questions" filter
+* [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)
+* [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)
+* Sometimes is worth to combine GeoNet with the Github issues of an specific repo
+* ...
 
 Is there any category on [ArcGIS Ideas on GeoNet](https://community.esri.com/community/arcgis-ideas) for this topic?
 
@@ -112,7 +119,7 @@ technology so we recommend you to follow them.
 
 More news:
 
-* ["TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
+* [News tagged as "TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
 * ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=TOPIC&search=Search)
 * [Blog Posts about "TOPIC" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Does this topic/product have a Twitter account?
@@ -124,6 +131,8 @@ Replace `TOPIC` in the next paragraph and remove the \`\`\`.
 
 ```
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["TOPIC"](https://esri-es.github.io/arcgis-search/?search="TOPIC"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=owner%3AStoryMaps&restrict=false&start=1&sortOrder=desc&sortField=modified), ...
 ```
 
 ### Localized resources

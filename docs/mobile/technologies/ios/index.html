@@ -2498,6 +2498,7 @@
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis" target="_blank">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions" target="_blank">contribute in less than a minute</a>.</p>
 </blockquote>
 <h1 id="ios-developers">iOS Developers</h1>
+<p>ArcGIS Runtime SDK for iOS integrates a wide range of mapping and GIS capabilities online or offline, including editing, analysis, geocoding, routing, management of web maps, data visualization, mobile map packages, and vector tiled layers</p>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
@@ -2505,38 +2506,150 @@
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#training">Training</a><ul>
 <li><a href="#documentation">Documentation</a></li>
+<li><a href="#tutorials">Tutorials</a></li>
+<li><a href="#videos">Videos</a></li>
+<li><a href="#slides">Slides</a></li>
 </ul>
 </li>
+<li><a href="#download-the-runtime-sdk-for-ios">Download the Runtime SDK for iOS</a></li>
+<li><a href="#coding">Coding</a><ul>
 <li><a href="#code">Code</a></li>
-<li><a href="#news">News</a></li>
-<li><a href="#download-the-sdk">Download the SDK</a></li>
-<li><a href="#community">Community</a></li>
+<li><a href="#tools">Tools</a></li>
+</ul>
+</li>
+<li><a href="#awesome-projects--cool-demos">Awesome projects &amp; cool demos</a></li>
+<li><a href="#community-and-support">Community and support</a><ul>
 <li><a href="#people-you-should-know">People you should know</a></li>
+</ul>
+</li>
+<li><a href="#news">News</a></li>
+<li><a href="#additional-resources">Additional resources</a></li>
 <li><a href="#awesome-lists-for-ios">Awesome lists for iOS</a></li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <h2 id="introduction">Introduction</h2>
-<p><a href="https://itunes.apple.com/us/app/arcgis-runtime-sdk-for-ios/id1180714771?mt=8" target="_blank">ArcGIS Runtime SDK for iOS Samples</a></p>
+<p>The <a href="https://itunes.apple.com/us/app/arcgis-runtime-sdk-for-ios/id1180714771?mt=8" target="_blank">ArcGIS Runtime SDK for iOS Samples</a> is the technology you may want to use if you want to build you Android application in Swift or Objective-C. If you are interested on building iOS applications but not necessarily using this language you could also use:</p>
+<ul>
+<li><a href="../xamarin/">ArcGIS Runtime SDK for .NET + Xamarin</a>, using C# with Xamarin you can build application which runs on Android, iOS and Windows Phones.</li>
+<li><a href="../qt/">ArcGIS Runtime SDK for Qt</a>: using C++ &amp; QML you can also build application for Android and iOS.</li>
+</ul>
+<p>As last resource, you may even consider to make an application or prototype as fast as possible (without writing any code), in this case you should also consider using some of <a href="../../../arcgis/products/#app-builders">our app builders, like AppStudio or Survey123</a>.</p>
 <h2 id="training">Training</h2>
+<ul>
+<li><a href="https://www.esri.com/training/Bookmark/PKESDGM7A" target="_blank">Android Trainings at esri.com/training</a></li>
+</ul>
 <h3 id="documentation">Documentation</h3>
 <ul>
-<li>Mobile map package - <a href="https://developers.arcgis.com/ios/latest/swift/guide/mobile-map-package.htm" target="_blank">Swift</a> &amp; <a href="https://developers.arcgis.com/ios/latest/objective-c/guide/mobile-map-package.htm" target="_blank">Objective-C</a>: is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.</li>
+<li><a href="https://developers.arcgis.com/ios/" target="_blank">ArcGIS Runtime SDK for iOS Official Documentation</a><ul>
+<li><a href="https://developers.arcgis.com/ios/latest/swift/guide/introduction.htm" target="_blank">iOS Guide</a></li>
+<li><a href="https://developers.arcgis.com/ios/latest/api-reference/" target="_blank">iOS API Reference</a></li>
 </ul>
-<h2 id="code">Code</h2>
-<p><a href="https://github.com/Esri/arcgis-runtime-samples-ios" target="_blank">Swift samples demonstrating various capabilities of ArcGIS Runtime SDK for iOS</a></p>
-<h2 id="news">News</h2>
-<p><a href="https://blogs.esri.com/esri/arcgis/tag/ios/" target="_blank">https://blogs.esri.com/esri/arcgis/tag/ios/</a></p>
-<p><a href="https://blogs.esri.com/esri/arcgis/2017/01/23/arcgis-runtime-sdk-for-ios-samples-now-available-on-the-app-store/" target="_blank">iOS Samples for ArcGIS Runtime now available on the App Store</a></p>
-<h2 id="download-the-sdk">Download the SDK</h2>
-<p>You need to <a href="https://developers.arcgis.com/sign-up/" target="_blank">sign up</a> in order to be able
-to <a href="https://developers.arcgis.com/downloads/" target="_blank">download de ArcGIS Runtime SDK for iOS</a>.</p>
-<h2 id="community">Community</h2>
-<p><a href="https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-ios" target="_blank">https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-ios</a></p>
-<h2 id="people-you-should-know">People you should know</h2>
-<p>Please find the ArcGIS Experts (story tellers and developers) on this topic here: <a href="https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20iOS" target="_blank">https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20iOS</a></p>
+</li>
+</ul>
+<p>Important concepts:</p>
+<ul>
+<li>Mobile map package - <a href="https://developers.arcgis.com/ios/latest/swift/guide/create-an-offline-map.htm" target="_blank">Swift</a> &amp; <a href="https://developers.arcgis.com/ios/latest/objective-c/guide/create-an-offline-map.htm" target="_blank">Objective-C</a>: is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.</li>
+</ul>
+<h3 id="tutorials">Tutorials</h3>
+<p>Less than 20 minutes tutorials: <a href="https://developers.arcgis.com/labs/browse/?topic=any&amp;product=iOS" target="_blank">iOS DevLabs</a></p>
+<h3 id="videos">Videos</h3>
+<p>On <a href="https://www.esri.com/videos/search?q=ios#?sortby=recent" target="_blank"><em>video.esri.com</em></a> you will find and <a href="https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=ios" target="_blank">Esri Events</a> you will find many technical talks.</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>Title</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2017</td>
+<td><a href="https://www.youtube.com/watch?v=RQf1fi4mP7g" target="_blank">ArcGIS Runtime SDK for iOS and macOS: Building Apps</a></td>
+<td>1h 3min 44secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2017</td>
+<td><a href="https://www.youtube.com/watch?v=aAuqPlSay6c" target="_blank">Turbocharge Feature Display On iOS With Popups</a></td>
+<td>28min 52secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2017</td>
+<td><a href="https://www.youtube.com/watch?v=Do24okMDs7E" target="_blank">Make Your iOS Apps Come Alive With Map Animations</a></td>
+<td>23min 29secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2016</td>
+<td><a href="https://www.esri.com/videos/watch?videoid=5063&amp;channelid=LegacyVideo&amp;isLegacy=true&amp;title=building-ios-and-mac-apps-with-the-arcgis-runtime" target="_blank">Building iOS and Mac Apps with the ArcGIS Runtime</a></td>
+<td>1h 0min 26secs</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>You might also find interesting videos at <a href="https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA" target="_blank">Esri Industries</a>, <a href="https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw" target="_blank">ArcGIS</a>, <a href="https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels" target="_blank">etc</a></p>
+</blockquote>
+<h3 id="slides">Slides</h3>
+<p>More slides in <a href="https://www.google.es/search?q=site%3Aproceedings.esri.com+TOPIC" target="_blank"><em>proceedings.esri.com</em></a> or check on <a href="https://community.esri.com/content?query=TOPIC&amp;filterID=all~objecttype~objecttype%5Bdocument%5D" target="_blank">geonet</a>.</p>
+<h2 id="download-the-runtime-sdk-for-ios">Download the Runtime SDK for iOS</h2>
+<p>You can <a href="https://developers.arcgis.com/macos/latest/swift/guide/install-and-setup.htm#ESRI_SECTION1_9448ADD25F414BA3BA0319E77C1E8FF8" target="_blank">download it using CocoaPods</a> or from your <a href="https://developers.arcgis.com/downloads/" target="_blank">Download section</a> using you <a href="https://developers.arcgis.com/sign-up" target="_blank">free ArcGIS Developer account</a> .</p>
+<h2 id="coding">Coding</h2>
+<h3 id="code">Code</h3>
+<ul>
+<li>Example apps:<ul>
+<li><a href="https://developers.arcgis.com/example-apps/maps-app-ios/" target="_blank">Maps App for iOS</a></li>
+<li><a href="https://developers.arcgis.com/example-apps/mapbook-ios/" target="_blank">Offline Mapbook for iOS</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/Esri/developer-support/tree/master/runtime-ios" target="_blank">developer-support/runtime-ios</a></li>
+<li><a href="https://esri-es.github.io/arcgis-search/?search=iOS+site%3Agithub.com&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">iOS @ ArcGIS Search</a></li>
+<li><a href="https://github.com/search?q=org%3AEsri+ios" target="_blank">iOS repos on Esri&apos;s Github</a><ul>
+<li><a href="https://github.com/Esri/arcgis-runtime-samples-ios" target="_blank">Swift samples demonstrating various capabilities of ArcGIS Runtime SDK for iOS</a></li>
+</ul>
+</li>
+<li>ArcGIS Online <a href="https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&amp;restrict=false&amp;start=1&amp;sortOrder=desc&amp;sortField=modified" target="_blank">ArcGISRuntimeSDK</a> account</li>
+<li><a href="https://developers.arcgis.com/ios/latest/swift/sample-code/sample-code.htm" target="_blank">Documentation Sample code</a></li>
+<li><a href="http://codesharing.arcgis.com/" target="_blank">ArcGIS Code Sharing</a></li>
+</ul>
+<blockquote>
+<p>You can also search at any other <a href="https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts" target="_blank">Esri&apos;s Github accounts</a>.</p>
+</blockquote>
+<h3 id="tools">Tools</h3>
+<p><em>None yet</em></p>
+<h2 id="awesome-projects--cool-demos">Awesome projects &amp; cool demos</h2>
+<p><a href="https://youtu.be/i8FgR_3zumQ?t=25m21s" target="_blank">ArcGIS Runtime SDK for iOS Demo at 2017 DevSummit Plenary</a></p>
+<h2 id="community-and-support">Community and support</h2>
+<p>If needed, remember you can always check the <a href="https://support.esri.com/en/Products/Developers" target="_blank">Technical Support Website for developer products</a> and the <a href="https://community.esri.com/groups/technical-support/blog/tags#/" target="_blank">Technical Support Blog at GeoNet</a> to find additional resources.</p>
+<p><strong>Community channels:</strong></p>
+<ul>
+<li>GeoNet<ul>
+<li><a href="https://community.esri.com/community/developers" target="_blank">Developers</a> &gt; <a href="https://community.esri.com/community/developers/native-app-developers" target="_blank">Native App Developers</a> &gt; <a href="https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-ios" target="_blank">ArcGIS Runtime SDK for iOS</a><ul>
+<li><a href="https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-ios/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D" target="_blank">ArcGIS Runtime SDK for Android answered questions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://stackoverflow.com/search?q=%5Bios%5D+and+%5Barcgis%5D+or+%5Bios%5D+and+%5Besri%5D+" target="_blank">Stackoverflow questions: [ios] and [arcgis] or [ios] and [esri]</a></li>
+<li><a href="https://gis.stackexchange.com/search?q=ios" target="_blank">Stackexchange</a></li>
+<li>Sometimes is worth to combine GeoNet with the Github issues of an specific repo</li>
+</ul>
+<p>If you have an idea you can also share it on <a href="https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-runtime%5D&amp;query=ios" target="_blank">ArcGIS Ideas -&gt; ArcGIS Runtime</a></p>
+<h3 id="people-you-should-know">People you should know</h3>
+<p>Please find the <a href="https://esri-es.github.io/arcgis-experts/?topic=iOS" target="_blank">ArcGIS Experts on this topic using this tool</a>:</p>
+<p><a href="https://esri-es.github.io/arcgis-experts/?topic=iOS" target="_blank"><img src="https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true" alt="ArcGIS Experts Tool Screenshot"></a></p>
 <p>They don&apos;t work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.</p>
+<h2 id="news">News</h2>
+<ul>
+<li><a href="https://blogs.esri.com/esri/arcgis/tag/ios/" target="_blank">News tagged as &quot;iOS&quot; at blogs.esri.com</a><ul>
+<li><a href="https://blogs.esri.com/esri/arcgis/2017/01/23/arcgis-runtime-sdk-for-ios-samples-now-available-on-the-app-store/" target="_blank">iOS Samples for ArcGIS Runtime now available on the App Store</a></li>
+</ul>
+</li>
+<li><a href="https://www.esri.com/search?filter=Blogs&amp;q=ios&amp;search=Search" target="_blank">&quot;iOS&quot; at esri.com search engine</a></li>
+<li><a href="https://community.esri.com/content?query=iOS&amp;filterID=all~objecttype~objecttype%5Bblogpost%5D" target="_blank">Blog Posts about &quot;iOS&quot; inside Places at GeoNet</a></li>
+</ul>
+<h2 id="additional-resources">Additional resources</h2>
+<p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/" target="_blank">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;iOS&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">&quot;iOS&quot;</a>.</p>
 <h2 id="awesome-lists-for-ios">Awesome lists for iOS</h2>
 <p>You will find a lot of interesting resources to learn an improve your skills
 with iOS:</p>
@@ -2586,7 +2699,7 @@ with iOS:</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Ios","level":"1.11.2.2","depth":3,"next":{"title":"Qt","level":"1.11.2.3","depth":3,"path":"mobile/technologies/qt/README.md","ref":"mobile/technologies/qt/README.md","articles":[]},"previous":{"title":"Android","level":"1.11.2.1","depth":3,"path":"mobile/technologies/android/README.md","ref":"mobile/technologies/android/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","RESOURCE_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"mobile/technologies/ios/README.md","mtime":"2018-03-19T13:02:20.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-19T13:02:25.699Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Ios","level":"1.11.2.2","depth":3,"next":{"title":"Qt","level":"1.11.2.3","depth":3,"path":"mobile/technologies/qt/README.md","ref":"mobile/technologies/qt/README.md","articles":[]},"previous":{"title":"Android","level":"1.11.2.1","depth":3,"path":"mobile/technologies/android/README.md","ref":"mobile/technologies/android/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube"],"ignores":["docs","_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","RESOURCE_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io/","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"mobile/technologies/ios/README.md","mtime":"2018-03-26T16:48:56.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-03-26T16:49:06.169Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>

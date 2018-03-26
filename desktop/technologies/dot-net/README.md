@@ -18,6 +18,7 @@ On this page you will find resources to learn how to develop desktop application
 - [Coding](#coding)
   - [Code](#code)
   - [Tools](#tools)
+- [Awesome projects](#awesome-projects)
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [News](#news)

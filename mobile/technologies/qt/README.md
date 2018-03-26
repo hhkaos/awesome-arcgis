@@ -5,6 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Awesome projects](#awesome-projects)
 - [Training](#training)
   - [Documentation](#documentation)
 - [Download the SDK](#download-the-sdk)
@@ -13,6 +14,13 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-qt
+
+https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified
+
+
+## Awesome projects
+
+[ArcGIS Runtime SDK for Qt Demo at 2018 DevSummit Plenary](https://www.youtube.com/watch?v=G4Qr7_OK5sg&index=25&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe)
 
 ## Training
 ### Documentation
@@ -27,6 +35,3 @@ to [download de ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/downloa
 You will find a lot of interesting resources to learn an improve your skills
 with Qt:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
-
-
-

@@ -9,6 +9,7 @@
 - [Training](#training)
   - [Documentation](#documentation)
 - [Download the SDK](#download-the-sdk)
+- [Awesome projects](#awesome-projects)
 - [Awesome lists for .NET](#awesome-lists-for-net)
 - [People you should know](#people-you-should-know)
 

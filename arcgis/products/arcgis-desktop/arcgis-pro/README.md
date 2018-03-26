@@ -13,6 +13,7 @@ to create, manage, and share geographic maps, data, and analytical models.
   - [Documentation](#documentation)
   - [Videos](#videos)
 - [Code](#code)
+- [Awesome projects](#awesome-projects)
 - [Download the SDK](#download-the-sdk)
 - [Community](#community)
 - [People you should know](#people-you-should-know)

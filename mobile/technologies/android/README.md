@@ -7,12 +7,22 @@
 
 - [Introduction](#introduction)
 - [Training](#training)
-- [Community](#community)
-- [People you should know](#people-you-should-know)
-- [Code](#code)
-- [Download the SDK](#download-the-sdk)
+  - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Donwload the Runtime SDK for Android](#donwload-the-runtime-sdk-for-android)
+- [Coding](#coding)
+  - [Code](#code)
+  - [Tools](#tools)
+- [Awesome projects & cool demos](#awesome-projects--cool-demos)
+- [Community and support](#community-and-support)
+  - [People you should know](#people-you-should-know)
 - [News](#news)
+- [Additional resources](#additional-resources)
 - [Awesome lists for Android](#awesome-lists-for-android)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

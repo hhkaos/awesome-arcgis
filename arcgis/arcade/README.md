@@ -10,6 +10,7 @@
 - [Code samples](#code-samples)
 - [Blog posts](#blog-posts)
 - [Arcade Playground](#arcade-playground)
+  - [People you should know](#people-you-should-know)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

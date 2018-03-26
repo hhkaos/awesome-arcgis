@@ -81,6 +81,10 @@ Additional tools to help you speedup your developments:
 
 * [Toolkit for ArcGIS Runtime SDK for .NET](https://github.com/Esri/arcgis-toolkit-dotnet)
 
+## Awesome projects
+
+[ArcGIS Runtime SDK for .Net Demo at 2017 DevSummit Plenary](https://youtu.be/i8FgR_3zumQ?t=39m59s)
+
 ## Community
 
 * [ArcGIS Runtime SDK for .NET on GeoNet](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)

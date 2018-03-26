@@ -57,5 +57,12 @@ but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["drone2map"](https://esri-es.github.io/arcgis-search/?search="drone2map"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* [Webinar Buenas prácticas Drone2Map for Arcgis | Esri Colombia](https://www.youtube.com/watch?v=szM_rwGRALY)

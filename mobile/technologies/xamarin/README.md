@@ -43,7 +43,8 @@ And remember, before reinventing the wheel [check the existing Esri mobile apps]
 
 ### Documentation
 
-[ArcGIS Runtime SDK for .NET Official Documentation](https://developers.arcgis.com/net/latest/)
+* [ArcGIS Runtime SDK for .NET Official Documentation](https://developers.arcgis.com/net/latest/)
+* [Official training](www.esri.com/training/Bookmark/PKEDPSDGS)
 
 ArcGIS Runtime SDK for .NET provides a common API surface across all supported. This allows you to reuse code and to leverage design patterns such as Model View ViewModel (MVVM). Xamarin Forms provides an excellent framework for cross-platform code sharing, and each API reference includes classes specific to Xamarin Forms. There are some differences between APIs, primarily the inheritance hierarchy for objects built for different platforms.
 
@@ -72,6 +73,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=xamarin#?sortby=recen
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[ArcGIS Runtime: Building Cross-platform Apps](https://www.youtube.com/watch?v=XLT1PjZgbAQ)|  59min 08secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Building Xamarin Apps with ArcGIS Runtime SDK for .NET](https://www.youtube.com/watch?v=TyLZ4iYoQNo)| 1h 7min 52secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Where's my Meeting? Indoor Routing and Tracking with Xamarin iOS](https://www.youtube.com/watch?v=ZLN8spxSVDg)|26min 1secs
 |[UC](http://www.esri.com/events/uc) 2016|[ArcGIS Runtime SDK for Xamarin: An Introduction](https://www.youtube.com/watch?v=IDPnUZgAK5w)|1h 13min 43secs
@@ -86,7 +88,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=xamarin#?sortby=recen
 
 More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+xamarin) or check on [geonet](https://community.esri.com/content?query=xamarin&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
-## Download the Runtime SDK for iOS
+## Download the Runtime SDK for Xamarin
 
 You can [download it using NuGet](https://developers.arcgis.com/net/latest/wpf/guide/install-the-sdk.htm#ESRI_SECTION1_BA40EF70B43B4F789B33C2CAA2053873) or from your [Download section](https://developers.arcgis.com/downloads/) using you [free ArcGIS Developer account](https://developers.arcgis.com/sign-up).
 
@@ -96,15 +98,15 @@ You can [download it using NuGet](https://developers.arcgis.com/net/latest/wpf/g
 
 * Developer site:
     * [Documentation code samples code](https://developers.arcgis.com/net/latest/wpf/sample-code/sample-code.htm)
-    * Example app:* [Indoor Routing Xamarin](https://developers.arcgis.com/example-apps/indoor-routing-xamarin/)
+    * Example app: [Indoor Routing Xamarin](https://developers.arcgis.com/example-apps/indoor-routing-xamarin/)
 * Github:
     * [developer-support/runtime-net](https://github.com/Esri/developer-support/tree/master/runtime-net)
-    * [.NET repos on Esri's Github](https://github.com/search?utf8=%E2%9C%93&q=org%3AEsri+.net&type=)
+    * [Xamarin repos on Esri's Github](https://github.com/search?utf8=%E2%9C%93&q=org%3AEsri+xamarin&type=)
         * [Swift samples demonstrating various capabilities of ArcGIS Runtime SDK for iOS](https://github.com/Esri/arcgis-runtime-samples-ios)
 * ArcGIS Online:
     * [ArcGISRuntimeSDK items](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified)
     * [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
-* [More at .NET @ ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=.NET+site%3Agithub.com%20-arcobjects&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
+* [More at Xamarin @ ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=xamarin+site%3Agithub.com%20-arcobjects&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 > You can also search at any other [Esri's Github accounts](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts).
 
@@ -127,11 +129,11 @@ If needed, remember you can always check the [Technical Support Website for deve
 * GeoNet
     * [Developers](https://community.esri.com/community/developers) > [Native App Developers](https://community.esri.com/community/developers/native-app-developers) > [ArcGIS Runtime SDK for .NET](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)
         * [ArcGIS Runtime SDK for .NET answered questions](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D)
-* [Stackoverflow questions: [.net] and [arcgis] or [.net] and [esri]](https://stackoverflow.com/search?q=%5B.net%5D+and+%5Barcgis%5D+or+%5B.net%5D+and+%5Besri%5D+)
-* [Stackexchange](https://gis.stackexchange.com/search?q=.net)
+* [Stackoverflow questions: [xamarin] and [arcgis] or [xamarin] and [esri]](https://stackoverflow.com/search?q=%5Bxamarin%5D+and+%5Barcgis%5D+or+%5Bxamarin%5D+and+%5Besri%5D+)
+* [Stackexchange](https://gis.stackexchange.com/search?q=xamarin)
 * Sometimes is worth to combine GeoNet with the Github issues of an specific repo
 
-If you have an idea you can also share it on [ArcGIS Ideas -> ArcGIS Runtime](https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-runtime%5D&query=.net)
+If you have an idea you can also share it on [ArcGIS Ideas -> ArcGIS Runtime](https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-runtime%5D&query=xamarin)
 
 ### People you should know
 
@@ -145,18 +147,21 @@ technology so we recommend you to follow them.
 
 ## News
 
-* [News tagged as ".NET" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/net/)
-* [".NET" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=.net&search=Search)
-* [Blog Posts about ".NET" inside Places at GeoNet](https://community.esri.com/content?query=.NET&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+* [News tagged as "Xamarin" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/xamarin/)
+* ["Xamarin" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=xamarin&search=Search)
+* [Blog Posts about "Xamarin" inside Places at GeoNet](https://community.esri.com/content?query=xamarin&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Twitter accounts:
     * [@ArcGISRuntime](https://twitter.com/arcgisruntime)
     * [@EsriGeoDev](https://twitter.com/EsriGeoDev)
 
 ## Additional resources
 
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: [".NET"](https://esri-es.github.io/arcgis-search/?search=.NET&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Xamarin"](https://esri-es.github.io/arcgis-search/?search=xamarin&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-## Awesome lists for .NET
+## Awesome lists for Xamarin
+
 You will find a lot of interesting resources to learn an improve your skills
-with .NET:
-* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+with Xamarin:
+* [MarcBruins/awesome-xamarin](https://github.com/MarcBruins/awesome-xamarin): A curated list of awesome Xamarin iOS/Android and Xamarin Forms bindings, ports, frameworks and much more!
+* [benoitjadinon/awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin): A collection of interesting libraries/tools for Xamarin mobile projects
+* [jsuarezruiz/xamarin-forms-goodlooking-UI](https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI): Xamarin.Forms goodlooking UI samples

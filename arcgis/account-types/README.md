@@ -35,12 +35,9 @@ After signing up you will have access to:
 * Etc.
 
 ## Organization account
+
 If you work for a company with already use ArcGIS you will use the one.
 
 ## Esri.com account
 
 ## ArcGIS.com account
-
-
-
-

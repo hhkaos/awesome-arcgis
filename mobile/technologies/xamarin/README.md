@@ -16,7 +16,7 @@ It integrates a range of mapping and GIS capabilities online or offline, includi
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Slides](#slides)
-- [Download the Runtime SDK for iOS](#download-the-runtime-sdk-for-ios)
+- [Download the Runtime SDK for Xamarin](#download-the-runtime-sdk-for-xamarin)
 - [Coding](#coding)
   - [Code](#code)
   - [Tools](#tools)
@@ -25,7 +25,7 @@ It integrates a range of mapping and GIS capabilities online or offline, includi
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-- [Awesome lists for .NET](#awesome-lists-for-net)
+- [Awesome lists for Xamarin](#awesome-lists-for-xamarin)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

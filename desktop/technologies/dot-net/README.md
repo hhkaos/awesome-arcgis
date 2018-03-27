@@ -14,15 +14,16 @@ On this page you will find resources to learn how to develop desktop application
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Slides](#slides)
-- [Get the tool](#get-the-tool)
+- [Download the Runtime SDK for .NET](#download-the-runtime-sdk-for-net)
 - [Coding](#coding)
   - [Code](#code)
   - [Tools](#tools)
-- [Awesome projects](#awesome-projects)
-- [Community](#community)
+- [Awesome projects & cool demos](#awesome-projects--cool-demos)
+- [Community and support](#community-and-support)
 - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
+- [Awesome lists for .NET](#awesome-lists-for-net)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

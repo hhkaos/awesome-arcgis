@@ -16,13 +16,12 @@ ArcGIS Runtime for the Qt integrates a wide range of mapping and GIS capabilitie
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-qt
-
-https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified
-
 ## Introduction
 
 The [ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/qt/latest/) is the technology you may want to use if you want to build your Android and iOS applications in C++ & QML.
+
+You also have an IDE to use Qt and QML with several templates, it is called
+[App Studio for ArcGIS](../../../desktop/technologies/qt/app-studio/README.md).
 
 You can also use the [ArcGIS Runtime SDK for .NET](../xamarin/README.md) to build cross mobile applications (Android & iOS) using .NET.
 
@@ -34,7 +33,7 @@ And remember, before reinventing the wheel [check the existing Esri mobile apps]
 
 ### Documentation
 
-* [ArcGIS Runtime SDK for iOS Official Documentation](https://developers.arcgis.com/ios/)
+* [ArcGIS Runtime SDK for Qt Official Documentation](https://developers.arcgis.com/qt/latest/)
     * Guides: [QML](https://developers.arcgis.com/qt/latest/qml/guide/arcgis-runtime-sdk-for-qt.htm) & [C++](https://developers.arcgis.com/qt/latest/cpp/guide/arcgis-runtime-sdk-for-qt.htm)
     * API Reference: [C++ API Reference](https://developers.arcgis.com/qt/latest/cpp/api-reference/), [QML API Reference](https://developers.arcgis.com/qt/latest/qml/api-reference/), [Toolkit](https://developers.arcgis.com/qt/latest/toolkit/api-reference/) & [QML Extras](https://developers.arcgis.com/qt/latest/extras/api-reference/)
 

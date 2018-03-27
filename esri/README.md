@@ -131,7 +131,7 @@ No matter what's your job, you will find documentation, courses, books, communit
 You can also find more information on any of our Youtube Channels:
 
 |Name|Subscribers|Topics (Playlists)|
-|---|---|
+|---|---|---|
 |[Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw)|+4425|>23 [playlists](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/playlists?disable_polymer=1): [2017 Developer Summit Plenary](https://www.youtube.com/playlist?list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), ...
 |[ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw)|+3500|>35 [playlists](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/playlists?disable_polymer=1): [Insights](https://www.youtube.com/playlist?list=PLGZUzt4E4O2LEMMMP3AEZz9MOSFMfo7LF), [GeoDev Webinar Series](https://www.youtube.com/watch?v=8BObxY7ZtzA&list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx),...
 |[Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA)|+1300|>23 [playlists](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/playlists?disable_polymer=1): [Goverment](https://www.youtube.com/playlist?list=PLdVnJnpRENTmRj1Cw75aE5inYwNxv4HfK), [Public Safety](https://www.youtube.com/playlist?list=PLdVnJnpRENTnAoQ-WGz7z0qfY6hoPQzff), [Water](https://www.youtube.com/playlist?list=PLdVnJnpRENTkXRhExx_Jwp3JLxq4hN2JF)

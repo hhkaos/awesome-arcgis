@@ -8,10 +8,21 @@ ArcGIS Runtime for the Qt integrates a wide range of mapping and GIS capabilitie
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Awesome projects](#awesome-projects)
+- [Introduction](#introduction)
 - [Training](#training)
   - [Documentation](#documentation)
-- [Download the SDK](#download-the-sdk)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Download the Runtime SDK for Qt](#download-the-runtime-sdk-for-qt)
+- [Coding](#coding)
+  - [Code](#code)
+  - [Tools](#tools)
+- [Awesome projects & cool demos](#awesome-projects--cool-demos)
+- [Community and support](#community-and-support)
+  - [People you should know](#people-you-should-know)
+- [News](#news)
+- [Additional resources](#additional-resources)
 - [Awesome lists for Qt](#awesome-lists-for-qt)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

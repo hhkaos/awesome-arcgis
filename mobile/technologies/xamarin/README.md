@@ -10,12 +10,22 @@ It integrates a range of mapping and GIS capabilities online or offline, includi
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
 - [Training](#training)
   - [Documentation](#documentation)
-- [Download the SDK](#download-the-sdk)
-- [Awesome projects](#awesome-projects)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Download the Runtime SDK for iOS](#download-the-runtime-sdk-for-ios)
+- [Coding](#coding)
+  - [Code](#code)
+  - [Tools](#tools)
+- [Awesome projects & cool demos](#awesome-projects--cool-demos)
+- [Community and support](#community-and-support)
+  - [People you should know](#people-you-should-know)
+- [News](#news)
+- [Additional resources](#additional-resources)
 - [Awesome lists for .NET](#awesome-lists-for-net)
-- [People you should know](#people-you-should-know)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

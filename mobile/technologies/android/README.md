@@ -10,12 +10,22 @@ ArcGIS Runtime SDK for Android integrates a wide range of mapping and GIS capabi
 
 - [Introduction](#introduction)
 - [Training](#training)
-- [Community](#community)
-- [People you should know](#people-you-should-know)
-- [Code](#code)
-- [Download the SDK](#download-the-sdk)
+  - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Download the Runtime SDK for Android](#download-the-runtime-sdk-for-android)
+- [Coding](#coding)
+  - [Code](#code)
+  - [Tools](#tools)
+- [Awesome projects & cool demos](#awesome-projects--cool-demos)
+- [Community and support](#community-and-support)
+  - [People you should know](#people-you-should-know)
 - [News](#news)
+- [Additional resources](#additional-resources)
 - [Awesome lists for Android](#awesome-lists-for-android)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -56,8 +66,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=android#?sortby=recen
 |Event|Title|Length|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[ArcGIS Runtime SDK for Android: Building Applications](https://www.youtube.com/watch?v=B2HVkFXfYmU)| 52min 22secs|
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Rounding Up the EMUs App for Android](https://www.youtube.com/watch?v=CPG7DHq7Wa8)
-|25min 42secs|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Rounding Up the EMUs App for Android](https://www.youtube.com/watch?v=CPG7DHq7Wa8)|25min 42secs|
 |n.a. 2017|[Ecological Marine Unit Explorer For Android](https://www.youtube.com/watch?v=Sf6BF-P2E-E)|4min 15secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Runtime SDK for Android: Hit the Ground Running](https://www.esri.com/videos/watch?videoid=5065&channelid=LegacyVideo&isLegacy=true&title=arcgis-runtime-sdk-for-android:-hit-the-ground-running)|1h 0min 44secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Collaborate with ArcGIS Runtime SDK for Android](https://www.esri.com/videos/watch?videoid=4435&channelid=LegacyVideo&isLegacy=true&title=collaborate-with-arcgis-runtime-sdk-for-android)|46min 1secs

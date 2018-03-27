@@ -29,21 +29,35 @@ On this page you will find resources to learn how to develop desktop application
 
 ## Introduction
 
+[ArcGIS Runtime SDK for .NET Official Documentation](https://developers.arcgis.com/net/latest/)
+
 ArcGIS Runtime SDK for .NET contains APIs (for [WPF](https://developers.arcgis.com/net/latest/wpf/guide/display-a-map.htm), [UWP](https://developers.arcgis.com/net/latest/uwp/guide/display-a-map.htm), ...) that enable you to build native mapping apps and share source code across Windows, Android, and iOS. Integrate a range of mapping and GIS capabilities online or offline, including 2D and 3D data visualization, web and mobile maps, editing, geocoding, routing, and spatial analysis.
 
+If you are considering to make an application or prototype as fast as possible (without writing any code), in this case you should also consider using some of [our app builders, like AppStudio or Survey123](../../../arcgis/products/README.md#app-builders).
+
 ## Training
+
 ### Documentation
 
 * [Official documentation](https://developers.arcgis.com/net/latest/)
 * [Official training](www.esri.com/training/Bookmark/PKEDPSDGS)
 
+|API|Guide|API Reference|
+|---|---|---|
+|Windows Presentation Framework|[WPF Guide](https://developers.arcgis.com/net/latest/wpf/guide/guide-home.htm)|[WPF reference](https://developers.arcgis.com/net/latest/wpf/api-reference/)
+|Universal Windows Platform|[UWP Guide](https://developers.arcgis.com/net/latest/uwp/guide/guide-home.htm)|[UWP reference](https://developers.arcgis.com/net/latest/uwp/api-reference/)
+
+Important concepts:
+
+* Mobile map package - [Android](https://developers.arcgis.com/net/latest/android/guide/display-a-map.htm#ESRI_SECTION2_4CCB74E11EE04611849F3C0F41D9381C), [iOS](https://developers.arcgis.com/net/latest/ios/guide/display-a-map.htm#ESRI_SECTION2_4CCB74E11EE04611849F3C0F41D9381C) & [Forms](https://developers.arcgis.com/net/latest/forms/guide/display-a-map.htm#ESRI_SECTION2_4CCB74E11EE04611849F3C0F41D9381C): is a file object (.mmpk) created in ArcGIS Pro. It is a transport mechanism for maps, their layers, data, networks, and locators. A mobile map package can be sideloaded onto a device by email, or by platform-specific transfer mechanism, or it can be downloaded from a portal to the device. It available for applications developed using ArcGIS Runtime SDK starting with version 100.0.
+
 ### Tutorials
 
-* [.NET Devlabs](https://developers.arcgis.com/labs/browse/?topic=any&product=NET)
+Less than 20 minutes tutorials: [.NET DevLabs](https://developers.arcgis.com/laxbs/browse/?topic=any&product=NET)
 
 ### Videos
 
-On [*video.esri.com*](https://www.esri.com/videos/search?q=.NET#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks (some of them are **Runtime generic**).
+On [*video.esri.com*](https://www.esri.com/videos/search?q=.NET#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=.NET) you will find many technical talks (some of them are **Runtime generic**).
 
 |Event|Title|Length|
 |---|---|---|
@@ -63,7 +77,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=.NET#?sortby=recent) 
 
 More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+.NET+-"ArcGIS+Pro") or check on [geonet](https://community.esri.com/content?query=ArcGIS+Runtime+SDK+for+.NET&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
-## Get the tool
+## Download the Runtime SDK for .NET
 
 You first need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), then you will be able to [download it from here](https://developers.arcgis.com/downloads/apis-and-sdks) or follow the following [installation guide](https://developers.arcgis.com/net/latest/wpf/guide/install-the-sdk.htm).
 
@@ -71,10 +85,18 @@ You first need and [ArcGIS Developer Subscription](https://developers.arcgis.com
 
 ### Code
 
-* [arcgis-runtime-samples-dotnet: Sample code for ArcGIS Runtime SDK for .NET – UWP, WPF, Xamarin.Android, Xamarin.iOS, and Xamarin.Forms](https://github.com/Esri/arcgis-runtime-samples-dotnet)
-* [Other Esri Open Sourced .NET Samples ](https://github.com/Esri?utf8=%E2%9C%93&q=dotnet&type=&language=)
-* [.NET samples at developer-support repo](https://github.com/Esri/developer-support/tree/master/runtime-net)
-* [ArcGISRestAPI - A .NET library for interfacing with the ArcGIS REST API - for developing with ArcGIS Online and Portal for ArcGIS](https://github.com/EsriUK/ArcGISRestAPI)
+* Developer site:
+    * [Documentation code samples code](https://developers.arcgis.com/net/latest/)
+    * Example app: [Maps App .NET](https://developers.arcgis.com/example-apps/maps-app-dotnet/)
+* Github:
+    * [arcgis-runtime-samples-dotnet: Sample code for ArcGIS Runtime SDK for .NET – UWP, WPF, Xamarin.Android, Xamarin.iOS, and Xamarin.Forms](https://github.com/Esri/arcgis-runtime-samples-dotnet)
+    * [Other Esri Open Sourced .NET Samples ](https://github.com/Esri?utf8=%E2%9C%93&q=dotnet&type=&language=)
+    * [.NET samples at developer-support repo](https://github.com/Esri/developer-support/tree/master/runtime-net)
+    * [ArcGISRestAPI - A .NET library for interfacing with the ArcGIS REST API - for developing with ArcGIS Online and Portal for ArcGIS](https://github.com/EsriUK/ArcGISRestAPI)
+    * ArcGIS Online:
+        * [ArcGISRuntimeSDK items](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified)
+        * [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
+    * [More at .NET @ ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=.NET+site%3Agithub.com%20-arcobjects&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 ### Tools
 
@@ -82,14 +104,24 @@ Additional tools to help you speedup your developments:
 
 * [Toolkit for ArcGIS Runtime SDK for .NET](https://github.com/Esri/arcgis-toolkit-dotnet)
 
-## Awesome projects
+## Awesome projects & cool demos
 
 [ArcGIS Runtime SDK for .Net Demo at 2017 DevSummit Plenary](https://youtu.be/i8FgR_3zumQ?t=39m59s)
 
-## Community
+## Community and support
 
-* [ArcGIS Runtime SDK for .NET on GeoNet](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)
-* [Stackexchange](https://gis.stackexchange.com/search?q=.net+arcgis)
+If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
+
+**Community channels:**
+
+* GeoNet
+    * [Developers](https://community.esri.com/community/developers) > [Native App Developers](https://community.esri.com/community/developers/native-app-developers) > [ArcGIS Runtime SDK for .NET](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net)
+        * [ArcGIS Runtime SDK for .NET answered questions](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-net/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D)
+* [Stackoverflow questions: [.net] and [arcgis] or [.net] and [esri]](https://stackoverflow.com/search?q=%5B.net%5D+and+%5Barcgis%5D+or+%5B.net%5D+and+%5Besri%5D+)
+* [Stackexchange](https://gis.stackexchange.com/search?q=.net)
+* Sometimes is worth to combine GeoNet with the Github issues of an specific repo
+
+If you have an idea you can also share it on [ArcGIS Ideas -> ArcGIS Runtime](https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-runtime%5D&query=.net)
 
 ## People you should know
 
@@ -103,12 +135,21 @@ technology so we recommend you to follow them.
 
 ## News
 
-More news:
-
-* [ArcGIS Runtime SDK for .NET at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/arcgis-runtime-sdk-for-net/)
-* [ArcGIS Runtime SDK for .NET at esri.com search engine](https://www.esri.com/en-us/search#/?q=ArcGIS%20Runtime%20SDK%20for%20.NET&v=0&tab=Explore&page=1)
-* [Blog Posts about "Runtime SDK .NET" inside Places at GeoNet](https://community.esri.com/content?query=Runtime+SDK+.NET&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+* [News tagged as ".NET" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/net/)
+* [".NET" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=.net&search=Search)
+* [Blog Posts about ".NET" inside Places at GeoNet](https://community.esri.com/content?query=.NET&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+* Twitter accounts:
+    * [@ArcGISRuntime](https://twitter.com/arcgisruntime)
+    * [@EsriGeoDev](https://twitter.com/EsriGeoDev)
 
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Runtime SDK for .NET"](https://esri-es.github.io/arcgis-search/?search=%22ArcGIS%20Runtime%20SDK%20for%20.NET%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+## Awesome lists for .NET
+
+You will find a lot of interesting resources to learn an improve your skills
+with .NET:
+
+* [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet): A collection of awesome .NET libraries, tools, frameworks and software
+* [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core): A collection of awesome .NET core libraries, tools, frameworks and software

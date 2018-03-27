@@ -2,7 +2,7 @@
 
 # iOS Developers
 
-ArcGIS Runtime SDK for iOS integrates a wide range of mapping and GIS capabilities online or offline, including editing, analysis, geocoding, routing, management of web maps, data visualization, mobile map packages, and vector tiled layers
+ArcGIS Runtime SDK for iOS integrates a wide range of mapping and GIS capabilities online or offline, including editing, analysis, geocoding, routing, management of web maps, data visualization, mobile map packages, and vector tiled layers.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -30,12 +30,14 @@ ArcGIS Runtime SDK for iOS integrates a wide range of mapping and GIS capabiliti
 
 ## Introduction
 
-The [ArcGIS Runtime SDK for iOS Samples](https://itunes.apple.com/us/app/arcgis-runtime-sdk-for-ios/id1180714771?mt=8) is the technology you may want to use if you want to build you Android application in Swift or Objective-C. If you are interested on building iOS applications but not necessarily using this language you could also use:
+The [ArcGIS Runtime SDK for iOS Samples](https://itunes.apple.com/us/app/arcgis-runtime-sdk-for-ios/id1180714771?mt=8) is the technology you may want to use if you want to build your iOS application in Swift or Objective-C. If you are interested on building iOS applications but not necessarily using this language you could also use:
 
 * [ArcGIS Runtime SDK for .NET + Xamarin](../xamarin/README.md), using C# with Xamarin you can build application which runs on Android, iOS and Windows Phones.
 * [ArcGIS Runtime SDK for Qt](../qt/README.md): using C++ & QML you can also build application for Android and iOS.
 
 As last resource, you may even consider to make an application or prototype as fast as possible (without writing any code), in this case you should also consider using some of [our app builders, like AppStudio or Survey123](../../../arcgis/products/README.md#app-builders).
+
+And remember, before reinventing the wheel [check the existing Esri mobile apps](../../../arcgis/mobile-apps/README.md) and consider if it make sense for you to integrate with any of the existings before doing an strong investment.
 
 ## Training
 
@@ -75,22 +77,26 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Download the Runtime SDK for iOS
 
-You can [download it using CocoaPods](https://developers.arcgis.com/macos/latest/swift/guide/install-and-setup.htm#ESRI_SECTION1_9448ADD25F414BA3BA0319E77C1E8FF8) or from your [Download section](https://developers.arcgis.com/downloads/) using you [free ArcGIS Developer account](https://developers.arcgis.com/sign-up) .
+You can [download it using CocoaPods](https://developers.arcgis.com/macos/latest/swift/guide/install-and-setup.htm#ESRI_SECTION1_9448ADD25F414BA3BA0319E77C1E8FF8) or from your [Download section](https://developers.arcgis.com/downloads/) using you [free ArcGIS Developer account](https://developers.arcgis.com/sign-up).
 
 ## Coding
 
 ### Code
 
-* Example apps:
-    * [Maps App for iOS](https://developers.arcgis.com/example-apps/maps-app-ios/)
-    * [Offline Mapbook for iOS](https://developers.arcgis.com/example-apps/mapbook-ios/)
-* [developer-support/runtime-ios](https://github.com/Esri/developer-support/tree/master/runtime-ios)
-* [iOS @ ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=iOS+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
-* [iOS repos on Esri's Github](https://github.com/search?q=org%3AEsri+ios)
-    * [Swift samples demonstrating various capabilities of ArcGIS Runtime SDK for iOS](https://github.com/Esri/arcgis-runtime-samples-ios)
-* ArcGIS Online [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified) account
-* [Documentation Sample code](https://developers.arcgis.com/ios/latest/swift/sample-code/sample-code.htm)
-* [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
+* Developer site:
+    * [Documentation sample code](https://developers.arcgis.com/ios/latest/swift/sample-code/sample-code.htm)
+    * Example apps:
+        * [Maps App for iOS](https://developers.arcgis.com/example-apps/maps-app-ios/)
+        * [Offline Mapbook for iOS](https://developers.arcgis.com/example-apps/mapbook-ios/)
+* Github
+    * [developer-support/runtime-ios](https://github.com/Esri/developer-support/tree/master/runtime-ios)
+    * [iOS repos on Esri's Github](https://github.com/search?q=org%3AEsri+ios)
+        * [Swift samples demonstrating various capabilities of ArcGIS Runtime SDK for iOS](https://github.com/Esri/arcgis-runtime-samples-ios)
+* ArcGIS Online:
+    * [ArcGISRuntimeSDK items](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified) account
+    * [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
+
+* [More: iOS @ ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=iOS+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 > You can also search at any other [Esri's Github accounts](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts).
 
@@ -117,7 +123,6 @@ If needed, remember you can always check the [Technical Support Website for deve
 
 If you have an idea you can also share it on [ArcGIS Ideas -> ArcGIS Runtime](https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-runtime%5D&query=ios)
 
-
 ### People you should know
 
 Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=iOS):
@@ -134,6 +139,9 @@ technology so we recommend you to follow them.
     * [iOS Samples for ArcGIS Runtime now available on the App Store](https://blogs.esri.com/esri/arcgis/2017/01/23/arcgis-runtime-sdk-for-ios-samples-now-available-on-the-app-store/)
 * ["iOS" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=ios&search=Search)
 * [Blog Posts about "iOS" inside Places at GeoNet](https://community.esri.com/content?query=iOS&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+* Twitter accounts:
+    * [@ArcGISRuntime](https://twitter.com/arcgisruntime)
+    * [@EsriGeoDev](https://twitter.com/EsriGeoDev)
 
 ## Additional resources
 

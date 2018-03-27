@@ -1,38 +1,34 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Android Developers
+
+ArcGIS Runtime SDK for Android integrates a wide range of mapping and GIS capabilities online or offline, including editing, analysis, geocoding, routing, management of web maps, data visualization, mobile map packages, and vector tiled layers
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
 - [Introduction](#introduction)
 - [Training](#training)
-  - [Documentation](#documentation)
-  - [Tutorials](#tutorials)
-  - [Videos](#videos)
-  - [Slides](#slides)
-- [Donwload the Runtime SDK for Android](#donwload-the-runtime-sdk-for-android)
-- [Coding](#coding)
-  - [Code](#code)
-  - [Tools](#tools)
-- [Awesome projects & cool demos](#awesome-projects--cool-demos)
-- [Community and support](#community-and-support)
-  - [People you should know](#people-you-should-know)
+- [Community](#community)
+- [People you should know](#people-you-should-know)
+- [Code](#code)
+- [Download the SDK](#download-the-sdk)
 - [News](#news)
-- [Additional resources](#additional-resources)
 - [Awesome lists for Android](#awesome-lists-for-android)
-  - [Localized resources](#localized-resources)
-    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 The [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) is the technology you may want to use if you want to build you Android application in Java. If you are interested on building Android applications but not necessarily using this language you could also use:
 
 * [ArcGIS Runtime SDK for .NET + Xamarin](../xamarin/README.md), using C# with Xamarin you can build application which runs on Android, iOS and Windows Phones.
 * [ArcGIS Runtime SDK for Qt](../qt/README.md): using C++ & QML you can also build application for Android and iOS.
 
 As last resource, you may even consider to make an application or prototype as fast as possible (without writing any code), in this case you should also consider using some of [our app builders, like AppStudio or Survey123](../../../arcgis/products/README.md#app-builders).
+
+And remember, before reinventing the wheel [check the existing Esri mobile apps](../../../arcgis/mobile-apps/README.md) and consider if it make sense for you to integrate with any of the existings before doing an strong investment.
 
 ## Training
 
@@ -73,7 +69,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=android#?sortby=recen
 
 You can find some slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+Android) or check on [GeoNet](https://community.esri.com/content?query=Android&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
-## Donwload the Runtime SDK for Android
+## Download the Runtime SDK for Android
 
 You can [download it using Gradle](https://developers.arcgis.com/android/10-2/guide/install-and-set-up.htm#ESRI_SECTION1_C9913E8160D74241977115BEA470E1C3) or from your [Download section](https://developers.arcgis.com/downloads/) using you [free ArcGIS Developer account](https://developers.arcgis.com/sign-up) .
 
@@ -81,26 +77,25 @@ You can [download it using Gradle](https://developers.arcgis.com/android/10-2/gu
 
 ### Code
 
-* Example apps:
-    * [Ecological Marine Unit Android](https://developers.arcgis.com/example-apps/ecological-marine-unit-android/)
-    * [Maps App Android](https://developers.arcgis.com/example-apps/maps-app-android/)
-    * [Nearby Places Android](https://developers.arcgis.com/example-apps/nearby-android/)
-    * [Offline Mapbook for Android](https://developers.arcgis.com/example-apps/mapbook-android/)
-* [developer-support/runtime-android](https://github.com/Esri/developer-support/tree/master/runtime-android)
-* [Android @ ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=Android+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
-* [Android repos on Esri's Github](https://github.com/search?q=org%3AEsri+android)
-  * [ArcGIS Runtime SDK for Android Samples](https://github.com/Esri/arcgis-runtime-samples-android)
-  * [Demo applications that have been built by the Esri Android SDK development team](https://github.com/Esri/arcgis-runtime-demos-android)
-  * [Your organisations mapping app built with the runtime SDK for android](https://github.com/Esri/maps-app-android)
-  * [Test all aspects of Android's location capabilities. Configurable for trying out different scenarios](https://github.com/Esri/android-gps-test-tool)
-  * [Quickly build maps for Android with this library and sample app](https://github.com/Esri/quickstart-map-android)
-  https://github.com/Esri/nearby-android)
-  * [ArcGIS Android app to find places nearby and route to the nearest location](https://github.com/Esri/nearby-android)
-* ArcGIS Online Accounts:
-    * [EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified)
-    * [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified)
-* [Documentation Sample code](https://developers.arcgis.com/android/latest/sample-code/sample-code.htm)
-* [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
+* Developer site:
+    * [Documentation Sample code](https://developers.arcgis.com/android/latest/sample-code/sample-code.htm)
+    * Example apps:
+        * [Ecological Marine Unit Android](https://developers.arcgis.com/example-apps/ecological-marine-unit-android/)
+        * [Maps App Android](https://developers.arcgis.com/example-apps/maps-app-android/)
+        * [Nearby Places Android](https://developers.arcgis.com/example-apps/nearby-android/)
+        * [Offline Mapbook for Android](https://developers.arcgis.com/example-apps/mapbook-android/)   
+* Github:
+    * [developer-support/runtime-android](https://github.com/Esri/developer-support/tree/master/runtime-android)
+    * [Android repos on Esri's Github](https://github.com/search?q=org%3AEsri+android)
+      * [ArcGIS Runtime SDK for Android Samples](https://github.com/Esri/arcgis-runtime-samples-android)
+      * [Demo applications that have been built by the Esri Android SDK development team](https://github.com/Esri/arcgis-runtime-demos-android)
+      * [Test all aspects of Android's location capabilities. Configurable for trying out different scenarios](https://github.com/Esri/android-gps-test-tool)
+      * [Quickly build maps for Android with this library and sample app](https://github.com/Esri/quickstart-map-android)
+* ArcGIS Online:
+    * [EsriAndroidTeam items](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified)
+    * [ArcGISRuntimeSDK items](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified)
+    * [ArcGIS Code Sharing](http://codesharing.arcgis.com/)
+* [More: Android @ ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=Android+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 > You can also search at any other [Esri's Github accounts](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts).
 
@@ -116,15 +111,13 @@ You can [download it using Gradle](https://developers.arcgis.com/android/10-2/gu
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 
-
 **Community channels:**
 
 * GeoNet
     * [Developers](https://community.esri.com/community/developers) > [Native App Developers](https://community.esri.com/community/developers/native-app-developers) > [ArcGIS Runtime SDK for Android](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android)
         * [ArcGIS Runtime SDK for Android answered questions](https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-android/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D)
-* [Stackoverflow](https://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D)
-* [Stackexchange](https://gis.stackexchange.com/search?q=Android)
 * [Stackoverflow questions: [android] and [arcgis] or [android] and [esri]](https://stackoverflow.com/search?q=%5Bandroid%5D+and+%5Barcgis%5D+or+%5Bandroid%5D+and+%5Besri%5D+)
+* [Stackexchange](https://gis.stackexchange.com/search?q=Android)
 * Sometimes is worth to combine GeoNet with the Github issues of an specific repo
 
 If you have an idea you can also share it on [ArcGIS Ideas -> ArcGIS Runtime](https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-runtime%5D&query=android)
@@ -145,6 +138,9 @@ technology so we recommend you to follow them.
     * [Using Kotlin Android Extensions with ArcGIS Android](https://blogs.esri.com/esri/arcgis/2017/05/19/using-kotlin-android-extensions-with-arcgis-android/)
 * ["Android" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=Android&search=Search)
 * [Blog Posts about "Android" inside Places at GeoNet](https://community.esri.com/content?query=Android&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+* Twitter accounts:
+    * [@ArcGISRuntime](https://twitter.com/arcgisruntime)
+    * [@EsriGeoDev](https://twitter.com/EsriGeoDev)
 
 ## Additional resources
 

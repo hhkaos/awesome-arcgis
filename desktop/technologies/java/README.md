@@ -58,6 +58,7 @@ Sample code:
 
 ### Videos
 
+* [ArcGIS Runtime: Building Cross-platform Apps](https://www.youtube.com/watch?v=XLT1PjZgbAQ)
 * [Esri 2016 Developer Summit Plenary](https://www.youtube.com/watch?v=Qn7ezk-9iqs&list=PLaPDDLTCmy4ZvztJzqBnGTBoD0Lz9r39S)
 * [Esri 2017 Developer Summit Plenary](https://www.youtube.com/watch?v=uHDkhm3QiTY&list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A)
 * [Esri 2017 Developer Summit Tech Sessions](https://www.youtube.com/watch?v=-gnWpOrv7-4&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E)
@@ -121,6 +122,3 @@ technology so we recommend you to follow them.
 ### Other related list of resources
 
 * [ArcGIS Online Resources](https://arcgisruntime.maps.arcgis.com/home/search.html?q=owner%3A%20ArcGISRuntimeSDK&t=content&start=1&sortOrder=desc&sortField=relevance)
-
-
-

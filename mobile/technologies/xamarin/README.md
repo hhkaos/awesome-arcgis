@@ -135,9 +135,9 @@ If you have an idea you can also share it on [ArcGIS Ideas -> ArcGIS Runtime](ht
 
 ### People you should know
 
-Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=.NET):
+Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=Xamarin):
 
-[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=.NET)
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=Xamarin)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this

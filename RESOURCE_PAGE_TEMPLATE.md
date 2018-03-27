@@ -75,7 +75,13 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ### Code
 
-* Compilation of sample code on: anything on [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts) (or using [ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=TOPIC+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)), [codesharing.arcgis.com](http://codesharing.arcgis.com/), team account on ArcGIS Online ([EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [EsriQtTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified), ...), or any other known source.
+Developer site:
+    * Samples, [example apps](https://developers.arcgis.com/example-apps/), etc.
+Github:
+    * [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts)
+ArcGIS Online:
+    * [codesharing.arcgis.com](http://codesharing.arcgis.com/), team account on ArcGIS Online ([EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [EsriQtTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified), ...), or any other known source.
+* [More at ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=TOPIC+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 ### Tools
 
@@ -93,8 +99,8 @@ If needed, remember you can always check the [Technical Support Website for deve
 **Community channels:**
 
 * Where can a developer find the community talking about this technology? ([GeoNet Group/Place?](https://community.esri.com/places) <- add also a link to the "Content->Questions->Answered questions" filter
-* [Stackoverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)
-* [Stackexchange](https://gis.stackexchange.com/search?q=TOPIC)
+* [StackOverflow](https://stackoverflow.com/search?q=%5BTOPIC%5D+and+%5Barcgis%5D)
+* [StackExchange](https://gis.stackexchange.com/search?q=TOPIC)
 * Sometimes is worth to combine GeoNet with the Github issues of an specific repo
 * ...
 
@@ -122,7 +128,7 @@ More news:
 * [News tagged as "TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
 * ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=TOPIC&search=Search)
 * [Blog Posts about "TOPIC" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
-* Does this topic/product have a Twitter account?
+* Does this topic/product have a [Twitter account](https://github.com/esri-es/awesome-arcgis/tree/master/esri#twitter-accounts)?
 * etc
 
 ## Additional resources

@@ -13,17 +13,13 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-There are four type of accounts:
+## Account types
 
-* Developer account
-* Organization account
-* Esri.com account
-* Arcgis.com account
-
-## Developer account
+### Developer Account  (www.arcgis.com)
 This is the one you will use if you have never use ArcGIS before.
 
 After signing up you will have access to:
+
 * Store and secure data in ArcGIS Online
 * Register new applications for:
   * Allow ArcGIS social login (using oAuth)
@@ -34,10 +30,43 @@ After signing up you will have access to:
 * Get temporary tokens
 * Etc.
 
-## Organization account
+[Sign up for a **FREE** Developer Account](https://developers.arcgis.com/sign-up/)
+
+### ArcGIS Online Organization Account (www.arcgis.com)
 
 If you work for a company with already use ArcGIS you will use the one.
 
-## Esri.com account
+* Access to ArcGIS Online for up to 5 named users.
+* ArcGIS Pro desktop software.
+* Insights for ArcGIS, a web-based, data analytics workbench where you can explore spatial and non-spatial data.
+* A suite of ready-to-use apps for the office, field, and community that can be accessed on browsers, desktops, and mobile devices.
+* The Esri Living Atlas of the World that includes maps and data on thousands of topics.
+* 200 ArcGIS Online service credits that can be used for data storage, premium data access, performing geocoding, analysis, and more.
 
-## ArcGIS.com account
+
+[Sign up for a 21-Day **TRIAL** ArcGIS Online Organization Account](http://www.arcgis.com/features/free-trial.html)
+
+[Buy ArcGIS Online Organization Account](http://www.esri.com/software/arcgis/arcgisonline/purchase)
+
+### ArcGIS Online Public Account (www.arcgis.com)
+
+An ArcGIS Online Public Account allows anyone to:
+
+* Use the Web Map Viewer
+* Use the Web Scene Viewer
+* Create Story maps and Configurable Apps
+* etc.
+
+Limitations. You won't be able to:
+
+* Upload datasets
+* Perform analysis
+* etc
+
+[Sign up for a **FREE** ArcGIS Online Public Account](https://www.arcgis.com/home/createaccount.html)
+
+### Esri Account  (www.esri.com)
+
+When you are an ArcGIS customer this account is used to open support tickets, download some solutions, download some SDKs, etc.
+
+[Sign up for a **FREE** Esri Account](https://accounts.esri.com/signup)

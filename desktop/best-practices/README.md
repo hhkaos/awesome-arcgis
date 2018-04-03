@@ -15,6 +15,3 @@ Storing and doing analysis
 
 ## Introduction
 In addition to the [performance best practices on the ArcGIS Platform](../../arcgis/best-practices/README.md)
-
-
-

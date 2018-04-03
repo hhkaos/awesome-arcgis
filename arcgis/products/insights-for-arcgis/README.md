@@ -16,7 +16,7 @@ Insights for ArcGIS is a web-based, data analytics workbench where you can explo
   - [Slides](#slides)
 - [Get the tool](#get-the-tool)
 - [Coding](#coding)
-- [Community and support](#community-and-support)
+- [Support and Community](#support-and-community)
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)

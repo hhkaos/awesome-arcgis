@@ -10,13 +10,19 @@
 - [Introduction](#introduction)
 - [Training](#training)
   - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
   - [Videos](#videos)
+  - [Slides](#slides)
+- [Get the tool](#get-the-tool)
 - [Code](#code)
 - [Awesome projects](#awesome-projects)
-- [Download the SDK](#download-the-sdk)
-- [Community](#community)
+- [Support and Community](#support-and-community)
 - [People you should know](#people-you-should-know)
 - [News](#news)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
+  - [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

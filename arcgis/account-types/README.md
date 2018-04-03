@@ -6,10 +6,11 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Developer account](#developer-account)
-- [Organization account](#organization-account)
-- [Esri.com account](#esricom-account)
-- [ArcGIS.com account](#arcgiscom-account)
+- [Account types](#account-types)
+  - [Developer Account  (www.arcgis.com)](#developer-account--wwwarcgiscom)
+  - [ArcGIS Online Organization Account (www.arcgis.com)](#arcgis-online-organization-account-wwwarcgiscom)
+  - [ArcGIS Online Public Account (www.arcgis.com)](#arcgis-online-public-account-wwwarcgiscom)
+  - [Esri Account  (www.esri.com)](#esri-account--wwwesricom)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

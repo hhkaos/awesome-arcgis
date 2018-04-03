@@ -18,7 +18,7 @@
 - [Coding](#coding)
   - [Code](#code)
 - [Awesome projects](#awesome-projects)
-- [Community and support](#community-and-support)
+- [Support and Community](#support-and-community)
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)

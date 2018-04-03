@@ -100,7 +100,7 @@ Demo Apps:
 * [Wireless Network dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/d6cbca18bed544d08d4adeb5b5ee15ff)
 
 
-## Community and support
+## Support and Community
 
 Please go visit: [Operations Dashboard for ArcGIS Place on GeoNet](https://community.esri.com/community/gis/applications/operations-dashboard-for-arcgis)
 

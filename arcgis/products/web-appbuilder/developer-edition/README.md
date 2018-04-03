@@ -61,7 +61,7 @@ And of course you can search the [most viewed Web AppBuilder videos on Youtube](
 You need to [sign up](https://developers.arcgis.com/sign-up/) in order to be able
 to [download Web AppBuilder Developer Edition](https://developers.arcgis.com/downloads/).
 
-## Community and support
+## Support and Community
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 

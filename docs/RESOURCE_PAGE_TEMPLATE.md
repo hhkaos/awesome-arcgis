@@ -91,7 +91,7 @@ ArcGIS Online:
 
 *If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example: [2018](https://www.youtube.com/watch?v=K2lBYyAGN_c&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe), [2017](https://www.youtube.com/watch?v=uHDkhm3QiTY&list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), [2016](https://www.youtube.com/watch?v=Qn7ezk-9iqs&list=PLaPDDLTCmy4ZvztJzqBnGTBoD0Lz9r39S)), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
 
-## Community and support
+## Support and Community
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 

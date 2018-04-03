@@ -108,7 +108,7 @@ You can [download it using CocoaPods](https://developers.arcgis.com/macos/latest
 
 [ArcGIS Runtime SDK for iOS Demo at 2017 DevSummit Plenary](https://youtu.be/i8FgR_3zumQ?t=25m21s)
 
-## Community and support
+## Support and Community
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 

@@ -119,7 +119,7 @@ to [download de ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/downloa
 
 [ArcGIS Runtime SDK for Qt Demo at 2018 DevSummit Plenary](https://www.youtube.com/watch?v=G4Qr7_OK5sg&index=25&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe)
 
-## Community and support
+## Support and Community
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 

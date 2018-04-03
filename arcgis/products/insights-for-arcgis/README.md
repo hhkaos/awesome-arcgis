@@ -78,7 +78,7 @@ This product is not provided though the [Esri Startup Program](../../../esri/sta
 
 This product is not yet extendable or customizable.
 
-## Community and support
+## Support and Community
 
 If needed, remember you can always check the [Technical Support Website](https://support.esri.com/en/Products/Apps) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 

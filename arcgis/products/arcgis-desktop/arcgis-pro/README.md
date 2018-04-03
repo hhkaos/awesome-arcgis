@@ -101,7 +101,7 @@ ArcGIS Online:
 
 [ArcGIS Pro SDK Configurations Demo DevSummit 2017](https://youtu.be/u17Nt-4d_04?t=6m34s)
 
-## Community and support
+## Support and Community
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
 

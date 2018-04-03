@@ -118,7 +118,7 @@ You can [download it using NuGet](https://developers.arcgis.com/net/latest/wpf/g
 
 DevSummit Plennary Demos:
 * [Xamarin indoors - 2017](https://youtu.be/u17Nt-4d_04?t=1m44s)
-* [.Net & Xamarin indoors - 2017 Plenary](https://youtu.be/i8FgR_3zumQ?t=35m3s)
+* [.Net & Xamarin indoors - 2017](https://youtu.be/i8FgR_3zumQ?t=35m3s)
 
 ## Community and support
 

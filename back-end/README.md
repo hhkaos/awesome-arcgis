@@ -26,7 +26,7 @@ Anyhow you should understand how [ArcGIS REST APIs](../esri/open-vision/open-spe
 
 You will find some libraries built on [ruby, python and nodejs](technologies/README.md).
 
-We also recommend you to read the [best practices](best-practices/README.md).
+We also recommend you to read the [best practices](best-practices/README.md) (*pending*).
 
 You will probably also interested on understanding some of our [open specifications](../esri/open-vision/open-specifications/README.md)
 in order to be able to read and interpret some content.
@@ -38,6 +38,3 @@ ArcGIS: Authentication ()
 Geodatabase API?
 
 LERC?
-
-
-

@@ -128,7 +128,7 @@ More news:
 * [News tagged as "TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
 * ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=TOPIC&search=Search)
 * [Blog Posts about "TOPIC" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
-* Does this topic/product have a [Twitter account](https://github.com/esri-es/awesome-arcgis/tree/master/esri#twitter-accounts)?
+* Does this topic/product have a [Twitter account](https://github.com/esri-es/awesome-arcgis/tree/master/esri#twitter-accounts) or Hashtag?
 * etc
 
 ## Additional resources

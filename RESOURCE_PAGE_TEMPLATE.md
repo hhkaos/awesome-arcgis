@@ -44,14 +44,15 @@
 
 ### Tutorials
 
-*Tutorials ([DevLabs](https://developers.arcgis.com/labs),  [learn.arcgis.com](https://learn.arcgis.com/en/), ...)*
+>* [TOPIC 15 minutes tutorials (DevLabs)](https://developers.arcgis.com/labs/browse/?)
+>* [TOPIC guided lessons based on real-world problems (learn.arcgis.com)](https://learn.arcgis.com/en/gallery/)
 
 ### Videos
 
 Replace `TOPIC` in the next paragram and remove the \`\`\`.
 
 ```
-On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks.
+On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks.
 
 ```
 
@@ -65,7 +66,7 @@ And
 
 ### Slides
 
-More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+TOPIC) or check on [geonet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bdocument%5D).
+More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+TOPIC) or check on [GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
 ## Get the tool
 
@@ -76,12 +77,15 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 ### Code
 
 Developer site:
-    * Samples, [example apps](https://developers.arcgis.com/example-apps/), etc.
+  * Samples, [example apps](https://developers.arcgis.com/example-apps/), etc.
+
 Github:
-    * [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts)
+  * [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts)
+
 ArcGIS Online:
-    * [codesharing.arcgis.com](http://codesharing.arcgis.com/), team account on ArcGIS Online ([EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [EsriQtTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified), ...), or any other known source.
-* [More at ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=TOPIC+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
+  * [codesharing.arcgis.com](http://codesharing.arcgis.com/), team account on ArcGIS Online ([EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [EsriQtTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified), ...), or any other known source.
+
+[More at ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=TOPIC+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 ### Tools
 

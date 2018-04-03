@@ -78,7 +78,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=xamarin#?sortby=recen
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Where's my Meeting? Indoor Routing and Tracking with Xamarin iOS](https://www.youtube.com/watch?v=ZLN8spxSVDg)|26min 1secs
 |[UC](http://www.esri.com/events/uc) 2016|[ArcGIS Runtime SDK for Xamarin: An Introduction](https://www.youtube.com/watch?v=IDPnUZgAK5w)|1h 13min 43secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Getting Started with ArcGIS Runtime SDK for Xamarin](https://www.esri.com/videos/watch?videoid=5054&channelid=LegacyVideo&isLegacy=true&title=getting-started-with-arcgis-runtime-sdk-for-xamarin)|1h 4min 57secs
-|n.a. 2015|[New CrossPlatform App (ArcGIS Runtime, C#, Xamarin, MVVM)](https://www.esri.com/videos/watch?videoid=4534&channelid=LegacyVideo&isLegacy=true&title=new-crossplatform-app-\(arcgis-runtime,-c#,-xamarin,-mvvm\))|25min 38secs
+|n.a. 2015|[New CrossPlatform App (ArcGIS Runtime, C#, Xamarin, MVVM)](https://www.esri.com/videos/watch?videoid=4534&channelid=LegacyVideo&isLegacy=true&title=new-crossplatform-app-\(arcgis-runtime,-c#,-xamarin,-mvvm\)|25min 38secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Preview of ArcGIS Runtime and Xamarin](https://www.esri.com/videos/watch?videoid=4466&channelid=LegacyVideo&isLegacy=true&title=preview-of-arcgis-runtime-and-xamarin)|53min 3secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Runtime for Xamarin](https://www.esri.com/videos/watch?videoid=4226&channelid=LegacyVideo&isLegacy=true&title=arcgis-runtime-for-xamarin)|6min 40secs
 

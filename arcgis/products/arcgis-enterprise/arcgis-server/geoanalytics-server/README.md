@@ -24,6 +24,7 @@
 ArcGIS GeoAnalytics Server introduces distributed computing to vector-based feature data and can be used to analyze big data or accelerate traditional ArcGIS Desktop analysis workflows through ArcGIS Pro and Portal for ArcGIS. The GeoAnalytics Server capability can also be used from within the Insights for ArcGIS app.
 
 ## Training
+
 ### Documentation
 
 In the official documentation (for [Windows](http://server.arcgis.com/en/server/latest/get-started/windows/what-is-arcgis-geoanalytics-server-.htm) & [Linux](http://server.arcgis.com/en/server/latest/get-started/linux/what-is-arcgis-geoanalytics-server-.htm)). You will find:
@@ -37,8 +38,10 @@ In the official documentation (for [Windows](http://server.arcgis.com/en/server/
 You may also want to check:
 
 * [An overview of the GeoAnalytics Tools toolbox for ArcGIS Pro](https://pro.arcgis.com/en/pro-app/tool-reference/big-data-analytics/an-overview-of-the-big-data-analytics-toolbox.htm)
+* [ArcGIS GeoAnalytics Server: DevSummit 2018 FAQs!](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/analytics/arcgis-geoanalytics-server-devsummit-2018-faqs/)
 
 ### Videos
+
 On **video.esri.com** there are [more than 40 videos related to GeoEvent](http://www.esri.com/videos/search?q=geoanalytics#?sortby=recent&channels=esri,Events,ArcGIS,Industries,ArcGIS,esri). You can also find it slides at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=geoevent+site:proceedings.esri.com).
 
 
@@ -81,7 +84,3 @@ Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/us
 
 ## Additional resources
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoanalytics"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
-
-
-
-

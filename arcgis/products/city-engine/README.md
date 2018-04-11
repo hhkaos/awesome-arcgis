@@ -23,6 +23,10 @@ allows you to build complex scenarios from raw data.
 ## Code
 [Develop 3D applications using the procedural geometry engine of Esri CityEngine.](https://github.com/Esri/esri-cityengine-sdk)
 
+## Awesome projects & cool demos
+
+* [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life)
+
 ## News
 [CityEngine goes to Holywood: Cars2, Total Recall, Man of Steel, as well as in TV commercials and video games.](http://www.esri.com/esri-news/releases/13-3qtr/esri-goes-hollywood)
 
@@ -38,6 +42,3 @@ allows you to build complex scenarios from raw data.
 Free trial
 Startup program
 Buy a license
-
-
-

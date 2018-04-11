@@ -30,11 +30,9 @@ http://www.esri.com/events/devsummit-europe
 ## Hackathons
 
 Resources:
+* [Esri Hackathon Resources by Max Payson](https://github.com/mpayson/hackathon-resources)
 * [The Esri Hackathon Handbook](http://hackathon-handbook.com/appendix.html)
 * [A place to learn how to build geo apps with the ArcGIS Platform.](https://github.com/Esri/geodev-hackerlabs)
 
 Offtopic:
 * [Hackathon Organizer Guide](https://guide.mlh.io/)
-
-
-

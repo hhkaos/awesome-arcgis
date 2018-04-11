@@ -14,8 +14,8 @@ Here you will find how different disciplines fits in the ArcGIS Platform.
 
 ## Introduction
 
-* [3D](./3d/README.md)
-* [Building Information Modeling (BIM)](./bim/README.md)
-* [Indoor](./indoor/README.md)
-* [Artificial Intelligence](./artificial-intelligence/README.md) (machine learning & deep learning)
+* [3D](3d/README.md)
+* [Building Information Modeling (BIM)](bim/README.md)
+* [Indoor](indoor/README.md)
+* [Artificial Intelligence](artificial-intelligence/README.md) (machine learning & deep learning)
 * Are you missing any?, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues/new).

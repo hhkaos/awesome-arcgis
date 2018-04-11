@@ -15,8 +15,6 @@
 ## Third party integrations
 
 * [ArcGIS Runtime SDK for React Native](https://community.esri.com/ideas/13356-arcgis-runtime-sdk-for-react-native)
+* [Proof of concept - Use ArcGIS Runtime SDK for Android and iOS in React Native](https://github.com/glazou/react-native-arcgis-sdk-demo)
 
 ## Choosing the best technology
-
-
-

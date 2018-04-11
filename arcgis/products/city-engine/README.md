@@ -7,6 +7,7 @@
 
 - [Web Scenarios](#web-scenarios)
 - [Code](#code)
+- [Awesome projects & cool demos](#awesome-projects--cool-demos)
 - [News](#news)
 - [Videos](#videos)
 - [Get the tool](#get-the-tool)

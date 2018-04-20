@@ -8,11 +8,17 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
   - [Videos](#videos)
+  - [Slides](#slides)
+- [Get the tool](#get-the-tool)
 - [Code](#code)
-- [Community](#community)
+- [Live demos](#live-demos)
+- [Support and Community](#support-and-community)
 - [People you should know](#people-you-should-know)
-- [Resources](#resources)
+- [News](#news)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

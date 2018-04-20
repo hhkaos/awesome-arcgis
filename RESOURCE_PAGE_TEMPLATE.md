@@ -62,7 +62,7 @@ And
 |---|---|---|
 |Event name|Video title| [X]h [Y]min [z]secs|
 
-> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw), [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="TOPIC"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="TOPIC"), [EsriTV](https://www.youtube.com/user/esritv/search?query="TOPIC"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="TOPIC") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
 
 ### Slides
 
@@ -129,8 +129,7 @@ technology so we recommend you to follow them.
 
 More news:
 
-* [News tagged as "TOPIC" at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/TOPIC/)
-* ["TOPIC" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=TOPIC&search=Search)
+* ["TOPIC" at esri.com search engine](https://www.esri.com/en-us/search#/?q=TOPIC&v=0&tab=Explore&page=1)
 * [Blog Posts about "TOPIC" inside Places at GeoNet](https://community.esri.com/content?query=TOPIC&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Does this topic/product have a [Twitter account](https://github.com/esri-es/awesome-arcgis/tree/master/esri#twitter-accounts) or Hashtag?
 * etc

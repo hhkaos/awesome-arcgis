@@ -34,7 +34,7 @@ Insights for ArcGIS is a web-based, data analytics workbench where you can explo
 ### Documentation
 
 * [Oficial documentation](https://doc.arcgis.com/en/insights/)
-* [Insights for ArcGIS training courses](www.esri.com/training/Bookmark/P39W6758S)
+* [Insights for ArcGIS training courses](https://www.esri.com/training/Bookmark/P39W6758S)
 
 ### Tutorials
 

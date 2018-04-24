@@ -30,13 +30,10 @@ We assure ArcGIS can be used to share, discover, and integrate open data. More t
 ## Open APIs and Specifications
 Esri’s open APIs provide unparalleled access for your systems to connect with ArcGIS.
 
-Learn more about: **[ArcGIS Open APIs and Specifications](open-apis-and-specs/README.md)**
+Learn more about: **[ArcGIS Open Specifications](open-specifications/README.md)**
 
 ## Open Source
 Esri has released 350+ open-source projects. We use and contribute to 200+ more.
 
 ## Community
 Find Esri users and experts among the growing open community of people who are sharing experiences and ideas. (+10,000 developers, +200,000 questions and much more)
-
-
-

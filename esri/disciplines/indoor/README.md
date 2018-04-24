@@ -39,6 +39,8 @@ Learn more about indoor mapping, navigation, routing, ... using ArcGIS.
 
 ### Videos
 
+We have created a [ArcGIS & Indoor Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd6ba26TM0mABm6z5pec0Wsk) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
 On [*video.esri.com*](https://www.esri.com/videos/search?q=indoor) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=indoor) you will find many technical talks.
 
 |Event|Title|Length|

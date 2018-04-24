@@ -43,8 +43,9 @@ On [**video.esri.com**](http://video.esri.com/search/arcade) you will find many 
 * [Create a custom visualization using an Arcade expression - JSAPI 4.x](https://developers.arcgis.com/javascript/latest/sample-code/visualization-arcade/index.html)
 
 
-## Blog posts
+## News
 
+* [Combining Arcade and HTML for a Real-life Pop-up Display](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/combining-arcade-and-html-for-a-real-life-pop-up-display/)
 * [Share your Arcade expressions as templates](https://blogs.esri.com/esri/arcgis/2018/03/15/share-your-arcade-expressions-as-templates/)
 * [What's New in ArcGIS Online - 14/12/2016](https://blogs.esri.com/esri/arcgis/2016/12/14/whats-new-arcgis-online-december-2016/)
 * [Use Arcade Expressions to Map Your Ideas - 15/12/2016](https://blogs.esri.com/esri/arcgis/2016/12/15/use-arcade-expressions-to-map-your-ideas/)

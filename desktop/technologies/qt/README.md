@@ -102,6 +102,7 @@ to [download de ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/downloa
 * Github:
     * [developer-support/runtime-qt](https://github.com/Esri/developer-support/tree/master/runtime-qt)
     * [Qt repos on Esri's Github](https://github.com/search?q=org%3AEsri+qt)
+        * [Dynamic Situational Awareness Qt](https://github.com/Esri/dynamic-situational-awareness-qt)
 * ArcGIS Online:  
     * [Interactive Samples App](http://www.arcgis.com/home/search.html?t=content&q=tags%3AQtSampleViewer&content=all&start=1&sortOrder=desc&sortField=modified)
     * [QML Maps and Charts](http://www.arcgis.com/home/item.html?id=1a423703543f41e0b7c75905f58446cc)

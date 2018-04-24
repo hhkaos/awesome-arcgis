@@ -52,6 +52,8 @@
 Replace `TOPIC` in the next paragram and remove the \`\`\`.
 
 ```
+We have created a [TOPIC Youtube playlist](https://www.youtube.com/channel/UCtOKtU_kXqz5ZlJ_-OJc_dw/playlists?disable_polymer=1) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
 On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks.
 
 ```

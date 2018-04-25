@@ -40,7 +40,7 @@
 
 ### Documentation
 
-*Compilation of official documentation, [training courses](https://www.esri.com/training/catalog/search/),  [example apps](https://developers.arcgis.com/example-apps/),...*
+*Compilation of official documentation and courses, [training courses](https://www.esri.com/training/catalog/search/), https://doc.arcgis.com/en/, [example apps](https://developers.arcgis.com/example-apps/), [moocs](http://www.esri.com/mooc)...*
 
 ### Tutorials
 

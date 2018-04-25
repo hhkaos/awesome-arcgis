@@ -20,7 +20,6 @@
 
 ## Introduction
 
-
 If you are planning to work with drones, [Drone2Map](http://www.esri.com/products/drone2map)
 is an app that allow you to take geolocated imagery and build ....
 
@@ -29,9 +28,14 @@ working with [ArcGIS Server](../arcgis-enterprise/README.md) and
 [ArcGIS Image Server](../arcgis-enterprise/image-server/README.md)
 
 ## Training
+
 * [Drones in the ArcGIS Platform](http://proceedings.esri.com/library/userconf/imf16/tech-workshops/tw_2488-305.pdf)
 
-###Videos
+### Tutorials
+
+* [Get Started with Drone2Map for ArcGIS](https://learn.arcgis.com/en/projects/get-started-with-drone2map-for-arcgis/)
+
+### Videos
 [Introducing Drone2Map for ArcGIS](http://www.esri.com/videos/watch?videoid=y8QT9FTu2iA&channelid=UCJ203R9PsZn6wF_zYfsp1SA&title=introducing-drone2map-for-arcgis)
 
 [ArcGIS Apps: Drone2Map for ArcGIS: Bring Drone Imagery into ArcGIS](http://www.esri.com/videos/watch?videoid=63qAQJZGab8&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-apps:-drone2map-for-arcgis:-bring-drone-imagery-into-arcgis)

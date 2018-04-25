@@ -8,7 +8,7 @@
 - [Documentation](#documentation)
 - [Videos / Technical talks](#videos--technical-talks)
 - [Code samples](#code-samples)
-- [Blog posts](#blog-posts)
+- [News](#news)
 - [Arcade Playground](#arcade-playground)
   - [People you should know](#people-you-should-know)
 

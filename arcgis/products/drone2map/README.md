@@ -7,6 +7,8 @@
 
 - [Introduction](#introduction)
 - [Training](#training)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
 - [Resources](#resources)
 - [News](#news)
 - [Related technologies](#related-technologies)

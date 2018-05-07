@@ -9,7 +9,7 @@ Most of the topics in this help section document how to use the geodatabase and 
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Types](#types)
+- [Data types](#data-types)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

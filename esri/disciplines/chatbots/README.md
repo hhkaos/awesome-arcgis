@@ -9,14 +9,16 @@ A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, 
 
 - [Introduction](#introduction)
 - [Training](#training)
+  - [Tutorials](#tutorials)
   - [Videos](#videos)
-  - [Slides](#slides)
+- [Coding](#coding)
+  - [Code](#code)
+  - [Tools](#tools)
+- [Awesome projects & cool demos](#awesome-projects--cool-demos)
 - [Community](#community)
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Localized resources](#localized-resources)
-    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

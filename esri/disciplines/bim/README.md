@@ -30,6 +30,8 @@ Read the [ArcGIS Tools for BIM](https://greenshoots.maps.arcgis.com/apps/Cascade
 
 ### Videos
 
+We have created a [TOPIC Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd7eF_jbaYJ4RivZG2IoHdd-) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
 On [*video.esri.com*](https://www.esri.com/videos/search?q=bim) you will find many technical talks.
 
 |Event/Date|Title|Length|
@@ -86,3 +88,4 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 * [Webinar 3D, BIM y Gestión Indoor](https://www.youtube.com/watch?v=-PzdMRk7n80) (2017)
 * [BIM & Indoor, servicios i3s y realidad virtual, 3D en las nuevas tecnologías](https://www.youtube.com/watch?v=mV77R2I_M-0) (2017)
+* [Revisión PD Vitoria con la metodología BIM](https://inecotifsa.maps.arcgis.com/apps/MapJournal/index.html?appid=e400a5b515b24e50a96e59a8a116eb5b)

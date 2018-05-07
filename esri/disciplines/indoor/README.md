@@ -26,8 +26,6 @@ Learn more about indoor mapping, navigation, routing, ... using ArcGIS.
 
 ## Training
 
-
-
 ### Tutorials
 
 [ArcGIS Indoors Playlist](https://www.youtube.com/watch?v=nkaI3VJtiho&list=PLGZUzt4E4O2LHOdEmsiuPfmFTSTHkgang):

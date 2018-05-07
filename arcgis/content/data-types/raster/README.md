@@ -15,4 +15,9 @@
 
 ## Introduction
 
-*Pending*
+Some raster data types:
+
+* [LAS](las/README.md) (industry-standard binary format for storing airborne [lidar data](./las/lidar/README.md))
+* ADRG
+* BAG
+* [view full list](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/supported-raster-dataset-file-formats.htm)

@@ -18,6 +18,7 @@ To build great apps you need may need great content, learn what ArcGIS supports.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 ArcGIS offer you the possibility to:
 * Host your own geographic content
 * Consume third party content

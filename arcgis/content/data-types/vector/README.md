@@ -15,4 +15,10 @@
 
 ## Introduction
 
-*Pending*
+Vector data types:
+
+* [CAD](cad/README.md) (Computer-Aided Design aids in the creation, modification, analysis, or optimization of a 2D and 3D designs)
+* [GTFS](gtfs/README.md) (General Transit Feed Specification format for exchanging public transportation schedule, geographic and fare information)
+* CSV
+* Excel
+* ...

@@ -16,7 +16,10 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-[Esri's Open Vision](http://www.esri.com/software/open)
+
+Check the Esri's Open Vision [webiste](http://www.esri.com/software/open) and [video](https://img.youtube.com/vi/NwPesTVNeg8/0.jpg).
+
+[![Youtube Screenshot](https://img.youtube.com/vi/NwPesTVNeg8/0.jpg)](https://www.youtube.com/watch?v=NwPesTVNeg8)
 
 ## Open Standards
 ArcGIS supports 100+ different standards and many independent standards organizations.

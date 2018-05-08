@@ -1,6 +1,7 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS Pro
+
 [ArcGIS Pro](http://pro.arcgis.com/en/pro-app/) is a Desktop tool that allows you to create, manage, and share geographic maps, data, and analytical models.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -27,6 +28,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 You can extend ArcGIS Pro with ArcGIS Pro SDK for .NET and leverage [geoprocessing tools](http://pro.arcgis.com/en/pro-app/help/analysis/geoprocessing/basics/what-is-geoprocessing-.htm).
 ArcGIS Pro SDK for .NET is based on the add-in and configurations extensibility
 pattern. Leverage modern .NET features and patterns such as Task Asynchronous
@@ -58,6 +60,8 @@ using Pro’s new APIs.
 * [ArcGIS Pro guided lessons based on real-world problems (learn.arcgis.com)](https://learn.arcgis.com/en/) (for GIS Users)
 
 ### Videos
+
+We have created a [TOPIC Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd4kQNyzn8yobM3DTUSdZcEN) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../../assets/SavePlaylist.gif)).
 
 On [*video.esri.com*](http://www.esri.com/videos/search?q=%22arcgis%20pro%22#?channels=esri,Events,ArcGIS,Industries,ArcGIS,esri&sortby=recent) and [Esri Events](hhttps://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=%22ArcGIS+Pro%22) you will find many technical talks.
 

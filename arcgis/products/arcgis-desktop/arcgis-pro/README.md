@@ -137,6 +137,10 @@ technology so we recommend you to follow them.
 
 ## News
 
+* [ArcGIS Pro SDK Sessions Available from Dev Summit 2018](https://www.esri.com/arcgis-blog/products/arcgis-pro-net/announcements/arcgis-pro-sdk-sessions-available-from-dev-summit-2018/)
+
+Find more news at:
+
 * [Blogs.esri.com tag "ArcGIS Pro SDK"](https://blogs.esri.com/esri/arcgis/tag/arcgis-pro-sdk/)
 * [ArcGIS Pro Twitter account](https://twitter.com/arcgispro)
 * ["ArcGIS Pro SDK" at esri.com search engine](https://www.esri.com/search?filter=Blogs&q=ArcGIS Pro SDK&search=Search)

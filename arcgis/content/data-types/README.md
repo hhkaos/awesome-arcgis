@@ -2,7 +2,7 @@
 
 # Data types
 
-Most of the topics in this help section document how to use the geodatabase and a few other primary data formats that are native to ArcGIS.
+Most of the topics in this help section document how to use the [geodatabase](../data-storage/geodatabase/README.md) and a few other primary data formats that are native to ArcGIS.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -16,7 +16,7 @@ Most of the topics in this help section document how to use the geodatabase and 
 
 ## Introduction
 
-In addition to [geodatabases](../data-storage/odatabase/README.md), a fundamental goal of ArcGIS is to work with numerous file-based data types; DBMS data—including spatial types in the DBMS; and GIS web services from Google, Bing, ArcIMS, and ArcGIS for Server and others such as OGC web services. This page will help you to start digging on the spatial data formats supported by ArcGIS.
+In addition to [geodatabases](../data-storage/odatabase/README.md), a fundamental goal of ArcGIS is to work with numerous file-based data types; DBMS data—including spatial types in the DBMS; and GIS web services from Google, Bing, ArcIMS, and [ArcGIS for Server](../../products/arcgis-enterprise/arcgis-server/README.md) and others such as OGC web services. This page will help you to start digging on the spatial data formats supported by ArcGIS.
 
 You will learn ArcGIS lets you work with a number of data formats from many different sources, here you will find some of those the supported data sources.
 

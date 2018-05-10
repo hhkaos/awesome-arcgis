@@ -39,6 +39,6 @@ There are several places in the ArcGIS Platform where you can find/share content
 Of course, there many other Esri customers managing their own infrastructure are also sharing content though the [REST APIs](../../esri/open-vision/open-specifications/arcgis-rest-api/README.md).
 
 
-### Other related list of resources
+## Other related list of resources
 
 Find more geolocated and none geolocated content at [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)

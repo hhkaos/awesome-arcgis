@@ -16,17 +16,19 @@
 
 ## Introduction
 
+The benefits from storing content inside ArcGIS are:
+
+* Been able to run spatial analysis inside the platform
+* Consume your data from any [ArcGIS product](../../products/README.md)
+* ...
+
 When working with ArcGIS you will likely have to work with geolocated content on different storages:
 
 * [ArcGIS Geodatabases](./geodatabase/README.md)
 * [Shapefile](./shapefile/README.md)
-* [Hosted services](#) (On ArcGIS Online)
 
 > Recommendation: If you are building an app using ArcGIS we recommended you to store your content in an ArcGIS storage because that way you will get the most of the APIs and SDKs
 
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["storage"](https://esri-es.github.io/arcgis-search/?search="storage"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
-
-
-

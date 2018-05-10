@@ -26,3 +26,8 @@ Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/e
 * [Raster data types](raster/README.md)
 * [Vector data types](vector/README.md)
 * [Mosaic data types](mosaic/README.md)
+
+## Training
+
+* [ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book)
+* [ArcGIS Imagery Book - Instructional Guide](http://downloads.esri.com/LearnArcGIS/pdf/instructional-guide-for-the-arcgis-imagery-book.pdf)

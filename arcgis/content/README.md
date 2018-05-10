@@ -19,47 +19,29 @@ To build great apps you need may need great content, learn what ArcGIS supports.
 
 ## Introduction
 
-ArcGIS offer you the possibility to:
-* Host your own geographic content
-* Consume third party content
+ArcGIS offer you the possibility to host your own geographic content and consume third party content. This content is delivered though ArcGIS services.
 
-This content is delivered though ArcGIS Server services, you can learn more about
-[which type of services are available in ArcGIS Server](service-types/README.md).
+Learn more about:
 
-[ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book)
-[ArcGIS Imagery Book - Instructional Guide](http://downloads.esri.com/LearnArcGIS/pdf/instructional-guide-for-the-arcgis-imagery-book.pdf)
+* [ArcGIS Data Types](data-types/README.md)
+* [ArcGIS Data Storage](data-storage/README.md)
+* [ArcGIS Services Types](service-types/README.md)
 
-## Find existing geolocated content
-### Inside the ArcGIS
-There are several places in the ArcGIS Platform where you can find/share content
-for ArcGIS apps.
+## Find existing geolocated content in ArcGIS
 
-|Source|Formats|Price|
+There are several places in the ArcGIS Platform where you can find/share content in different formats. Many will be free, some with be restricted to [ArcGIS named users](../name-users/README.md) and some will be paid.
+
+|Source|Authoritative
 |---|---|---|
-|Marketplace|Features, images, ...|Free and paid|
-|ArcGIS Online community (search)|Any|Free and some legally restricted
-|Open Data & API|Any|Free
-|[Living atlas](../products/arcgis-online/content/README.md)|Imagery, tiles|Free and Premium
-|[ArcGIS Online Ready to use services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)|Features|Free and paid
+|[Living atlas](../products/arcgis-online/content/living-atlas/README.md)|Yes
+|[ArcGIS Online Ready to use services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)|Yes
+|[Marketplace](../products/marketplace/README.md)|Yes|
+|[ArcGIS Online community](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#tips-and-tricks-arcgis-online)|Mixed
+|[ArcGIS Hub](../products/arcgis-hub/README.md)|Mixed|
 
-### Outside ArcGIS
+Of course, there many other Esri customers managing their own infrastructure are also sharing content though the [REST APIs](../../esri/open-vision/open-specifications/arcgis-rest-api/README.md).
 
-Geolocated and none geolocated content:
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 
-## Store content
-The benefits from storing content inside ArcGIS are:
-* Been able to run spatial analysis
-* ...
+### Other related list of resources
 
-## Data formats
-
-Check the [list of data formats supported in ArcGIS](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_4835793C55C0439593A46FD5BC9E64B9) and if you need more you can also use the [ArcGIS Data Interoperability extension for Desktop](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/datatypes/about-geographic-data-formats.htm#ESRI_SECTION1_17EE0659B23345B9A655752949E49E3E).
-
-* [LAS dataset](./data-formats/las/README.md)
-* [GTFS](./data-types/vector/gtfs/README.md)
-* [Find more](./data-formats/README.md)
-
-## News
-
-* [LivingAtlas](https://twitter.com/LivingAtlas)
+Find more geolocated and none geolocated content at [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)

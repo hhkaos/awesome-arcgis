@@ -23,9 +23,10 @@ ArcGIS offer you the possibility to host your own geographic content and consume
 
 Learn more about:
 
-* [ArcGIS Data Types](data-types/README.md)
-* [ArcGIS Data Storage](data-storage/README.md)
-* [ArcGIS Services Types](service-types/README.md)
+* [ArcGIS geoinformation model](https://doc.arcgis.com/en/arcgis-online/reference/geo-info.htm)
+* [ArcGIS data types](data-types/README.md)
+* [ArcGIS data storage](data-storage/README.md)
+* [ArcGIS services types](service-types/README.md)
 
 ## Find existing geolocated content in ArcGIS
 
@@ -33,7 +34,7 @@ There are several places in the ArcGIS Platform where you can find/share content
 
 |Source|Authoritative
 |---|---|---|
-|[Living atlas](../products/arcgis-online/content/living-atlas/README.md)|Yes
+|[Living atlas](../products/living-atlas/README.md)|Yes
 |[ArcGIS Online Ready to use services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)|Yes
 |[Marketplace](../products/marketplace/README.md)|Yes|
 |[ArcGIS Online community](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#tips-and-tricks-arcgis-online)|Mixed

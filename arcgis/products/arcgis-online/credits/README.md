@@ -8,7 +8,10 @@ Service credits are the currency used across ArcGIS and are consumed for specifi
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Get more credits](#get-more-credits)
+- [Introduction](#introduction)
+- [Check your credits](#check-your-credits)
+- [How to get additional credits](#how-to-get-additional-credits)
+- [Manage your credits](#manage-your-credits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

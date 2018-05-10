@@ -9,7 +9,11 @@ There are several services hosted on [ArcGIS Online](../../README.md) that can b
 **Table of contents**
 
 - [Introduction](#introduction)
-  - [Geocoder](#geocoder)
+- [Services](#services)
+  - [Geocoder service](#geocoder-service)
+  - [Routing service](#routing-service)
+  - [GeoEnrichment service](#geoenrichment-service)
+  - [Spatial Analysis](#spatial-analysis)
   - [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

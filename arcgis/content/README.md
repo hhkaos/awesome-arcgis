@@ -8,12 +8,8 @@ To build great apps you need may need great content, learn what ArcGIS supports.
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Find existing geolocated content](#find-existing-geolocated-content)
-  - [Inside the ArcGIS](#inside-the-arcgis)
-  - [Outside ArcGIS](#outside-arcgis)
-- [Store content](#store-content)
-- [Data formats](#data-formats)
-- [News](#news)
+- [Find existing geolocated content in ArcGIS](#find-existing-geolocated-content-in-arcgis)
+  - [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

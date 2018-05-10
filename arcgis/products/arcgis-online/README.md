@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS Online
+
 [ArcGIS Online](http://www.esri.com/software/arcgis/arcgisonline)
 ([www.arcgis.com](http://arcgis.com)) is a cloud service that allow any user to
 find geolocated data, build maps, analyze information, etc.
@@ -24,8 +25,10 @@ find geolocated data, build maps, analyze information, etc.
 ---
 
 ## Introduction
+
 With ArcGIS Online you have everything you need to build powerful applications:
-* [Content](content/README.md)
+
+* [Content](../../content/README.md)
 * [APIs](rest-apis/ready-to-use-services/README.md)
 * [Developer console](developer-console/README.md)
 * [Apps](#Apps)
@@ -37,6 +40,7 @@ This is a simplified overview of the ArcGIS Online Architecture:
 [![ArcGIS Online Architecture](https://docs.google.com/drawings/d/1w7QLl1m2OKbJEDVax1nnuxIyyidHkKXuah7rxqlx3LM/pub?w=860&h=601)](https://docs.google.com/drawings/d/1w7QLl1m2OKbJEDVax1nnuxIyyidHkKXuah7rxqlx3LM/edit?usp=sharing)
 
 ## Training
+
 There are many useful resources, here you have a subset of them:
 
 |Resource|Level|Format|Details|
@@ -55,6 +59,7 @@ There are many useful resources, here you have a subset of them:
 |[Instructional Guide for The ArcGIS Book ](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=303&moduleID=0)|n.a.|Book|$59.99|
 
 ## Community
+
 * [ArcGIS Online at Geonet](https://community.esri.com/community/gis/web-gis/arcgisonline)
 * [ArcGIS Online Developers at Geonet](https://community.esri.com/community/developers/web-developers/arcgis-online-developers)
 
@@ -72,6 +77,7 @@ But you also have app builders ready to use:
 * [Survey123](../survey123/README.md)
 
 ## Tools
+
 These are pretty awesome tools to manage and automate your ArcGIS Online account:
 * [Automate ArcGIS Online tasks using zapier](https://zapier.com/zapbook/arcgis-online/),
 you can also combine [IFTTT mobile app](https://ifttt.com/products) to trigger
@@ -92,8 +98,6 @@ If you are an independent developer we encourage you to start using the
 [free plan](https://developers.arcgis.com/sign-up/?origin=awesome-list) (it never expires unlike the organization account).
 
 ## News
+
 * [ArcGIS Online news at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-online/)
 * [ArcGIS Online at Twitter](https://twitter.com/ArcGISOnline)
-
-
-

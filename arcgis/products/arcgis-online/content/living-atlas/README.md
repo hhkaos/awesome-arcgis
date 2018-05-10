@@ -94,6 +94,10 @@ See [all Environments](https://livingatlas.arcgis.com/en/browse/#d=1&categories=
 * [Habitat](https://livingatlas.arcgis.com/en/browse/#d=1&categories=Environment:0000000010)
 * [Species](https://livingatlas.arcgis.com/en/browse/#d=1&categories=Environment:0000000001)
 
+## News
+
+* [LivingAtlas](https://twitter.com/LivingAtlas)
+
 ## Localized resources
 
 #### Spanish

@@ -9,7 +9,7 @@ To build great apps you need may need great content, learn what ArcGIS supports.
 
 - [Introduction](#introduction)
 - [Find existing geolocated content in ArcGIS](#find-existing-geolocated-content-in-arcgis)
-  - [Other related list of resources](#other-related-list-of-resources)
+- [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -28,13 +28,13 @@ Learn more about:
 
 There are several places in the ArcGIS Platform where you can find/share content in different formats. Many will be free, some with be restricted to [ArcGIS named users](../name-users/README.md) and some will be paid.
 
-|Source|Authoritative
+|Source|Authoritative|Who publish?|
 |---|---|---|
-|[Living atlas](../products/living-atlas/README.md)|Yes
-|[ArcGIS Online Ready to use services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)|Yes
-|[Marketplace](../products/marketplace/README.md)|Yes|
-|[ArcGIS Online community](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#tips-and-tricks-arcgis-online)|Mixed
-|[ArcGIS Hub](../products/arcgis-hub/README.md)|Mixed|
+|[Living atlas](../products/living-atlas/README.md)|Yes|Esri, partners and customers
+|[ArcGIS Online Ready to use services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)|Yes|Esri
+|[Marketplace](../products/marketplace/README.md)|Yes|Esri and partners
+|[ArcGIS Online community](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#tips-and-tricks-arcgis-online)|Mixed|Any ArcGIS user
+|[ArcGIS Hub](../products/arcgis-hub/README.md)|Mixed|Esri and customers
 
 Of course, there many other Esri customers managing their own infrastructure are also sharing content though the [REST APIs](../../esri/open-vision/open-specifications/arcgis-rest-api/README.md).
 

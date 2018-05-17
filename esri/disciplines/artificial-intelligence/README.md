@@ -33,6 +33,8 @@ Machine Learning (ML) refers to a set of data-driven algorithms and techniques t
 
 Deep learning refers to a subset of machine learning composed of algorithms that permit software to train itself to perform tasks, like speech and image recognition, by exposing multilayered neural networks to vast amounts of data.
 
+> **Note**: you might also be interested in the [Chatbots in the ArcGIS Platform](chatbots/README.md) page.
+
 ## Training
 
 ### Tutorials
@@ -123,6 +125,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Other related list of resources
 
+* [Chatbots in the ArcGIS Platform](chatbots/README.md)
 * [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 * MOOC:
   * EDX: [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning)

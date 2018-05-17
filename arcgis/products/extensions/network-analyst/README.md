@@ -73,6 +73,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=%22network%20analyst
 |[UC](http://www.esri.com/about/events/uc) 2010|[Network Analyst - An Introduction](http://www.esri.com/videos/watch?videoid=92&channelid=LegacyVideo&isLegacy=true&title=network-analyst-an-introduction)|1h 11min 0secs
 
 ## People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Network%20Analyst](https://esri-es.github.io/arcgis-experts/?topic=Network%20Analyst)
 
 They don't work on the support team and some may even not work at Esri,

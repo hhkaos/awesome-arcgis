@@ -8,7 +8,11 @@ Many things can be done though imagery in the ArcGIS platform, here we will poin
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Business Intelligence](#business-intelligence)
+- [Introduction](#introduction)
+  - [Training](#training)
+  - [Content](#content)
+    - [Content providers](#content-providers)
+  - [Related products](#related-products)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

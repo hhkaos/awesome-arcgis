@@ -9,6 +9,15 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
+  - [Other related list of resources](#other-related-list-of-resources)
+- [Partners and startups](#partners-and-startups)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

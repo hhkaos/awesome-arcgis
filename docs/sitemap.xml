@@ -50,6 +50,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-desktop/add-ins/full-motion-video/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcgis-pro/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcmap-arccatalog/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-earth/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -57,6 +58,8 @@
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/image-server/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-extensions/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-interceptors/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/portal-for-arcgis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-hub/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-online/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -73,7 +76,10 @@
 <url> <loc>https://hhkaos.github.io/arcgis/products/drone2map/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/explorer-for-arcgis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/extensions/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/extensions/3d-analyst/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/extensions/image-analyst/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/extensions/network-analyst/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/extensions/spatial-analyst/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/insights-for-arcgis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/living-atlas/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/marketplace/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -114,11 +120,15 @@
 <url> <loc>https://hhkaos.github.io/esri/disciplines/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/disciplines/3d/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/disciplines/artificial-intelligence/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/disciplines/artificial-intelligence/chatbots/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/disciplines/bi/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/disciplines/big-data/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/disciplines/bim/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://hhkaos.github.io/esri/disciplines/chatbots/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/disciplines/imagery-data/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/disciplines/indoor/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/disciplines/iot/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/disciplines/precision-agriculture/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/disciplines/remote-sensing/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/disciplines/uavs/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/events/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/open-vision/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

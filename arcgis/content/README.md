@@ -9,6 +9,9 @@ To build great apps you need may need great content, learn what ArcGIS supports.
 
 - [Introduction](#introduction)
 - [Find existing geolocated content in ArcGIS](#find-existing-geolocated-content-in-arcgis)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 - [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -37,6 +40,19 @@ There are several places in the ArcGIS Platform where you can find/share content
 |[ArcGIS Hub](../products/arcgis-hub/README.md)|Mixed|Esri and customers
 
 Of course, there many other Esri customers managing their own infrastructure are also sharing content though the [REST APIs](../../esri/open-vision/open-specifications/arcgis-rest-api/README.md).
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["esri content"](https://esri-es.github.io/arcgis-search/?search="esri%20content"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+ArcGIS Online accounts publishing curated content: [esri](https://www.arcgis.com/home/search.html?q=owner%3Aesri&start=1&sortOrder=desc&sortField=relevance), [esri_dm](https://www.arcgis.com/home/search.html?q=owner%3Aesri_dm&start=1&sortOrder=desc&sortField=relevance), [esri_basemaps](https://www.arcgis.com/home/search.html?q=owner%3Aesri_basemaps&start=1&sortOrder=desc&sortField=relevance),  [esri_landscape2](https://www.arcgis.com/home/search.html?q=owner%3Aesri_landscape2&start=1&sortOrder=desc&sortField=relevance), ...
+
+### Localized resources
+
+#### Spanish
+
+* [Contents from Esri Spain](http://www.esri.es/arcgis/contenidos/)
+* ArcGIS Online user: [EsriEspanaContenidos](https://www.arcgis.com/home/search.html?q=owner:EsriEspanaContenidos&restrict=false)
 
 
 ## Other related list of resources

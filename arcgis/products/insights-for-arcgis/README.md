@@ -16,6 +16,7 @@ Insights for ArcGIS is a web-based, data analytics workbench where you can explo
   - [Slides](#slides)
 - [Get the tool](#get-the-tool)
 - [Coding](#coding)
+- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [Support and Community](#support-and-community)
   - [People you should know](#people-you-should-know)
 - [News](#news)
@@ -47,17 +48,9 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=%22insights%20for%20a
 
 |Event|Title|Length|
 |---|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2018|[Insights for ArcGIS](https://www.youtube.com/watch?v=qHoG7PSQDOQ)| 10min 48secs
 |[UC](http://www.esri.com/about/events/uc) 2017|[Insights for ArcGIS: An Introduction](https://www.youtube.com/watch?v=36ODQxIizKA)| 1h 15min 19secs
-|[UC](http://www.esri.com/about/events/uc) 2017|[Insights for ArcGIS quick overview](https://www.youtube.com/watch?v=fOGXHhxHy74)|5min 56secs
 |[UC](http://www.esri.com/about/events/uc) 2017|[Insights for ArcGIS: Advanced Topics](https://www.youtube.com/watch?v=IEOqZRbtHSc)|1h 17min 11secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Insights for ArcGIS](https://www.youtube.com/watch?v=8WtX1fXplKU&t=19s)|1h 2min 41secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Insights for ArcGIS
-plenary demo](https://www.youtube.com/watch?v=dMOibfULR68)|4min 32secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Insights for ArcGIS  plenary demo 2](https://www.youtube.com/watch?v=qHoG7PSQDOQ)|10min 48secs
-|[FedGIS](http://www.esri.com/events/federal) 2017|[Insights for ArcGIS plenary](https://www.youtube.com/watch?v=IhbqNuOQlUQ)|6min 49secs
-|[Petroleum GIS](http://www.esri.com/events/petroleum) 2017|[Insights for ArcGIS plenary](https://www.youtube.com/watch?v=OhAumv4t7LU)|8min 59secs
-|[UC](http://www.esri.com/about/events/uc) 2016|[Insights for ArcGIS plenary demo](https://www.youtube.com/watch?v=fOGXHhxHy74)|7min 45secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS Analytics](https://www.youtube.com/watch?v=EqlKZDNBw3U)|34min 14secs
 
 > You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw), [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
@@ -68,8 +61,6 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Get the tool
 
-> **Pending to validate**
-
 You need to have a developer subscription or an ArcGIS Online Trial Organizational account and the go to the [ArcGIS Marketplate](https://marketplace.arcgis.com/listing.html?id=18cc7f0e72764dc1ba0cbe82f2273437%20) and use the trial or buy an annual license.
 
 This product is not provided though the [Esri Startup Program](../../../esri/startup-program/README.md) (or any other program).
@@ -77,6 +68,18 @@ This product is not provided though the [Esri Startup Program](../../../esri/sta
 ## Coding
 
 This product is not yet extendable or customizable.
+
+## Awesome projects and cool demos
+
+Plenary demos:
+
+* [DevSummit](http://www.esri.com/events/devsummit) 2018: [plenary demo](https://www.youtube.com/watch?v=qHoG7PSQDOQ)
+* [UC](http://www.esri.com/about/events/uc) 2017: [quick overview](https://www.youtube.com/watch?v=fOGXHhxHy74)
+* [DevSummit](http://www.esri.com/events/devsummit) 2017: plenary demos: [one](https://www.youtube.com/watch?v=dMOibfULR68) and
+ [two](https://www.youtube.com/watch?v=qHoG7PSQDOQ).
+* [FedGIS](http://www.esri.com/events/federal) 2017: [plenary](https://www.youtube.com/watch?v=IhbqNuOQlUQ)
+* [Petroleum GIS](http://www.esri.com/events/petroleum) 2017: [plenary](https://www.youtube.com/watch?v=OhAumv4t7LU)
+* [UC](http://www.esri.com/about/events/uc) 2016: [plenary demo](https://www.youtube.com/watch?v=fOGXHhxHy74)
 
 ## Support and Community
 

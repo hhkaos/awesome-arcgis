@@ -37,6 +37,8 @@ There are a set of products in the ArcGIS platform you should know when you are 
 and [Workforce for ArcGIS](../../../arcgis/products/workforce/README.md) ([field work](https://www.esri.com/software/apps/field)).
 * [ArcGIS Desktop](../../../arcgis/products/arcgis-desktop/README.md), [GeoAnalytics](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md) and  [Insights](../../../arcgis/products/insights-for-arcgis/README.md) (analysis).
 * [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md) (real time processing)
+* [ArcGIS Image Server](../../../arcgis/products/arcgis-enterprise/arcgis-server/image-server)
+* [ArcGIS Spatial Analyst](../../../arcgis/products/extensions/spatial-analyst/README.md)
 
 > Learn more about how ArcGIS allows you to collect, maintain, and analyze all your agriculture field data in one centralized system. It will help to integrate high-resolution imagery, field observations, and real-time data feeds to understand how to make the most of your limited resources | [Learn more about ArcGIS in Agriculture ](https://www.esri.com/en-us/industries/natural-resources/segments/agriculture).
 
@@ -87,7 +89,9 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 * [UAM:Uso de Agricultura de Precisión para identificar desórdenes nutricionales en viñedos - CEsri17](https://www.youtube.com/watch?v=5ugr5rBCZRY)
 * [ArcGIS y la agricultura ](https://www.youtube.com/watch?v=uyqC_Al3P5s&feature=youtu.be)
-* [La Vendimia (Storymap)](https://geogeeks.maps.arcgis.com/apps/Cascade/index.html?appid=e7daa3c29e914ef38cc5c31c159297bf)
+* [La Vendimia (Storymap)](http://www.esri.es/galeria/la-vendimia/)
+* [Desarrollo rural con ArcGIS](http://www.esri.es/sector/desarrollo-rural/)
+* [Bodegas Torres](http://www.esri.es/caso-de-exito/bodegas-torres-gis/) (caso de éxito): utiliza la Plataforma ArcGIS para tomar mejores decisiones en su negocio y proteger la calidad de la uva.
 
 ### Other related list of resources
 
@@ -95,9 +99,11 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ## Partners and startups
 
-Organizations with expertise on this topic:
+Organizations with expertise on this topic and also in the ArcGIS Platform.
 
-|Company|Expertise|Country|
-|---|---|---|
-|[TeamDev](https://www.teamdev.it/)|UAVs, ArcGIS platform|Italy
-|[SRM](srmconsulting.es)|UAVs, orthomosaics |Spain
+|Company|Services|Product|Country|
+|---|---|---|---|
+|[SRM](http://srmconsulting.es)|Drone flights, orthomosaics creation, ...|[Ipsilum](http://srmconsulting.es/en/que-es-ipsilum/)|Spain
+|[Beck's Hybrids](https://www.beckshybrids.com/)|n.a.| [FarmServer](https://www.farmserver.com/)|USA
+|[TeamDev](https://www.teamdev.it/)|n.a.|n.a.|Italy
+|[Cotesa](https://www.grupotecopy.es/es/nosotros/organizacion/cotesa)|n.a.|n.a.|Spain

@@ -15,6 +15,8 @@ Remote sensing is the acquisition of information about an object or phenomenon w
 
 # Introduction
 
+Learn more about [ArcGIS Imagery & Remote Sensing](http://www.esri.com/arcgis/imagery-remote-sensing).
+
 When we are talking about remote sensing we could be talking about:
 
 * [Imagery](../imagery-data/README.md).

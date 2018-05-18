@@ -55,9 +55,9 @@ using Pro’s new APIs.
 
 ### Tutorials
 
-* [ArcGIS Pro 15 minutes tutorials (DevLabs)](https://developers.arcgis.com/labs/browse/?topic=any&product=Pro-SDK)
- [learn.arcgis.com](https://learn.arcgis.com/en/) (for Developers)
-* [ArcGIS Pro guided lessons based on real-world problems (learn.arcgis.com)](https://learn.arcgis.com/en/) (for GIS Users)
+* For GIS Users: [ArcGIS Pro guided lessons based on real-world problems (learn.arcgis.com)](https://learn.arcgis.com/en/)
+* For Developers: [ArcGIS Pro SDK 15 minutes tutorials (DevLabs)](https://developers.arcgis.com/labs/browse/?topic=any&product=Pro-SDK)
+ [learn.arcgis.com](https://learn.arcgis.com/en/)
 
 ### Videos
 

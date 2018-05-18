@@ -29,6 +29,7 @@ https://github.com/marpobuda/r_conda_demo
 Marjean Pobuda (RStudio-Conda): https://youtu.be/hQzNeJBtWHQ?t=8m27s
 
 ## People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=R-language](https://esri-es.github.io/arcgis-experts/?topic=R-language)
 
 They don't work on the support team and some may even not work at Esri,
@@ -36,11 +37,13 @@ but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
 ## Articles
+
 https://blogs.esri.com/esri/arcgis/2017/02/10/r-you-bridging-yet/
 https://blogs.esri.com/esri/arcgis/2017/02/03/r-arcgis-news-and-plans-for-2017/
 
 https://blogs.esri.com/esri/arcgis/tag/r/
 
 
+### Other related list of resources
 
-
+* [Kaggle R tracks](https://www.kaggle.com/learn/overview)

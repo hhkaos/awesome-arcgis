@@ -18,6 +18,8 @@ Many things can be done though imagery in the ArcGIS platform, here we will poin
 
 # Introduction
 
+Learn more about [ArcGIS Imagery & Remote Sensing](http://www.esri.com/arcgis/imagery-remote-sensing).
+
 When working with [imagery in the platform]((http://www.esri.com/data/imagery) you can collect and view imagery content from Esri and Esri partners like:
 
 * **High-Resolution Global Basemaps**: Background imagery can serve as a canvas, providing context and validation for your GIS data.
@@ -39,9 +41,9 @@ But if you collect your own imagery, you can also use ArcGIS to process, analyze
 Learn everything about imagery type of content in the platform:
 
 * [Existing data](../../../arcgis/content/README.md) like:
-    * [Landsat imagery](http://www.esri.com/software/landsat-imagery) (about [Landsat Missions](https://landsat.usgs.gov/))
-    * [Sentinel missions](https://en.wikipedia.org/wiki/Copernicus_Programme#Sentinel_missions)
-    * [MODIS image server](https://modis.arcgis.com/arcgis/rest/services/MODIS/ImageServer) ([about MODIS](https://en.wikipedia.org/wiki/Moderate_Resolution_Imaging_Spectroradiometer))
+    * [Landsat imagery](../../../arcgis/content/data-providers/usgs-nasa/landsat/README.md)
+    * [Sentinel imagery](../../../arcgis/content/data-providers/esa/sentinel/README.md)
+    * [MODIS data](../../../arcgis/content/data-providers/usgs-nasa/modis/README.md)
 * [Supported data types](../../../arcgis/content/data-types/README.md)
 * [Data storage](../../../arcgis/content/data-storage/README.md)
 * [Service types]((../../../arcgis/content/service-types/README.md), etc.

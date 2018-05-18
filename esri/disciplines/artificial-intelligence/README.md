@@ -125,9 +125,10 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Other related list of resources
 
-* [Chatbots in the ArcGIS Platform](chatbots/README.md)
+* [Chatbots in the ArcGIS Platform](./chatbots/README.md)
 * [A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 * MOOC:
   * EDX: [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning)
   * Coursera: [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
   * Udacity: [Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t-ir)
+* [Kaggle Machine Learning and Deep Learning tracks](https://www.kaggle.com/learn/overview)

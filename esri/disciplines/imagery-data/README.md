@@ -40,10 +40,7 @@ But if you collect your own imagery, you can also use ArcGIS to process, analyze
 
 Learn everything about imagery type of content in the platform:
 
-* [Existing data](../../../arcgis/content/README.md) like:
-    * [Landsat imagery](../../../arcgis/content/data-providers/usgs-nasa/landsat/README.md)
-    * [Sentinel imagery](../../../arcgis/content/data-providers/esa/sentinel/README.md)
-    * [MODIS data](../../../arcgis/content/data-providers/usgs-nasa/modis/README.md)
+* [Existing data](../../../arcgis/content/data-providers/README.md) like: [Landsat imagery](../../../arcgis/content/data-providers/usgs-nasa/landsat/README.md), [Sentinel imagery](../../../arcgis/content/data-providers/esa/sentinel/README.md), [MODIS data](../../../arcgis/content/data-providers/usgs-nasa/modis/README.md), ...
 * [Supported data types](../../../arcgis/content/data-types/README.md)
 * [Data storage](../../../arcgis/content/data-storage/README.md)
 * [Service types]((../../../arcgis/content/service-types/README.md), etc.

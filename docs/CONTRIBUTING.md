@@ -87,7 +87,7 @@ These are sample pages you can check to better understand what we are trying to 
 
 * **Java Developers resources page**:<br> [/desktop/technologies/java/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/desktop/technologies/java)
 
-* **BIM resources page**:<br> [/esri/disciplines/bim/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/esri/disciplines/bim)
+* **BIM resources page**:<br> [/esri/business-trends/data-management/bim/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/esri/business-trends/data-management/bim)
 
 * **Leaflet Developers resources page**:<br> [/front-end/technologies/leaflet/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/front-end/technologies/leaflet)
 

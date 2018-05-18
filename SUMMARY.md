@@ -8,6 +8,12 @@
   - [Best Practices](arcgis/best-practices/README.md)
     - [Performance](arcgis/best-practices/performance/README.md)
   - [Content](arcgis/content/README.md)
+    - [Data Providers](arcgis/content/data-providers/README.md)
+      - Esa
+        - [Sentinel](arcgis/content/data-providers/esa/sentinel/README.md)
+      - Usgs Nasa
+        - [Landsat](arcgis/content/data-providers/usgs-nasa/landsat/README.md)
+        - [Modis](arcgis/content/data-providers/usgs-nasa/modis/README.md)
     - [Data Storage](arcgis/content/data-storage/README.md)
       - [Geodatabase](arcgis/content/data-storage/geodatabase/README.md)
         - [Enterprise Geodatabase](arcgis/content/data-storage/geodatabase/enterprise-geodatabase/README.md)

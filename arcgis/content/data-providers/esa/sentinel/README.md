@@ -9,7 +9,7 @@ Under the **Copernicus Programm** from the European Space Agency (ESA) which is 
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Additional resources](#additional-resources)
+- [Services and apps](#services-and-apps)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

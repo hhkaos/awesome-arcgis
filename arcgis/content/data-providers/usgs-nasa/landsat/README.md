@@ -9,7 +9,6 @@ The **Landsat program** is the longest-running enterprise for acquisition of sat
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

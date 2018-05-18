@@ -14,6 +14,7 @@ of R.
 - [Videos](#videos)
 - [People you should know](#people-you-should-know)
 - [Articles](#articles)
+  - [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

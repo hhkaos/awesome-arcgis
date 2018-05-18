@@ -158,8 +158,8 @@ ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=ow
 
 Organizations with expertise on this topic:
 
-|Company|Expertise|Country|
-|---|---|---|
-|[Name](#)|Topics|Country
+|Company|Services|Product|Country|
+|---|---|---|---|
+|[Name](#)|Fill|Name it|Country
 
 *Is there any partner or startup you can had with expertise on this topic?*

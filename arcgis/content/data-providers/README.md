@@ -8,12 +8,7 @@ Learn more about the organizations that work with us providing some of the data 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Introduction](#introduction)
-- [Find existing geolocated content in ArcGIS](#find-existing-geolocated-content-in-arcgis)
-- [Additional resources](#additional-resources)
-  - [Localized resources](#localized-resources)
-    - [Spanish](#spanish)
-- [Other related list of resources](#other-related-list-of-resources)
+- [Imagery](#imagery)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -9,7 +9,6 @@ Moderate-Resolution Imaging Spectroradiometer (MODIS) is a scientific instrument
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -2,7 +2,7 @@
 
 # Sentinel
 
-This group contains maps and layers built with Sentinel imagery from the European Space Agency (ESA).
+Under the **Copernicus Programm** from the European Space Agency (ESA) which is part of the European Commission (EC) had run several earth observation missions called **[Sentinel missions](https://en.wikipedia.org/wiki/Copernicus_Programme#Sentinel_missions)**.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -14,8 +14,6 @@ This group contains maps and layers built with Sentinel imagery from the Europea
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-
-Sentinel-2 is part of the European Commission (EC) Earth observation program - Copernicus Imagery courtesy of the European Space Agency (ESA).
 
 Sentinel-2 Imagery Services provides global 10m imagery for Earth observation and analysis:
 

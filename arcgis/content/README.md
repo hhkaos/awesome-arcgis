@@ -26,6 +26,7 @@ Learn more about:
 * [ArcGIS data types](data-types/README.md)
 * [ArcGIS data storage](data-storage/README.md)
 * [ArcGIS services types](service-types/README.md)
+* [ArcGIS data providers](data-providers/README.md)
 
 ## Find existing geolocated content in ArcGIS
 

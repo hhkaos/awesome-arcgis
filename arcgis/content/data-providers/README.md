@@ -8,7 +8,12 @@ Learn more about the organizations that work with us providing some of the data 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Imagery](#imagery)
+- [Introduction](#introduction)
+- [Data type](#data-type)
+  - [Imagery](#imagery)
+  - [Basemaps](#basemaps)
+  - [Geocoding](#geocoding)
+  - [Networks](#networks)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

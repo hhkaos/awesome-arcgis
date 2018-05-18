@@ -152,14 +152,14 @@ ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=ow
 
 ### Other related list of resources
 
-*Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists)*
+*Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc. *
 
 ## Partners and startups
 
 Organizations with expertise on this topic:
 
-|Company|Expertise|Country|
-|---|---|---|
-|[Name](#)|Topics|Country
+|Company|Services|Product|Country|
+|---|---|---|---|
+|[Name](#)|Fill|Name it|Country
 
 *Is there any partner or startup you can had with expertise on this topic?*

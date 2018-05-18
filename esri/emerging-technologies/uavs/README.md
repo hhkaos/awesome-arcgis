@@ -16,3 +16,13 @@ An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft with
 
 * Drones: [Drone2Map](../../../arcgis/products/drone2map/README.md)
 * [Full Motion Video for ArcGIS Desktop](../../../arcgis/products/arcgis-desktop/add-ins/full-motion-video/README.md)
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["UAVs Drones"](https://esri-es.github.io/arcgis-search/?search=UAVs%20Drones&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [Servicio drone2end aplicado en movimiento de tierras y minería SRM – EPC – CEsri17](https://youtu.be/fO4mt80zA6E)

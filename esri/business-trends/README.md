@@ -14,16 +14,7 @@ Here you will find how different disciplines fits in the ArcGIS Platform.
 
 ## Introduction
 
-* [3D](3d/README.md)
-* [Artificial Intelligence](artificial-intelligence/README.md) (machine
-* [Building Information Modeling (BIM)](bim/README.md)
- learning & deep learning)
-* [Business intelligence](bi/README.md)
-* [Big Data](big-data/README.md)
-* [Imagery Data](imagery-data/README.md)
-* [Indoor](indoor/README.md)
-* [Internet of Things (IoT))](iot/README.md)
+* [Data management](data-management/README.md)
 * [Precision Agriculture](precision-agriculture/README.md)
 * [Remote sensing](remote-sensing/README.md)
-* [UAVs / Drones](uavs/README.md)
-* Are you missing any?, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues/new).
+* If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues/new).

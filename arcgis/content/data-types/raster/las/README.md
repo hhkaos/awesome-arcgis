@@ -14,7 +14,3 @@ A LAS dataset stores reference to one or more LAS files on disk, as well as to a
 ## Introduction
 
 Learn more: [What is a LAS dataset](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/las-dataset/what-is-a-las-dataset-.htm)
-
-
-
-

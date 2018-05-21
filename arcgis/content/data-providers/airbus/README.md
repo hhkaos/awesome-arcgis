@@ -13,3 +13,5 @@
 ## Introduction
 
 **Pending**
+
+* [Airbus WorldDEM4Ortho in Esri 3D elevation services](https://www.esri.com/arcgis-blog/products/arcgis-earth/3d-gis/airbus-worlddem4ortho-in-esri-3d-elevation-services/)

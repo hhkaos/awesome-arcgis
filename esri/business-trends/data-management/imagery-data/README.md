@@ -36,6 +36,19 @@ But if you collect your own imagery, you can also use ArcGIS to process, analyze
 * [Learn.arcgis.com](https://learn.arcgis.com/en/gallery/) (Category: Imagery and Remote Sensing)
 
 
+### Videos
+
+We have created a [Imagery Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd5uO1xe6QmO2wsQHfWnRs-B) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
+On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=TOPIC) you will find many technical talks.
+
+|Event|Title|Length|
+|---|---|---|
+|DevSummit 18|[Developing Imagery Apps Using the ArcGIS API for JavaScript and WebApp Builder](https://www.youtube.com/watch?v=jxK326-79Aw&list=PLaPDDLTCmy4aA6oxJVe1YsJlxJO_0psyv&index=74&t=0s)|n.a.
+
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="TOPIC"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="TOPIC"), [EsriTV](https://www.youtube.com/user/esritv/search?query="TOPIC"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="TOPIC") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
+
+
 ## Content
 
 Learn everything about imagery type of content in the platform:

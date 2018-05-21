@@ -89,6 +89,7 @@
       - [Image Analyst](arcgis/products/extensions/image-analyst/README.md)
       - [Network Analyst](arcgis/products/extensions/network-analyst/README.md)
       - [Spatial Analyst](arcgis/products/extensions/spatial-analyst/README.md)
+      - [Workflow Manager](arcgis/products/extensions/workflow-manager/README.md)
     - [Insights For Arcgis](arcgis/products/insights-for-arcgis/README.md)
     - [Living Atlas](arcgis/products/living-atlas/README.md)
     - [Marketplace](arcgis/products/marketplace/README.md)

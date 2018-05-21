@@ -10,6 +10,7 @@ Many things can be done though imagery in the ArcGIS platform, here we will poin
 
 - [Introduction](#introduction)
   - [Training](#training)
+    - [Videos](#videos)
   - [Content](#content)
     - [Content providers](#content-providers)
   - [Related products](#related-products)

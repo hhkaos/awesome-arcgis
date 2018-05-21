@@ -28,8 +28,8 @@ Use any of our Runtime SDKs:
 
 Like:
 
-* [AR](../ar/README.md): Google Glass
-* [VR](../vr/README.md): Oculus Rift, Google Cardboard, etc.
+* [AR](../esri/emerging-technologies/ar/README.md): Google Glass
+* [VR](../esri/emerging-technologies/vr/README.md): Oculus Rift, Google Cardboard, etc.
 * Android Wear
 * ...
 
@@ -43,6 +43,3 @@ You can write your own addins in order to be able to extend our desktop tools:
   * ArcGIS Pro using SDK for .Net
 
 Geoprocessing tools using python
-
-
-

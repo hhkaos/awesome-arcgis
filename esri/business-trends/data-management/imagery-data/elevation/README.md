@@ -9,3 +9,5 @@
 ## Introduction
 
 Temporal imagery available in the platform is mainly provided by: [PNOA](../../../../../arcgis/content/data-providers/pnoa/README.md) and [Airbus](../../../../../arcgis/content/data-providers/airbus/README.md).
+
+* [Airbus WorldDEM4Ortho in Esri 3D elevation services](https://www.esri.com/arcgis-blog/products/arcgis-earth/3d-gis/airbus-worlddem4ortho-in-esri-3d-elevation-services/)

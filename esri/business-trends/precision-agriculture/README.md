@@ -96,6 +96,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Other related list of resources
 
 * [EVNI](https://www.harris.com/solution/envi): image analysis software of choice for image scientists, image analysts, and GIS professionals to extract accurate and meaningful information from all kinds of data
+* [Choosing a UAV for Agriculture](https://www.youtube.com/watch?v=rCF6dM7wXFU)
+* [How are UAVs Advancing Precision Agriculture](https://www.youtube.com/watch?v=HqF8BtGSY20)
 
 ## Partners and startups
 

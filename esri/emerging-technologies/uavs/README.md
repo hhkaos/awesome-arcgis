@@ -24,6 +24,10 @@ An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft with
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["UAVs Drones"](https://esri-es.github.io/arcgis-search/?search=UAVs%20Drones&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Other related list of resources
+
+* [Choosing a UAV for Agriculture](https://www.youtube.com/watch?v=rCF6dM7wXFU)
+
 ### Localized resources
 
 #### Spanish

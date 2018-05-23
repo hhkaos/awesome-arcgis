@@ -24,7 +24,7 @@ know and then you can check the specific pages for:
 * [Best practices for mobile developers](../../../mobile/best-practices/README.md)
 * [Best practices for devops](../../../devops/best-practices/README.md)
 * [Best practices for desktop developers](../../../desktop/best-practices/README.md)
-* [Best practices for VR developers](../../../vr/best-practices/README.md)
+* [Best practices for VR developers](../../../esri/emerging-technologies/vr/best-practices/README.md)
 
 ## Display large amount of data
 Learn how [Dynamic Map Service](../../content/service-types/map-service/dynamic-map-service/README.md)

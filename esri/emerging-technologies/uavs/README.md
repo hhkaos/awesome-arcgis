@@ -10,6 +10,7 @@ An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft with
 
 - [Introduction](#introduction)
   - [Additional resources](#additional-resources)
+    - [Other related list of resources](#other-related-list-of-resources)
     - [Localized resources](#localized-resources)
       - [Spanish](#spanish)
 

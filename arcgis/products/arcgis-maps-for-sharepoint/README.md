@@ -9,6 +9,7 @@ Turn lists or data into color-coded, point, clustered point, or heat maps. Enric
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

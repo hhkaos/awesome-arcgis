@@ -9,6 +9,7 @@ Microsoft Excel and PowerPoint users can use the power of maps to ask location-r
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

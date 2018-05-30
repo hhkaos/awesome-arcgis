@@ -19,7 +19,7 @@
 ## Introduction
 In addition to the [performance best practices on the ArcGIS Platform](../../../arcgis/best-practices/performance/README.md)
 we want to show you two ways to improve your performance when talking about web
-applications: [Load time](#load-time) or [Drawing features](drawing-features).
+applications: [Load time](#load-time) or [Drawing features](#drawing-features).
 
 ## Load time
 
@@ -63,6 +63,3 @@ Please find the ArcGIS Experts (story tellers and developers) on this topic here
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
-
-
-

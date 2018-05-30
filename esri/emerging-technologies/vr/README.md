@@ -1,7 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Virtual Reality Developers
-Export 3D scenarios built using [City Engine](../arcgis/products/city-engine/README.md), export them to [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine) and build your application using any VR SDK to finish the application for your [VR](https://en.wikipedia.org/wiki/Virtual_reality) [headset](https://en.wikipedia.org/wiki/Virtual_reality_headset).
+Export 3D scenarios built using [City Engine](../../../arcgis/products/city-engine/README.md), export them to [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine) and build your application using any VR SDK to finish the application for your [VR](https://en.wikipedia.org/wiki/Virtual_reality) [headset](https://en.wikipedia.org/wiki/Virtual_reality_headset).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -25,13 +25,13 @@ Export 3D scenarios built using [City Engine](../arcgis/products/city-engine/REA
 This video can help you understand what can be done with ArcGIS and virtual.
 
 To build you own applications using ArcGIS scenarios you first need to build the
-scenario using [City Engine](../arcgis/products/city-engine/README.md) and then you will be able to export it and consume it using Unity.
+scenario using [City Engine](../../../arcgis/products/city-engine/README.md) and then you will be able to export it and consume it using Unity.
 
 ## Training
 
 To be able to build your own VR applications using ArcGIS scenarios you should learn about City Engine and Unity:
 
-* Awesome list: [City Engine](../arcgis/products/city-engine/README.md)
+* Awesome list: [City Engine](../../../arcgis/products/city-engine/README.md)
 * Awesome list: [Unity assets, resources, and more](https://github.com/RyanNielson/awesome-unity)
 
 ### Videos

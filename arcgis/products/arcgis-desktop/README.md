@@ -25,5 +25,12 @@ Free trial
 Startup program
 Buy a license
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Desktop"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Desktop"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* [Página de producto de ArcGIS Desktop](http://www.esri.es/producto/arcgis-for-desktop/)

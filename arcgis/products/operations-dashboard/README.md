@@ -131,3 +131,9 @@ More news:
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Operations Dashboard"](https://esri-es.github.io/arcgis-search/?search="Operations Dashboard"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)

@@ -101,3 +101,13 @@ If you are an independent developer we encourage you to start using the
 
 * [ArcGIS Online news at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-online/)
 * [ArcGIS Online at Twitter](https://twitter.com/ArcGISOnline)
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["arcgis online"](https://esri-es.github.io/arcgis-search/?search="arcgis online"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [Página de producto de ArcGIS Online](http://www.esri.es/producto/arcgis-online/)

@@ -82,11 +82,14 @@ For a development environment you can get this tools:
 * [Blogs.esri.com tag "ArcGIS Enterprise"](https://blogs.esri.com/esri/arcgis/tag/arcgis-enterprise/)
 * [ArcGIS Online on Twitter](https://twitter.com/ArcGISXprise)
 
+## Additional resources
 
-## Spanish
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Enterprise"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Enterprise"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* [Página de producto de ArcGIS Enterprise](http://www.esri.es/producto/arcgis-enterprise/)
 * [Webinar ArcGIS Enterprise](https://www.youtube.com/watch?v=T-ewxTA85oU)
 * [Esri Startup Program - Spanish portal](http://startups.esri.es)
-
-
-

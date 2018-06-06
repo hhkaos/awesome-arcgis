@@ -64,4 +64,12 @@ technology so we recommend you to follow them.
 * [Collector Blog](https://blogs.esri.com/esri/arcgis/tag/collector/)
 
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Collector for ArcGIS"](https://esri-es.github.io/arcgis-search/?search="Collector for ArcGIS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)

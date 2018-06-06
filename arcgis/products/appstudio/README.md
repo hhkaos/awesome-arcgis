@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # AppStudio
+
 It is an extendable AppBuilder that help you to build cross-platform apps, web and native (Android, iOS, Windows, OS X and Linux), from your maps in order to be able to publish them using your own brand anywhere.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -18,12 +19,15 @@ It is an extendable AppBuilder that help you to build cross-platform apps, web a
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 As mentioned before, this product can be used by developers and non-developers because it provide some configurable templates which at the same time can be extended if desired. To be able to extend the templates you need to use [AppStudio Standard](#AppStudio Standard)
 
 ## AppStudio Basic
+
 This is an [online version](http://appstudio.arcgis.com/) that allow any user to build custom web forms
 
 ## AppStudio Standard
+
 AppStudio Standard is a development environment that embeds a custom version of [Qt Creator](https://www.qt.io/ide/). Using AppStudio standard you can also:
 
 * Extend apps built using the configurable app templates		
@@ -60,5 +64,12 @@ technology so we recommend you to follow them.
 * [Blogs.esri.com tag "AppStudio"](https://blogs.esri.com/esri/arcgis/tag/appstudio/)
 * [AppStudio on Twitter](https://twitter.com/AppStudioArcGIS)
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["AppStudio for ArcGIS"](https://esri-es.github.io/arcgis-search/?search="AppStudio for ArcGIS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)

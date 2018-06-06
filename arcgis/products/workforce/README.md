@@ -39,6 +39,7 @@ It enables a common view in the field and the office. Get the right worker to th
 |Esri Ireland Webinar|[Getting Started with Workforce for ArcGIS](https://www.youtube.com/watch?v=Lw8NVsoRc24)|44min 22secs
 
 ## Downloads
+
 [Apps](http://doc.arcgis.com/en/workforce/requirements.html):
 * [Web app](http://workforce.arcgis.com)
 * [Android](https://play.google.com/store/apps/details?id=com.esri.workforce)
@@ -47,14 +48,23 @@ It enables a common view in the field and the office. Get the right worker to th
 Read some [user stories](http://www.esri.com/products/workforce)
 
 ## Code
+
 * [A set of scripts to help administer Workforce projects.](https://github.com/Esri/workforce-scripts)
 
 ## Community
+
 * [Workforce GeoNet Group](https://community.esri.com/groups/workforce-for-arcgis)
 
 ## News
+
 * [Workforce](https://blogs.esri.com/esri/arcgis/tag/workforce-for-arcgis/)
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Workforce for ArcGIS"](https://esri-es.github.io/arcgis-search/?search="Workforce for ArcGIS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
 
+#### Spanish
+
+* [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)

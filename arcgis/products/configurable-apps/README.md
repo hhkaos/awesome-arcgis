@@ -241,15 +241,18 @@ technology so we recommend you to follow them.
   * [Get the latest Esri Story Maps news and tips delivered directly to you **by email**](http://go.esri.com/planet-story-maps)
 * [What's New in Configurable Apps](https://blogs.esri.com/esri/arcgis/author/Matt-655/)
 
-## Localized resources
+## Additional Resources
 
-### Spanish
+ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=owner%3AStoryMaps&restrict=false&start=1&sortOrder=desc&sortField=modified)
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: [storymaps OR "configurable apps"](https://esri-es.github.io/arcgis-search/?search=%22Insights%20for%20ArcGIS%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)
 * [Troubleshoot Story maps (under construction)](https://docs.google.com/document/d/1QoEp8qGfBiyZW5wuKrQcuC9LRfUbAAAzfpTyPOE1JeE/edit#heading=h.7ixp7fhw027v)
 * [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 * [Taller: Aplicaciones configurables ArcGIS](https://www.youtube.com/watch?v=TtvxTudvBX0&index=13&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)
-
-## Additional Resources
-
-ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=owner%3AStoryMaps&restrict=false&start=1&sortOrder=desc&sortField=modified)

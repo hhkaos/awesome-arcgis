@@ -74,8 +74,12 @@ technology so we recommend you to follow them.
 * [ArcGIS Hub category at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-hub/)
 * [ArcGIS Hub Blog on GeoNet](https://community.esri.com/community/gis/web-gis/arcgis-hub)
 
-## Resources
+## Additional resources
+
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["arcgis hub"](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=%22arcgis+hub%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
 
+#### Spanish
 
+* [Página de producto de ArcGIS Hub](http://www.esri.es/producto/arcgis-hub/)

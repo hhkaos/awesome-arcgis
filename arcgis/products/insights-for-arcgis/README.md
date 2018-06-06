@@ -112,9 +112,10 @@ technology so we recommend you to follow them.
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Insights for ArcGIS"](https://esri-es.github.io/arcgis-search/?search="Insights for ArcGIS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-
 ### Localized resources
 
 #### Spanish
+
+* [Página de producto de Insights for ArcGIS](http://www.esri.es/producto/insights-for-arcgis/)
 * [Webinar Insights](https://www.youtube.com/watch?v=k6LT6VOiAfE) - Mayo 2017
 * [Insights para ArcGIS](https://www.youtube.com/watch?v=J4ddr8c5njQ) - CEsri2016

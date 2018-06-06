@@ -47,6 +47,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=navigator#?sortby=re
 * [Navigator on GeoNet](https://community.esri.com/groups/navigator)
 
 ## People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Navigator%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Navigator%20for%20ArcGIS)
 
 They don't work on the support team and some may even not work at Esri,
@@ -57,5 +58,12 @@ technology so we recommend you to follow them.
 
 * [Navigator Blog](https://blogs.esri.com/esri/arcgis/tag/navigator/)
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Navigator for ArcGIS"](https://esri-es.github.io/arcgis-search/?search="Navigator for ArcGIS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)

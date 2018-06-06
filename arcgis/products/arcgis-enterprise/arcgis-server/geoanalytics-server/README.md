@@ -1,6 +1,7 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # GeoAnalytics Server
+
 [ArcGIS GeoAnalytics Server](http://www.esri.com/arcgis/products/geoanalytics-server) allow you to answer difficult questions—the kind that involve large volumes of data—in minutes or hours instead of days or weeks. ArcGIS GeoAnalytics Server uses the power of distributed computing to speed up your geospatial analysis and make you more productive with ArcGIS Pro and ArcGIS Enterprise.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -68,9 +69,14 @@ technology so we recommend you to follow them.
 * [A Fix for the Create Space Time Cube Tool in GeoAnalytics Server](https://blogs.esri.com/esri/arcgis/2017/07/18/a-fix-for-the-create-space-time-cube-tool-in-geoanalytics-server/)
 * More at: [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoanalytics&search=Search)
 
-## Localized resources
 
-### Spanish
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["geoanalytics"](https://esri-es.github.io/arcgis-search/?search="geoanalytics"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
 
 Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/user/esriSpainTV/search?query=geoanalytics).
 
@@ -80,7 +86,3 @@ Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/us
 |[Tiempo Real - Integrando redes de sensores e IoT](https://youtu.be/p6QjUROOZKY?t=49m7s)|Abr 2017|~30min
 |[Caso práctico de GeoAnalytics de los autobuses de la EMT en la plenaria de la Conferencia de Esri España de 2016](https://youtu.be/s7BW1PbyRj8)|Oct 2016|10:57
 |[Sesión técnica de GeoAnalytics en la Conferencia de Esri España de 2016](https://youtu.be/uATC_Cunf8o)|Oct 2016|56:59
-
-
-## Additional resources
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoanalytics"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

@@ -45,7 +45,15 @@ On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will fi
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 
 ## News
+
 * Web AppBuilder for ArcGIS - [Blog posts at GeoNet](https://community.esri.com/community/gis/web-gis/web-appbuilder/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Web AppBuilder"](https://esri-es.github.io/arcgis-search/?search="Web AppBuilder"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)

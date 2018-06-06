@@ -25,9 +25,9 @@ mechanism that allows users of an organization to create and configure
 - [Sell your configurable app](#sell-your-configurable-app)
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
-- [Localized resources](#localized-resources)
-  - [Spanish](#spanish)
 - [Additional Resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

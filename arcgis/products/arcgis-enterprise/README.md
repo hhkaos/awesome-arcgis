@@ -14,7 +14,9 @@
 - [People you should know](#people-you-should-know)
 - [Get the tool](#get-the-tool)
 - [News](#news)
-- [Spanish](#spanish)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

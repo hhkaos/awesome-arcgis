@@ -13,6 +13,7 @@
   - [Code](#code)
   - [Tools](#tools)
 - [Community](#community)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

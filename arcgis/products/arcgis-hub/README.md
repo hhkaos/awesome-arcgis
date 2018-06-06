@@ -14,7 +14,9 @@
   - [Get the tool](#get-the-tool)
   - [Spanish](#spanish)
   - [News](#news)
-  - [Resources](#resources)
+  - [Additional resources](#additional-resources)
+    - [Localized resources](#localized-resources)
+      - [Spanish](#spanish-1)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

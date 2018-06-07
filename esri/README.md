@@ -55,9 +55,11 @@ Learn more about:
 
 ## Websites
 
-First thing you will notice when entering to "the Esri World" is the tons of websites and resources that are available to you. With this list we would like to help you better understand which they are and what they are about.
+First thing you will notice when entering to "the Esri World" is the tons of resources and websites (**+200 domains**) that are available to you. This page aims to help you better understand which they are and what they are about.
 
-> Note: there still many [domains missing in this page](https://github.com/hhkaos/awesome-arcgis/issues/19), we will try to extend it as soon as possible.
+> **Note**: there still many [domains missing in this page](https://github.com/hhkaos/awesome-arcgis/issues/19), we will try to extend it as soon as possible.
+
+> **Note 2**: we are not considering the +80 Esri distributors websites like [UK](http://www.esriuk.com), [Spain](http://www.esri.es), [France](https://www.esrifrance.fr), etc.
 
 ### For the General Public
 

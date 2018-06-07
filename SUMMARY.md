@@ -154,6 +154,8 @@
     - [Vr](esri/emerging-technologies/vr/README.md)
       - [Best Practices](esri/emerging-technologies/vr/best-practices/README.md)
   - [Events](esri/events/README.md)
+  - [Industries](esri/industries/README.md)
+    - [Tourism](esri/industries/tourism/README.md)
   - [Open Vision](esri/open-vision/README.md)
     - [Open Specifications](esri/open-vision/open-specifications/README.md)
       - [Arcgis Rest Api](esri/open-vision/open-specifications/arcgis-rest-api/README.md)

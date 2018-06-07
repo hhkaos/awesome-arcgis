@@ -11,6 +11,7 @@
 - [Introduction](#introduction)
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
+- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [News](#news)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)

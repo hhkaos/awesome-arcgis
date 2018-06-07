@@ -9,6 +9,13 @@ Learn how Esri though ArcGIS can support different industries
 **Table of contents**
 
 - [Introduction](#introduction)
+  - [Videos](#videos)
+- [Events calendar app](#events-calendar-app)
+- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
+- [News](#news)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+  - [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,6 +36,8 @@ Learn how Esri though ArcGIS can support different industries
 
 * Custom apps:
     * [Granada Human Smart City](https://ciudadinteligente.granada.org/granadarutas/)
+* Operations Dashboard:
+    * [JuraGIS World - La Palma](https://marketing.maps.arcgis.com/apps/opsdashboard/index.html#/45aa0cf0c8be4255adf620dbb5757bb3) + making off [JuraGIS Park storymap](http://geoapps.esri.es/JuraGIS/index.html)
 * Using Web AppBuilder:
     * [Simcoe County Tourism - customized using developer edition ](https://maps.simcoe.ca/public/) ([Video](https://youtu.be/5hsprKc_Wo0?t=15m10s))
     * [Leipzig City Map using Web AppBuilder](http://www.arcgis.com/home/item.html?id=4c89f67a66a049a8a69cd4f8dedb3aa1)

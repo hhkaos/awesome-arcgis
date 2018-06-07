@@ -16,6 +16,7 @@
 
 ## Introduction
 
+* [Esri UC 2010 Lightning Talks: Augmented Reality—Buzz Word or Business Bonanza](https://www.youtube.com/watch?v=VE7aB_-sTXk)
 
 ## HoloLens
 

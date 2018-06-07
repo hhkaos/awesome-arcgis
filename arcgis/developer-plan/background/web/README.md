@@ -8,7 +8,7 @@ https://github.com/esri-es/awesome-arcgis/commit/18ce3280825adc7ee90a638e1397e20
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Developer plans for web developers](#developer-plans-for-web-developers)
+- [Introduction](#introduction)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

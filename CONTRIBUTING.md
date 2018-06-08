@@ -44,7 +44,7 @@ If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made
 
 ### Opening an issue (< 1 min)
 
-You can also report a broken link or suggest a new resource [opening a new issue](https://github.com/hhkaos/awesome-arcgis/issues/new) directly on Github.
+You can also report a broken link or suggest a new resource [opening a new issue](https://github.com/hhkaos/awesome-arcgis/issues) directly on Github.
 
 > **Note**: This option requires you to have a Github account
 

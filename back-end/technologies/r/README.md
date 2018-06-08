@@ -27,7 +27,7 @@ https://github.com/marpobuda/r_conda_demo
 
 ## Videos
 
-Marjean Pobuda (RStudio-Conda): https://youtu.be/hQzNeJBtWHQ?t=8m27s
+[Marjean Pobuda (RStudio-Conda)](https://www.youtube.com/watch?v=hQzNeJBtWHQ&feature=youtu.be&t=8m27s)
 
 ## People you should know
 

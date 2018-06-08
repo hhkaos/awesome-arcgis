@@ -16,7 +16,4 @@ Awesome list
 
 [A demonstration of how to use the Karma test runner to automatically run Jasmine BDD-style unit tests on your ArcGIS API for JavaScript code.](https://github.com/tomwayson/esri-karma-tutorial)
 
-* [Dojo Testing](https://github.com/peterkokot/awesome-dojo#testing)
-
-
-
+* [Dojo Testing](https://github.com/petk/awesome-dojo#testing)

@@ -50,7 +50,7 @@ Know more about the [developer plans](arcgis/developer-plan/README.md).
 ## About ArcGIS
 
 ArcGIS is a 360º software platform built by Esri and it already have more than
-[100 software tools](https://www.esri.com/en-us/arcgis/products). Many of those tools are end-user software like desktop
+[100 software tools](https://www.esri.com/en-us/arcgis/products/index.html). Many of those tools are end-user software like desktop
 applications or mobile Applications but there are also many tools for developers
 and devops as you will see in this awesome list of resources.
 
@@ -72,8 +72,8 @@ But you can also find developers with knowledge on ArcGIS at:
     * [GeoDev Spain at Geonet](https://community.esri.com/groups/geodev-spain)
     * [esri-es.slack.com](esri-es.slack.com)
   * GIS developers:
-    * [GeoDevelopers.org](http://geodevelopers.org/community/)
-    * [geodev.slack.com](http://geodev.slack.com)
+    * [GeoDevelopers.org](https://www.meetup.com/es-ES/Geo-Developers/members/)
+    * [geodev.slack.com](https://geodev.slack.com)
 
 Some interesting twitter accounts you may want to follow:
 [@EsriDevSummit](https://twitter.com/EsriDevSummit),
@@ -89,7 +89,3 @@ and some others [Esri Accounts](https://twitter.com/EsriGeoDev/lists/esri-accoun
 
 There are some extra resources in different languages, here you will find:
 * [Awesome list (Esri Spain fork)](https://github.com/esri-es/awesome-arcgis)
-
-
-
-

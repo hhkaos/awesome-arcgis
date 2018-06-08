@@ -23,7 +23,7 @@ Learn more about Esri and:
 
 * [Tourism](tourism/README.md)
 
-If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues/new).
+If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues).
 
 ## Additional resources
 

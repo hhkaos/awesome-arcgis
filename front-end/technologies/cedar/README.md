@@ -18,7 +18,4 @@ graphics that can be re-used with different datasets.
 * If you need help with a specific plugin/project try at the repository issues
 
 ## Mixin with ArmCharts
-[cedar-amcharts.js samples](https://github.com/ajturner/dc-visionzero-analysis)
-
-
-
+[cedar-amcharts.js samples](https://github.com/esridc/cedar-amcharts)

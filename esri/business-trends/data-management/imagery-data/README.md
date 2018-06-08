@@ -54,10 +54,10 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC#?sortby=recent)
 
 Learn everything about imagery type of content in the platform:
 
-* [Existing data](../../../arcgis/content/data-providers/README.md) like: [Landsat imagery](../../../arcgis/content/data-providers/usgs-nasa/landsat/README.md), [Sentinel imagery](../../../arcgis/content/data-providers/esa/sentinel/README.md), [MODIS data](../../../arcgis/content/data-providers/usgs-nasa/modis/README.md), ...
-* [Supported data types](../../../arcgis/content/data-types/README.md)
-* [Data storage](../../../arcgis/content/data-storage/README.md)
-* [Service types]((../../../arcgis/content/service-types/README.md), etc.
+* [Existing data](../../../../arcgis/content/data-providers/README.md) like: [Landsat imagery](../../../../arcgis/content/data-providers/usgs-nasa/landsat/README.md), [Sentinel imagery](../../../../arcgis/content/data-providers/esa/sentinel/README.md), [MODIS data](../../../../arcgis/content/data-providers/usgs-nasa/modis/README.md), ...
+* [Supported data types](../../../../arcgis/content/data-types/README.md)
+* [Data storage](../../../../arcgis/content/data-storage/README.md)
+* [Service types]((../../../../arcgis/content/service-types/README.md), etc.
 
 ### Content providers
 
@@ -67,12 +67,12 @@ If you don't find what you need any [Esri Office](http://www.esri.com/about-esri
 
 There are several products you can use to work imagery content:
 
-* [ArcGIS Pro](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md)
-* [ArcGIS Spatial Analyst](../../../arcgis/products/extensions/spatial-analyst/README.md)
-* [ArcGIS 3D Analyst](../../../arcgis/products/extensions/3d-analyst/README.md)
-* [ArcGIS Image Analyst](../../../arcgis/products/extensions/image-analyst/README.md)
-* [ArcGIS Image server](../../../arcgis/products/arcgis-enterprise/arcgis-server/image-server/README.md)
-* [ArcGIS Earth](../../../arcgis/products/arcgis-earth/README.md)
-* [Drone2Map](../../../arcgis/products/drone2map/README.md)
-* [ArcGIS Enterprise](../../../arcgis/products/arcgis-enterprise/README.md)
-* [ArcGIS Online](../../../arcgis/products/arcgis-online/README.md)
+* [ArcGIS Pro](../../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md)
+* [ArcGIS Spatial Analyst](../../../../arcgis/products/extensions/spatial-analyst/README.md)
+* [ArcGIS 3D Analyst](../../../../arcgis/products/extensions/3d-analyst/README.md)
+* [ArcGIS Image Analyst](../../../../arcgis/products/extensions/image-analyst/README.md)
+* [ArcGIS Image server](../../../../arcgis/products/arcgis-enterprise/arcgis-server/image-server/README.md)
+* [ArcGIS Earth](../../../../arcgis/products/arcgis-earth/README.md)
+* [Drone2Map](../../../../arcgis/products/drone2map/README.md)
+* [ArcGIS Enterprise](../../../../arcgis/products/arcgis-enterprise/README.md)
+* [ArcGIS Online](../../../../arcgis/products/arcgis-online/README.md)

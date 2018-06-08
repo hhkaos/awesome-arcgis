@@ -33,4 +33,4 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 #### Spanish
 
-* [Servicio drone2end aplicado en movimiento de tierras y minería SRM – EPC – CEsri17](https://youtu.be/fO4mt80zA6E)
+* [Servicio drone2end aplicado en movimiento de tierras y minería SRM – EPC – CEsri17](https://www.youtube.com/watch?v=fO4mt80zA6E&feature=youtu.be)

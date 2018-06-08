@@ -21,4 +21,4 @@ Learn how emerging technologies are been used by some ArcGIS users.
 * [UAVs / Drones](uavs/README.md)
 * [Virtual Reality (VR)](vr/README.md)
 
-If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues/new).
+If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues).

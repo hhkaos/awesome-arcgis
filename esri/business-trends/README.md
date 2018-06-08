@@ -17,4 +17,4 @@ Here you will find different business trends and how we face them in the ArcGIS 
 * [Data management](data-management/README.md): Big data, BIM, 3D, Imagery, ...
 * [Precision Agriculture](precision-agriculture/README.md)
 * [Remote sensing](remote-sensing/README.md)
-* If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues/new).
+* If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues).

@@ -18,7 +18,7 @@ resources to get on board.
 
 ## What is GIS
 
-[1000 GIS Applications & Uses – How GIS Is Changing the World](http://gisgeography.com/gis-applications-uses/)
+[1000 GIS Applications & Uses – How GIS Is Changing the World](https://gisgeography.com/gis-applications-uses/)
 
 ## Coordinate System
 * [Coordinate system IDs](https://developers.arcgis.com/javascript/3/jshelp/ref_coordsystems.html)
@@ -30,6 +30,3 @@ resources to get on board.
 [Understanding and Using Geometry, Projections, and Spatial Reference Systems in ArcGIS](http://www.esri.com/videos/watch?videoid=1153&isLegacy=true&title=understanding-and-using-geometry_comma_-projections_comma_-and-spatial-reference-systems-in-arcgis)
 
 ## Well Known IDs (WKIDs)
-
-
-

@@ -86,6 +86,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 #### Spanish
 
+* [Playlist de Youtube: BIM Y ArcGIS](https://www.youtube.com/playlist?list=PLoptan2utx14symbrI699ksBRDOXRJp0)
 * [Webinar 3D, BIM y Gestión Indoor](https://www.youtube.com/watch?v=-PzdMRk7n80) (2017)
 * [BIM & Indoor, servicios i3s y realidad virtual, 3D en las nuevas tecnologías](https://www.youtube.com/watch?v=mV77R2I_M-0) (2017)
 * [Revisión PD Vitoria con la metodología BIM](https://inecotifsa.maps.arcgis.com/apps/MapJournal/index.html?appid=e400a5b515b24e50a96e59a8a116eb5b)

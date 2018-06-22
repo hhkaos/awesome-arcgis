@@ -21,14 +21,14 @@
 - [Coding](#coding)
   - [Code](#code)
   - [Tools](#tools)
-- [Awesome projects](#awesome-projects)
-- [Community](#community)
+- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
+- [Support and Community](#support-and-community)
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
-- [Contributions](#contributions)
+- [Partners and startups](#partners-and-startups)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

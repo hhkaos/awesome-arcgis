@@ -155,6 +155,7 @@
       - [Best Practices](esri/emerging-technologies/vr/best-practices/README.md)
   - [Events](esri/events/README.md)
   - [Industries](esri/industries/README.md)
+    - [Game](esri/industries/game/README.md)
     - [Tourism](esri/industries/tourism/README.md)
   - [Open Vision](esri/open-vision/README.md)
     - [Open Specifications](esri/open-vision/open-specifications/README.md)
@@ -201,3 +202,5 @@
     - [Ios](mobile/technologies/ios/README.md)
     - [Qt](mobile/technologies/qt/README.md)
     - [Xamarin](mobile/technologies/xamarin/README.md)
+* [INDUSTRY PAGE TEMPLATE](INDUSTRY_PAGE_TEMPLATE.md)
+* [PRODUCT PAGE TEMPLATE](PRODUCT_PAGE_TEMPLATE.md)

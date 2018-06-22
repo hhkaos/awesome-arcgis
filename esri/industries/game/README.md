@@ -9,12 +9,18 @@ Learn how ArcGIS can be used to build games.
 **Table of contents**
 
 - [Introduction](#introduction)
-  - [Videos](#videos)
+- [Videos](#videos)
+  - [Slides](#slides)
+- [Featured technology](#featured-technology)
+- [Content for this industry](#content-for-this-industry)
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
+  - [Educational games / Serious games](#educational-games--serious-games)
+  - [Entertainment games](#entertainment-games)
 - [News](#news)
+- [Related industry pages](#related-industry-pages)
 - [Additional resources](#additional-resources)
-  - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
+- [Partners and startups](#partners-and-startups)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

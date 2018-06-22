@@ -18,10 +18,12 @@
 allows you to build complex scenarios from raw data.
 
 ## Web Scenarios
+
 * [Star wars galaxy](http://carto.maps.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=e87eb53174ab4ba09026e90e1d7c6557)
 * [Philadelphia Redevelopment](http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=86f88285788a4c53bd3d5dde6b315dfe)
 
 ## Code
+
 [Develop 3D applications using the procedural geometry engine of Esri CityEngine.](https://github.com/Esri/esri-cityengine-sdk)
 
 ## Awesome projects & cool demos
@@ -29,7 +31,9 @@ allows you to build complex scenarios from raw data.
 * [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life)
 
 ## News
-[CityEngine goes to Holywood: Cars2, Total Recall, Man of Steel, as well as in TV commercials and video games.](http://www.esri.com/esri-news/releases/13-3qtr/esri-goes-hollywood)
+
+* [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life)
+* [CityEngine goes to Holywood: Cars2, Total Recall, Man of Steel, as well as in TV commercials and video games.](http://www.esri.com/esri-news/releases/13-3qtr/esri-goes-hollywood)
 
 ## Videos
 

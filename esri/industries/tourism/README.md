@@ -2,7 +2,7 @@
 
 # Tourism
 
-Learn how Esri though ArcGIS can support different industries
+Learn how ArcGIS is been used in tourism
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

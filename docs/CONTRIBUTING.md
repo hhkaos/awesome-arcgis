@@ -73,7 +73,7 @@ If you are a developer you can also [fork this repo](https://help.github.com/art
 
 When you are considering to start a new resources page first you need to do is search on the [project structure](https://github.com/hhkaos/awesome-arcgis/blob/master/SUMMARY.md) and find or create the section where it should live.
 
-Then you can start drafting this page using the "[resource page template](https://github.com/hhkaos/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md)" we have build (if it makes sense), or directly starting from scratch if you will.
+Then you can start drafting this page using the "[resource page template](https://github.com/hhkaos/awesome-arcgis/blob/master/PRODUCT_PAGE_TEMPLATE.md)" we have build (if it makes sense), or directly starting from scratch if you will.
 
 > **Note**: remember you can [ArcGIS Search Engine](https://esri-es.github.io/arcgis-search/) to help you find great resources or try to reach other [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/) to help you with it.
 

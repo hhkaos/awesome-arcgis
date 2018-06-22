@@ -1,4 +1,4 @@
-> **Note**: Please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/RESOURCE_PAGE_TEMPLATE.md) to get some ideas.
+> **Note**: Please [feel free to help us](#contributions) to improve this page, you can use [this template](https://github.com/esri-es/awesome-arcgis/blob/master/PRODUCT_PAGE_TEMPLATE.md) to get some ideas.
 
 # BIM
 Building information modeling (BIM) is a process involving the generation and management of digital representations of physical and functional characteristics of places. | *Source:  [wikipedia](https://en.wikipedia.org/wiki/Building_information_modeling)*.

@@ -83,9 +83,9 @@ Many of this demos are available at the [Esri's Prototype Lab Portal](https://ma
 
 * [Name that landmark](https://github.com/maplabs/name-that-landmark): The aim of the game is to guess a location from aerial imagery by scratching off a panel obscuring it. The more that is scratched the less a player scores. A player also scores less points the longer they take to name the location.
 
-* [MapQuiz](https://maps.esri.com/rc/quiz/index.html):The game that tests your geographic literacy
+* [MapQuiz](https://maps.esri.com/rc/quiz/index.html):The game that tests your geographic literacy ([article](https://community.esri.com/groups/applications-prototype-lab/blog/2014/11/17/map-quiz))
 
-* [GeoJigsaw](https://maps.esri.com/rc/puzzle2/index.html): GeoJigsaw is a JS-based web app that allows users to create, rate and play geo-jigsaws puzzles.
+* [GeoJigsaw](https://maps.esri.com/rc/puzzle2/index.html): GeoJigsaw is a JS-based web app that allows users to create, rate and play geo-jigsaws puzzles. ([article](https://community.esri.com/groups/applications-prototype-lab/blog/2014/11/18/geojigsaw/))
 
 * [A Game of Geodesics](https://maps.esri.com/jg/GeodesicsGame/index.html): Find the location that is equidistant to three random cities
 
@@ -107,10 +107,16 @@ Many of this demos are available at the [Esri's Prototype Lab Portal](https://ma
 
 * [Xbox Integration](https://maps.esri.com/rc/gamepad/index.html)
 
+* [Guesstimate](http://www.geogames-team.org/?p=163) (for Android)
+
+* [PokéVision](https://pokevision.com/)
+
 ## News
 
-* [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life)
+* [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life) (2018)
+* [Sowing Real Geography in Online Gaming - Location-Based Agricultural Game Makes GIS a Central Component](http://www.esri.com/esri-news/arcnews/summer17articles/sowing-real-geography-in-online-gaming) (2017)
 * [Sowing Real Geography in Online Gaming](http://www.esri.com/esri-news/arcnews/summer17articles/sowing-real-geography-in-online-gaming) (2017)
+* [Pokévision and Esri Speed Pokémon Go Hunting](http://www.esri.com/esri-news/releases/16-3qtr/pokevision-and-esri-speed-pokemon-go-hunting) (2016)
 * [CityEngine goes to Holywood: Cars2, Total Recall, Man of Steel, as well as in TV commercials and video games.](http://www.esri.com/esri-news/releases/13-3qtr/esri-goes-hollywood) (2013)
 * [A Serious Game for Measuring Disaster Response Spatial Thinking](http://www.esri.com/esri-news/arcuser/summer-2013/~/media/files/pdfs/news/arcuser/0613/seriousgame.pdf) (2013)
 * [The Intersection of GIS and Gaming](https://blogs.esri.com/esri/esri-insider/2011/10/07/the-intersection-of-gis-and-gaming/) (2011)
@@ -124,9 +130,18 @@ Many of this demos are available at the [Esri's Prototype Lab Portal](https://ma
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["game"](https://esri-es.github.io/arcgis-search/?search="game"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* Storymap: [Analizando el fenómeno Pokemon GO](https://geogeeks.maps.arcgis.com/apps/Cascade/index.html?appid=3f55153bf77a49cdab89fb0dcdef33df)
+* Noticia: [PokéVision: el mapa del tesoro de Pokémon GO](https://esriblog.wordpress.com/2016/07/29/pokevision-el-mapa-del-tesoro-de-pokemon-go/)
+
 ### Other related list of resources
 
 You might also want to check this emerging technologies: [Augmented Reality](../../emerging-technologies/ar/README.md) and [Virtual Reality](../../emerging-technologies/vr/README.md).
+
+Or this book: [Geogames and Geoplay - Game-based Approaches to the Analysis of Geo-Information](https://www.springer.com/gp/book/9783319227733).
 
 ## Partners and startups
 

@@ -19,6 +19,8 @@ Learn how ArcGIS can be used to build games.
 - [News](#news)
 - [Related industry pages](#related-industry-pages)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)
 

@@ -202,5 +202,3 @@
     - [Ios](mobile/technologies/ios/README.md)
     - [Qt](mobile/technologies/qt/README.md)
     - [Xamarin](mobile/technologies/xamarin/README.md)
-* [INDUSTRY PAGE TEMPLATE](INDUSTRY_PAGE_TEMPLATE.md)
-* [PRODUCT PAGE TEMPLATE](PRODUCT_PAGE_TEMPLATE.md)

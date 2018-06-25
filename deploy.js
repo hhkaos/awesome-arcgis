@@ -4,13 +4,15 @@ var path = require('path');
 // Avoid file and folder when checking broken links
 var excludeFromLinkChecker = [
                                 "docs", "ISSUE_TEMPLATE.md", "CONTRIBUTING.md",
-                                "RESOURCE_PAGE_TEMPLATE.md", "node_modules"
+                                "INDUSTRY_PAGE_TEMPLATE.md", "PRODUCT_PAGE_TEMPLATE.md",
+                                "node_modules"
                              ];
 
 // Avoid this files to create/update their TOCs
 var excludeFileFromDocToc = [
-                            "ISSUE_TEMPLATE.md", "RESOURCE_PAGE_TEMPLATE.md",
-                            "SUMMARY.md", "CONTRIBUTING.md", "about/README.md"
+                            "ISSUE_TEMPLATE.md", "INDUSTRY_PAGE_TEMPLATE.md",
+                            "PRODUCT_PAGE_TEMPLATE.md", "SUMMARY.md",
+                            "CONTRIBUTING.md", "about/README.md"
                         ];
 var excludeFoldersFromDocToc = [
                             "./about", "./node_modules"

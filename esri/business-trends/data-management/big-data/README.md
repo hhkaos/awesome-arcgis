@@ -13,7 +13,6 @@ Big data is data sets that are so voluminous and complex that traditional data-p
   - [Documentation](#documentation)
   - [Videos](#videos)
   - [Slides](#slides)
-- [Get the tool](#get-the-tool)
 - [News](#news)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

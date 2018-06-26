@@ -43,13 +43,9 @@ There are a set of products in the ArcGIS platform you might want to know if you
 
 ### Slides
 
-More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+bigdata) or check on [GeoNet](https://community.esri.com/content?query=bigdata&filterID=all~objecttype~objecttype%5Bdocument%5D).
-
-## Get the tool
-
-*If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, dowloaded from developers.arcgis.com or any repo, installation guide, if it is accessible though the Startup Program (or any other program), etc*
+More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+big+data) or check on [GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
 ## News
 
-* [Big Data at esri.com search engine](https://www.esri.com/en-us/search#/?q=bigdata&v=0&tab=Explore&page=1)
-* [Blog Posts about Big Data inside Places at GeoNet](https://community.esri.com/content?query=bigdata&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+* [Big Data at esri.com search engine](https://www.esri.com/en-us/search#/?q=big+data&v=0&tab=Explore&page=1)
+* [Blog Posts about Big Data inside Places at GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bblogpost%5D)

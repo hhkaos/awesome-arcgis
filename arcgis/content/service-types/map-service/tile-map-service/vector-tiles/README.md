@@ -32,6 +32,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 * [Vector Tile Service documentation](http://server.arcgis.com/en/server/latest/publish-services/windows/vector-tile-services.htm)
 * [Esri Vector Basemaps Reference Document](https://www.arcgis.com/home/item.html?id=f0b44a7e86b84109920e23e1e09d38a8)
 * [Using non-basemap vector tiles](http://odoe.net/blog/using-non-basemap-vector-tiles/)
+* [Design custom basemaps with the new ArcGIS Vector Tile Style Editor](https://www.esri.com/arcgis-blog/products/developers/mapping/design-custom-basemaps-with-the-new-arcgis-vector-tile-style-editor/)
 
 ### Videos
 
@@ -52,9 +53,6 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 * [Vector Basemap Style Editor](https://github.com/jgrayson-apl/VectorBasemapStyleEditor): Edit the styles of Esri Vector Basemaps ArcGIS online items
 * [mapstyler](https://esri-es.github.io/awesome-arcgis/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/): Style an Esri vector tile layer style using an image or colour palette
 
-## News
-* [Vector Basemaps at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-basemap/)
-
 ## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Vector%20Tiles](https://esri-es.github.io/arcgis-experts/?topic=Vector%20Tiles)
 
@@ -63,8 +61,8 @@ but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
 ## News
-
-[Vector tile articles at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-tile/):
+* [Vector Basemaps at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-basemap/)
+* [Vector tile articles at blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/vector-tile/):
     * [Introducing Esri Vector Basemaps (Beta)](https://blogs.esri.com/esri/arcgis/2015/11/18/introducing-esri-vector-basemaps-beta/)
     * [How to Customize Esri Vector Basemaps](https://blogs.esri.com/esri/arcgis/2015/11/19/how-to-customize-esri-vector-basemaps/)
     * [Customize Esri Vector Basemap Boundaries and Labels](https://blogs.esri.com/esri/arcgis/2015/11/23/customize-esri-vector-basemap-boundaries-and-labels/)
@@ -72,6 +70,11 @@ technology so we recommend you to follow them.
     * [What’s new in Esri Vector Basemaps (May 2017)](https://blogs.esri.com/esri/arcgis/2017/05/04/whats-new-in-esri-vector-basemaps-may-2017/)
 
 Additional search engines for news: [esri.com/search](http://www.esri.com/search?filter=Blogs&q=vector%20tiles&search=Search)
+
+## Tools
+
+* [Vector Basemap Style Editor (Beta)](https://maps.esri.com/jg/vectorbasemapstyleeditor/)
+* [Geodevelopers' Vector Tile Style Editor](https://developers.arcgis.com/vector-tile-style-editor/)
 
 ## Additional resources
 
@@ -88,6 +91,3 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 [Esri Third Party OSS/FOSS Software Acknowledgments](http://www.esri.com/~/media/Files/Pdfs/legal/pdfs/third-party-software-acknowledgements.pdf).
 
 Esri vector tiles uses or had used, [Earcut](https://github.com/mapbox/earcut), [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native), [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec), [Mapbox vector-style-spec](https://github.com/mapbox/vector-tile-spec) & [Node-sqlite3](https://github.com/mapbox/node-sqlite3).
-
-
-

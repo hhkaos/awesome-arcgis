@@ -71,3 +71,13 @@ Limitations. You won't be able to:
 When you are an ArcGIS customer this account is used to open support tickets, download some solutions, download some SDKs, etc.
 
 [Sign up for a **FREE** Esri Account](https://accounts.esri.com/signup)
+
+
+### Localized resources
+
+#### Spanish
+
+* [Cuenta pública gratuita de ArcGIS Online](https://www.youtube.com/watch?v=cwAdu1lSkmw&index=10&t=0s&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)
+* [Cuentas de organización y usuarios nominales en ArcGIS](https://www.youtube.com/watch?v=040SuPH6_ow&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6&index=10)
+* [Cuenta de desarrollador gratuita de ArcGIS Online](https://www.youtube.com/watch?v=w_ZrLpU662A&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6&index=11)
+* [Introducción a los tipos de cuenta en ArcGIS - Arquitecturas híbridas](https://www.youtube.com/watch?v=HUn62MHslv8&index=8&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)

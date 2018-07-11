@@ -37,8 +37,10 @@ To be able to build your own VR applications using ArcGIS scenarios you should l
 ### Videos
 
 * [Creating LiDAR-Based Heightmaps in Unity 3D (Using ArcGIS)](https://www.youtube.com/watch?v=a5lafgEVNWI)
+* [The CityEngine VR Experience for Unreal Studio](https://www.youtube.com/watch?v=UWNzgSF6Wcs)
 
 ## Headsets
+
 Here have collected some video and sample projects using different headsets.
 
 ### Oculus Rift

@@ -29,10 +29,10 @@ allows you to build complex scenarios from raw data.
 ## Awesome projects & cool demos
 
 * [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life)
+* [The CityEngine VR Experience for Unreal Studio](https://www.youtube.com/watch?v=UWNzgSF6Wcs)
 
 ## News
 
-* [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life)
 * [CityEngine goes to Holywood: Cars2, Total Recall, Man of Steel, as well as in TV commercials and video games.](http://www.esri.com/esri-news/releases/13-3qtr/esri-goes-hollywood)
 
 ## Videos

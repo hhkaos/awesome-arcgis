@@ -140,14 +140,17 @@ More news:
 Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 
 ```
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PRODUCT"](https://esri-es.github.io/arcgis-search/?search="PRODUCT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PRODUCT"](https://esri-es.github.io/arcgis-search/?search="PRODUCT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=owner%3AStoryMaps&restrict=false&start=1&sortOrder=desc&sortField=modified), ...
 ```
 
 ### Localized resources
 
-*In case a distributor has made additional documentation, docs, etc* (add a ```#### Language``` section)
+*In case a distributor has made additional documentation, docs, https://geonet.esri.com/groups/geodev-spain, etc* (add a ```#### Language``` section)
 
 ### Other related list of resources
 

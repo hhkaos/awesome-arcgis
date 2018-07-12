@@ -23,6 +23,8 @@ ArcGIS Runtime SDK for iOS integrates a wide range of mapping and GIS capabiliti
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 - [Awesome lists for iOS](#awesome-lists-for-ios)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -7,14 +7,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Community initiatives](#community-initiatives)
-  - [Colombia](#colombia)
-  - [Germany](#germany)
-  - [Netherlands](#netherlands)
-  - [Spain](#spain)
-  - [UK](#uk)
-  - [USA](#usa)
-- [People you should know](#people-you-should-know)
+- [Introduction](#introduction)
+- [Training](#training)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

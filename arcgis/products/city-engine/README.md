@@ -22,9 +22,10 @@ allows you to build complex scenarios from raw data.
 * [Star wars galaxy](http://carto.maps.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=e87eb53174ab4ba09026e90e1d7c6557)
 * [Philadelphia Redevelopment](http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=86f88285788a4c53bd3d5dde6b315dfe)
 
-## Code
+## Code & How tos
 
-[Develop 3D applications using the procedural geometry engine of Esri CityEngine.](https://github.com/Esri/esri-cityengine-sdk)
+* Code: [Develop 3D applications using the procedural geometry engine of Esri CityEngine.](https://github.com/Esri/esri-cityengine-sdk)
+* How to: [CityEngine VR Experience for Unreal Studio](https://community.esri.com/docs/DOC-11563)
 
 ## Awesome projects & cool demos
 

@@ -6,6 +6,9 @@
 **Table of contents**
 
 - [Code](#code)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

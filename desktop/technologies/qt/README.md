@@ -23,6 +23,8 @@ ArcGIS Runtime for the Qt integrates a wide range of mapping and GIS capabilitie
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 - [Awesome lists for Qt](#awesome-lists-for-qt)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -23,6 +23,8 @@ On this page you will find resources to learn how to develop desktop application
 - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 - [Awesome lists for .NET](#awesome-lists-for-net)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

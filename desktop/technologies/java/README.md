@@ -23,6 +23,7 @@ Build cross-platform mapping apps for Windows, Linux, and macOS
 - [News](#news)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
   - [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

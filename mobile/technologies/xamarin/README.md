@@ -25,6 +25,8 @@ It integrates a range of mapping and GIS capabilities online or offline, includi
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 - [Awesome lists for Xamarin](#awesome-lists-for-xamarin)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

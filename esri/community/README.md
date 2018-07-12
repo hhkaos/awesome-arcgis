@@ -7,12 +7,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Community initiatives](#community-initiatives)
+- [Introduction](#introduction)
+- [Global communities](#global-communities)
+- [Local communities](#local-communities)
   - [Colombia](#colombia)
   - [Germany](#germany)
   - [Netherlands](#netherlands)
   - [Spain](#spain)
+    - [Developers](#developers)
+    - [GeoMentors](#geomentors)
   - [UK](#uk)
+    - [GeoMentors](#geomentors-1)
   - [USA](#usa)
 - [People you should know](#people-you-should-know)
 

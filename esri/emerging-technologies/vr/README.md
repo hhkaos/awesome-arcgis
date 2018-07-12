@@ -33,6 +33,7 @@ To be able to build your own VR applications using ArcGIS scenarios you should l
 
 * Awesome list: [City Engine](../../../arcgis/products/city-engine/README.md)
 * Awesome list: [Unity assets, resources, and more](https://github.com/RyanNielson/awesome-unity)
+* How to: [CityEngine VR Experience for Unreal Studio](https://community.esri.com/docs/DOC-11563)
 
 ### Videos
 

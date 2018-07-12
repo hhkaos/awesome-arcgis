@@ -12,4 +12,17 @@
 * [OTA](https://appstudio-ota.arcgis.com/#/) - Use this application to download or install executables created using the AppStudio website or desktop - ([more info](https://doc.arcgis.com/en/appstudio/create-apps/createappcloudmake.htm#ESRI_SECTION1_02DDA4219C1F405E821DAB853FB1DABC)).
 
 ## Code
+
 Survey123 code?
+
+## Additional resources
+
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["appstudio"](https://esri-es.github.io/arcgis-search/?search="appstudio"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)

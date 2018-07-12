@@ -153,9 +153,12 @@ technology so we recommend you to follow them.
 
 ## Additional resources
 
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Android"](https://esri-es.github.io/arcgis-search/?search="Android"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Android"](https://esri-es.github.io/arcgis-search/?search="Android"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ## Awesome lists for Android
+
 You will find a lot of interesting resources to learn an improve your skills
 with Android:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
@@ -165,3 +168,4 @@ with Android:
 #### Spanish
 
 * [Curso experto Experto en Desarrollo GIS](http://www.esri.es/cursos-y-master/curso-experto/)
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)

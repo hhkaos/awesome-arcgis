@@ -62,9 +62,11 @@ You can use your developer Subscription to download it from developers.arcgis.co
 
 # People you should know
 
-Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=Python):
+Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20Java](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20Java)
 
-![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
 
 ## Other community resources
 
@@ -73,6 +75,3 @@ Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.g
 ## News
 
 * [Python at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/subject-python/)
-
-
-

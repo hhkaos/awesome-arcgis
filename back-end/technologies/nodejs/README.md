@@ -16,8 +16,11 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Training
+
 ### Videos / Technical talks
+
 ## Community
+
 ## Code
 
 * [arcgis-rest-js](https://github.com/esri/arcgis-rest-js): compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers. http://arcgis-rest-js.surge.sh/
@@ -34,17 +37,22 @@ https://github.com/Esri/node-geoservices-adaptor: This is a node.js implementati
 
 https://github.com/Esri/pushlet: A simple HTTP wrapper around the Apple Push Notification Service and Google Cloud Messaging Service
 
-## Localized resources
+### People you should know
 
-### Spanish
-* [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
-
-# People you should know
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=NodeJS](https://esri-es.github.io/arcgis-experts/?topic=NodeJS)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["nodejs"](https://esri-es.github.io/arcgis-search/?search="nodejs"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Localized resources
+
+#### Spanish
+
+* [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
+
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)

@@ -100,6 +100,7 @@ Using [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/):
 https://community.esri.com/community/developers/native-app-developers/arcgis-runtime-sdk-for-java
 
 ### People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20Java](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Runtime%20SDK%20for%20Java)
 
 They don't work on the support team and some may even not work at Esri,
@@ -117,7 +118,13 @@ technology so we recommend you to follow them.
 
 * [GeoDev Webinar Series](go.esri.com/geodev)
 
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Java"](https://esri-es.github.io/arcgis-search/?search="Java"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
 ### Localized resources
+
+#### Spanish
+
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)
 
 ### Other related list of resources
 

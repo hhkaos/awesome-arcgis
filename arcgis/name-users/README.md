@@ -6,9 +6,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Name users](#name-users)
-  - [Integration using OAuth 2.0](#integration-using-oauth-20)
-  - [Name User Levels Guide](#name-user-levels-guide)
+- [Introduction](#introduction)
+- [Integration using OAuth 2.0](#integration-using-oauth-20)
+- [Name User Levels Guide](#name-user-levels-guide)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

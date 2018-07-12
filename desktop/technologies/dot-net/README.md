@@ -145,7 +145,15 @@ technology so we recommend you to follow them.
 
 ## Additional resources
 
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Runtime SDK for .NET"](https://esri-es.github.io/arcgis-search/?search=%22ArcGIS%20Runtime%20SDK%20for%20.NET%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Runtime SDK for .NET"](https://esri-es.github.io/arcgis-search/?search=%22ArcGIS%20Runtime%20SDK%20for%20.NET%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)
 
 ## Awesome lists for .NET
 

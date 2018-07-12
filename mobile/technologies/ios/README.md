@@ -145,7 +145,15 @@ technology so we recommend you to follow them.
 
 ## Additional resources
 
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["iOS"](https://esri-es.github.io/arcgis-search/?search="iOS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["iOS"](https://esri-es.github.io/arcgis-search/?search="iOS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)
 
 ## Awesome lists for iOS
 You will find a lot of interesting resources to learn an improve your skills

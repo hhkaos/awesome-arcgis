@@ -11,6 +11,8 @@
   - [ArcGIS Online Organization Account (www.arcgis.com)](#arcgis-online-organization-account-wwwarcgiscom)
   - [ArcGIS Online Public Account (www.arcgis.com)](#arcgis-online-public-account-wwwarcgiscom)
   - [Esri Account  (www.esri.com)](#esri-account--wwwesricom)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

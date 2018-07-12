@@ -32,7 +32,7 @@ ArcGIS Runtime for the Qt integrates a wide range of mapping and GIS capabilitie
 The [ArcGIS Runtime SDK for Qt](https://developers.arcgis.com/qt/latest/) is the technology you may want to use if you want to build your Android and iOS applications in C++ & QML.
 
 You also have an IDE to use Qt and QML with several templates, it is called
-[App Studio for ArcGIS](../../../desktop/technologies/qt/app-studio/README.md).
+[App Studio for ArcGIS](../../../desktop/technologies/qt/appstudio/README.md).
 
 You can also use the [ArcGIS Runtime SDK for .NET](../xamarin/README.md) to build cross mobile applications (Android & iOS) using .NET.
 
@@ -155,7 +155,15 @@ technology so we recommend you to follow them.
 
 ## Additional resources
 
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Qt"](https://esri-es.github.io/arcgis-search/?search=Qt&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Qt"](https://esri-es.github.io/arcgis-search/?search=Qt&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)
 
 ## Awesome lists for Qt
 You will find a lot of interesting resources to learn an improve your skills

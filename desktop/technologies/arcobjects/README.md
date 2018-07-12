@@ -27,3 +27,16 @@ Should I follow a Runtime or Desktop Add-in?
 ### Videos
 
 [ArcGIS Runtime: Migrating from ArcGIS Engine](http://www.esri.com/videos/watch?videoid=h1lyaH00G6A&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-runtime:-migrating-from-arcgis-engine)
+
+
+## Additional resources
+
+* [GeoDev Webinar Series](go.esri.com/geodev)
+
+* Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcObjects"](https://esri-es.github.io/arcgis-search/?search="ArcObjects"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [GeoDev Spain - Grupo de GeoNet en español](https://geonet.esri.com/groups/geodev-spain)

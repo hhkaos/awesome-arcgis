@@ -9,10 +9,7 @@ Information about public transportation schedules and associated geographic info
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Community](#community)
-- [People you should know](#people-you-should-know)
-- [Related topics](#related-topics)
-- [Resources](#resources)
+- [Data storage](#data-storage)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

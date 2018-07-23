@@ -6,7 +6,7 @@
 **Table of contents**
 
 - [Web Scenarios](#web-scenarios)
-- [Code](#code)
+- [Code & How tos](#code--how-tos)
 - [Awesome projects & cool demos](#awesome-projects--cool-demos)
 - [News](#news)
 - [Videos](#videos)

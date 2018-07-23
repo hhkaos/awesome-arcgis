@@ -9,10 +9,7 @@ When we talk about vector GIS data we are referring to objects on the surface of
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Community](#community)
-- [People you should know](#people-you-should-know)
-- [Related topics](#related-topics)
-- [Resources](#resources)
+- [Data storage](#data-storage)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

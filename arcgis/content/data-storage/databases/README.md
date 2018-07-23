@@ -7,6 +7,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Introduction to Esri Geodatabases](#introduction-to-esri-geodatabases)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

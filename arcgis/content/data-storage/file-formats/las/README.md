@@ -8,7 +8,11 @@ The LAS file format is a public file format for the interchange of 3-dimensional
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Quick overview](#quick-overview)
 - [Introduction](#introduction)
+- [Additional documentation](#additional-documentation)
+- [Tools](#tools)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

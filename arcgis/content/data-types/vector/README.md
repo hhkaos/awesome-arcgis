@@ -10,11 +10,6 @@ When we talk about vector data we are talking about non-raster data. This includ
 
 - [Introduction](#introduction)
 - [Vector data types](#vector-data-types)
-  - [GIS data](#gis-data)
-  - [CAD data](#cad-data)
-  - [Lidar data](#lidar-data)
-  - [Transit schedule data](#transit-schedule-data)
-  - [General purpose](#general-purpose)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

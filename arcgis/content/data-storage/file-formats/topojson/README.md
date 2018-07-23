@@ -1,0 +1,56 @@
+> **Goal**: compile everything a user or developer interested in this topic should know about it in the Esri World.
+
+---
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+
+# TopoJSON
+
+*Very short description about it*
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
+
+- [Quick overview](#quick-overview)
+- [Introduction](#introduction)
+- [Additional documentation](#additional-documentation)
+- [Tools](#tools)
+- [Additional resources](#additional-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Quick overview
+
+* **Purpose**: *Unknown*
+* **Data type**: [vector](../../../data-types/vector/README.md)
+* **Type of format**: CAD/Transit schedule format/Lidar/...
+* **Multi-file format**: Yes/No/Optional
+* **File type**: binary/text-file
+* **File extension(s)**: *.WHATEVER*
+* **Originally developed by**: *Organization*/Unknown (*year*)
+* **Technical description/specification**: [The TopoJSON Format Specification](https://github.com/topojson/topojson-specification/blob/master/README.md)
+* **License**: *Unknown*
+* **Regulated by**: *Organization*/Unknown
+* **Status**: industry-standard/de facto standard/standard/....
+* **Sample file(s)**: *URL(s)*/*Pending*
+* **Consumable by***: *Esri products supporting it*
+
+## Introduction
+
+*Extended description*
+
+## Additional documentation
+
+*Links to other additional resources, news, ..*
+
+## Tools
+
+*Github projects, conversion tools (Data interoperability, etc), ...*
+
+## Additional resources
+
+Replace `FILE_FORMAT` in the next paragraph and remove the \`\`\`.
+
+```
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["FILE_FORMAT"](https://esri-es.github.io/arcgis-search/?search="FILE_FORMAT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+```

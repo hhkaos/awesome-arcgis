@@ -13,7 +13,7 @@
 
 ## Introduction
 
-[What is a mosaic dataset?](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/what-is-a-mosaic-dataset.htm)
+[What is a mosaic dataset?](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/what-is-a-mosaic-dataset.htm)
 
 Continuous data coverage:
 
@@ -25,4 +25,4 @@ Discontinuous data coverage:
 
 # Types of mosaic datasets
 
-** Pending**
+**Pending**

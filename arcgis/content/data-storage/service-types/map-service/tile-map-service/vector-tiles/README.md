@@ -51,7 +51,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 ## Utils
 * [ArcGIS Vector Tile Style Editor](https://github.com/Esri/arcgis-vectortile-style-editor): A simple Vector Tile Style Editor to update the styles of Esri Vector Basemaps
 * [Vector Basemap Style Editor](https://github.com/jgrayson-apl/VectorBasemapStyleEditor): Edit the styles of Esri Vector Basemaps ArcGIS online items
-* [mapstyler](https://esri-es.github.io/awesome-arcgis/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/): Style an Esri vector tile layer style using an image or colour palette
+* [mapstyler](https://esri-es.github.io/awesome-arcgis/arcgis/content/data-storage/service-types/map-service/tile-map-service/vector-tiles/): Style an Esri vector tile layer style using an image or colour palette
 
 ## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Vector%20Tiles](https://esri-es.github.io/arcgis-experts/?topic=Vector%20Tiles)

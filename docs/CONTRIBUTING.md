@@ -81,7 +81,7 @@ Then you can start drafting this page using the "[resource page template](https:
 
 These are sample pages you can check to better understand what we are trying to achieve on each resource page:
 
-* **Vector tiles resource page**:<br> [/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/README.md](https://hhkaos.github.io/awesome-arcgis/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/)
+* **Vector tiles resource page**:<br> [/arcgis/content/data-storage/service-types/map-service/tile-map-service/vector-tiles/README.md](https://hhkaos.github.io/awesome-arcgis/arcgis/content/data-storage/service-types/map-service/tile-map-service/vector-tiles/)
 
 * **Web AppBuilder Developer Edition resources page**:<br> [/arcgis/products/web-appbuilder/developer-edition/README.md](https://github.com/hhkaos/awesome-arcgis/blob/master/arcgis/products/web-appbuilder/developer-edition/README.md)
 

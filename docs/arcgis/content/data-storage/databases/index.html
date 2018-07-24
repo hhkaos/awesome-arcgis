@@ -455,12 +455,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.4" data-path="../file-formats/file-geodatabase/">
+        <li class="chapter " data-level="1.3.4.2.2.4" data-path="../file-formats/gdb/">
             
-                <a href="../file-formats/file-geodatabase/">
+                <a href="../file-formats/gdb/">
             
                     
-                    File Geodatabase
+                    Gdb
             
                 </a>
             
@@ -533,7 +533,33 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.10" data-path="../file-formats/las/">
+        <li class="chapter " data-level="1.3.4.2.2.10" data-path="../file-formats/kml/">
+            
+                <a href="../file-formats/kml/">
+            
+                    
+                    Kml
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4.2.2.11" data-path="../file-formats/kmz/">
+            
+                <a href="../file-formats/kmz/">
+            
+                    
+                    Kmz
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4.2.2.12" data-path="../file-formats/las/">
             
                 <a href="../file-formats/las/">
             
@@ -546,12 +572,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.11" data-path="../file-formats/personal-geodatabase/">
+        <li class="chapter " data-level="1.3.4.2.2.13" data-path="../file-formats/mdb/">
             
-                <a href="../file-formats/personal-geodatabase/">
+                <a href="../file-formats/mdb/">
             
                     
-                    Personal Geodatabase
+                    Mdb
             
                 </a>
             
@@ -559,7 +585,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.12" data-path="../file-formats/shapefile/">
+        <li class="chapter " data-level="1.3.4.2.2.14" data-path="../file-formats/shapefile/">
             
                 <a href="../file-formats/shapefile/">
             
@@ -572,7 +598,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.13" data-path="../file-formats/topojson/">
+        <li class="chapter " data-level="1.3.4.2.2.15" data-path="../file-formats/topojson/">
             
                 <a href="../file-formats/topojson/">
             
@@ -3327,10 +3353,10 @@
 </ul>
 <h2 id="introduction-to-esri-geodatabases">Introduction to Esri Geodatabases</h2>
 <blockquote>
-<p><strong>Important</strong>: an Esri Geodatabase is not always running on top of a DBMS</p>
+<p><strong>Important</strong>: no every Esri Geodatabase type run on top of a DBMS</p>
 </blockquote>
 <p>A geodatabase is a based on the relational database model and is allows you to store GIS information in one large file, which can contain multiple point, polygon, and/or polyline layers. It is a less &#x201C;messy&#x201D; way of organizing data than having multiple <a href="../shapefile/README.md">shapefiles</a>. in multiple folders.</p>
-<p>Three types of geodatabases:</p>
+<p>Three types of geodatabases (GDB):</p>
 <table>
 <thead>
 <tr>
@@ -3338,37 +3364,36 @@
 <th>Format</th>
 <th>Multi-editor</th>
 <th>Storage limit</th>
-<th>Description</th>
 <th>Release date</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="../file-formats/personal-geodatabase/">Personal geodatabases</a></td>
+<td><a href="../file-formats/personal-geodatabase/README.md">Personal GDB</a></td>
 <td>File format</td>
 <td>No</td>
 <td>2GB</td>
-<td>Build on top of Microsoft Access</td>
 <td>1999</td>
 </tr>
 <tr>
-<td><a href="../file-formats/file-geodatabase/">File geodatabases</a></td>
+<td><a href="../file-formats/file-geodatabase/README.md">File GDB</a></td>
 <td>File format</td>
-<td>Unknown</td>
+<td>Many readers or one writer per feature dataset</td>
 <td>1TB per dataset</td>
-<td>Nothing Multiple files</td>
 <td>2006</td>
 </tr>
 <tr>
-<td><a href="enterprise-geodatabase/">Enterprise geodatabases</a></td>
+<td><a href="enterprise-geodatabase/">Enterprise GDB</a></td>
 <td>Database</td>
-<td>Multi user and editor</td>
-<td>&quot;Unlimited&quot; (Defined by the DBMS)</td>
-<td>Is a collection of tables, views and functions stored inside a DBMS (work on top of Oracle, PostgreSQL, SQL Server, etc)</td>
+<td>Multiuser: many readers and many writers</td>
+<td>Up to DBMS limits</td>
 <td>Unknown</td>
 </tr>
 </tbody>
 </table>
+<blockquote>
+<p><strong>Detailed comparison</strong>: <a href="http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm" target="_blank">Comparing the three types of geodatabases</a></p>
+</blockquote>
 <p>The functionality:</p>
 <ul>
 <li>Store datasets (tables for non spatial data, feature classes for vector data and raster), rules and relationships</li>
@@ -3427,7 +3452,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Databases","level":"1.3.4.2.1","depth":4,"next":{"title":"Enterprise Geodatabase","level":"1.3.4.2.1.1","depth":5,"path":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","ref":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","articles":[]},"previous":{"title":"Data Storage","level":"1.3.4.2","depth":3,"path":"arcgis/content/data-storage/README.md","ref":"arcgis/content/data-storage/README.md","articles":[{"title":"Databases","level":"1.3.4.2.1","depth":4,"path":"arcgis/content/data-storage/databases/README.md","ref":"arcgis/content/data-storage/databases/README.md","articles":[{"title":"Enterprise Geodatabase","level":"1.3.4.2.1.1","depth":5,"path":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","ref":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","articles":[]}]},{"title":"File Formats","level":"1.3.4.2.2","depth":4,"path":"arcgis/content/data-storage/file-formats/README.md","ref":"arcgis/content/data-storage/file-formats/README.md","articles":[{"title":"Csv","level":"1.3.4.2.2.1","depth":5,"path":"arcgis/content/data-storage/file-formats/csv/README.md","ref":"arcgis/content/data-storage/file-formats/csv/README.md","articles":[]},{"title":"Dwg Dxf Dgn","level":"1.3.4.2.2.2","depth":5,"path":"arcgis/content/data-storage/file-formats/dwg-dxf-dgn/README.md","ref":"arcgis/content/data-storage/file-formats/dwg-dxf-dgn/README.md","articles":[]},{"title":"Ecw","level":"1.3.4.2.2.3","depth":5,"path":"arcgis/content/data-storage/file-formats/ecw/README.md","ref":"arcgis/content/data-storage/file-formats/ecw/README.md","articles":[]},{"title":"File Geodatabase","level":"1.3.4.2.2.4","depth":5,"path":"arcgis/content/data-storage/file-formats/file-geodatabase/README.md","ref":"arcgis/content/data-storage/file-formats/file-geodatabase/README.md","articles":[]},{"title":"Geocsv","level":"1.3.4.2.2.5","depth":5,"path":"arcgis/content/data-storage/file-formats/geocsv/README.md","ref":"arcgis/content/data-storage/file-formats/geocsv/README.md","articles":[]},{"title":"Geojson","level":"1.3.4.2.2.6","depth":5,"path":"arcgis/content/data-storage/file-formats/geojson/README.md","ref":"arcgis/content/data-storage/file-formats/geojson/README.md","articles":[]},{"title":"Gml","level":"1.3.4.2.2.7","depth":5,"path":"arcgis/content/data-storage/file-formats/gml/README.md","ref":"arcgis/content/data-storage/file-formats/gml/README.md","articles":[]},{"title":"Gpx","level":"1.3.4.2.2.8","depth":5,"path":"arcgis/content/data-storage/file-formats/gpx/README.md","ref":"arcgis/content/data-storage/file-formats/gpx/README.md","articles":[]},{"title":"Gtfs","level":"1.3.4.2.2.9","depth":5,"path":"arcgis/content/data-storage/file-formats/gtfs/README.md","ref":"arcgis/content/data-storage/file-formats/gtfs/README.md","articles":[]},{"title":"Las","level":"1.3.4.2.2.10","depth":5,"path":"arcgis/content/data-storage/file-formats/las/README.md","ref":"arcgis/content/data-storage/file-formats/las/README.md","articles":[]},{"title":"Personal Geodatabase","level":"1.3.4.2.2.11","depth":5,"path":"arcgis/content/data-storage/file-formats/personal-geodatabase/README.md","ref":"arcgis/content/data-storage/file-formats/personal-geodatabase/README.md","articles":[]},{"title":"Shapefile","level":"1.3.4.2.2.12","depth":5,"path":"arcgis/content/data-storage/file-formats/shapefile/README.md","ref":"arcgis/content/data-storage/file-formats/shapefile/README.md","articles":[]},{"title":"Topojson","level":"1.3.4.2.2.13","depth":5,"path":"arcgis/content/data-storage/file-formats/topojson/README.md","ref":"arcgis/content/data-storage/file-formats/topojson/README.md","articles":[]}]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/databases/README.md","mtime":"2018-07-23T12:11:21.291Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-23T12:11:29.940Z"},"basePath":"../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Databases","level":"1.3.4.2.1","depth":4,"next":{"title":"Enterprise Geodatabase","level":"1.3.4.2.1.1","depth":5,"path":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","ref":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","articles":[]},"previous":{"title":"Data Storage","level":"1.3.4.2","depth":3,"path":"arcgis/content/data-storage/README.md","ref":"arcgis/content/data-storage/README.md","articles":[{"title":"Databases","level":"1.3.4.2.1","depth":4,"path":"arcgis/content/data-storage/databases/README.md","ref":"arcgis/content/data-storage/databases/README.md","articles":[{"title":"Enterprise Geodatabase","level":"1.3.4.2.1.1","depth":5,"path":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","ref":"arcgis/content/data-storage/databases/enterprise-geodatabase/README.md","articles":[]}]},{"title":"File Formats","level":"1.3.4.2.2","depth":4,"path":"arcgis/content/data-storage/file-formats/README.md","ref":"arcgis/content/data-storage/file-formats/README.md","articles":[{"title":"Csv","level":"1.3.4.2.2.1","depth":5,"path":"arcgis/content/data-storage/file-formats/csv/README.md","ref":"arcgis/content/data-storage/file-formats/csv/README.md","articles":[]},{"title":"Dwg Dxf Dgn","level":"1.3.4.2.2.2","depth":5,"path":"arcgis/content/data-storage/file-formats/dwg-dxf-dgn/README.md","ref":"arcgis/content/data-storage/file-formats/dwg-dxf-dgn/README.md","articles":[]},{"title":"Ecw","level":"1.3.4.2.2.3","depth":5,"path":"arcgis/content/data-storage/file-formats/ecw/README.md","ref":"arcgis/content/data-storage/file-formats/ecw/README.md","articles":[]},{"title":"Gdb","level":"1.3.4.2.2.4","depth":5,"path":"arcgis/content/data-storage/file-formats/gdb/README.md","ref":"arcgis/content/data-storage/file-formats/gdb/README.md","articles":[]},{"title":"Geocsv","level":"1.3.4.2.2.5","depth":5,"path":"arcgis/content/data-storage/file-formats/geocsv/README.md","ref":"arcgis/content/data-storage/file-formats/geocsv/README.md","articles":[]},{"title":"Geojson","level":"1.3.4.2.2.6","depth":5,"path":"arcgis/content/data-storage/file-formats/geojson/README.md","ref":"arcgis/content/data-storage/file-formats/geojson/README.md","articles":[]},{"title":"Gml","level":"1.3.4.2.2.7","depth":5,"path":"arcgis/content/data-storage/file-formats/gml/README.md","ref":"arcgis/content/data-storage/file-formats/gml/README.md","articles":[]},{"title":"Gpx","level":"1.3.4.2.2.8","depth":5,"path":"arcgis/content/data-storage/file-formats/gpx/README.md","ref":"arcgis/content/data-storage/file-formats/gpx/README.md","articles":[]},{"title":"Gtfs","level":"1.3.4.2.2.9","depth":5,"path":"arcgis/content/data-storage/file-formats/gtfs/README.md","ref":"arcgis/content/data-storage/file-formats/gtfs/README.md","articles":[]},{"title":"Kml","level":"1.3.4.2.2.10","depth":5,"path":"arcgis/content/data-storage/file-formats/kml/README.md","ref":"arcgis/content/data-storage/file-formats/kml/README.md","articles":[]},{"title":"Kmz","level":"1.3.4.2.2.11","depth":5,"path":"arcgis/content/data-storage/file-formats/kmz/README.md","ref":"arcgis/content/data-storage/file-formats/kmz/README.md","articles":[]},{"title":"Las","level":"1.3.4.2.2.12","depth":5,"path":"arcgis/content/data-storage/file-formats/las/README.md","ref":"arcgis/content/data-storage/file-formats/las/README.md","articles":[]},{"title":"Mdb","level":"1.3.4.2.2.13","depth":5,"path":"arcgis/content/data-storage/file-formats/mdb/README.md","ref":"arcgis/content/data-storage/file-formats/mdb/README.md","articles":[]},{"title":"Shapefile","level":"1.3.4.2.2.14","depth":5,"path":"arcgis/content/data-storage/file-formats/shapefile/README.md","ref":"arcgis/content/data-storage/file-formats/shapefile/README.md","articles":[]},{"title":"Topojson","level":"1.3.4.2.2.15","depth":5,"path":"arcgis/content/data-storage/file-formats/topojson/README.md","ref":"arcgis/content/data-storage/file-formats/topojson/README.md","articles":[]}]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/databases/README.md","mtime":"2018-07-24T07:32:40.994Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-24T07:32:52.254Z"},"basePath":"../../../..","book":{"language":""}});
         });
     </script>
 </div>

@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>File Geodatabase · Awesome ArcGIS</title>
+        <title>Gdb · Awesome ArcGIS</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -460,7 +460,7 @@
                 <a href="./">
             
                     
-                    File Geodatabase
+                    Gdb
             
                 </a>
             
@@ -533,7 +533,33 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.10" data-path="../las/">
+        <li class="chapter " data-level="1.3.4.2.2.10" data-path="../kml/">
+            
+                <a href="../kml/">
+            
+                    
+                    Kml
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4.2.2.11" data-path="../kmz/">
+            
+                <a href="../kmz/">
+            
+                    
+                    Kmz
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4.2.2.12" data-path="../las/">
             
                 <a href="../las/">
             
@@ -546,12 +572,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.11" data-path="../personal-geodatabase/">
+        <li class="chapter " data-level="1.3.4.2.2.13" data-path="../mdb/">
             
-                <a href="../personal-geodatabase/">
+                <a href="../mdb/">
             
                     
-                    Personal Geodatabase
+                    Mdb
             
                 </a>
             
@@ -559,7 +585,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.12" data-path="../shapefile/">
+        <li class="chapter " data-level="1.3.4.2.2.14" data-path="../shapefile/">
             
                 <a href="../shapefile/">
             
@@ -572,7 +598,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.13" data-path="../topojson/">
+        <li class="chapter " data-level="1.3.4.2.2.15" data-path="../topojson/">
             
                 <a href="../topojson/">
             
@@ -3289,7 +3315,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../../../../.." >File Geodatabase</a>
+        <a href="../../../../.." >Gdb</a>
     </h1>
 </div>
 
@@ -3307,8 +3333,8 @@
                                 <blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis" target="_blank">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions" target="_blank">contribute in less than a minute</a>.</p>
 </blockquote>
-<h1 id="file-geodatabase">File Geodatabase</h1>
-<p>Esri format based on multiple binary files</p>
+<h1 id="gdb">GDB</h1>
+<p>File Geodatabase (GDB) is an Esri format based on multiple binary files</p>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
@@ -3320,21 +3346,31 @@
 <h2 id="quick-overview">Quick overview</h2>
 <ul>
 <li><strong>Purpose</strong>: <em>Unknown</em></li>
-<li><strong>Data type</strong>: <a href="../../../data-types/vector/">vector</a>/<a href="../../../data-types/raster/">raster</a></li>
-<li><strong>Type of format</strong>: CAD/Transit schedule format/Lidar/...</li>
-<li><strong>Multi-file format</strong>: Yes/No/Optional</li>
-<li><strong>File type</strong>: binary/text-file</li>
-<li><strong>File extension(s)</strong>: <em>.WHATEVER</em></li>
-<li><strong>Originally developed by</strong>: <em>Organization</em>/Unknown (<em>year</em>)</li>
-<li><strong>Technical description/specification</strong>: <em>URL</em></li>
+<li><strong>Data type</strong>: <a href="../../../data-types/vector/">vector</a> and <a href="../../../data-types/raster/">raster</a></li>
+<li><strong>Type of format</strong>: GIS</li>
+<li><strong>Multi-file format</strong>: Yes</li>
+<li><strong>File type</strong>: binary</li>
+<li><strong>File extension(s)</strong>: .gdb, .zip</li>
+<li><strong>Originally developed by</strong>: Esri (2006)</li>
+<li><strong>Technical description/specification</strong>: <a href="https://github.com/Esri/file-geodatabase-api" target="_blank">File geodatabase API</a></li>
 <li><strong>License</strong>: <em>Unknown</em></li>
-<li><strong>Regulated by</strong>: <em>Organization</em>/Unknown</li>
-<li><strong>Status</strong>: industry-standard/de facto standard/standard/....</li>
-<li><strong>Sample file(s)</strong>: <em>URL(s)</em>/<em>Pending</em></li>
-<li><strong>Consumable by*</strong>: <em>Esri products supporting it</em></li>
+<li><strong>Regulated by</strong>: Esri</li>
+<li><strong>Status</strong>: proprietary</li>
+<li><strong>Sample file(s)</strong>: <a href="https://www.arcgis.com/home/search.html?q=typekeywords%3AGeodatabase&amp;start=1&amp;sortOrder=desc&amp;sortField=relevance" target="_blank">ArcGIS Online public File GeoDatabases</a></li>
+<li><strong>Consumable by</strong>:<ul>
+<li><a href="../../../../products/arcgis-desktop/arcgis-pro/">ArcGIS Pro</a> - <a href="http://pro.arcgis.com/en/pro-app/help/projects/connect-to-a-database.htm" target="_blank">How to</a></li>
+<li><a href="../../../../products/arcgis-desktop/arcmap-arccatalog/">ArcMap</a> - <a href="http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-arccatalog/connect-to-file-or-personal-geodatabase.htm" target="_blank">How to</a></li>
+<li><a href="../../../../products/arcgis-enterprise/">ArcGIS Enterprise</a> through <a href="../../../../products/arcgis-enterprise/arcgis-server/">ArcGIS Server</a> - <a href="http://enterprise.arcgis.com/en/server/latest/publish-services/linux/publishing-a-geodata-service.htm" target="_blank">How to</a></li>
+<li><a href="../../../../../desktop/technologies/java/">ArcGIS Runtime for Java</a> (supported only if using local server)</li>
+<li><a href="../../../../../desktop/technologies/dot-net/">ArcGIS Runtime for .NET</a> (supported only if using local server)</li>
+<li><a href="../../../../../desktop/technologies/qt/">ArcGIS Runtime for Qt</a> (Supported only if using C++ API and local server. Not supported with QML API.)</li>
+<li><a href="../../../../../desktop/technologies/arcobjects/">ArcObjects</a></li>
+<li>...</li>
+</ul>
+</li>
 </ul>
 <h2 id="introduction">Introduction</h2>
-<p>Evolution from the <a href="../personal-geodatabase/">personal geodatabase</a> created in 9.2. It is also prefered over the <a href="../shapefile/">shapefile</a>. It is a collection of binary files stored on disk
+<p>Evolution from the <a href="../personal-geodatabase/README.md">personal geodatabase</a> created in 9.2. It is also prefered over the <a href="../shapefile/">shapefile</a>. It is a collection of binary files stored on disk
 Multi user, single editor, 1TB per dataset*</p>
 
                                 
@@ -3379,7 +3415,7 @@ Multi user, single editor, 1TB per dataset*</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"File Geodatabase","level":"1.3.4.2.2.4","depth":5,"next":{"title":"Geocsv","level":"1.3.4.2.2.5","depth":5,"path":"arcgis/content/data-storage/file-formats/geocsv/README.md","ref":"arcgis/content/data-storage/file-formats/geocsv/README.md","articles":[]},"previous":{"title":"Ecw","level":"1.3.4.2.2.3","depth":5,"path":"arcgis/content/data-storage/file-formats/ecw/README.md","ref":"arcgis/content/data-storage/file-formats/ecw/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/file-formats/file-geodatabase/README.md","mtime":"2018-07-23T12:11:21.725Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-23T12:11:29.940Z"},"basePath":"../../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Gdb","level":"1.3.4.2.2.4","depth":5,"next":{"title":"Geocsv","level":"1.3.4.2.2.5","depth":5,"path":"arcgis/content/data-storage/file-formats/geocsv/README.md","ref":"arcgis/content/data-storage/file-formats/geocsv/README.md","articles":[]},"previous":{"title":"Ecw","level":"1.3.4.2.2.3","depth":5,"path":"arcgis/content/data-storage/file-formats/ecw/README.md","ref":"arcgis/content/data-storage/file-formats/ecw/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/file-formats/gdb/README.md","mtime":"2018-07-24T07:32:41.271Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-24T07:32:52.254Z"},"basePath":"../../../../..","book":{"language":""}});
         });
     </script>
 </div>

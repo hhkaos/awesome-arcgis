@@ -62,7 +62,7 @@
     <link rel="shortcut icon" href="../../../../../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../gpx/" />
+    <link rel="next" href="../gpkg/" />
     
     
     <link rel="prev" href="../geojson/" />
@@ -507,7 +507,20 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.8" data-path="../gpx/">
+        <li class="chapter " data-level="1.3.4.2.2.8" data-path="../gpkg/">
+            
+                <a href="../gpkg/">
+            
+                    
+                    Gpkg
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4.2.2.9" data-path="../gpx/">
             
                 <a href="../gpx/">
             
@@ -520,7 +533,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.9" data-path="../gtfs/">
+        <li class="chapter " data-level="1.3.4.2.2.10" data-path="../gtfs/">
             
                 <a href="../gtfs/">
             
@@ -533,7 +546,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.10" data-path="../kml/">
+        <li class="chapter " data-level="1.3.4.2.2.11" data-path="../kml/">
             
                 <a href="../kml/">
             
@@ -546,7 +559,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.11" data-path="../kmz/">
+        <li class="chapter " data-level="1.3.4.2.2.12" data-path="../kmz/">
             
                 <a href="../kmz/">
             
@@ -559,7 +572,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.12" data-path="../las/">
+        <li class="chapter " data-level="1.3.4.2.2.13" data-path="../las/">
             
                 <a href="../las/">
             
@@ -572,7 +585,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.13" data-path="../mdb/">
+        <li class="chapter " data-level="1.3.4.2.2.14" data-path="../mdb/">
             
                 <a href="../mdb/">
             
@@ -585,7 +598,20 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.14" data-path="../shapefile/">
+        <li class="chapter " data-level="1.3.4.2.2.15" data-path="../mmpk/">
+            
+                <a href="../mmpk/">
+            
+                    
+                    Mmpk
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4.2.2.16" data-path="../shapefile/">
             
                 <a href="../shapefile/">
             
@@ -598,7 +624,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4.2.2.15" data-path="../topojson/">
+        <li class="chapter " data-level="1.3.4.2.2.17" data-path="../topojson/">
             
                 <a href="../topojson/">
             
@@ -3342,27 +3368,33 @@
 <li><a href="#quick-overview">Quick overview</a></li>
 <li><a href="#introduction">Introduction</a><ul>
 <li><a href="#additional-documentation">Additional documentation</a></li>
-<li><a href="#tools">Tools</a></li>
+<li><a href="#tools--samples">Tools &amp; Samples</a></li>
 </ul>
 </li>
-<li><a href="#additional-resources">Additional resources</a></li>
+<li><a href="#additional-resources">Additional resources</a><ul>
+<li><a href="#localized-resources">Localized resources</a></li>
+</ul>
+</li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <h2 id="quick-overview">Quick overview</h2>
 <ul>
-<li><strong>Purpose</strong>: <em>Unknown</em></li>
+<li><strong>Purpose</strong>: XML standard to represent information of spatial elements</li>
 <li><strong>Data type</strong>: <a href="../../../data-types/vector/">vector</a></li>
-<li><strong>Type of format</strong>: GIS</li>
+<li><strong>Type of format</strong>: <a href="../../../data-types/vector/gis/">GIS</a></li>
 <li><strong>Multi-file format</strong>: No</li>
 <li><strong>File type</strong>: text-file</li>
 <li><strong>File extension(s)</strong>: .gml, .xml</li>
 <li><strong>Originally developed by</strong>:     <a href="https://en.wikipedia.org/wiki/Open_Geospatial_Consortium" target="_blank">Open Geospatial Consortium (OGC)</a> (2000)</li>
-<li><strong>Technical description</strong>: <em>URL</em></li>
+<li><strong>Technical description/specification/schemas</strong>: <a href="http://www.opengeospatial.org/standards/gml#schemas" target="_blank">GML Official Schemas</a></li>
 <li><strong>License</strong>: <em>Unknown</em></li>
-<li><strong>Regulated by</strong>: OGC</li>
+<li><strong>Regulated by</strong>: <a href="http://www.opengeospatial.org/standards/gml#schemas" target="_blank">Open Geospatial Consortium (OGC)</a></li>
 <li><strong>Status</strong>: Standard, <a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=32554" target="_blank">ISO 19136:2007</a></li>
-<li><strong>Sample file(s)</strong>: <em>URL(s)</em></li>
-<li><strong>Consumable by</strong>: <em>Esri products supporting it</em></li>
+<li><strong>Sample file(s)</strong>: <a href="https://gist.github.com/search?utf8=%E2%9C%93&amp;q=gml+sample" target="_blank">GML samples on GitHub Gist</a></li>
+<li><strong>Consumable by</strong>:<ul>
+<li><a href="https://support.esri.com/en/technical-article/000009150" target="_blank">ArcGIS Desktop using ArcGIS Data Interoperabilty</a> (included in the <a href="../../../../../esri/startup-program/">Esri Startup Program</a> and the <a href="https://developers.arcgis.com/pricing/" target="_blank">ArcGIS Developer Subscription Professional Plan</a>)</li>
+</ul>
+</li>
 </ul>
 <h2 id="introduction">Introduction</h2>
 <p>GML (Geography Markup Language) is the XML standard of the OGC to represent information of spatial elements. The metadata exchange format is XML (eXtensible Markup Language).</p>
@@ -3375,13 +3407,19 @@ There are two formats, both based on the European INSPIRE directive:</p>
 </ul>
 <p>One of the main problems of this trademark language is that there is the impossibility of downloading a GML document from a web service (server) other than that the web application was downloaded. This problem is called Cross-Domain.</p>
 <h3 id="additional-documentation">Additional documentation</h3>
-<p><em>Links to other additional resources</em></p>
-<h3 id="tools">Tools</h3>
-<p><em>Github projects, conversion tools (Data interoperability, etc), ...</em></p>
+<h3 id="tools--samples">Tools &amp; Samples</h3>
+<ul>
+<li><a href="../../../../../devops/technologies/koop/">Koop</a>: An Open Geospatial ETL Engine that can translate into the <a href="https://geoservices.github.io/" target="_blank">Geoservices specification</a> supported by the ArcGIS.</li>
+<li><a href="http://cite.opengeospatial.org/test_engine/gml/2.1.2/validator/" target="_blank">GML 2.1.2 validator</a></li>
+</ul>
 <h2 id="additional-resources">Additional resources</h2>
-<p>Replace <code>FILE_FORMAT</code> in the next paragraph and remove the ```.</p>
-<pre><code>Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: [&quot;FILE_FORMAT&quot;](https://esri-es.github.io/arcgis-search/?search=&quot;FILE_FORMAT&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page).
-</code></pre>
+<p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/" target="_blank">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;GML&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">&quot;GML&quot;</a>.</p>
+<h3 id="localized-resources">Localized resources</h3>
+<ul>
+<li><a href="http://www.esri.es/arcgis/soluciones/administracion/conversores-catastro/" target="_blank">Importador GML Catastro</a></li>
+<li><a href="https://www.arcgis.com/home/item.html?id=82fcd952418d4adf8703215359c34cc3" target="_blank">Herramientas ArcGIS Data Interoperabilty Extension (DIE) para tratamiento de GML Catastro</a>: Convertir GML a FileGDB</li>
+</ul>
+
                                 
                                 </section>
                             
@@ -3413,7 +3451,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
                 </a>
                 
                 
-                <a href="../gpx/" class="navigation navigation-next " aria-label="Next page: Gpx">
+                <a href="../gpkg/" class="navigation navigation-next " aria-label="Next page: Gpkg">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -3424,7 +3462,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Gml","level":"1.3.4.2.2.7","depth":5,"next":{"title":"Gpx","level":"1.3.4.2.2.8","depth":5,"path":"arcgis/content/data-storage/file-formats/gpx/README.md","ref":"arcgis/content/data-storage/file-formats/gpx/README.md","articles":[]},"previous":{"title":"Geojson","level":"1.3.4.2.2.6","depth":5,"path":"arcgis/content/data-storage/file-formats/geojson/README.md","ref":"arcgis/content/data-storage/file-formats/geojson/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/file-formats/gml/README.md","mtime":"2018-07-24T08:11:35.543Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-24T08:11:45.252Z"},"basePath":"../../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Gml","level":"1.3.4.2.2.7","depth":5,"next":{"title":"Gpkg","level":"1.3.4.2.2.8","depth":5,"path":"arcgis/content/data-storage/file-formats/gpkg/README.md","ref":"arcgis/content/data-storage/file-formats/gpkg/README.md","articles":[]},"previous":{"title":"Geojson","level":"1.3.4.2.2.6","depth":5,"path":"arcgis/content/data-storage/file-formats/geojson/README.md","ref":"arcgis/content/data-storage/file-formats/geojson/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/file-formats/gml/README.md","mtime":"2018-07-24T10:52:11.613Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-24T10:52:20.117Z"},"basePath":"../../../../..","book":{"language":""}});
         });
     </script>
 </div>

@@ -11,7 +11,7 @@ Esri Mobile Map Package
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
 - [Additional documentation](#additional-documentation)
-- [Tools](#tools)
+- [Tools & Samples](#tools--samples)
 - [Additional resources](#additional-resources)
   - [Related resources](#related-resources)
   - [Localized resources](#localized-resources)

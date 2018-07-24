@@ -11,7 +11,7 @@ GPX (the GPS Exchange Format) is a light-weight XML data format for the intercha
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
   - [Additional documentation](#additional-documentation)
-  - [Tools](#tools)
+  - [Tools & Samples](#tools--samples)
 - [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

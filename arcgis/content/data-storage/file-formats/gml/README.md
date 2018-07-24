@@ -11,8 +11,9 @@ GML (Geography Markup Language) is the XML standard of the OGC to represent info
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
   - [Additional documentation](#additional-documentation)
-  - [Tools](#tools)
+  - [Tools & Samples](#tools--samples)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -11,10 +11,8 @@ GeoPackage (GPKG) is a data format for geographic information system implemented
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
 - [Additional documentation](#additional-documentation)
-- [Tools](#tools)
+- [Tools & Samples](#tools--samples)
 - [Additional resources](#additional-resources)
-  - [Related resources](#related-resources)
-  - [Localized resources](#localized-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

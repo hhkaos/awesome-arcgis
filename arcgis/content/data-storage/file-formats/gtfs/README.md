@@ -18,16 +18,16 @@ The General Transit Feed Specification (GTFS) defines an open standard format fo
 
 ## Quick overview
 
-* **Purpose**: *Unknown*
+* **Purpose**: Exchanging public transportation schedule, geographic and fare information.
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: Transit schedule format
+* **Type of format**: [Transit schedule format](../../../data-types/vector/transit-schedule/README.md)
 * **Multi-file format**: Yes (ZIP)
 * **File type**: binary
 * **File extension(s)**: .zip (agency.txt, routes.txt, trips.txt, stop_times.txt, stops.txt, calendar.txt)
 * **Originally developed by**: started out as a side project of Google employee Chris Harrelson (2006)
-* **Technical description/specification**: *URL*
+* **Technical description/specification**: [General Transit Feed Specification Reference](https://developers.google.com/transit/gtfs/reference/)
 * **License**: CC BY 3.0
-* **Regulated by**: *Organization*/Unknown
+* **Regulated by**: Google
 * **Status**: de facto standard
 * **Sample file(s)**: [gtfs.org/examples/](http://gtfs.org/examples/)
 * **Consumable by**:
@@ -50,7 +50,6 @@ It is a file format extended from CSV ([vector data types](../../../data-types/v
 * [Display GTFS transit stops and lines (route shapes) in ArcMap or ArcGIS Pro](https://www.arcgis.com/home/item.html?id=380aa7cbf010417ab3ae32a6f11e00d9)
 * [public-transit-tools](https://github.com/esri?utf8=%E2%9C%93&q=gtfs&type=&language=): python tools for working with GTFS public transit data in ArcGIS
 * [gtfsrealtime-for-geoevent](https://github.com/Esri/gtfsrealtime-for-geoevent): ArcGIS GeoEvent Server sample connector for GTFS (Google Transit Feed Specification) real-time feed.
-
 
 ## Additional resources
 

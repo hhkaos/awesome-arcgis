@@ -23,7 +23,7 @@
 
 * **Purpose**: Extension of GeoJSON. TopoJSON introduces a new type, "Topology", that contains GeoJSON objects. Usually used combined with D3.js
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: No
 * **File type**: plain-text
 * **File extension(s)**: .json
@@ -37,20 +37,18 @@
 
 ## Introduction
 
-*Extended description*
+[From TopoJSON Wiki](https://github.com/topojson/topojson/wiki/Introduction):
+
+> TopoJSON is an extension of GeoJSON. TopoJSON introduces a new type, "Topology", that contains GeoJSON objects. A topology has an objects map which indexes geometry objects by name. These are standard GeoJSON objects, such as polygons, multi-polygons and geometry collections. However, the coordinates for these geometries are stored in the topology's arcs array, rather than on each object separately. An arc is a sequence of points, similar to a line string; the arcs are stitched together to form the geometry. Lastly, the topology has a transform which specifies how to convert delta-encoded integer coordinates to their native values (such as longitude & latitude).
 
 ## Additional documentation
 
-*Links to other additional resources, news, ..*
+* [TopoJSON 2.0 API Reference](https://github.com/topojson/topojson/blob/master/README.md)
 
 ## Tools
 
-*Github projects, conversion tools (Data interoperability, etc), ...*
+* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 
 ## Additional resources
 
-Replace `FILE_FORMAT` in the next paragraph and remove the \`\`\`.
-
-```
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["FILE_FORMAT"](https://esri-es.github.io/arcgis-search/?search="FILE_FORMAT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
-```
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["topojson"](https://esri-es.github.io/arcgis-search/?search="topojson"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

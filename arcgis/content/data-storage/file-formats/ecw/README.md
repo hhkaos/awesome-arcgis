@@ -20,7 +20,7 @@
 
 * **Purpose**: *Unknown*
 * **Data type**: [raster](../../../data-types/raster/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/raster/README.md)
 * **Multi-file format**: Yes/No/Optional
 * **File type**: binary/text-file
 * **File extension(s)**: .ecw
@@ -40,7 +40,7 @@
 
 *Links to other additional resources*
 
-### Tools
+### Tools & Samples
 
 *Github projects, conversion tools (Data interoperability, etc), ...*
 

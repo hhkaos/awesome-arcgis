@@ -25,7 +25,7 @@
 
 * **Purpose**: *Unknown*
 * **Data type**: [vector](../../../data-types/vector/README.md)/[raster](../../../data-types/raster/README.md)
-* **Type of format**: GIS/CAD/Transit schedule format/Lidar/...
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: Yes/No/Optional
 * **File type**: binary/plain-text
 * **File extension(s)**: *.WHATEVER*
@@ -48,6 +48,8 @@
 ## Tools
 
 *Github projects, conversion tools (Data interoperability, etc), ...*
+
+* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 
 ## Additional resources
 

@@ -2,7 +2,7 @@
 
 # LAS format
 
-The LAS file format is a public file format for the interchange of 3-dimensional point cloud data data between data users.
+The LAS file format is a public file format for the interchange of 3-dimensional point cloud data between users.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -18,20 +18,21 @@ The LAS file format is a public file format for the interchange of 3-dimensional
 
 ## Quick overview
 
-* **Purpose**: *Unknown*
+* **Purpose**: Interchange of 3-dimensional point cloud data between users
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: Lidar
+* **Type of format**: [Lidar](../../../data-types/vector/lidar/README.md)
 * **Multi-file format**: it can reference to one or more LAS files on disk
 * **File type**: binary
-* **File extension(s)**: *.las*
+* **File extension(s)**: .las
 * **Originally developed by**: American Society for Photogrammetry and Remote Sensing (ASPRS) (2003)
-* **Technical description/specification**: [LAS SPECIFICATION VERSION 1.4 – R13](https://www.asprs.org/wp-content/uploads/2010/12/LAS_1_4_r13.pdf)
+* **Technical description/specification/schema**: [LAS SPECIFICATION VERSION 1.4 – R13](https://www.asprs.org/wp-content/uploads/2010/12/LAS_1_4_r13.pdf)
 * **License**: *Unknown*
 * **Regulated by**: ASPRS
 * **Status**: industry-standard
-* **Sample file(s)**: *Pending*
+* **Sample file(s)**: [United Stated Naval Academy Sample Data](https://www.usna.edu/Users/oceano/pguth/md_help/rabat_courses/geology_lidar_sampler_lab.html)
 * **Consumable by**:
     * [ArcGIS Pro](../../../../products/arcgis-desktop/arcgis-pro/README.md)
+    * ...
 
 ## Introduction
 

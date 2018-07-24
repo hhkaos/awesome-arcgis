@@ -20,7 +20,7 @@ MDB is a database file used by Microsoft Access, but in a GIS context it use to 
 
 * **Purpose**: Store, query, and manage both spatial and nonspatial data.
 * **Data type**: [vector](../../../data-types/vector/README.md) and [raster](../../../data-types/raster/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: No
 * **File type**: binary
 * **File extension(s)**: .mdb, .zip
@@ -38,9 +38,25 @@ MDB is a database file used by Microsoft Access, but in a GIS context it use to 
 
 ## Introduction
 
-Personal GeoDatabases were introduced by Esri in ArcGIS for Desktop 8.0 (1999). It is single user and editor & 2GB storage limit.
+> Note: Personal GeoDatabases were introduced by Esri in ArcGIS for Desktop 8.0 (1999).
 
-|[Personal GDB](../file-formats/mdb/README.md)| File format|No|2GB|1999
+**Description**: Original data format for ArcGIS geodatabases stored and managed in Microsoft Access data files.(This is limited in size and tied to the Windows operating system.)
+
+**Number of users**: Single user and small workgroups with smaller datasets: some readers and one writer. Concurrent use eventually degrades for large numbers of readers.
+
+**Storage format**: All the contents in each personal geodatabase are held in a single Microsoft Access file (.mdb).
+
+**Size limits**: Two GB per Access database. The effective limit before performance degrades is typically between 250 and 500 MB per Access database file.
+
+**Versioning support**: Only supported as a geodatabase for clients who post updates using checkout and check-in and as a client to which updates can be sent using one-way replication.
+
+**Platforms**: Windows only.
+
+**Security and permissions**: Windows file system security.
+
+**Database administration tools**: Windows file system management.
+
+**Notes**: Often used as an attribute table manager (via Microsoft Access). Users like the string handling for text attributes.
 
 ## Additional documentation
 

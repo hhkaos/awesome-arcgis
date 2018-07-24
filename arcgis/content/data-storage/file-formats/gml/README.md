@@ -18,19 +18,20 @@ GML (Geography Markup Language) is the XML standard of the OGC to represent info
 
 ## Quick overview
 
-* **Purpose**: *Unknown*
+* **Purpose**: XML standard to represent information of spatial elements
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: No
 * **File type**: text-file
 * **File extension(s)**: .gml, .xml
 * **Originally developed by**: 	[Open Geospatial Consortium (OGC)](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium) (2000)
-* **Technical description**: *URL*
+* **Technical description/specification/schemas**: [GML Official Schemas](http://www.opengeospatial.org/standards/gml#schemas)
 * **License**: *Unknown*
-* **Regulated by**: OGC
+* **Regulated by**: [Open Geospatial Consortium (OGC)](http://www.opengeospatial.org/standards/gml#schemas)
 * **Status**: Standard, [ISO 19136:2007](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=32554)
-* **Sample file(s)**: *URL(s)*
-* **Consumable by**: *Esri products supporting it*
+* **Sample file(s)**: [GML samples on GitHub Gist](https://gist.github.com/search?utf8=%E2%9C%93&q=gml+sample)
+* **Consumable by**:
+    * [ArcGIS Desktop using ArcGIS Data Interoperabilty](https://support.esri.com/en/technical-article/000009150) (included in the [Esri Startup Program](../../../../../esri/startup-program/README.md) and the [ArcGIS Developer Subscription Professional Plan](https://developers.arcgis.com/pricing/))
 
 ## Introduction
 
@@ -40,6 +41,7 @@ GML was designed based on the abstract specification produced by the OpenGIS gro
 
 This format is used for the exchange of cadastral data, in addition to the Land Registry in Spain.
 There are two formats, both based on the European INSPIRE directive:
+
 * CP (Cadastral Parcel) for cadastral parcels
 * BU (Building) for buildings.
 
@@ -47,16 +49,17 @@ One of the main problems of this trademark language is that there is the impossi
 
 ### Additional documentation
 
-*Links to other additional resources*
+### Tools & Samples
 
-### Tools
+* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [GML 2.1.2 validator](http://cite.opengeospatial.org/test_engine/gml/2.1.2/validator/)
 
-*Github projects, conversion tools (Data interoperability, etc), ...*
 
 ## Additional resources
 
-Replace `FILE_FORMAT` in the next paragraph and remove the \`\`\`.
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["GML"](https://esri-es.github.io/arcgis-search/?search="GML"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-```
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["FILE_FORMAT"](https://esri-es.github.io/arcgis-search/?search="FILE_FORMAT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
-```
+### Localized resources
+
+* [Importador GML Catastro](http://www.esri.es/arcgis/soluciones/administracion/conversores-catastro/)
+* [Herramientas ArcGIS Data Interoperabilty Extension (DIE) para tratamiento de GML Catastro](https://www.arcgis.com/home/item.html?id=82fcd952418d4adf8703215359c34cc3): Convertir GML a FileGDB

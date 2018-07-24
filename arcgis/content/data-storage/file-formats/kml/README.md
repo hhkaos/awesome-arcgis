@@ -21,15 +21,15 @@ XML notation for expressing geographic annotation and visualization within Inter
 
 ## Quick overview
 
-* **Purpose**: *Unknown*
+* **Purpose**: XML notation for expressing geographic annotation and visualization
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: No
 * **File type**: plain-text
 * **File extension(s)**: .kml
 * **Originally developed by**: Keyhole, Inc., Google (2004)
 * **Technical description/specification**: [KML specs](http://www.opengeospatial.org/standards/kml)
-* **License**: *Unknown*
+* **License**: [read license](http://docs.opengeospatial.org/is/12-007r2/12-007r2.html#license)
 * **Regulated by**: [Open Geospatial Consortium (OGC)](http://www.opengeospatial.org/standards/kml)
 * **Status**: [OGC standard](http://docs.opengeospatial.org/is/12-007r2/12-007r2.html)
 * **Sample file(s)**: *URL(s)*/*Pending*
@@ -46,6 +46,8 @@ XML notation for expressing geographic annotation and visualization within Inter
 ## Tools
 
 *Github projects, conversion tools (Data interoperability, etc), ...*
+
+* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 
 ## Additional resources
 

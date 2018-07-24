@@ -23,7 +23,7 @@ Represent simple geographical features, along with their non-spatial attributes 
 
 * **Purpose**: Represent simple geographical features, along with their non-spatial attributes based on JSON.
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: No
 * **File type**: text-file
 * **File extension(s)**: .json, .geojson

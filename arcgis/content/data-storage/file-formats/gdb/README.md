@@ -19,7 +19,7 @@ A file GeoDataBase (GDB) is a collection of files in a folder on disk that can s
 
 * **Purpose**: Store, query, and manage both spatial (vector and raster) and nonspatial data.
 * **Data type**: [vector](../../../data-types/vector/README.md) and [raster](../../../data-types/raster/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: Yes
 * **File type**: binary
 * **File extension(s)**: .gdb, .zip

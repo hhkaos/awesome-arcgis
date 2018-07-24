@@ -20,12 +20,12 @@ GPX (the GPS Exchange Format) is a light-weight XML data format for the intercha
 
 * **Purpose**: Interchange of GPS data (waypoints, routes, and tracks)
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: No
 * **File type**: plain-text
 * **File extension(s)**: .gpx
 * **Originally developed by**: Topografix (2002)
-* **Technical description**: [GPX 1.1 Schema](http://www.topografix.com/gpx/1/1/gpx.xsd)
+* **Technical description/Specification/Schema**: [GPX 1.1 Schema](http://www.topografix.com/gpx/1/1/gpx.xsd)
 * **License**: *Unknown*
 * **Regulated by**: Topografix
 * **Status**: Open specification
@@ -38,18 +38,22 @@ GPX (the GPS Exchange Format) is a light-weight XML data format for the intercha
 
 ## Introduction
 
-[From Topografix](http://www.topografix.com/gpx_for_developers.asp):
+GPX or GPS eXchange Format (GPS Interchange Format) is an XML schema designed to transfer GPS data between applications. It can be used to describe points (waypoints), routes (tracks), and routes (routes).
 
-> GPX was designed from the ground up to be the standard XML format for exchanging GPS data between applications. Because GPX is based on XML, it inherits all of the benefits of XML. XML is an open standard, with a rapidly growing base of developers and tool providers. GPX defines a common set of data tags for describing GPS and geographic data in XML. GPX is simple enough to learn in an hour, yet powerful enough to describe complex geographic objects. In addition to the standardized, public definition, GPX allows developers to define their own private objects and attributes. The GPX standard is designed to grow over time, and developers are encouraged to participate in the GPX Developers Forum, where new extensions to the GPX standard are reviewed.
+GPX establishes a standard way for the exchange and storage of information
+maps on GPS devices, phones, watches and computers. An experienced technician can read a GPX file manually using simple text editing programs; you do not need specialized software to decode the information.
+ 
+A device saves GPX data as a standard Unicode text file, usually with the GPX extension. The file itself contains data elements encapsulated in XML tags. The GPX specification accommodates any number of points that indicate a path or path, so GPX files can have any size. Simple files with few elements occupy less than 100 Kb. These files are self-contained, so their format requires only one file to describe a complete set of map data.
 
 ### Additional documentation
 
 * [ArcGIS Online -> About GPX files](http://doc.arcgis.com/en/arcgis-online/reference/csv-gpx.htm#ESRI_SECTION1_44F0AF5FDE8640548B2B13A278FAB3E9)
 
-### Tools
+### Tools & Samples
 
 * [Features to GPX](https://www.arcgis.com/home/item.html?id=067d6ab392b24497b8466eb8447ea7eb): This tool turns features into a GPX file (a file type used by GPS devices and Smart Phones with GPS applications).
 * [GPX Validator](http://www.topografix.com/gpx_validation.asp)
+* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 
 ## Additional resources
 

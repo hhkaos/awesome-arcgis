@@ -22,8 +22,9 @@
 |[GPX](./gpx/README.md)|\*.gpx|GIS data (Vector)|*Pending*
 |[TopoJSON](./topojson/README.md)|\*.json|GIS data (Vector)|*Pending*
 |[GML](./gml/README.md)|\*.gml, \*.xml|GIS data (Vector)|*Pending*
-|[GDB](./gdb/README.md)| \*.gdb, \*.zip|GIS data (Vector)|*Pending*
-|[MDB](./mdb/README.md)|\*.mdb, \*.zip|GIS data (Vector)|*Pending*
+|[GDB](./gdb/README.md)| \*.gdb, \*.zip|GIS data (Vector and Raster)|*Pending*
+|[GPKG](./gpkg/README.md)| \*.gpkg, \*.zip|GIS data (Vector and Raster)|*Pending*
+|[MDB](./mdb/README.md)|\*.mdb, \*.zip|GIS data (Vector and Raster)|*Pending*
 |[GeoCSV](./geocsv/README.md)|\*.csv|GIS data (Vector)|*Pending*
 |[CSV](./csv/README.md)|\*.csv|General purpose (Vector)|*Pending*
 |[ECW](./ecw/README.md)|\*.ecw|Raster|*Pending*

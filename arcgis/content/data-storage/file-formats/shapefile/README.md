@@ -18,9 +18,9 @@ Shapefile format is a geospatial vector data format for geographic information s
 
 ## Quick overview
 
-* **Purpose**: *Unknown*
+* **Purpose**: Geospatial vector data format: points, lines, and polygons.
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: GIS
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md)
 * **Multi-file format**: Yes (ZIP)
 * **File type**: binary
 * **File extension(s)**: .zip (.shp, .shx, .dbf, ...)
@@ -28,7 +28,7 @@ Shapefile format is a geospatial vector data format for geographic information s
 * **Technical description/specification**: [Shapefile Technical Description](https://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
 * **License**: *Unknown*
 * **Regulated by**: Esri
-* **Status**: industry-standard
+* **Status**: [de facto standard](https://en.wikipedia.org/wiki/De_facto_standard)
 * **Sample file(s)**: [ArcGIS Online public shapefiles](https://www.arcgis.com/home/search.html?q=typekeywords%3Ashapefile&start=1&sortOrder=desc&sortField=relevance)
 * **Consumable by**:
     * [ArcGIS Pro](../../../../products/arcgis-desktop/arcgis-pro/README.md): [How to](http://pro.arcgis.com/en/pro-app/help/data/shapefiles/working-with-shapefiles-in-arcgis-pro.htm)

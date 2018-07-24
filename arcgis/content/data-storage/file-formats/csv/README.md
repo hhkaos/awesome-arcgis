@@ -30,30 +30,38 @@ Comma-Separated Values (CSV) file is a delimited text file that uses a comma to 
 * **Originally developed by**: Unknown (2005)
 * **Technical description**: [RFC 4180 standard](https://tools.ietf.org/html/rfc4180)
 * **License**: *Unknown*
-* **Regulated by**: IETF
+* **Regulated by**: [IETF](https://www.ietf.org)
 * **Status**: IETF Standard
 * **Sample file(s)**: [ArcGIS Online public CSVs](https://www.arcgis.com/home/search.html?q=typekeywords%3Acsv&start=1&sortOrder=desc&sortField=relevance)
 * **Consumable by**:
-    * [ArcGIS Online](../../../../products/arcgis-online/README.md) - [How to](https://developers.arcgis.com/labs/arcgisonline/import-data/)
+    * [ArcGIS Online](../../../../products/arcgis-online/README.md) - [How to generate hosted service from CSV](https://developers.arcgis.com/labs/arcgisonline/import-data/)
     * [ArcGIS Web Map Viewer](../../../../products/web-map-viewer/README.md)
     * [ArcGIS Web Scene Viewer](../../../../products/web-scene-viewer)
     * ...
 
 ## Introduction
 
+CSV is a format for tabular data, and where you can find attributes that contain geographic information, usually in the form of X and Y coordinates (or latitude and longitude).
+
+The main advantage of this format is that they can be processed quickly and take up very little space.
+
 [From Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values):
 
-> A comma-separated values (CSV) file is a delimited text file that uses a comma to separate values. A CSV file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
->
 > The CSV file format is not fully standardized. The basic idea of separating fields with a comma is clear, but that idea gets complicated when the field data may also contain commas or even embedded line-breaks. CSV implementations may not handle such field data, or they may use quotation marks to surround the field. Quotation does not solve everything: some fields may need embedded quotation marks, so a CSV implementation may include escape characters or escape sequences.
 
-### Additional documentation
+### Tools & Samples
 
-*Links to other additional resources*
-
-### Tools
-
-*Github projects, conversion tools (Data interoperability, etc), ...*
+* [CSV projects on Esri GitHub](https://github.com/esri?utf8=%E2%9C%93&q=csv&type=&language=)
+    * [field-splitter-for-geoevent](https://github.com/Esri/field-splitter-for-geoevent): ArcGIS GeoEvent Server Sample Processor for Splitting fields with CSV values into multiple GeoEvents
+    * [spatialsearch-opencsv-censusreport](https://github.com/Esri/spatialsearch-opencsv-censusreport): An Operations Dashboard for ArcGIS addin with a map tool that supports selection by location, a widget that opens a CSV file, and a feature action that generates a census report
+    * [multi-value-counter-for-geoevent](): ArcGIS GeoEvent Server sample comma delimited values in a field Counter Processor.
+* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [CSV point layer extension for ArcPad](https://www.arcgis.com/home/item.html?id=144188a1c0414f318096cb0567660e79)
+* [Add CSV Feed to a Graphics Layer for Android (Deprecated)](https://www.arcgis.com/home/item.html?id=dc66715d88eb4ecc92ee5d1b390a96d4)
+* [developer-support samples](https://github.com/Esri/developer-support/search?q=csv&unscoped_q=csv)
+    * [R Script to publish a feature service in ArcGIS Online from CSV](https://github.com/Esri/developer-support/tree/master/r/csv-to-arcgisonline-feature-service)
+    * [Python Script to publish a feature service in ArcGIS Online from CSV](https://github.com/Esri/developer-support/blob/96c94c093ddfebf6dba45bf136083de73a8aaeaf/python/general-python/csv-to-arcgisonline-feature-service/README.md)
+    * [Display XY Data from CSV (ArcObjects Java)](https://github.com/Esri/developer-support/blob/96c94c093ddfebf6dba45bf136083de73a8aaeaf/arcobjects-java/display-XY-data-from-CSV/Readme.md)
 
 ## Additional resources
 
@@ -61,7 +69,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Related resources
 
-*Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc.*
+* [awesome-csv](https://github.com/csvalues/awesome-csv: Awesome Comma-Separated Values (CSV) - What's Next? - Frequently Asked Questions (F.A.Q.s)
 
 ### Localized resources
 

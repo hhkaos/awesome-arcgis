@@ -18,8 +18,9 @@ DWG/DXF/DGN are file formats for CAD (Computer-Aided Design) data.
 
 ## Quick overview
 
+* **Purpose**: *Unknown*
 * **Data type**: [vector](../../../data-types/vector/README.md)
-* **Type of format**: CAD/Transit schedule format/Lidar/GIS/...
+* **Type of format**: CAD
 * **Multi-file format**: Yes/No/Optional
 * **File type**: binary/text-file
 * **File extension(s)**: *.WHATEVER*
@@ -29,7 +30,7 @@ DWG/DXF/DGN are file formats for CAD (Computer-Aided Design) data.
 * **Regulated by**: *Organization*/Unknown
 * **Status**: industry-standard/de facto standard/standard/....
 * **Sample file(s)**: *URL(s)*/*Pending*
-* **Consumable by***: *Esri products supporting it*
+* **Consumable by**: *Esri products supporting it*
 
 ## Introduction
 

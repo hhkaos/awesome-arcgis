@@ -20,6 +20,7 @@ GML (Geography Markup Language) is the XML standard of the OGC to represent info
 
 * **Purpose**: *Unknown*
 * **Data type**: [vector](../../../data-types/vector/README.md)
+* **Type of format**: GIS
 * **Multi-file format**: No
 * **File type**: text-file
 * **File extension(s)**: .gml, .xml
@@ -29,7 +30,7 @@ GML (Geography Markup Language) is the XML standard of the OGC to represent info
 * **Regulated by**: OGC
 * **Status**: Standard, [ISO 19136:2007](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=32554)
 * **Sample file(s)**: *URL(s)*
-* **Consumable by***: *Esri products supporting it*
+* **Consumable by**: *Esri products supporting it*
 
 ## Introduction
 

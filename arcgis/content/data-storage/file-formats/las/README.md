@@ -20,6 +20,7 @@ The LAS file format is a public file format for the interchange of 3-dimensional
 
 * **Purpose**: *Unknown*
 * **Data type**: [vector](../../../data-types/vector/README.md)
+* **Type of format**: Lidar
 * **Multi-file format**: it can reference to one or more LAS files on disk
 * **File type**: binary
 * **File extension(s)**: *.las*
@@ -29,7 +30,7 @@ The LAS file format is a public file format for the interchange of 3-dimensional
 * **Regulated by**: ASPRS
 * **Status**: industry-standard
 * **Sample file(s)**: *Pending*
-* **Consumable by***:
+* **Consumable by**:
     * [ArcGIS Pro](../../../../products/arcgis-desktop/arcgis-pro/README.md)
 
 ## Introduction

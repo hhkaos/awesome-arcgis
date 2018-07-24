@@ -20,6 +20,7 @@
 
 * **Purpose**: Specify a common system of annotations and rules for data in tabular text data formats in support of a specific style described in this document called “GeoCSV”.
 * **Data type**: [vector](../../../data-types/vector/README.md)
+* **Type of format**: GIS
 * **Multi-file format**: Yes
 * **File type**: text-file
 * **File extension(s)**: .csv
@@ -29,7 +30,7 @@
 * **Regulated by**: *Organization*/Unknown
 * **Status**: industry-standard/de facto standard/standard/....
 * **Sample file(s)**: [GeoCSV examples](https://giswiki.hsr.ch/GeoCSV#Examples)
-* **Consumable by***: *Esri products supporting it*
+* **Consumable by**: *Esri products supporting it*
 
 ## Introduction
 

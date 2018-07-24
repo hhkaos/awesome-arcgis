@@ -3,9 +3,9 @@
 ---
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# TopoJSON
+# KML
 
-*Very short description about it*
+XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -21,18 +21,18 @@
 
 ## Quick overview
 
-* **Purpose**: Extension of GeoJSON. TopoJSON introduces a new type, "Topology", that contains GeoJSON objects. Usually used combined with D3.js
+* **Purpose**: *Unknown*
 * **Data type**: [vector](../../../data-types/vector/README.md)
 * **Type of format**: GIS
 * **Multi-file format**: No
 * **File type**: plain-text
-* **File extension(s)**: .json
-* **Originally developed by**: [Michael Bostock](https://github.com/mbostock)
-* **Technical description/specification**: [The TopoJSON Format Specification](https://github.com/topojson/topojson-specification/blob/master/README.md)
-* **License**: [Copyright (c) 2012-2016, Michael Bostock All rights reserved.](https://github.com/topojson/topojson/blob/master/LICENSE.md)
-* **Regulated by**: [Michael Bostock](https://github.com/mbostock)
-* **Status**: Open specification
-* **Sample file(s)**: [TopoJSON gallery](https://github.com/topojson/topojson/wiki/Gallery)
+* **File extension(s)**: .kml
+* **Originally developed by**: Keyhole, Inc., Google (2004)
+* **Technical description/specification**: [KML specs](http://www.opengeospatial.org/standards/kml)
+* **License**: *Unknown*
+* **Regulated by**: [Open Geospatial Consortium (OGC)](http://www.opengeospatial.org/standards/kml)
+* **Status**: [OGC standard](http://docs.opengeospatial.org/is/12-007r2/12-007r2.html)
+* **Sample file(s)**: *URL(s)*/*Pending*
 * **Consumable by**: *Esri products supporting it*
 
 ## Introduction
@@ -54,3 +54,11 @@ Replace `FILE_FORMAT` in the next paragraph and remove the \`\`\`.
 ```
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["FILE_FORMAT"](https://esri-es.github.io/arcgis-search/?search="FILE_FORMAT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 ```
+
+### Related resources
+
+*Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc.*
+
+### Localized resources
+
+*In case a distributor has made additional documentation, docs, https://geonet.esri.com/groups/geodev-spain, etc* (add a ```#### Language``` section)

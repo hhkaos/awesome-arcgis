@@ -20,6 +20,7 @@ The General Transit Feed Specification (GTFS) defines an open standard format fo
 
 * **Purpose**: *Unknown*
 * **Data type**: [vector](../../../data-types/vector/README.md)
+* **Type of format**: Transit schedule format
 * **Multi-file format**: Yes (ZIP)
 * **File type**: binary
 * **File extension(s)**: .zip (agency.txt, routes.txt, trips.txt, stop_times.txt, stops.txt, calendar.txt)
@@ -29,7 +30,7 @@ The General Transit Feed Specification (GTFS) defines an open standard format fo
 * **Regulated by**: *Organization*/Unknown
 * **Status**: de facto standard
 * **Sample file(s)**: [gtfs.org/examples/](http://gtfs.org/examples/)
-* **Consumable by***:
+* **Consumable by**:
     * ArcMap
     * ArcGIS Pro
     * GeoEvent

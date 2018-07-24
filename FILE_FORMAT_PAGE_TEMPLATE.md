@@ -25,15 +25,15 @@
 
 * **Purpose**: *Unknown*
 * **Data type**: [vector](../../../data-types/vector/README.md)/[raster](../../../data-types/raster/README.md)
-* **Type of format**: GIS/CAD/Transit schedule format/Lidar/...
+* **Type of format**: [GIS](../../../data-types/vector/gis/README.md), [CAD](../../../data-types/vector/cad/README.md)/[Transit schedule format](../../../data-types/vector/transit-schedule/README.md)/[Lidar](../../../data-types/vector/lidar/README.md)/...
 * **Multi-file format**: Yes/No/Optional
 * **File type**: binary/plain-text
 * **File extension(s)**: *.WHATEVER*
 * **Originally developed by**: *Organization*/Unknown (*year*)
-* **Technical description/specification**: *URL*
+* **Technical description/Specification/Schema**: *URL*
 * **License**: *Unknown*
 * **Regulated by**: *Organization*/Unknown
-* **Status**: industry-standard/de facto standard/open specification/proprietary/IETF standard/OGC standard/W3C standard/...
+* **Status**: industry-standard/[de facto standard](https://en.wikipedia.org/wiki/De_facto_standard)/open specification/proprietary/IETF standard/OGC standard/W3C standard/...
 * **Sample file(s)**: *URL(s)*/*Pending*
 * **Consumable by**: *Esri products supporting it*
 
@@ -45,9 +45,12 @@
 
 *Links to other additional resources, news, ..*
 
-## Tools
+## Tools & Samples
 
-*Github projects, conversion tools (Data interoperability, etc), ...*
+*Github projects, format validator, conversion tools (Data interoperability, etc), codesharing.arcgis.com, ...*
+
+* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [developer-support samples](https://github.com/Esri/developer-support/search?q=csv&unscoped_q=FORMAT)
 
 ## Additional resources
 

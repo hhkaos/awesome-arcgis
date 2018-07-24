@@ -31,8 +31,8 @@ Three types of geodatabases (GDB):
 
 |Geodatabase type|Format|Multi-editor|Storage limit|Release date|
 |---|---|---|---|---|
-|[Personal GDB](../file-formats/personal-geodatabase/README.md)| File format|No|2GB|1999
-|[File GDB](../file-formats/file-geodatabase/README.md)|File format|Many readers or one writer per feature dataset|1TB per dataset|2006
+|[Personal GDB](../file-formats/mdb/README.md)| File format|No|2GB|1999
+|[File GDB](../file-formats/dgb/README.md)|File format|Many readers or one writer per feature dataset|1TB per dataset|2006
 |[Enterprise GDB](./enterprise-geodatabase/README.md)| Database|Multiuser: many readers and many writers|Up to DBMS limits|Unknown|
 
 > **Detailed comparison**: [Comparing the three types of geodatabases](http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm)

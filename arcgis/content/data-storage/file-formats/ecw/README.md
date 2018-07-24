@@ -23,7 +23,7 @@
 * **Type of format**: GIS
 * **Multi-file format**: Yes/No/Optional
 * **File type**: binary/text-file
-* **File extension(s)**: *.WHATEVER*
+* **File extension(s)**: .ecw
 * **Originally developed by**: *Organization*/Unknown (*year*)
 * **Technical description**: *URL*
 * **License**: *Unknown*

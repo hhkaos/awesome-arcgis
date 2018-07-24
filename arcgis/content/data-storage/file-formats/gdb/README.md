@@ -10,6 +10,8 @@ A file GeoDataBase (GDB) is a collection of files in a folder on disk that can s
 
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
+- [Additional documentation](#additional-documentation)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -22,7 +24,7 @@ A file GeoDataBase (GDB) is a collection of files in a folder on disk that can s
 * **File type**: binary
 * **File extension(s)**: .gdb, .zip
 * **Originally developed by**: Esri (2006)
-* **Technical description/specification**: [File geodatabase API](https://github.com/Esri/file-geodatabase-api)
+* **Technical description/specification**: [File geodatabase API](https://github.com/Esri/dgb-api)
 * **License**: *Unknown*
 * **Regulated by**: Esri
 * **Status**: proprietary
@@ -39,7 +41,7 @@ A file GeoDataBase (GDB) is a collection of files in a folder on disk that can s
 
 ## Introduction
 
-> It is the evolution from the [personal geodatabase](../personal-geodatabase/README.md) and it was introduced in ArcMap 9.2 (2006). It is also preferred over the [shapefile](../shapefile/README.md).
+> It is the evolution from the [personal geodatabase](../mdb/README.md) and it was introduced in ArcMap 9.2 (2006). It is also preferred over the [shapefile](../shapefile/README.md).
 
 **Description**: A collection of various types of GIS datasets held in a file system folder.(This is the recommended native data format for ArcGIS stored and managed in a file system folder.)
 

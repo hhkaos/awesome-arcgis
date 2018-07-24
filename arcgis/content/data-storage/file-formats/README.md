@@ -23,10 +23,10 @@
 |[TopoJSON](./topojson/README.md)|\*.json|GIS data (Vector)|*Pending*
 |[GML](./gml/README.md)|\*.gml, \*.xml|GIS data (Vector)|*Pending*
 |[GDB](./gdb/README.md)| \*.gdb, \*.zip|GIS data (Vector)|*Pending*
-|[Personal GeoDatabase](./personal-geodatabase/README.md)|\*.mdb, \*.zip|GIS data (Vector)|*Pending*
+|[MDB](./mdb/README.md)|\*.mdb, \*.zip|GIS data (Vector)|*Pending*
 |[GeoCSV](./geocsv/README.md)|\*.csv|GIS data (Vector)|*Pending*
 |[CSV](./csv/README.md)|\*.csv|General purpose (Vector)|*Pending*
-|[ECW](./ecw/README.md)|\*.csv|Raster|*Pending*
+|[ECW](./ecw/README.md)|\*.ecw|Raster|*Pending*
 |[LAS](./las/README.md)|\*.las|Lidar data (Vector)|*Pending*
 |[GTFS](./gtfs/README.md)|\*.zip|Transit schedule (Vector)|*Pending*
 |[DWG/DXF/DGN](./dwg-dxf-dgn/README.md)|\*.dwg, \*.dxf, \*.dgn |CAD data (Vector)|*Pending*

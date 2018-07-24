@@ -16,8 +16,6 @@ XML notation for expressing geographic annotation and visualization within Inter
 - [Additional documentation](#additional-documentation)
 - [Tools](#tools)
 - [Additional resources](#additional-resources)
-  - [Related resources](#related-resources)
-  - [Localized resources](#localized-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -51,16 +49,4 @@ XML notation for expressing geographic annotation and visualization within Inter
 
 ## Additional resources
 
-Replace `FILE_FORMAT` in the next paragraph and remove the \`\`\`.
-
-```
-Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["FILE_FORMAT"](https://esri-es.github.io/arcgis-search/?search="FILE_FORMAT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
-```
-
-### Related resources
-
-*Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc.*
-
-### Localized resources
-
-*In case a distributor has made additional documentation, docs, https://geonet.esri.com/groups/geodev-spain, etc* (add a ```#### Language``` section)
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["kml"](https://esri-es.github.io/arcgis-search/?search="kml"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

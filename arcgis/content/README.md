@@ -25,7 +25,6 @@ Learn more about:
 * [ArcGIS geoinformation model](https://doc.arcgis.com/en/arcgis-online/reference/geo-info.htm)
 * [ArcGIS data types](data-types/README.md)
 * [ArcGIS data storage](data-storage/README.md)
-* [ArcGIS services types](service-types/README.md)
 * [ArcGIS data providers](data-providers/README.md)
 
 ## Find existing geolocated content in ArcGIS

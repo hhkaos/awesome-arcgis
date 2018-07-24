@@ -3334,18 +3334,20 @@
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis" target="_blank">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions" target="_blank">contribute in less than a minute</a>.</p>
 </blockquote>
 <h1 id="gdb">GDB</h1>
-<p>File Geodatabase (GDB) is an Esri format based on multiple binary files</p>
+<p>A file GeoDataBase (GDB) is a collection of files in a folder on disk that can store, query, and manage both spatial (vector and raster) and nonspatial data.</p>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
 <ul>
 <li><a href="#quick-overview">Quick overview</a></li>
 <li><a href="#introduction">Introduction</a></li>
+<li><a href="#additional-documentation">Additional documentation</a></li>
+<li><a href="#additional-resources">Additional resources</a></li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <h2 id="quick-overview">Quick overview</h2>
 <ul>
-<li><strong>Purpose</strong>: <em>Unknown</em></li>
+<li><strong>Purpose</strong>: Store, query, and manage both spatial (vector and raster) and nonspatial data.</li>
 <li><strong>Data type</strong>: <a href="../../../data-types/vector/">vector</a> and <a href="../../../data-types/raster/">raster</a></li>
 <li><strong>Type of format</strong>: GIS</li>
 <li><strong>Multi-file format</strong>: Yes</li>
@@ -3370,8 +3372,26 @@
 </li>
 </ul>
 <h2 id="introduction">Introduction</h2>
-<p>Evolution from the <a href="../personal-geodatabase/README.md">personal geodatabase</a> created in 9.2. It is also prefered over the <a href="../shapefile/">shapefile</a>. It is a collection of binary files stored on disk
-Multi user, single editor, 1TB per dataset*</p>
+<blockquote>
+<p>It is the evolution from the <a href="../personal-geodatabase/README.md">personal geodatabase</a> and it was introduced in ArcMap 9.2 (2006). It is also preferred over the <a href="../shapefile/">shapefile</a>.</p>
+</blockquote>
+<p><strong>Description</strong>: A collection of various types of GIS datasets held in a file system folder.(This is the recommended native data format for ArcGIS stored and managed in a file system folder.)</p>
+<p><strong>Number of users</strong>: Single user and small workgroups:many readers or one writer per feature dataset, stand-alone feature class, or table. Concurrent use of any specific file eventually degrades for large numbers of readers.</p>
+<p><strong>Storage format</strong>: Each dataset is a separate file on disk. A file geodatabase is a file folder that holds its dataset files.</p>
+<p><strong>Size limits</strong>: One TB for each dataset. Each file geodatabase can hold many datasets. The 1 TB limit can be raised to 256 TB for extremely large image datasets. Each feature class can scale up to hundreds of millions of vector features per dataset.</p>
+<p><strong>Versioning support</strong>: Only supported as a geodatabase for clients who post updates using checkout and check-in and as a client to which updates can be sent using one-way replication.</p>
+<p><strong>Platforms</strong>: Cross-platform.</p>
+<p><strong>Security and permissions</strong>: Operating file system security.</p>
+<p><strong>Database administration tools</strong>: File system management.</p>
+<p><strong>Notes</strong>: You can optionally store data in a read-only compressed format to reduce storage requirements.</p>
+<h2 id="additional-documentation">Additional documentation</h2>
+<ul>
+<li>V&#xED;deo: <a href="https://www.youtube.com/watch?v=ocSd7NxPvBg" target="_blank">Geodatabase Fundamentals</a></li>
+<li><a href="http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm" target="_blank">Comparing the three types of geodatabases</a></li>
+<li><a href="http://desktop.arcgis.com/en/arcmap/latest/manage-data/administer-file-gdbs/license-file-geodatabase.htm" target="_blank">License a file geodatabase</a>: You can share data in a file geodatabase with other people and apply a license that determines the length of time they can use the data or whether they can export feature classes.</li>
+</ul>
+<h2 id="additional-resources">Additional resources</h2>
+<p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/" target="_blank">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;file geodatabase&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">&quot;file geodatabase&quot;</a>.</p>
 
                                 
                                 </section>
@@ -3415,7 +3435,7 @@ Multi user, single editor, 1TB per dataset*</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Gdb","level":"1.3.4.2.2.4","depth":5,"next":{"title":"Geocsv","level":"1.3.4.2.2.5","depth":5,"path":"arcgis/content/data-storage/file-formats/geocsv/README.md","ref":"arcgis/content/data-storage/file-formats/geocsv/README.md","articles":[]},"previous":{"title":"Ecw","level":"1.3.4.2.2.3","depth":5,"path":"arcgis/content/data-storage/file-formats/ecw/README.md","ref":"arcgis/content/data-storage/file-formats/ecw/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/file-formats/gdb/README.md","mtime":"2018-07-24T07:32:41.271Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-24T07:32:52.254Z"},"basePath":"../../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Gdb","level":"1.3.4.2.2.4","depth":5,"next":{"title":"Geocsv","level":"1.3.4.2.2.5","depth":5,"path":"arcgis/content/data-storage/file-formats/geocsv/README.md","ref":"arcgis/content/data-storage/file-formats/geocsv/README.md","articles":[]},"previous":{"title":"Ecw","level":"1.3.4.2.2.3","depth":5,"path":"arcgis/content/data-storage/file-formats/ecw/README.md","ref":"arcgis/content/data-storage/file-formats/ecw/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","TODO","ISSUE_TEMPLATE","CONTRIBUTING","PRODUCT_PAGE_TEMPLATE","INDUSTRY_PAGE_TEMPLATE"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/content/data-storage/file-formats/gdb/README.md","mtime":"2018-07-24T07:52:46.103Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-07-24T07:52:55.239Z"},"basePath":"../../../../..","book":{"language":""}});
         });
     </script>
 </div>

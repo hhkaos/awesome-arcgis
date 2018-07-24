@@ -23,17 +23,20 @@ When an application needs to support simultaneous editing of users, work with la
 
 ## Introduction to Esri Geodatabases
 
-> **Important**: an Esri Geodatabase is not always running on top of a DBMS
+> **Important**: no every Esri Geodatabase type run on top of a DBMS
 
 A geodatabase is a based on the relational database model and is allows you to store GIS information in one large file, which can contain multiple point, polygon, and/or polyline layers. It is a less “messy” way of organizing data than having multiple [shapefiles](../shapefile/README.md). in multiple folders.
 
-Three types of geodatabases:
+Three types of geodatabases (GDB):
 
-|Geodatabase type|Format|Multi-editor|Storage limit|Description|Release date|
-|---|---|---|---|---|---|
-|[Personal geodatabases](../file-formats/personal-geodatabase/README.md)| File format|No|2GB|Build on top of Microsoft Access|1999
-|[File geodatabases](../file-formats/file-geodatabase/README.md)|File format| Unknown|1TB per dataset|Nothing Multiple files|2006
-|[Enterprise geodatabases](./enterprise-geodatabase/README.md)| Database|Multi user and editor|"Unlimited" (Defined by the DBMS)|Is a collection of tables, views and functions stored inside a DBMS (work on top of Oracle, PostgreSQL, SQL Server, etc)|Unknown|
+|Geodatabase type|Format|Multi-editor|Storage limit|Release date|
+|---|---|---|---|---|
+|[Personal GDB](../file-formats/personal-geodatabase/README.md)| File format|No|2GB|1999
+|[File GDB](../file-formats/file-geodatabase/README.md)|File format|Many readers or one writer per feature dataset|1TB per dataset|2006
+|[Enterprise GDB](./enterprise-geodatabase/README.md)| Database|Multiuser: many readers and many writers|Up to DBMS limits|Unknown|
+
+> **Detailed comparison**: [Comparing the three types of geodatabases](http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm)
+
 
 The functionality:
 

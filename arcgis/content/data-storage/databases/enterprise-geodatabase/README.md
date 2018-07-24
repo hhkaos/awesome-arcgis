@@ -26,6 +26,7 @@ Work on top of:
 
 It is multi user and editor, "unlimited" size.
 
+Support [vector](../../../data-types/vector/README.md) and [raster](../../../data-types/raster/README.md) datasets
 
 ### Videos
 

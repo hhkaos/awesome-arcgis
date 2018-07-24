@@ -4,14 +4,14 @@
         <title>Awesome ArcGIS</title>
         <description>Awesome ArcGIS</description>
         <link>https://hhkaos.github.io/</link>
-        <lastBuildDate>Tue, 24 Jul 2018 07:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jul 2018 08:15:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <item>
             <title><![CDATA[Introduction]]></title>
             <link>https://hhkaos.github.io/</link>
             <guid>https://hhkaos.github.io/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:52:58 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:48 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p>Please <a href="#contributions">feel free to help us</a> to improve this page.</p>
 </blockquote>
@@ -189,7 +189,7 @@ and some others <a href="https://twitter.com/EsriGeoDev/lists/esri-accounts/memb
             <title><![CDATA[About]]></title>
             <link>https://hhkaos.github.io/about/</link>
             <guid>https://hhkaos.github.io/about/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:00 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:49 GMT</pubDate>
             <description><![CDATA[<h1>About</h1>
 <p>When we started this project we had in mind to mainly help developers, but later on we realized that it was also helpful for other users with different backgrounds. That&#39;s the reason because of <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/SUMMARY.md">the structure</a> of this project has a &quot;developer taste&quot;.</p>
 <p>In this page I will try to explain why we started this <strong>collaborative project</strong> and the objective that it pursues.</p>
@@ -263,7 +263,7 @@ and some others <a href="https://twitter.com/EsriGeoDev/lists/esri-accounts/memb
             <title><![CDATA[Arcgis]]></title>
             <link>https://hhkaos.github.io/arcgis/</link>
             <guid>https://hhkaos.github.io/arcgis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:01 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:50 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>. You can use <a href="https://github.com/esri-es/awesome-arcgis/blob/master/PRODUCT_PAGE_TEMPLATE.md">this template</a> to get some ideas.</p>
 </blockquote>
@@ -345,7 +345,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Account Types]]></title>
             <link>https://hhkaos.github.io/arcgis/account-types/</link>
             <guid>https://hhkaos.github.io/arcgis/account-types/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:02 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:51 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -507,7 +507,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcade]]></title>
             <link>https://hhkaos.github.io/arcgis/arcade/</link>
             <guid>https://hhkaos.github.io/arcgis/arcade/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:03 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:52 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -689,7 +689,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Best Practices]]></title>
             <link>https://hhkaos.github.io/arcgis/best-practices/</link>
             <guid>https://hhkaos.github.io/arcgis/best-practices/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:04 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:53 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -719,7 +719,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Performance]]></title>
             <link>https://hhkaos.github.io/arcgis/best-practices/performance/</link>
             <guid>https://hhkaos.github.io/arcgis/best-practices/performance/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:05 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:54 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -813,7 +813,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Content]]></title>
             <link>https://hhkaos.github.io/arcgis/content/</link>
             <guid>https://hhkaos.github.io/arcgis/content/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:06 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:55 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -983,7 +983,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Data Providers]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:07 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:56 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1263,7 +1263,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Airbus]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/airbus/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/airbus/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:08 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:57 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1303,7 +1303,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Digital Globe]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/digital-globe/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/digital-globe/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:09 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:57 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1337,7 +1337,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Esa]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/esa/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/esa/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:10 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:58 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1373,7 +1373,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Sentinel]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/esa/sentinel/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/esa/sentinel/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:11 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:11:59 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1471,7 +1471,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Here]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/here/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/here/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:12 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:00 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1505,7 +1505,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Pnoa]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/pnoa/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/pnoa/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:13 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:01 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1541,7 +1541,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Usgs Nasa]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/usgs-nasa/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/usgs-nasa/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:14 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:02 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1613,7 +1613,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Landsat]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/usgs-nasa/landsat/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/usgs-nasa/landsat/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:15 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:03 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1649,7 +1649,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Modis]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-providers/usgs-nasa/modis/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-providers/usgs-nasa/modis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:16 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:04 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1689,7 +1689,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Data Storage]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:17 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:05 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1755,7 +1755,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Databases]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/databases/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/databases/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:18 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:05 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1795,14 +1795,14 @@ application is web, desktop or mobile.</p>
 </thead>
 <tbody>
 <tr>
-<td><a href="../file-formats/personal-geodatabase/README.md">Personal GDB</a></td>
+<td><a href="../file-formats/mdb/README.md">Personal GDB</a></td>
 <td>File format</td>
 <td>No</td>
 <td>2GB</td>
 <td>1999</td>
 </tr>
 <tr>
-<td><a href="../file-formats/file-geodatabase/README.md">File GDB</a></td>
+<td><a href="../file-formats/dgb/README.md">File GDB</a></td>
 <td>File format</td>
 <td>Many readers or one writer per feature dataset</td>
 <td>1TB per dataset</td>
@@ -1875,14 +1875,14 @@ application is web, desktop or mobile.</p>
 </thead>
 <tbody>
 <tr>
-<td><a href="../file-formats/personal-geodatabase/README.md">Personal GDB</a></td>
+<td><a href="../file-formats/mdb/README.md">Personal GDB</a></td>
 <td>File format</td>
 <td>No</td>
 <td>2GB</td>
 <td>1999</td>
 </tr>
 <tr>
-<td><a href="../file-formats/file-geodatabase/README.md">File GDB</a></td>
+<td><a href="../file-formats/dgb/README.md">File GDB</a></td>
 <td>File format</td>
 <td>Many readers or one writer per feature dataset</td>
 <td>1TB per dataset</td>
@@ -1921,7 +1921,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Enterprise Geodatabase]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/databases/enterprise-geodatabase/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/databases/enterprise-geodatabase/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:19 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:06 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -1989,7 +1989,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[File Formats]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:20 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:07 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -2061,7 +2061,7 @@ application is web, desktop or mobile.</p>
 <td><em>Pending</em></td>
 </tr>
 <tr>
-<td><a href="./personal-geodatabase/README.md">Personal GeoDatabase</a></td>
+<td><a href="./mdb/README.md">MDB</a></td>
 <td>*.mdb, *.zip</td>
 <td>GIS data (Vector)</td>
 <td><em>Pending</em></td>
@@ -2080,7 +2080,7 @@ application is web, desktop or mobile.</p>
 </tr>
 <tr>
 <td><a href="./ecw/README.md">ECW</a></td>
-<td>*.csv</td>
+<td>*.ecw</td>
 <td>Raster</td>
 <td><em>Pending</em></td>
 </tr>
@@ -2182,7 +2182,7 @@ application is web, desktop or mobile.</p>
 <td><em>Pending</em></td>
 </tr>
 <tr>
-<td><a href="./personal-geodatabase/README.md">Personal GeoDatabase</a></td>
+<td><a href="./mdb/README.md">MDB</a></td>
 <td>*.mdb, *.zip</td>
 <td>GIS data (Vector)</td>
 <td><em>Pending</em></td>
@@ -2201,7 +2201,7 @@ application is web, desktop or mobile.</p>
 </tr>
 <tr>
 <td><a href="./ecw/README.md">ECW</a></td>
-<td>*.csv</td>
+<td>*.ecw</td>
 <td>Raster</td>
 <td><em>Pending</em></td>
 </tr>
@@ -2237,7 +2237,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Csv]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/csv/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/csv/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:21 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:08 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -2377,7 +2377,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Dwg Dxf Dgn]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/dwg-dxf-dgn/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/dwg-dxf-dgn/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:22 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:09 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -2481,7 +2481,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Ecw]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/ecw/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/ecw/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:23 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:10 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -2507,7 +2507,7 @@ application is web, desktop or mobile.</p>
 <li><strong>Type of format</strong>: GIS</li>
 <li><strong>Multi-file format</strong>: Yes/No/Optional</li>
 <li><strong>File type</strong>: binary/text-file</li>
-<li><strong>File extension(s)</strong>: <em>.WHATEVER</em></li>
+<li><strong>File extension(s)</strong>: .ecw</li>
 <li><strong>Originally developed by</strong>: <em>Organization</em>/Unknown (<em>year</em>)</li>
 <li><strong>Technical description</strong>: <em>URL</em></li>
 <li><strong>License</strong>: <em>Unknown</em></li>
@@ -2551,7 +2551,7 @@ application is web, desktop or mobile.</p>
 <li><strong>Type of format</strong>: GIS</li>
 <li><strong>Multi-file format</strong>: Yes/No/Optional</li>
 <li><strong>File type</strong>: binary/text-file</li>
-<li><strong>File extension(s)</strong>: <em>.WHATEVER</em></li>
+<li><strong>File extension(s)</strong>: .ecw</li>
 <li><strong>Originally developed by</strong>: <em>Organization</em>/Unknown (<em>year</em>)</li>
 <li><strong>Technical description</strong>: <em>URL</em></li>
 <li><strong>License</strong>: <em>Unknown</em></li>
@@ -2575,7 +2575,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Gdb]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gdb/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gdb/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:24 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:11 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -2600,7 +2600,7 @@ application is web, desktop or mobile.</p>
 <li><strong>File type</strong>: binary</li>
 <li><strong>File extension(s)</strong>: .gdb, .zip</li>
 <li><strong>Originally developed by</strong>: Esri (2006)</li>
-<li><strong>Technical description/specification</strong>: <a href="https://github.com/Esri/file-geodatabase-api">File geodatabase API</a></li>
+<li><strong>Technical description/specification</strong>: <a href="https://github.com/Esri/dgb-api">File geodatabase API</a></li>
 <li><strong>License</strong>: <em>Unknown</em></li>
 <li><strong>Regulated by</strong>: Esri</li>
 <li><strong>Status</strong>: proprietary</li>
@@ -2619,7 +2619,7 @@ application is web, desktop or mobile.</p>
 </ul>
 <h2>Introduction</h2>
 <blockquote>
-<p>It is the evolution from the <a href="../personal-geodatabase/README.md">personal geodatabase</a> and it was introduced in ArcMap 9.2 (2006). It is also preferred over the <a href="../shapefile/README.md">shapefile</a>.</p>
+<p>It is the evolution from the <a href="../mdb/README.md">personal geodatabase</a> and it was introduced in ArcMap 9.2 (2006). It is also preferred over the <a href="../shapefile/README.md">shapefile</a>.</p>
 </blockquote>
 <p><strong>Description</strong>: A collection of various types of GIS datasets held in a file system folder.(This is the recommended native data format for ArcGIS stored and managed in a file system folder.)</p>
 <p><strong>Number of users</strong>: Single user and small workgroups:many readers or one writer per feature dataset, stand-alone feature class, or table. Concurrent use of any specific file eventually degrades for large numbers of readers.</p>
@@ -2663,7 +2663,7 @@ application is web, desktop or mobile.</p>
 <li><strong>File type</strong>: binary</li>
 <li><strong>File extension(s)</strong>: .gdb, .zip</li>
 <li><strong>Originally developed by</strong>: Esri (2006)</li>
-<li><strong>Technical description/specification</strong>: <a href="https://github.com/Esri/file-geodatabase-api">File geodatabase API</a></li>
+<li><strong>Technical description/specification</strong>: <a href="https://github.com/Esri/dgb-api">File geodatabase API</a></li>
 <li><strong>License</strong>: <em>Unknown</em></li>
 <li><strong>Regulated by</strong>: Esri</li>
 <li><strong>Status</strong>: proprietary</li>
@@ -2682,7 +2682,7 @@ application is web, desktop or mobile.</p>
 </ul>
 <h2>Introduction</h2>
 <blockquote>
-<p>It is the evolution from the <a href="../personal-geodatabase/README.md">personal geodatabase</a> and it was introduced in ArcMap 9.2 (2006). It is also preferred over the <a href="../shapefile/README.md">shapefile</a>.</p>
+<p>It is the evolution from the <a href="../mdb/README.md">personal geodatabase</a> and it was introduced in ArcMap 9.2 (2006). It is also preferred over the <a href="../shapefile/README.md">shapefile</a>.</p>
 </blockquote>
 <p><strong>Description</strong>: A collection of various types of GIS datasets held in a file system folder.(This is the recommended native data format for ArcGIS stored and managed in a file system folder.)</p>
 <p><strong>Number of users</strong>: Single user and small workgroups:many readers or one writer per feature dataset, stand-alone feature class, or table. Concurrent use of any specific file eventually degrades for large numbers of readers.</p>
@@ -2707,7 +2707,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Geocsv]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/geocsv/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/geocsv/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:12 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -2801,7 +2801,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Geojson]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/geojson/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/geojson/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:26 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:13 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -2971,7 +2971,7 @@ application is web, desktop or mobile.</p>
             <title><![CDATA[Gml]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gml/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gml/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:27 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:14 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -3081,7 +3081,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Gpx]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gpx/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gpx/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:29 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:15 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -3201,7 +3201,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Gtfs]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gtfs/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gtfs/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:30 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:16 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -3315,7 +3315,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Kml]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/kml/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/kml/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:31 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:17 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Goal</strong>: compile everything a user or developer interested in this topic should know about it in the Esri World.</p>
 </blockquote>
@@ -3333,11 +3333,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#additional-documentation">Additional documentation</a></li>
 <li><a href="#tools">Tools</a></li>
-<li><a href="#additional-resources">Additional resources</a><ul>
-<li><a href="#related-resources">Related resources</a></li>
-<li><a href="#localized-resources">Localized resources</a></li>
-</ul>
-</li>
+<li><a href="#additional-resources">Additional resources</a></li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <h2>Quick overview</h2>
@@ -3363,12 +3359,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
 <h2>Tools</h2>
 <p><em>Github projects, conversion tools (Data interoperability, etc), ...</em></p>
 <h2>Additional resources</h2>
-<p>Replace <code>FILE_FORMAT</code> in the next paragraph and remove the ```.</p>
-<pre><code>Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: [&quot;FILE_FORMAT&quot;](https://esri-es.github.io/arcgis-search/?search=&quot;FILE_FORMAT&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page).
-</code></pre><h3>Related resources</h3>
-<p><em>Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc.</em></p>
-<h3>Localized resources</h3>
-<p><em>In case a distributor has made additional documentation, docs, <a href="https://geonet.esri.com/groups/geodev-spain">https://geonet.esri.com/groups/geodev-spain</a>, etc</em> (add a <code>#### Language</code> section)</p>
+<p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;kml&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page">&quot;kml&quot;</a>.</p>
 ]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p><strong>Goal</strong>: compile everything a user or developer interested in this topic should know about it in the Esri World.</p>
@@ -3387,11 +3378,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#additional-documentation">Additional documentation</a></li>
 <li><a href="#tools">Tools</a></li>
-<li><a href="#additional-resources">Additional resources</a><ul>
-<li><a href="#related-resources">Related resources</a></li>
-<li><a href="#localized-resources">Localized resources</a></li>
-</ul>
-</li>
+<li><a href="#additional-resources">Additional resources</a></li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <h2>Quick overview</h2>
@@ -3417,19 +3404,14 @@ There are two formats, both based on the European INSPIRE directive:</p>
 <h2>Tools</h2>
 <p><em>Github projects, conversion tools (Data interoperability, etc), ...</em></p>
 <h2>Additional resources</h2>
-<p>Replace <code>FILE_FORMAT</code> in the next paragraph and remove the ```.</p>
-<pre><code>Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: [&quot;FILE_FORMAT&quot;](https://esri-es.github.io/arcgis-search/?search=&quot;FILE_FORMAT&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page).
-</code></pre><h3>Related resources</h3>
-<p><em>Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc.</em></p>
-<h3>Localized resources</h3>
-<p><em>In case a distributor has made additional documentation, docs, <a href="https://geonet.esri.com/groups/geodev-spain">https://geonet.esri.com/groups/geodev-spain</a>, etc</em> (add a <code>#### Language</code> section)</p>
+<p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;kml&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page">&quot;kml&quot;</a>.</p>
 ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kmz]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/kmz/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/kmz/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:32 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:17 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Goal</strong>: compile everything a user or developer interested in this topic should know about it in the Esri World.</p>
 </blockquote>
@@ -3543,7 +3525,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Las]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/las/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/las/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:33 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:18 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -3669,7 +3651,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Mdb]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/mdb/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/mdb/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:34 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:19 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -3712,7 +3694,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
 </ul>
 <h2>Introduction</h2>
 <p>Personal GeoDatabases were introduced by Esri in ArcGIS for Desktop 8.0 (1999). It is single user and editor &amp; 2GB storage limit.</p>
-<p>|<a href="../file-formats/personal-geodatabase/README.md">Personal GDB</a>| File format|No|2GB|1999</p>
+<p>|<a href="../file-formats/mdb/README.md">Personal GDB</a>| File format|No|2GB|1999</p>
 <h2>Additional documentation</h2>
 <ul>
 <li>Vídeo: <a href="https://www.youtube.com/watch?v=ocSd7NxPvBg">Geodatabase Fundamentals</a></li>
@@ -3767,7 +3749,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
 </ul>
 <h2>Introduction</h2>
 <p>Personal GeoDatabases were introduced by Esri in ArcGIS for Desktop 8.0 (1999). It is single user and editor &amp; 2GB storage limit.</p>
-<p>|<a href="../file-formats/personal-geodatabase/README.md">Personal GDB</a>| File format|No|2GB|1999</p>
+<p>|<a href="../file-formats/mdb/README.md">Personal GDB</a>| File format|No|2GB|1999</p>
 <h2>Additional documentation</h2>
 <ul>
 <li>Vídeo: <a href="https://www.youtube.com/watch?v=ocSd7NxPvBg">Geodatabase Fundamentals</a></li>
@@ -3785,7 +3767,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Shapefile]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/shapefile/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/shapefile/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:35 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:20 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -3915,7 +3897,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Topojson]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/topojson/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/topojson/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:35 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:21 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Goal</strong>: compile everything a user or developer interested in this topic should know about it in the Esri World.</p>
 </blockquote>
@@ -4013,7 +3995,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Data Types]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:37 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:22 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4081,7 +4063,7 @@ There are two formats, both based on the European INSPIRE directive:</p>
             <title><![CDATA[Raster]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/raster/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/raster/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:38 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:23 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4147,7 +4129,7 @@ The pixel / cell refers to the minimum unit of information of an image or a rast
             <title><![CDATA[Mosaic]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/raster/mosaic/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/raster/mosaic/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:39 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:24 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4199,7 +4181,7 @@ The pixel / cell refers to the minimum unit of information of an image or a rast
             <title><![CDATA[Vector]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/vector/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/vector/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:40 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:25 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4269,7 +4251,7 @@ The pixel / cell refers to the minimum unit of information of an image or a rast
             <title><![CDATA[Cad]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/vector/cad/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/vector/cad/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:42 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:26 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4317,7 +4299,7 @@ The pixel / cell refers to the minimum unit of information of an image or a rast
             <title><![CDATA[Gis]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/vector/gis/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/vector/gis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:43 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:26 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4421,7 +4403,7 @@ Most GIS applications do not allow you to mix more than one type of geometry in 
             <title><![CDATA[Lidar]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/vector/lidar/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/vector/lidar/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:44 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:27 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4527,7 +4509,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Transit Schedule]]></title>
             <link>https://hhkaos.github.io/arcgis/content/data-types/vector/transit-schedule/</link>
             <guid>https://hhkaos.github.io/arcgis/content/data-types/vector/transit-schedule/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:45 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:28 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4575,7 +4557,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Service Types]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:46 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:29 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4777,7 +4759,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Feature Service]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/feature-service/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/feature-service/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:48 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:30 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4813,7 +4795,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Dynamic Map Service]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/map-service/dynamic-map-service/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/map-service/dynamic-map-service/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:50 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:31 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4845,7 +4827,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Tile Map Service]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/map-service/tile-map-service/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/map-service/tile-map-service/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:51 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:32 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4875,7 +4857,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Image Tiles]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/map-service/tile-map-service/image-tiles/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/map-service/tile-map-service/image-tiles/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:52 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:33 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -4961,7 +4943,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Vector Tiles]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/map-service/tile-map-service/vector-tiles/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:55 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:34 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5207,7 +5189,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Ogc Service]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/ogc-service/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/ogc-service/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:57 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:35 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5237,7 +5219,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Scene Service]]></title>
             <link>https://hhkaos.github.io/arcgis/content/service-types/scene-service/</link>
             <guid>https://hhkaos.github.io/arcgis/content/service-types/scene-service/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:58 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:36 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5319,7 +5301,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Developer Plan]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:53:59 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:37 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5555,7 +5537,7 @@ SDK will be able to use more capabilities:</p>
             <title><![CDATA[Background]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/background/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/background/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:00 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:38 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5591,7 +5573,7 @@ SDK will be able to use more capabilities:</p>
             <title><![CDATA[Native]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/background/native/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/background/native/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:02 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:38 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5627,7 +5609,7 @@ SDK will be able to use more capabilities:</p>
             <title><![CDATA[Web]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/background/web/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/background/web/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:03 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:39 GMT</pubDate>
             <description><![CDATA[<p><a href="https://github.com/esri-es/awesome-arcgis/commit/18ce3280825adc7ee90a638e1397e204a38bc6e1">https://github.com/esri-es/awesome-arcgis/commit/18ce3280825adc7ee90a638e1397e204a38bc6e1</a></p>
 <blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
@@ -5677,7 +5659,7 @@ which already have it ....</p>
             <title><![CDATA[Patterns]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/patterns/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/patterns/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:04 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:40 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5713,7 +5695,7 @@ which already have it ....</p>
             <title><![CDATA[Configure And Build]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/patterns/configure-and-build/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/patterns/configure-and-build/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:05 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:41 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5749,7 +5731,7 @@ which already have it ....</p>
             <title><![CDATA[Customize]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/patterns/customize/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/patterns/customize/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:06 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:42 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5785,7 +5767,7 @@ which already have it ....</p>
             <title><![CDATA[Extend]]></title>
             <link>https://hhkaos.github.io/arcgis/developer-plan/patterns/extend/</link>
             <guid>https://hhkaos.github.io/arcgis/developer-plan/patterns/extend/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:08 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:43 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -5821,7 +5803,7 @@ which already have it ....</p>
             <title><![CDATA[Mobile Apps]]></title>
             <link>https://hhkaos.github.io/arcgis/mobile-apps/</link>
             <guid>https://hhkaos.github.io/arcgis/mobile-apps/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:09 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:44 GMT</pubDate>
             <description><![CDATA[<!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
@@ -5963,7 +5945,7 @@ which already have it ....</p>
             <title><![CDATA[Name Users]]></title>
             <link>https://hhkaos.github.io/arcgis/name-users/</link>
             <guid>https://hhkaos.github.io/arcgis/name-users/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:10 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:45 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6099,7 +6081,7 @@ which already have it ....</p>
             <title><![CDATA[Oauth]]></title>
             <link>https://hhkaos.github.io/arcgis/name-users/oauth/</link>
             <guid>https://hhkaos.github.io/arcgis/name-users/oauth/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:11 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:46 GMT</pubDate>
             <description><![CDATA[<!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
@@ -6145,7 +6127,7 @@ which already have it ....</p>
             <title><![CDATA[Offline]]></title>
             <link>https://hhkaos.github.io/arcgis/offline/</link>
             <guid>https://hhkaos.github.io/arcgis/offline/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:12 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:47 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6313,7 +6295,7 @@ For details, see the online ArcGIS help topics
             <title><![CDATA[Products]]></title>
             <link>https://hhkaos.github.io/arcgis/products/</link>
             <guid>https://hhkaos.github.io/arcgis/products/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:14 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:48 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6493,7 +6475,7 @@ decision char (extracted from &quot;<a href="(http://arcnews.maps.arcgis.com/app
             <title><![CDATA[Appstudio]]></title>
             <link>https://hhkaos.github.io/arcgis/products/appstudio/</link>
             <guid>https://hhkaos.github.io/arcgis/products/appstudio/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:17 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:49 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6649,7 +6631,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Business Analyst]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-business-analyst/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-business-analyst/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:18 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:49 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6699,7 +6681,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Desktop]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-desktop/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-desktop/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:20 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:50 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6781,7 +6763,7 @@ Buy a license</p>
             <title><![CDATA[Add Ins]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-desktop/add-ins/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-desktop/add-ins/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:21 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:51 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6811,7 +6793,7 @@ Buy a license</p>
             <title><![CDATA[Full Motion Video]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-desktop/add-ins/full-motion-video/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-desktop/add-ins/full-motion-video/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:22 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:52 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -6941,7 +6923,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Pro]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcgis-pro/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcgis-pro/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:24 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:53 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -7367,7 +7349,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcmap Arccatalog]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcmap-arccatalog/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcmap-arccatalog/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:26 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:54 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -7423,7 +7405,7 @@ Extend ArcObjects and build custom components that integrate into the framework.
             <title><![CDATA[Arcgis Earth]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-earth/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-earth/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:28 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:55 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -7467,7 +7449,7 @@ Extend ArcObjects and build custom components that integrate into the framework.
             <title><![CDATA[Arcgis Enterprise]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:29 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:56 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -7739,7 +7721,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Server]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:30 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:57 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -7933,7 +7915,7 @@ A module that implements the dojo/store API for ArcGIS Server REST services.</li
             <title><![CDATA[Geoanalytics Server]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:31 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:58 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8207,7 +8189,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Geoevent Server]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:32 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:59 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8495,7 +8477,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Image Server]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/image-server/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/image-server/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:33 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:12:59 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8727,7 +8709,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Server Object Extensions]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-extensions/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-extensions/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:34 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:00 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8773,7 +8755,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Server Object Interceptors]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-interceptors/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/arcgis-server/server-object-interceptors/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:35 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:01 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8819,7 +8801,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Data Store]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:36 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:02 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8855,7 +8837,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Spatiotemporal Big Data Store]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:37 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:03 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8891,7 +8873,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Portal For Arcgis]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/portal-for-arcgis/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/portal-for-arcgis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:38 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:04 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -8925,7 +8907,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Hub]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-hub/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-hub/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:39 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:05 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -9147,7 +9129,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Maps For Office]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-office/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-office/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:40 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:06 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -9217,7 +9199,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Maps For Power Bi]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-power-bi/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-power-bi/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:41 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:07 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -9263,7 +9245,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Maps For Sharepoint]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-sharepoint/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-sharepoint/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:42 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:08 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -9311,7 +9293,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Arcgis Online]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-online/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-online/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:43 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:09 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -9679,7 +9661,7 @@ and add it to a spreadsheet in drive when pressing a button, etc</li>
             <title><![CDATA[Arcgis Open Data]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-online/arcgis-open-data/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-online/arcgis-open-data/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:44 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:10 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -9939,7 +9921,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Credits]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-online/credits/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-online/credits/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:44 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:11 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -10023,7 +10005,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Developer Console]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-online/developer-console/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-online/developer-console/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:45 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:12 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -10061,7 +10043,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Rest Apis]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-online/rest-apis/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-online/rest-apis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:46 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:13 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -10145,7 +10127,7 @@ ArcGIS-API-REST (postman collection)
             <title><![CDATA[Ready To Use Services]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:47 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:14 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -10253,7 +10235,7 @@ ArcGIS-API-REST (postman collection)
             <title><![CDATA[Geo Enrichment]]></title>
             <link>https://hhkaos.github.io/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/geo-enrichment/</link>
             <guid>https://hhkaos.github.io/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/geo-enrichment/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:48 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:14 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -10357,7 +10339,7 @@ ArcGIS-API-REST (postman collection)
             <title><![CDATA[City Engine]]></title>
             <link>https://hhkaos.github.io/arcgis/products/city-engine/</link>
             <guid>https://hhkaos.github.io/arcgis/products/city-engine/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:49 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:15 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -10461,7 +10443,7 @@ Buy a license</p>
             <title><![CDATA[Collector For Arcgis]]></title>
             <link>https://hhkaos.github.io/arcgis/products/collector-for-arcgis/</link>
             <guid>https://hhkaos.github.io/arcgis/products/collector-for-arcgis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:50 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:16 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -10701,7 +10683,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Configurable Apps]]></title>
             <link>https://hhkaos.github.io/arcgis/products/configurable-apps/</link>
             <guid>https://hhkaos.github.io/arcgis/products/configurable-apps/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:51 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:17 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -11345,7 +11327,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Developers]]></title>
             <link>https://hhkaos.github.io/arcgis/products/configurable-apps/developers/</link>
             <guid>https://hhkaos.github.io/arcgis/products/configurable-apps/developers/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:52 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:18 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -11411,7 +11393,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Drone 2 Map]]></title>
             <link>https://hhkaos.github.io/arcgis/products/drone2map/</link>
             <guid>https://hhkaos.github.io/arcgis/products/drone2map/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:53 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:19 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -11565,7 +11547,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Explorer For Arcgis]]></title>
             <link>https://hhkaos.github.io/arcgis/products/explorer-for-arcgis/</link>
             <guid>https://hhkaos.github.io/arcgis/products/explorer-for-arcgis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:54 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:20 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -11609,7 +11591,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Extensions]]></title>
             <link>https://hhkaos.github.io/arcgis/products/extensions/</link>
             <guid>https://hhkaos.github.io/arcgis/products/extensions/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:55 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:21 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -11659,7 +11641,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[3 D Analyst]]></title>
             <link>https://hhkaos.github.io/arcgis/products/extensions/3d-analyst/</link>
             <guid>https://hhkaos.github.io/arcgis/products/extensions/3d-analyst/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:56 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:22 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -11701,7 +11683,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Image Analyst]]></title>
             <link>https://hhkaos.github.io/arcgis/products/extensions/image-analyst/</link>
             <guid>https://hhkaos.github.io/arcgis/products/extensions/image-analyst/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:57 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:23 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -11743,7 +11725,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Network Analyst]]></title>
             <link>https://hhkaos.github.io/arcgis/products/extensions/network-analyst/</link>
             <guid>https://hhkaos.github.io/arcgis/products/extensions/network-analyst/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:54:59 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:24 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -12115,7 +12097,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Spatial Analyst]]></title>
             <link>https://hhkaos.github.io/arcgis/products/extensions/spatial-analyst/</link>
             <guid>https://hhkaos.github.io/arcgis/products/extensions/spatial-analyst/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:00 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:25 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -12157,7 +12139,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Workflow Manager]]></title>
             <link>https://hhkaos.github.io/arcgis/products/extensions/workflow-manager/</link>
             <guid>https://hhkaos.github.io/arcgis/products/extensions/workflow-manager/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:01 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:27 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -12193,7 +12175,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Insights For Arcgis]]></title>
             <link>https://hhkaos.github.io/arcgis/products/insights-for-arcgis/</link>
             <guid>https://hhkaos.github.io/arcgis/products/insights-for-arcgis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:02 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:29 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -12465,7 +12447,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Living Atlas]]></title>
             <link>https://hhkaos.github.io/arcgis/products/living-atlas/</link>
             <guid>https://hhkaos.github.io/arcgis/products/living-atlas/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:03 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:30 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -12755,7 +12737,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Marketplace]]></title>
             <link>https://hhkaos.github.io/arcgis/products/marketplace/</link>
             <guid>https://hhkaos.github.io/arcgis/products/marketplace/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:04 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:31 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -12791,7 +12773,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Navigator For Arcgis]]></title>
             <link>https://hhkaos.github.io/arcgis/products/navigator-for-arcgis/</link>
             <guid>https://hhkaos.github.io/arcgis/products/navigator-for-arcgis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:05 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:33 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -12965,7 +12947,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Operations Dashboard]]></title>
             <link>https://hhkaos.github.io/arcgis/products/operations-dashboard/</link>
             <guid>https://hhkaos.github.io/arcgis/products/operations-dashboard/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:06 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:34 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -13267,7 +13249,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Survey 123]]></title>
             <link>https://hhkaos.github.io/arcgis/products/survey123/</link>
             <guid>https://hhkaos.github.io/arcgis/products/survey123/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:07 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:35 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -13407,7 +13389,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Web Appbuilder]]></title>
             <link>https://hhkaos.github.io/arcgis/products/web-appbuilder/</link>
             <guid>https://hhkaos.github.io/arcgis/products/web-appbuilder/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:08 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:36 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -13605,7 +13587,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Developer Edition]]></title>
             <link>https://hhkaos.github.io/arcgis/products/web-appbuilder/developer-edition/</link>
             <guid>https://hhkaos.github.io/arcgis/products/web-appbuilder/developer-edition/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:09 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:37 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -13961,7 +13943,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Web Map Viewer]]></title>
             <link>https://hhkaos.github.io/arcgis/products/web-map-viewer/</link>
             <guid>https://hhkaos.github.io/arcgis/products/web-map-viewer/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:10 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:39 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14127,7 +14109,7 @@ and <a href="http://doc.arcgis.com/en/arcgis-online/reference/embed-map-paramete
             <title><![CDATA[Web Scene Viewer]]></title>
             <link>https://hhkaos.github.io/arcgis/products/web-scene-viewer/</link>
             <guid>https://hhkaos.github.io/arcgis/products/web-scene-viewer/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:11 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:40 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14233,7 +14215,7 @@ and <a href="http://doc.arcgis.com/en/arcgis-online/reference/embed-map-paramete
             <title><![CDATA[Workforce]]></title>
             <link>https://hhkaos.github.io/arcgis/products/workforce/</link>
             <guid>https://hhkaos.github.io/arcgis/products/workforce/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:12 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:41 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14429,7 +14411,7 @@ and <a href="http://doc.arcgis.com/en/arcgis-online/reference/embed-map-paramete
             <title><![CDATA[Smart Mapping]]></title>
             <link>https://hhkaos.github.io/arcgis/smart-mapping/</link>
             <guid>https://hhkaos.github.io/arcgis/smart-mapping/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:13 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:42 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14459,7 +14441,7 @@ and <a href="http://doc.arcgis.com/en/arcgis-online/reference/embed-map-paramete
             <title><![CDATA[Spatial Analysis]]></title>
             <link>https://hhkaos.github.io/arcgis/spatial-analysis/</link>
             <guid>https://hhkaos.github.io/arcgis/spatial-analysis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:14 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:44 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14517,7 +14499,7 @@ Gain a deeper understanding of spatial data analysis.</li>
             <title><![CDATA[Back End]]></title>
             <link>https://hhkaos.github.io/back-end/</link>
             <guid>https://hhkaos.github.io/back-end/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:16 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:45 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14599,7 +14581,7 @@ Geodatabase API?</p>
             <title><![CDATA[Best Practices]]></title>
             <link>https://hhkaos.github.io/back-end/best-practices/</link>
             <guid>https://hhkaos.github.io/back-end/best-practices/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:18 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:46 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14633,7 +14615,7 @@ Geodatabase API?</p>
             <title><![CDATA[Technologies]]></title>
             <link>https://hhkaos.github.io/back-end/technologies/</link>
             <guid>https://hhkaos.github.io/back-end/technologies/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:19 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:47 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14677,7 +14659,7 @@ Geodatabase API?</p>
             <title><![CDATA[Nodejs]]></title>
             <link>https://hhkaos.github.io/back-end/technologies/nodejs/</link>
             <guid>https://hhkaos.github.io/back-end/technologies/nodejs/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:20 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:48 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14803,7 +14785,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Python]]></title>
             <link>https://hhkaos.github.io/back-end/technologies/python/</link>
             <guid>https://hhkaos.github.io/back-end/technologies/python/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:21 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:49 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -14951,7 +14933,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[R]]></title>
             <link>https://hhkaos.github.io/back-end/technologies/r/</link>
             <guid>https://hhkaos.github.io/back-end/technologies/r/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:22 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:50 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -15039,7 +15021,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Ruby]]></title>
             <link>https://hhkaos.github.io/back-end/technologies/ruby/</link>
             <guid>https://hhkaos.github.io/back-end/technologies/ruby/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:23 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:51 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -15069,7 +15051,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Desktop]]></title>
             <link>https://hhkaos.github.io/desktop/</link>
             <guid>https://hhkaos.github.io/desktop/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:24 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:52 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -15205,7 +15187,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Best Practices]]></title>
             <link>https://hhkaos.github.io/desktop/best-practices/</link>
             <guid>https://hhkaos.github.io/desktop/best-practices/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:26 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:54 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -15243,7 +15225,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Technologies]]></title>
             <link>https://hhkaos.github.io/desktop/technologies/</link>
             <guid>https://hhkaos.github.io/desktop/technologies/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:27 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:55 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.
 for ArcGIS Developers.</p>
@@ -15277,7 +15259,7 @@ for ArcGIS Developers.</p>
             <title><![CDATA[Arcobjects]]></title>
             <link>https://hhkaos.github.io/desktop/technologies/arcobjects/</link>
             <guid>https://hhkaos.github.io/desktop/technologies/arcobjects/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:28 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:56 GMT</pubDate>
             <description><![CDATA[<!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
@@ -15363,7 +15345,7 @@ for ArcGIS Developers.</p>
             <title><![CDATA[Dot Net]]></title>
             <link>https://hhkaos.github.io/desktop/technologies/dot-net/</link>
             <guid>https://hhkaos.github.io/desktop/technologies/dot-net/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:29 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:57 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -15811,7 +15793,7 @@ with .NET:</p>
             <title><![CDATA[Java]]></title>
             <link>https://hhkaos.github.io/desktop/technologies/java/</link>
             <guid>https://hhkaos.github.io/desktop/technologies/java/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:31 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:58 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -16081,7 +16063,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Mac OS]]></title>
             <link>https://hhkaos.github.io/desktop/technologies/macOS/</link>
             <guid>https://hhkaos.github.io/desktop/technologies/macOS/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:32 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:13:59 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -16193,7 +16175,7 @@ to <a href="https://developers.arcgis.com/downloads/">download de ArcGIS Runtime
             <title><![CDATA[Qt]]></title>
             <link>https://hhkaos.github.io/desktop/technologies/qt/</link>
             <guid>https://hhkaos.github.io/desktop/technologies/qt/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:33 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:00 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -16665,7 +16647,7 @@ with Qt:</p>
             <title><![CDATA[Appstudio]]></title>
             <link>https://hhkaos.github.io/desktop/technologies/qt/appstudio/</link>
             <guid>https://hhkaos.github.io/desktop/technologies/qt/appstudio/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:34 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:02 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -16743,7 +16725,7 @@ with Qt:</p>
             <title><![CDATA[Devops]]></title>
             <link>https://hhkaos.github.io/devops/</link>
             <guid>https://hhkaos.github.io/devops/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:35 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:04 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -16867,7 +16849,7 @@ ArcGIS Server en AWS:
             <title><![CDATA[Best Practices]]></title>
             <link>https://hhkaos.github.io/devops/best-practices/</link>
             <guid>https://hhkaos.github.io/devops/best-practices/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:36 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:06 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -16905,7 +16887,7 @@ ArcGIS Server en AWS:
             <title><![CDATA[Aws]]></title>
             <link>https://hhkaos.github.io/devops/technologies/aws/</link>
             <guid>https://hhkaos.github.io/devops/technologies/aws/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:37 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:08 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -16939,7 +16921,7 @@ ArcGIS Server en AWS:
             <title><![CDATA[Koop]]></title>
             <link>https://hhkaos.github.io/devops/technologies/koop/</link>
             <guid>https://hhkaos.github.io/devops/technologies/koop/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:39 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:09 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -17161,7 +17143,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Wordpress]]></title>
             <link>https://hhkaos.github.io/devops/technologies/wordpress/</link>
             <guid>https://hhkaos.github.io/devops/technologies/wordpress/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:40 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:10 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -17201,7 +17183,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Esri]]></title>
             <link>https://hhkaos.github.io/esri/</link>
             <guid>https://hhkaos.github.io/esri/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:41 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:12 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18097,7 +18079,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Brand]]></title>
             <link>https://hhkaos.github.io/esri/brand/</link>
             <guid>https://hhkaos.github.io/esri/brand/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:42 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:14 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18139,7 +18121,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Business Trends]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:43 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:15 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18185,7 +18167,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Data Management]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:44 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:17 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18241,7 +18223,7 @@ learning &amp; deep learning)</li>
             <title><![CDATA[3 D Data]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/3d-data/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/3d-data/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:45 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:18 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18305,7 +18287,7 @@ learning &amp; deep learning)</li>
             <title><![CDATA[Bi]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/bi/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/bi/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:46 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:19 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18349,7 +18331,7 @@ learning &amp; deep learning)</li>
             <title><![CDATA[Big Data]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/big-data/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/big-data/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:47 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:20 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18449,7 +18431,7 @@ learning &amp; deep learning)</li>
             <title><![CDATA[Bim]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/bim/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/bim/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:48 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:22 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: Please <a href="#contributions">feel free to help us</a> to improve this page, you can use <a href="https://github.com/esri-es/awesome-arcgis/blob/master/PRODUCT_PAGE_TEMPLATE.md">this template</a> to get some ideas.</p>
 </blockquote>
@@ -18669,7 +18651,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Imagery Data]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:49 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:24 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18843,7 +18825,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Elevation]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/elevation/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/elevation/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:50 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:26 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18873,7 +18855,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Multispectral Image]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/multispectral-image/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/multispectral-image/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:51 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:28 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18899,7 +18881,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Temporal]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/temporal/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/data-management/imagery-data/temporal/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:52 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:29 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -18923,7 +18905,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Precision Agriculture]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/precision-agriculture/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/precision-agriculture/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:53 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:30 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -19263,7 +19245,7 @@ and <a href="../../../arcgis/products/workforce/README.md">Workforce for ArcGIS<
             <title><![CDATA[Remote Sensing]]></title>
             <link>https://hhkaos.github.io/esri/business-trends/remote-sensing/</link>
             <guid>https://hhkaos.github.io/esri/business-trends/remote-sensing/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:54 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:32 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -19313,7 +19295,7 @@ and <a href="../../../arcgis/products/workforce/README.md">Workforce for ArcGIS<
             <title><![CDATA[Community]]></title>
             <link>https://hhkaos.github.io/esri/community/</link>
             <guid>https://hhkaos.github.io/esri/community/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:55 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:33 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -19773,7 +19755,7 @@ and <a href="../../../arcgis/products/workforce/README.md">Workforce for ArcGIS<
             <title><![CDATA[Geonet]]></title>
             <link>https://hhkaos.github.io/esri/community/geonet/</link>
             <guid>https://hhkaos.github.io/esri/community/geonet/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:56 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:34 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -19837,7 +19819,7 @@ and <a href="../../../arcgis/products/workforce/README.md">Workforce for ArcGIS<
             <title><![CDATA[Emerging Technologies]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:57 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:35 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -19889,7 +19871,7 @@ and <a href="../../../arcgis/products/workforce/README.md">Workforce for ArcGIS<
             <title><![CDATA[Ar]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/ar/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/ar/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:58 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:36 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -19989,7 +19971,7 @@ and <a href="../../../arcgis/products/workforce/README.md">Workforce for ArcGIS<
             <title><![CDATA[Artificial Intelligence]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/artificial-intelligence/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/artificial-intelligence/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:55:59 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:37 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -20317,7 +20299,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Chatbots]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/artificial-intelligence/chatbots/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/artificial-intelligence/chatbots/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:00 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:38 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -20521,7 +20503,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Indoor]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/indoor/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/indoor/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:01 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:39 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -20973,7 +20955,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Iot]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/iot/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/iot/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:02 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:40 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -21019,7 +21001,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Uavs]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/uavs/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/uavs/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:03 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:41 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -21103,7 +21085,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Vr]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/vr/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/vr/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:04 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:43 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -21267,7 +21249,7 @@ awesome resources about:</p>
             <title><![CDATA[Best Practices]]></title>
             <link>https://hhkaos.github.io/esri/emerging-technologies/vr/best-practices/</link>
             <guid>https://hhkaos.github.io/esri/emerging-technologies/vr/best-practices/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:05 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:44 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -21305,7 +21287,7 @@ awesome resources about:</p>
             <title><![CDATA[Events]]></title>
             <link>https://hhkaos.github.io/esri/events/</link>
             <guid>https://hhkaos.github.io/esri/events/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:06 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:46 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -21383,7 +21365,7 @@ awesome resources about:</p>
             <title><![CDATA[Industries]]></title>
             <link>https://hhkaos.github.io/esri/industries/</link>
             <guid>https://hhkaos.github.io/esri/industries/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:07 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:48 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -21457,7 +21439,7 @@ awesome resources about:</p>
             <title><![CDATA[Game]]></title>
             <link>https://hhkaos.github.io/esri/industries/game/</link>
             <guid>https://hhkaos.github.io/esri/industries/game/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:08 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:49 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -21863,7 +21845,7 @@ awesome resources about:</p>
             <title><![CDATA[Tourism]]></title>
             <link>https://hhkaos.github.io/esri/industries/tourism/</link>
             <guid>https://hhkaos.github.io/esri/industries/tourism/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:09 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:51 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22009,7 +21991,7 @@ awesome resources about:</p>
             <title><![CDATA[Open Vision]]></title>
             <link>https://hhkaos.github.io/esri/open-vision/</link>
             <guid>https://hhkaos.github.io/esri/open-vision/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:10 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:52 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22083,7 +22065,7 @@ awesome resources about:</p>
             <title><![CDATA[Open Specifications]]></title>
             <link>https://hhkaos.github.io/esri/open-vision/open-specifications/</link>
             <guid>https://hhkaos.github.io/esri/open-vision/open-specifications/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:11 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:54 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22141,7 +22123,7 @@ building <a href="http://www.esri.com/software/open/open-apis-and-specs">Open AP
             <title><![CDATA[Arcgis Rest Api]]></title>
             <link>https://hhkaos.github.io/esri/open-vision/open-specifications/arcgis-rest-api/</link>
             <guid>https://hhkaos.github.io/esri/open-vision/open-specifications/arcgis-rest-api/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:12 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:55 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22213,7 +22195,7 @@ or you can also look for help in <a href="../../README.md#arcgis-community">any 
             <title><![CDATA[I 3 S]]></title>
             <link>https://hhkaos.github.io/esri/open-vision/open-specifications/i3s/</link>
             <guid>https://hhkaos.github.io/esri/open-vision/open-specifications/i3s/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:13 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:56 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22245,7 +22227,7 @@ or you can also look for help in <a href="../../README.md#arcgis-community">any 
             <title><![CDATA[Web Map]]></title>
             <link>https://hhkaos.github.io/esri/open-vision/open-specifications/web-map/</link>
             <guid>https://hhkaos.github.io/esri/open-vision/open-specifications/web-map/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:14 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:57 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22379,7 +22361,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Web Scene]]></title>
             <link>https://hhkaos.github.io/esri/open-vision/open-specifications/web-scene/</link>
             <guid>https://hhkaos.github.io/esri/open-vision/open-specifications/web-scene/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:15 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:58 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22431,7 +22413,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[R And D]]></title>
             <link>https://hhkaos.github.io/esri/r-and-d/</link>
             <guid>https://hhkaos.github.io/esri/r-and-d/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:16 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:14:59 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -22807,7 +22789,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Startup Program]]></title>
             <link>https://hhkaos.github.io/esri/startup-program/</link>
             <guid>https://hhkaos.github.io/esri/startup-program/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:17 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:00 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23055,7 +23037,7 @@ succeed.</p>
             <title><![CDATA[Support]]></title>
             <link>https://hhkaos.github.io/esri/support/</link>
             <guid>https://hhkaos.github.io/esri/support/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:18 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:01 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23149,7 +23131,7 @@ succeed.</p>
             <title><![CDATA[Front End]]></title>
             <link>https://hhkaos.github.io/front-end/</link>
             <guid>https://hhkaos.github.io/front-end/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:19 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:02 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23227,7 +23209,7 @@ succeed.</p>
             <title><![CDATA[Best Practices]]></title>
             <link>https://hhkaos.github.io/front-end/best-practices/</link>
             <guid>https://hhkaos.github.io/front-end/best-practices/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:20 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:03 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23307,7 +23289,7 @@ succeed.</p>
             <title><![CDATA[Automate]]></title>
             <link>https://hhkaos.github.io/front-end/best-practices/automate/</link>
             <guid>https://hhkaos.github.io/front-end/best-practices/automate/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:21 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:04 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23347,7 +23329,7 @@ succeed.</p>
             <title><![CDATA[Performance]]></title>
             <link>https://hhkaos.github.io/front-end/best-practices/performance/</link>
             <guid>https://hhkaos.github.io/front-end/best-practices/performance/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:22 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:05 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23481,7 +23463,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Tests]]></title>
             <link>https://hhkaos.github.io/front-end/best-practices/tests/</link>
             <guid>https://hhkaos.github.io/front-end/best-practices/tests/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:23 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:06 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23525,7 +23507,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Technologies]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:25 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:07 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23649,7 +23631,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Angular]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/angular/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/angular/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:27 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:08 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23905,7 +23887,7 @@ with Angular:</p>
             <title><![CDATA[Backbone]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/backbone/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/backbone/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:28 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:09 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -23979,7 +23961,7 @@ with Backbone:</p>
             <title><![CDATA[Calcite]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/calcite/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/calcite/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:29 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:10 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24111,7 +24093,7 @@ properties</p>
             <title><![CDATA[Cedar]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/cedar/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/cedar/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:30 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:11 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24163,7 +24145,7 @@ graphics that can be re-used with different datasets.</p>
             <title><![CDATA[D 3]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/d3/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/d3/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:31 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:12 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24253,7 +24235,7 @@ with <strong>d3.js</strong>:</p>
             <title><![CDATA[Dojo]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/dojo/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/dojo/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:32 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:13 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24445,7 +24427,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[3.x]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/dojo/3.x/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/dojo/3.x/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:33 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:14 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24623,7 +24605,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[4.x]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/dojo/4.x/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/dojo/4.x/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:34 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:15 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24773,7 +24755,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Offline Editor Js]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/dojo/offline-editor-js/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/dojo/offline-editor-js/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:36 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:16 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24861,7 +24843,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Electron]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/electron/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/electron/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:38 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:17 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24911,7 +24893,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Elm]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/elm/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/elm/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:40 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:18 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -24979,7 +24961,7 @@ with Ember:</p>
             <title><![CDATA[Ember]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/ember/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/ember/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:41 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:19 GMT</pubDate>
             <description><![CDATA[<h1>Ember developers</h1>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -25053,7 +25035,7 @@ with Ember:</p>
             <title><![CDATA[Extjs Sencha]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/extjs-sencha/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/extjs-sencha/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:42 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:20 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -25157,7 +25139,7 @@ with ExtJS/Sencha:</p>
             <title><![CDATA[Jquery]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/jquery/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/jquery/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:44 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:21 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -25351,7 +25333,7 @@ with jQuery:</p>
             <title><![CDATA[Knockout]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/knockout/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/knockout/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:45 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:22 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -25421,7 +25403,7 @@ with knockout:</p>
             <title><![CDATA[Leaflet]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/leaflet/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/leaflet/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:46 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:25 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -25665,7 +25647,7 @@ technology so we recommend you to follow them.</p>
             <title><![CDATA[Open Layers]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/open-layers/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/open-layers/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:47 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:28 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -25721,7 +25703,7 @@ with knockout:</p>
             <title><![CDATA[Phonegap]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/phonegap/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/phonegap/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:49 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:29 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -25893,7 +25875,7 @@ with Phonegap:</p>
             <title><![CDATA[Polymer]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/polymer/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/polymer/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:50 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:30 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -25971,7 +25953,7 @@ with Polymer:</p>
             <title><![CDATA[React]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/react/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/react/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:51 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:34 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26085,7 +26067,7 @@ with React:</p>
             <title><![CDATA[Vuejs]]></title>
             <link>https://hhkaos.github.io/front-end/technologies/vuejs/</link>
             <guid>https://hhkaos.github.io/front-end/technologies/vuejs/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:53 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:36 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26169,7 +26151,7 @@ with VueJS:</p>
             <title><![CDATA[Gis]]></title>
             <link>https://hhkaos.github.io/gis/</link>
             <guid>https://hhkaos.github.io/gis/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:54 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:37 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26233,7 +26215,7 @@ resources to get on board.</p>
             <title><![CDATA[Utils]]></title>
             <link>https://hhkaos.github.io/gis/utils/</link>
             <guid>https://hhkaos.github.io/gis/utils/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:55 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:38 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26343,7 +26325,7 @@ help you during your developments.</p>
             <title><![CDATA[Resource Proxy]]></title>
             <link>https://hhkaos.github.io/gis/utils/resource-proxy/</link>
             <guid>https://hhkaos.github.io/gis/utils/resource-proxy/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:56 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:39 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26473,7 +26455,7 @@ credit-consuming APIs, ...</p>
             <title><![CDATA[Mobile]]></title>
             <link>https://hhkaos.github.io/mobile/</link>
             <guid>https://hhkaos.github.io/mobile/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:57 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:40 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26613,7 +26595,7 @@ credit-consuming APIs, ...</p>
             <title><![CDATA[Best Practices]]></title>
             <link>https://hhkaos.github.io/mobile/best-practices/</link>
             <guid>https://hhkaos.github.io/mobile/best-practices/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:58 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:41 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26647,7 +26629,7 @@ credit-consuming APIs, ...</p>
             <title><![CDATA[Technologies]]></title>
             <link>https://hhkaos.github.io/mobile/technologies/</link>
             <guid>https://hhkaos.github.io/mobile/technologies/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:56:59 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:42 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -26691,7 +26673,7 @@ credit-consuming APIs, ...</p>
             <title><![CDATA[Android]]></title>
             <link>https://hhkaos.github.io/mobile/technologies/android/</link>
             <guid>https://hhkaos.github.io/mobile/technologies/android/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:57:00 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:43 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -27113,7 +27095,7 @@ with Android:</p>
             <title><![CDATA[Ios]]></title>
             <link>https://hhkaos.github.io/mobile/technologies/ios/</link>
             <guid>https://hhkaos.github.io/mobile/technologies/ios/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:57:01 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:44 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -27511,7 +27493,7 @@ with iOS:</p>
             <title><![CDATA[Qt]]></title>
             <link>https://hhkaos.github.io/mobile/technologies/qt/</link>
             <guid>https://hhkaos.github.io/mobile/technologies/qt/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:57:03 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:46 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -27983,7 +27965,7 @@ with Qt:</p>
             <title><![CDATA[Xamarin]]></title>
             <link>https://hhkaos.github.io/mobile/technologies/xamarin/</link>
             <guid>https://hhkaos.github.io/mobile/technologies/xamarin/</guid>
-            <pubDate>Tue, 24 Jul 2018 07:57:04 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:47 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions">contribute in less than a minute</a>.</p>
 </blockquote>
@@ -28473,7 +28455,7 @@ with Xamarin:</p>
             <title><![CDATA[FILE FORMAT PAGE TEMPLATE]]></title>
             <link>https://hhkaos.github.io/FILE_FORMAT_PAGE_TEMPLATE.html</link>
             <guid>https://hhkaos.github.io/FILE_FORMAT_PAGE_TEMPLATE.html</guid>
-            <pubDate>Tue, 24 Jul 2018 07:57:05 GMT</pubDate>
+            <pubDate>Tue, 24 Jul 2018 08:15:48 GMT</pubDate>
             <description><![CDATA[<blockquote>
 <p><strong>Goal</strong>: compile everything a user or developer interested in this topic should know about it in the Esri World.</p>
 </blockquote>

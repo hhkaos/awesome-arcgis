@@ -16,6 +16,8 @@ XML notation for expressing geographic annotation and visualization within Inter
 - [Additional documentation](#additional-documentation)
 - [Tools](#tools)
 - [Additional resources](#additional-resources)
+  - [Related resources](#related-resources)
+  - [Localized resources](#localized-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -13,6 +13,9 @@ Represent simple geographical features, along with their non-spatial attributes 
 - [Additional documentation](#additional-documentation)
 - [Tools](#tools)
 - [Additional resources](#additional-resources)
+  - [Related resources](#related-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

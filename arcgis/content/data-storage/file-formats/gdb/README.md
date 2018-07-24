@@ -2,7 +2,7 @@
 
 # GDB
 
-File Geodatabase (GDB) is an Esri format based on multiple binary files
+A file GeoDataBase (GDB) is a collection of files in a folder on disk that can store, query, and manage both spatial (vector and raster) and nonspatial data.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -15,7 +15,7 @@ File Geodatabase (GDB) is an Esri format based on multiple binary files
 
 ## Quick overview
 
-* **Purpose**: *Unknown*
+* **Purpose**: Store, query, and manage both spatial (vector and raster) and nonspatial data.
 * **Data type**: [vector](../../../data-types/vector/README.md) and [raster](../../../data-types/raster/README.md)
 * **Type of format**: GIS
 * **Multi-file format**: Yes
@@ -39,5 +39,32 @@ File Geodatabase (GDB) is an Esri format based on multiple binary files
 
 ## Introduction
 
-Evolution from the [personal geodatabase](../personal-geodatabase/README.md) created in 9.2. It is also prefered over the [shapefile](../shapefile/README.md). It is a collection of binary files stored on disk
-Multi user, single editor, 1TB per dataset*
+> It is the evolution from the [personal geodatabase](../personal-geodatabase/README.md) and it was introduced in ArcMap 9.2 (2006). It is also preferred over the [shapefile](../shapefile/README.md).
+
+**Description**: A collection of various types of GIS datasets held in a file system folder.(This is the recommended native data format for ArcGIS stored and managed in a file system folder.)
+
+**Number of users**: Single user and small workgroups:many readers or one writer per feature dataset, stand-alone feature class, or table. Concurrent use of any specific file eventually degrades for large numbers of readers.
+
+**Storage format**: Each dataset is a separate file on disk. A file geodatabase is a file folder that holds its dataset files.
+
+**Size limits**: One TB for each dataset. Each file geodatabase can hold many datasets. The 1 TB limit can be raised to 256 TB for extremely large image datasets. Each feature class can scale up to hundreds of millions of vector features per dataset.
+
+**Versioning support**: Only supported as a geodatabase for clients who post updates using checkout and check-in and as a client to which updates can be sent using one-way replication.
+
+**Platforms**: Cross-platform.
+
+**Security and permissions**: Operating file system security.
+
+**Database administration tools**: File system management.
+
+**Notes**: You can optionally store data in a read-only compressed format to reduce storage requirements.
+
+## Additional documentation
+
+* Vídeo: [Geodatabase Fundamentals](https://www.youtube.com/watch?v=ocSd7NxPvBg)
+* [Comparing the three types of geodatabases](http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm)
+* [License a file geodatabase](http://desktop.arcgis.com/en/arcmap/latest/manage-data/administer-file-gdbs/license-file-geodatabase.htm): You can share data in a file geodatabase with other people and apply a license that determines the length of time they can use the data or whether they can export feature classes.
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["file geodatabase"](https://esri-es.github.io/arcgis-search/?search="file geodatabase"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

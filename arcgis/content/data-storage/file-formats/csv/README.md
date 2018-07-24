@@ -13,6 +13,9 @@ Comma-Separated Values (CSV) file is a delimited text file that uses a comma to 
   - [Additional documentation](#additional-documentation)
   - [Tools](#tools)
 - [Additional resources](#additional-resources)
+  - [Related resources](#related-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

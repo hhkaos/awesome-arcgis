@@ -36,3 +36,18 @@ MDB is a database file used by Microsoft Access, but in a GIS context it use to 
 ## Introduction
 
 Personal GeoDatabases were introduced by Esri in ArcGIS for Desktop 8.0 (1999). It is single user and editor & 2GB storage limit.
+
+|[Personal GDB](../file-formats/personal-geodatabase/README.md)| File format|No|2GB|1999
+
+## Additional documentation
+
+* Vídeo: [Geodatabase Fundamentals](https://www.youtube.com/watch?v=ocSd7NxPvBg)
+* [Comparing the three types of geodatabases](http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm)
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["personal geodatabase"](https://esri-es.github.io/arcgis-search/?search="personal geodatabase"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Related resources
+
+* [File GeoDataBase](../gdb/README.md): is the evolution of the personal geodatabase

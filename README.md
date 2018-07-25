@@ -45,7 +45,7 @@ You can [sign up for free](https://developers.arcgis.com/sign-up/) in order to b
 * If you want to learn about ArcGIS and GIS in general you should have a look at [our learning resources](http://learn.arcgis.com/). You´ll find guided tutorials about our tools.
 * etc.
 
-Know more about the [developer plans](arcgis/developer-plan/README.md).
+Know more about the [developer plans](arcgis/developers/developer-plan/README.md).
 
 ## About ArcGIS
 

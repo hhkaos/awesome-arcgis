@@ -85,11 +85,11 @@ These are sample pages you can check to better understand what we are trying to 
 
 * **Web AppBuilder Developer Edition resources page**:<br> [/arcgis/products/web-appbuilder/developer-edition/README.md](https://github.com/hhkaos/awesome-arcgis/blob/master/arcgis/products/web-appbuilder/developer-edition/README.md)
 
-* **Java Developers resources page**:<br> [/desktop/technologies/java/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/desktop/technologies/java)
+* **Java Developers resources page**:<br> [/arcgis/developers/desktop/technologies/java/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/arcgis/developers/desktop/technologies/java)
 
 * **BIM resources page**:<br> [/esri/business-trends/data-management/bim/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/esri/business-trends/data-management/bim)
 
-* **Leaflet Developers resources page**:<br> [/front-end/technologies/leaflet/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/front-end/technologies/leaflet)
+* **Leaflet Developers resources page**:<br> [/arcgis/developers/front-end/technologies/leaflet/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/arcgis/developers/front-end/technologies/leaflet)
 
 ## Develop and build locally
 

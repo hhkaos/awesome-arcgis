@@ -34,7 +34,7 @@ Here you can see an overview of our current app builders:
 |AppStudio standard|Android, iOS, Windows, ....|Yes|Qt & QML|
 |Survey123 Online|---|---|---|
 
-[Learn about licensing](../developer-plan/patterns/configure-and-build/README.md)
+[Learn about licensing](../developers/developer-plan/patterns/configure-and-build/README.md)
 
 ## Extendable products
 ArcGIS Desktop
@@ -42,12 +42,12 @@ ArcGIS Enterprise
 Operations Dashboard
 Web AppBuilder
 
-[Learn about licensing](../developer-plan/patterns/extend/README.md)
+[Learn about licensing](../developers/developer-plan/patterns/extend/README.md)
 
 ## Developer products
 Runtime and SDKs
 
-[Learn about licensing](../developer-plan/patterns/customize/README.md)
+[Learn about licensing](../developers/developer-plan/patterns/customize/README.md)
 
 ## Developer related products
 ArcGIS Online

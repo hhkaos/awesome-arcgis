@@ -58,7 +58,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/README.md) and [solutions](https://solutions.arcgis.com/), the most popular ones for gaming are:
 
-* **Developer products for**: [front-end developers](../../../front-end/README.md), [mobile developers](../../../mobile/README.md), [desktop developers](../../../desktop/README.md), [back-end developers](../../../back-end/README.md) and even [devops](../../../devops/README.md)
+* **Developer products for**: [front-end developers](../../../arcgis/developers/front-end/README.md), [mobile developers](../../../arcgis/developers/mobile/README.md), [desktop developers](../../../arcgis/developers/desktop/README.md), [back-end developers](../../../arcgis/developers/back-end/README.md) and even [devops](../../../arcgis/developers/devops/README.md)
 
 * **Ready to use apps**: [City Engine](../../../arcgis/products/city-engine/README.md)
 

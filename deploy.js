@@ -5,14 +5,15 @@ var path = require('path');
 var excludeFromLinkChecker = [
                                 "docs", "ISSUE_TEMPLATE.md", "CONTRIBUTING.md",
                                 "INDUSTRY_PAGE_TEMPLATE.md", "PRODUCT_PAGE_TEMPLATE.md",
-                                "node_modules"
+                                "FILE_FORMAT_PAGE_TEMPLATE.md", "node_modules"
                              ];
 
 // Avoid this files to create/update their TOCs
 var excludeFileFromDocToc = [
                             "ISSUE_TEMPLATE.md", "INDUSTRY_PAGE_TEMPLATE.md",
                             "PRODUCT_PAGE_TEMPLATE.md", "SUMMARY.md",
-                            "CONTRIBUTING.md", "about/README.md"
+                            "FILE_FORMAT_PAGE_TEMPLATE.md", "CONTRIBUTING.md",
+                            "about/README.md"
                         ];
 var excludeFoldersFromDocToc = [
                             "./about", "./node_modules"

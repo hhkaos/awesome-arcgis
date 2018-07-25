@@ -1,3 +1,9 @@
+> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+
+# ArcGIS Mobile Apps
+
+Esri has built and maintain different **native applications** that your users can benefit from if your application integrates with [ArcGIS name users](../name-users/README.md)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -6,14 +12,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
-
-# ArcGIS Mobile Apps
-
-Esri has built and maintain different **native applications** that your users can benefit from if your application integrates with [ArcGIS name users](../name-users/README.md):
-
-|App|Description|Support|Integrable
-|---|---|---|
+|App|Description|Support|Integrable|
+|---|---|---|---|
 |[Collector for ArcGIS](../products/collector-for-arcgis/README.md)|Use maps anywhere to ground truth your data, make observations, and respond to events. You'll improve the efficiency of your field workforce and the accuracy of your GIS.|[Android](https://play.google.com/store/apps/details?id=com.esri.arcgis.collector) & [iOS](https://itunes.apple.com/us/app/collector-for-arcgis/id589674237?mt=8)| [Yes](https://github.com/Esri/collector-integration)
 |[Navigator for ArcGIS](../products/navigator-for-arcgis/README.md)|Navigate to where you need to be, unlock efficiency, and improve your field workforce reliability.|[Android](https://play.google.com/store/apps/details?id=com.esri.navigator) & [iOS](https://itunes.apple.com/us/app/navigator-for-arcgis/id980973560?mt=8)|[Yes](https://github.com/Esri/navigator-integration)
 |[Explorer for ArcGIS](https://play.google.com/store/apps/details?id=com.esri.explorer)|Makes it easy to discover, visualize, collaborate and share maps within your ArcGIS organization. Personalize your experience with ArcGIS by marking your favorite maps and places, finding information that is important to you, and sharing it with others. Use Explorer to help you make more informed and timely decisions.|[Android](https://play.google.com/store/apps/details?id=com.esri.explorer) & [iOS](https://itunes.apple.com/us/app/explorer-for-arcgis/id860708788?mt=8)|[Yes](https://github.com/Esri/explorer-integration)

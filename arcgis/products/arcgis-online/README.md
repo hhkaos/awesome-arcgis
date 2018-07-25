@@ -88,7 +88,7 @@ many actions like when you enter o exit an area, or add your location to a sprea
 and add it to a spreadsheet in drive when pressing a button, etc
 * [AGO Assistant](https://github.com/Esri/ago-assistant): A swiss army knife for your ArcGIS Online and Portal for ArcGIS accounts
 * [Admin Tools for ArcGIS Online](https://marketplace.arcgis.com/listing.html?id=c34019b0623041608df4d06970a7a96a) (by GEO Jobe).
-* [Python API](../../back-end/technologies/python/README.md)
+* [Python API](../../arcgis/developers/back-end/technologies/python/README.md)
 
 ## Get an account
 

@@ -33,7 +33,7 @@ GeoPackage (GPKG) is a data format for geographic information system implemented
 * **Consumable by**:
     * [ArcMap: An overview of the To GeoPackage toolset](http://desktop.arcgis.com/en/arcmap/latest/tools/conversion-toolbox/an-overview-of-the-to-geopackage-toolset.htm)
     * [ArcGIS Pro: An overview of the To GeoPackage toolset](http://pro.arcgis.com/en/pro-app/tool-reference/conversion/an-overview-of-the-to-geopackage-toolset.htm)
-    * [ArcGIS Runtime SDK for .NET](../../../../../desktop/technologies/dot-net/README.md) - [Sample Feature layer (GeoPackage)](https://developers.arcgis.com/net/latest/wpf/sample-code/featurelayergeopackage.htm)
+    * [ArcGIS Runtime SDK for .NET](../../../../../arcgis/developers/desktop/technologies/dot-net/README.md) - [Sample Feature layer (GeoPackage)](https://developers.arcgis.com/net/latest/wpf/sample-code/featurelayergeopackage.htm)
     * ...
 
 ## Introduction

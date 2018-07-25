@@ -54,7 +54,7 @@ The main advantage of this format is that they can be processed quickly and take
     * [field-splitter-for-geoevent](https://github.com/Esri/field-splitter-for-geoevent): ArcGIS GeoEvent Server Sample Processor for Splitting fields with CSV values into multiple GeoEvents
     * [spatialsearch-opencsv-censusreport](https://github.com/Esri/spatialsearch-opencsv-censusreport): An Operations Dashboard for ArcGIS addin with a map tool that supports selection by location, a widget that opens a CSV file, and a feature action that generates a census report
     * [multi-value-counter-for-geoevent](): ArcGIS GeoEvent Server sample comma delimited values in a field Counter Processor.
-* [Koop](../../../../../devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 * [CSV point layer extension for ArcPad](https://www.arcgis.com/home/item.html?id=144188a1c0414f318096cb0567660e79)
 * [Add CSV Feed to a Graphics Layer for Android (Deprecated)](https://www.arcgis.com/home/item.html?id=dc66715d88eb4ecc92ee5d1b390a96d4)
 * [developer-support samples](https://github.com/Esri/developer-support/search?q=csv&unscoped_q=csv)

@@ -33,10 +33,10 @@ A file GeoDataBase (GDB) is a collection of files in a folder on disk that can s
     * [ArcGIS Pro](../../../../products/arcgis-desktop/arcgis-pro/README.md) - [How to](http://pro.arcgis.com/en/pro-app/help/projects/connect-to-a-database.htm)
     * [ArcMap](../../../../products/arcgis-desktop/arcmap-arccatalog/README.md) - [How to](http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-arccatalog/connect-to-file-or-personal-geodatabase.htm)
     * [ArcGIS Enterprise](../../../../products/arcgis-enterprise/README.md) through [ArcGIS Server](../../../../products/arcgis-enterprise/arcgis-server/README.md) - [How to](http://enterprise.arcgis.com/en/server/latest/publish-services/linux/publishing-a-geodata-service.htm)
-    * [ArcGIS Runtime for Java](../../../../../desktop/technologies/java/README.md) (supported only if using local server)
-    * [ArcGIS Runtime for .NET](../../../../../desktop/technologies/dot-net/README.md) (supported only if using local server)
-    * [ArcGIS Runtime for Qt](../../../../../desktop/technologies/qt/README.md) (Supported only if using C++ API and local server. Not supported with QML API.)
-    * [ArcObjects](../../../../../desktop/technologies/arcobjects/README.md)
+    * [ArcGIS Runtime for Java](../../../../../arcgis/developers/desktop/technologies/java/README.md) (supported only if using local server)
+    * [ArcGIS Runtime for .NET](../../../../../arcgis/developers/desktop/technologies/dot-net/README.md) (supported only if using local server)
+    * [ArcGIS Runtime for Qt](../../../../../arcgis/developers/desktop/technologies/qt/README.md) (Supported only if using C++ API and local server. Not supported with QML API.)
+    * [ArcObjects](../../../../../arcgis/developers/desktop/technologies/arcobjects/README.md)
     * ...
 
 ## Introduction

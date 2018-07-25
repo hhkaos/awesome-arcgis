@@ -8,9 +8,8 @@ Awesome resource list of ArcGIS  ([why we started this project?](./about/README.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Quick overview](#quick-overview)
-- [Getting started](#getting-started)
 - [About ArcGIS](#about-arcgis)
+- [Getting started](#getting-started)
 - [ArcGIS community](#arcgis-community)
 - [Localized resources lists](#localized-resources-lists)
 

@@ -7,12 +7,13 @@
 **Table of contents**
 
 - [Account types](#account-types)
-  - [Developer Account  (www.arcgis.com)](#developer-account--wwwarcgiscom)
-  - [ArcGIS Online Organization Account (www.arcgis.com)](#arcgis-online-organization-account-wwwarcgiscom)
-  - [ArcGIS Online Public Account (www.arcgis.com)](#arcgis-online-public-account-wwwarcgiscom)
-  - [Esri Account  (www.esri.com)](#esri-account--wwwesricom)
-  - [Localized resources](#localized-resources)
-    - [Spanish](#spanish)
+  - [Developer Account (arcgis.com)](#developer-account-arcgiscom)
+  - [ArcGIS Online Organization Account (arcgis.com)](#arcgis-online-organization-account-arcgiscom)
+  - [ArcGIS Online Public Account (arcgis.com)](#arcgis-online-public-account-arcgiscom)
+  - [Esri Account (esri.com)](#esri-account-esricom)
+- [Get your account](#get-your-account)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

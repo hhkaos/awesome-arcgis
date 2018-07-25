@@ -8,11 +8,9 @@ If you are not familiarized with the industry vocabulary or applications, here y
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [What is GIS](#what-is-gis)
-- [Coordinate System](#coordinate-system)
-- [Spatial reference](#spatial-reference)
-- [Projection](#projection)
-- [Well Known IDs (WKIDs)](#well-known-ids-wkids)
+- [Introduction](#introduction)
+- [GIS core concepts](#gis-core-concepts)
+- [ArcGIS core concepts](#arcgis-core-concepts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -26,12 +24,17 @@ If you are not familiarized with the industry vocabulary or applications, here y
 
 ## GIS core concepts
 
-|Concept|Resource|
-|---|---|
-|Coordinate System|[Coordinate system IDs](https://developers.arcgis.com/javascript/3/jshelp/ref_coordsystems.html)|
-|Projections|[What are map projections](http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/what-are-map-projections.htm)|
-|Projections & Spatial reference|[Understanding and Using Geometry, Projections, and Spatial Reference Systems in ArcGIS](http://www.esri.com/videos/watch?videoid=1153&isLegacy=true&title=understanding-and-using-geometry_comma_-projections_comma_-and-spatial-reference-systems-in-arcgis)
-|Well Known IDs (WKIDs)|n.a.|
+|Concept|Resource|Resource type|
+|---|---|---|
+|Projections & Spatial reference|[Understanding and Using Geometry, Projections, and Spatial Reference Systems in ArcGIS](http://www.esri.com/videos/watch?videoid=1153&isLegacy=true&title=understanding-and-using-geometry_comma_-projections_comma_-and-spatial-reference-systems-in-arcgis)|Video|
+|Coordinate System, WKID, WKT, ...|[Introducing Coordinate Systems and Transformations](https://www.youtube.com/watch?v=kG6vdjDDs8s)|Video|
+|Geographic and vertical transformations|[What You Should Know About Geographic (Datum) and Vertical Transformations](https://www.youtube.com/watch?v=Fh0EeB8rjys&index=3&list=PLahIW2YFPQd41lp-z3Jb5Wx2-KB1HG9jC)|Video
+|Projections|[What are map projections](http://desktop.arcgis.com/en/arcmap/latest/map/projections/what-are-map-projections.htm)|Article|
+
+Resources:
+
+* [Youtube Playlist: Core Concepts for GIS Dev](https://www.youtube.com/playlist?list=PLahIW2YFPQd41lp-z3Jb5Wx2-KB1HG9jC)
+* [Coordinate system ID reference](https://developers.arcgis.com/javascript/3/jshelp/ref_coordsystems.html): Projected Coordinate Systems and Geographic Coordinate Systems
 
 ## ArcGIS core concepts
 

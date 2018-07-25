@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Products
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -14,10 +15,12 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Here you will find some products we have built which can be:
+
 * Extended: you can add more functionality
 * Configurable
 
 ## App Builders
+
 ArcGIS has many different type of users, GIS traditional users are great building
 and curating content but in many times they are not able to write their own apps.
 
@@ -37,6 +40,7 @@ Here you can see an overview of our current app builders:
 [Learn about licensing](../developers/developer-plan/patterns/configure-and-build/README.md)
 
 ## Extendable products
+
 ArcGIS Desktop
 ArcGIS Enterprise
 Operations Dashboard
@@ -45,11 +49,13 @@ Web AppBuilder
 [Learn about licensing](../developers/developer-plan/patterns/extend/README.md)
 
 ## Developer products
+
 Runtime and SDKs
 
 [Learn about licensing](../developers/developer-plan/patterns/customize/README.md)
 
 ## Developer related products
+
 ArcGIS Online
 City Engine
 Drone2map
@@ -58,12 +64,9 @@ Scene viewer
 Marketplace
 
 ## Ready to use apps
+
 If you are working for a large organization we also have many more products
 which may fill some of your need, we encourage you to take a look to this
 decision char (extracted from "[What Does Your Symphony of Apps Look Like?]((http://arcnews.maps.arcgis.com/apps/Cascade/index.html?appid=4332a9a0c5be4b57be7dd41bad59134a))
 "):
 ![ArcGIS Apps Decision chart](../../assets/apps-decition-chart.pdf)
-
-
-
-

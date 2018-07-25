@@ -2,7 +2,7 @@
 
 # ArcGIS Mobile Apps
 
-Esri has built and maintain different **native applications** that your users can benefit from if your application integrates with [ArcGIS name users](../name-users/README.md)
+Esri has built and maintain different **native applications** that your users can benefit from if your application integrates with [ArcGIS name users](../account-types/name-users/README.md)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

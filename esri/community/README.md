@@ -47,6 +47,10 @@ The official channel maintained by Esri for the global community of ArcGIS users
 |[esri.com/arcgis-blog](https://www.esri.com/arcgis-blog/)|Any|+2.5K articles
 |[github.com/esri](http://github.com/esri)|Developers|+1.1K Q&A
 
+### Early Adopter Community
+
+Learn more about the: [Early Adopter Community](https://www.esri.com/en-us/early-adopter)
+
 ## Local communities
 
 There are many **initiatives for developers** running simultaneously around Esri Technologies worldwide.

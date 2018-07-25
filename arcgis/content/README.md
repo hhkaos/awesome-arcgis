@@ -29,13 +29,13 @@ Learn more about:
 
 ## Find existing geolocated content in ArcGIS
 
-There are several places in the ArcGIS Platform where you can find/share content in different formats. Many will be free, some with be restricted to [ArcGIS named users](../name-users/README.md) and some will be paid.
+There are several places in the ArcGIS Platform where you can find/share content in different formats. Many will be free, some with be restricted to [ArcGIS named users](../account-types/name-users/README.md) and some will be paid.
 
 |Source|Authoritative|Who publish?|
 |---|---|---|
 |[Living atlas](../products/living-atlas/README.md)|Yes|Esri, partners and customers
 |[ArcGIS Online Ready to use services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)|Yes|Esri
-|[Marketplace](../products/marketplace/README.md)|Yes|Esri and partners
+|[Marketplace](../marketplace/README.md)|Yes|Esri and partners
 |[ArcGIS Online community](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#tips-and-tricks-arcgis-online)|Mixed|Any ArcGIS user
 |[ArcGIS Hub](../products/arcgis-hub/README.md)|Mixed|Esri and customers
 

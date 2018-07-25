@@ -1,6 +1,10 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Utils
+
+Here you will find a list of generic tools and resources that we found useful to
+help you during your developments.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -13,11 +17,11 @@
   - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-Here you will find a list of generic tools and resources that we found useful to
-help you during your developments.
 
 ## Tools
+
 ### Format converters
+
 * [Convert a CSV to GeoJSON ](https://github.com/gavinr/csv-to-geojson)
 * [Convert Esri JSON to GeoJSON ](http://arcgisjson.togeojson.com/)
 
@@ -32,6 +36,7 @@ help you during your developments.
 * [LabelGun](https://github.com/Geovation/labelgun): reducing label clutter across mapping libraries
 
 ## Other
+
 * [A tool to help test CORS requests](https://github.com/monsur/test-cors.org)
 * [Postman](https://www.getpostman.com/)
 * [A swiss army knife for your ArcGIS Online and Portal for ArcGIS accounts](https://github.com/Esri/ago-assistant)
@@ -41,6 +46,3 @@ help you during your developments.
 
 ### Spanish
 * [Terraformer Toolkit](http://www.geodevelopers.org/academy/6NuEO4LlqvE/view)
-
-
-

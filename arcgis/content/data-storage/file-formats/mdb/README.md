@@ -35,6 +35,7 @@ MDB is a database file used by Microsoft Access, but in a GIS context it use to 
     * [ArcMap](../../../../products/arcgis-desktop/arcmap-arccatalog/README.md) - [How to](http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-arccatalog/connect-to-file-or-personal-geodatabase.htm)
     * ArcObjects
     * ...
+    * [Using ODBC (Microsoft Open Database Connectivity)](https://docs.microsoft.com/en-us/sql/odbc/microsoft-open-database-connectivity-odbc?view=sql-server-2017)
 
 ## Introduction
 

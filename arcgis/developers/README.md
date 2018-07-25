@@ -8,12 +8,8 @@ No matter your background or your favorite technology, we have putted together m
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Resources](#resources)
-  - [Training](#training)
-    - [Videos / Technical talks](#videos--technical-talks)
-  - [Community](#community)
-  - [Code](#code)
-  - [People you should know](#people-you-should-know)
+- [Developer profiles](#developer-profiles)
+- [Getting started](#getting-started)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

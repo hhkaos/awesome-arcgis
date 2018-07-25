@@ -25,7 +25,9 @@ When an application needs to support simultaneous editing of users, work with la
 
 > **Important**: no every Esri Geodatabase type run on top of a DBMS
 
-A geodatabase is a based on the relational database model and is allows you to store GIS information in one large file, which can contain multiple point, polygon, and/or polyline layers. It is a less “messy” way of organizing data than having multiple [shapefiles](../shapefile/README.md). in multiple folders.
+A geodatabase is a based on the relational database model and is allows you to store GIS information in one large file, which can contain multiple point, polygon, and/or polyline layers. It is a less “messy” way of organizing data than having multiple [shapefiles](../shapefile/README.md) in multiple folders.
+
+> Geodatabases also allows you to set up a topology, store rasters, add domains or geometric networks, which you can’t do with shapefiles.
 
 Three types of geodatabases (GDB):
 

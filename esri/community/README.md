@@ -9,6 +9,7 @@
 
 - [Introduction](#introduction)
 - [Global communities](#global-communities)
+  - [Early Adopter Community](#early-adopter-community)
 - [Local communities](#local-communities)
   - [Colombia](#colombia)
   - [Germany](#germany)

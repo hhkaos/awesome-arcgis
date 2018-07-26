@@ -13,14 +13,14 @@ var excludeFileFromDocToc = [
                             "ISSUE_TEMPLATE.md", "INDUSTRY_PAGE_TEMPLATE.md",
                             "PRODUCT_PAGE_TEMPLATE.md", "SUMMARY.md",
                             "FILE_FORMAT_PAGE_TEMPLATE.md", "CONTRIBUTING.md",
-                            "about/README.md"
+                            "about/README.md", "README.md"
                         ];
 var excludeFoldersFromDocToc = [
                             "./about", "./node_modules"
                         ];
 var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "USGS NASA", "MODIS", "CSV", "ECW", "GDB", "GeoCSV",
-                        "GeoJSON", "GML", "GPKG", "GPX", "GTFS", "KML", "KML",
+                        "GeoJSON", "GML", "GPKG", "GPX", "GTFS", "KML", "KMZ",
                         "LAS", "MDB", "MMPK", "TopoJSON", "OGC", "CAD",
                         "AppStudio", "AWS", "JS", "jQuery", "ExtJS", "iOS",
                         "ArcCatalog", "ArcMap", "GeoAnalytics", "GeoEvent",

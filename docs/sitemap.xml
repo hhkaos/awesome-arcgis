@@ -9,6 +9,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/arcade/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/best-practices/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/best-practices/performance/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/best-practices/security/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/best-practices/security/resource-proxy/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/capabilities/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/capabilities/offline/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -48,6 +49,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/topojson/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/service-types/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/service-types/feature-service/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/service-types/map-service/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/service-types/map-service/dynamic-map-service/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/service-types/map-service/tile-map-service/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/service-types/map-service/tile-map-service/image-tiles/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -89,6 +91,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/developers/developer-plan/patterns/extend/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/devops/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/devops/best-practices/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/developers/devops/technologies/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/devops/technologies/aws/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/devops/technologies/koop/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/devops/technologies/wordpress/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -221,5 +224,4 @@
 <url> <loc>https://hhkaos.github.io/esri/support/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/gis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/gis/utils/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://hhkaos.github.io/FILE_FORMAT_PAGE_TEMPLATE.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

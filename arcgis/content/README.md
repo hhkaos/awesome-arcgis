@@ -34,7 +34,7 @@ There are several places in the ArcGIS Platform where you can find/share content
 
 |Source|Authoritative|Who publish?|
 |---|---|---|
-|[Living atlas](../products/living-atlas/README.md)|Yes|Esri, partners and customers
+|[Living atlas](../living-atlas/README.md)|Yes|Esri, partners and customers
 |[ArcGIS Online Ready to use services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)|Yes|Esri
 |[Marketplace](../marketplace/README.md)|Yes|Esri and partners
 |[ArcGIS Online community](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#tips-and-tricks-arcgis-online)|Mixed|Any ArcGIS user

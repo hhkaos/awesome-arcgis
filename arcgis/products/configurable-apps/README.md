@@ -34,6 +34,7 @@ mechanism that allows users of an organization to create and configure
 ---
 
 ## Introduction
+
 So far Esri has released more than 40 [open source templates](#apps-developed-by-esri)
 with different purposes: collect/edit data, compare maps/layers,
 explore/summarize data, get directions, map social media, provide local
@@ -64,6 +65,7 @@ Esri's formal training: (*available with a current maintenance subscription*)
 > **Paid course**: [Creating Story Maps with ArcGIS](https://www.esri.com/training/catalog/5887d359378ef44b34da22b2/creating-story-maps-with-arcgis/)
 
 ### Videos / Technical talks
+
 On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#?sortby=recent) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
 
 |Source|Title|Length|
@@ -84,6 +86,7 @@ On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#
 
 
 ### Documentation
+
 * How to use ArcGIS [Web Map Viewer](../web-map-viewer/README.md) to
 [build web applications using web maps webmaps](https://doc.arcgis.com/en/arcgis-online/create-maps/create-map-apps.htm)
 * [How to create a configurable app template](https://doc.arcgis.com/en/arcgis-online/create-maps/create-app-templates.htm)
@@ -93,13 +96,13 @@ On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#
 Map:  [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
 
 ## Apps developed by Esri
+
 The [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js) is a starter application that simplifies the process of building templates for the ArcGIS.com template gallery.
 
 * [geoform-template-js](https://github.com/Esri/geoform-template-js): GeoForm is a configurable template for form based data editing of a Feature Service.
 
 * [social-media-map-template-js](https://github.com/Esri/social-media-map-template-js):
 The Social Media Template has an innovative use of social media, which allows you to display up-to-date, keyword-targeted social media points on a map.
-
 
 * [public-information-map-template-js](https://github.com/Esri/public-information-map-template-js): An ArcGIS Online mapping template to showcase social media on a map for disaster response and public information.
 
@@ -210,6 +213,7 @@ If you have a question about a specific storymap **we highly recommend you to op
 * If you need help with a specific configurable app try at the repository issues
 
 ## Share your work
+
 You are always welcome to share your work at [GeoNet](https://community.esri.com/groups/arcgis-online-templates), Twitter and Linkedin (do not forget to mention: [@EsriStoryMaps](http://www.twitter.com/EsriStoryMaps)), [storymaps influencers](#people-you-should-know), etc. But you can also:
 
 * Share a **story map** submitting it to [Planet Story Maps](http://go.esri.com/planet-story-maps), an Esri e-newsletter featuring cool new story map examples, tips to help you produce better story maps, announcements about new apps and contests, and more. [Maria Jordan](https://www.linkedin.com/in/maria-jordan-68523325/) is the editor. Contact her at [mjordan@esri.com](mailto:mjordan@esri.com).
@@ -227,6 +231,7 @@ Are you interested on selling your app? Then can do it if you you have:
 You just need to publish your app here: [arcgis.domake.io](https://arcgis.domake.io/)
 
 ## People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Storymaps](https://esri-es.github.io/arcgis-experts/?topic=Storymaps)
 
 They don't work on the support team and some may even not work at Esri,

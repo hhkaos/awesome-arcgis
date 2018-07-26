@@ -68,7 +68,7 @@ The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/READ
 ## Content for this industry
 
 * [ArcGIS Hub](../../../arcgis/products/arcgis-hub/README.md): use Open Data to build your own game.
-* [Living Atlas](../../../arcgis/products/living-atlas/README.md): basemaps, imagery, boundaries, people, infrastructure, environment, etc.
+* [Living Atlas](../../../arcgis/living-atlas/README.md): basemaps, imagery, boundaries, people, infrastructure, environment, etc.
 * [ArcGIS Online ready to use services](../../../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md): elevation, geocoding, geoenrichment, etc.
 * ArcGIS Online public content:
     * [VR360](https://www.arcgis.com/home/search.html?q=typekeywords%3AVR360&t=content&start=1&sortOrder=desc&sortField=relevance): An 360-degree virtual reality experience that lets you explore a set of connected, geo-located panoramic 3D visualizations or photos

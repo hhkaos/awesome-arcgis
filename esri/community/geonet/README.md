@@ -16,7 +16,8 @@
 
 ## Introduction
 
-[Geonet.esri.com](https://geonet.esri.com/)
+* [GeoNet.esri.com](https://geonet.esri.com/)
+* [Developer communities at GeoNet](https://community.esri.com/community/developers)
 
 ## Training
 

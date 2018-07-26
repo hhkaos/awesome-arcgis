@@ -173,7 +173,7 @@
       - [Spatial Analyst](arcgis/products/extensions/spatial-analyst/README.md)
       - [Workflow Manager](arcgis/products/extensions/workflow-manager/README.md)
     - [Insights For ArcGIS](arcgis/products/insights-for-arcgis/README.md)
-    - [Living Atlas](arcgis/products/living-atlas/README.md)
+    - [Living Atlas](arcgis/living-atlas/README.md)
     - [Marketplace](arcgis/products/marketplace/README.md)
     - [Navigator For ArcGIS](arcgis/products/navigator-for-arcgis/README.md)
     - [Operations Dashboard](arcgis/products/operations-dashboard/README.md)

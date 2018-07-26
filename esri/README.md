@@ -183,6 +183,7 @@ Esri employees:
 
 * [ArcGIS Earth](https://twitter.com/ArcGISEarth)
 * [ArcGIS Javascript](https://twitter.com/ArcGISJSAPI)
+* [ArcPy](https://twitter.com/arcpy)
 * [ArcGIS Apps](https://twitter.com/ArcGISApps)
 * [AppStudio for ArcGIS](https://twitter.com/AppStudioArcGIS)
 * [ArcGIS Enterprise](https://twitter.com/ArcGISXprise)
@@ -238,10 +239,15 @@ Esri employees:
 
 * [GeoNet](https://twitter.com/EsriGeoNet)
 * [Esri DC](https://twitter.com/EsriDC)
+* [Esri PDX](https://twitter.com/esripdx)
 * [Esri Geospatial](https://twitter.com/Esri_Geospatial)
 * [Esri Mapping Center](https://twitter.com/mappingcenter)
 * [Esri Young Pros](https://twitter.com/EsriYPN)
 * [Esri WAsia|ME|Africa](https://twitter.com/EsriWAMEA)
+
+### Esri Twitter lists
+
+* [EsriGeoDev/esri-accounts](https://twitter.com/EsriGeoDev/lists/esri-accounts/members).
 
 ## Github accounts
 

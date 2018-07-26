@@ -1,6 +1,6 @@
-> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+> **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Account types
+# ArcGIS account types
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -19,51 +19,68 @@
 
 ## Account types
 
-If you are planning to use ArcGIS you will need to learn to differentiate all the account types you can get.
+If you are planning to use ArcGIS **we strongly recommend you to understand the differences** between all the account types you can get **before signing up**.
 
-### Developer Account (arcgis.com)
+|Account type|Cost|Sign up|
+|---|---|
+|[Developer account](#developer-account-arcgiscom)|Free|[Sign up](https://developers.arcgis.com/sign-up/)
+|[ArcGIS Online Organization Account](#arcgis-online-organization-account-arcgiscom)|Trial (21-Day)|[Sign up](http://www.arcgis.com/features/free-trial.html)
+|[ArcGIS Online Organization Account](#arcgis-online-organization-account-arcgiscom)|Paid|[Buy now](http://www.esri.com/software/arcgis/arcgisonline/purchase)
+|[ArcGIS Online Public Account](#arcgis-online-public-account-arcgiscom)|Free|[Sign up](https://www.arcgis.com/home/createaccount.html)
+|[Esri Account](#esri-account-esricom)|Free|[Sign up](https://accounts.esri.com/signup)
 
-This is the one you will use if you have never use ArcGIS before.
+> **Note**: if you meet the criteria, you can also join to the **3 years [Esri Startup Program](../../esri/startup-program/README.md)** to get most of the tools for free.
 
-After signing up you will get one level 2 [named users](./name-users/README.md) with 50 [ArcGIS Online credits](../products/arcgis-online/credits/README.md) (per month) that will give you access to:
+### Developer account (arcgis.com)
 
-* Developer tools included in the essentials plan
+**Account type**: FREE & unlimited time
+
+This is the one you should use if you want to play around with ArcGIS Online for non commercial purposes.
+
+After signing up you will get **one [level 2 named user](./name-users/README.md)** with 50 [ArcGIS Online credits](../products/arcgis-online/credits/README.md) (per month) that will give you access to:
+
+* Developer tools included in the [essentials plan](../developers/developer-plan/README.md)
 * Use [ArcGIS Online](../products/arcgis-online/README.md) tools for development and testing purposes, this will allow you to:
-    * [Store](../content/data-storage/README.md) and secure data
+    * [Store content](../content/data-storage/README.md) and secure data
     * Use the [Web Map Viewer](../products/web-map-viewer/README.md)
     * Use the [Web Scene Viewer](../products/web-scene-viewer/README.md)
     * Create [Story maps and Configurable Apps](../products/configurable-apps/README.md)
-* Register new applications to:
-  * Use [ArcGIS social login (using oAuth)](./name-users/oauth/README.md)
-  * Use [ArcGIS Online ready to use-services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)
-  * Access to [premium-content](../content/README.md)
-  * etc.
-* Beta software and the [Esri Early Adopter Community](https://www.esri.com/en-us/early-adopter) (EAC)
-* Benefit from [capabilities](../capabilities/README.md) likes:
-    * Offline Mapping
-    * Spatial analysis
+    * Use [ArcGIS Online ready to use-services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)
+* Access to [premium-content](../content/README.md), included the Esri [Living Atlas of the World](../living-atlas/README.md) that includes maps and data on thousands of topics.
+* Integrate [ArcGIS social login (using oAuth)](./name-users/oauth/README.md) in your applications
+* Join to the [Esri Early Adopter Community](https://www.esri.com/en-us/early-adopter) to get access to Beta software.
+* Benefit from capabilities like:
+    * [Offline Mapping](../capabilities/offline/README.md)
+    * [Spatial analysis](../capabilities/spatial-analysis/README.md)
     * ...
 * Access to the [ArcGIS marketplace](../marketplace/README.md)
-* Download some tools
-* Get temporary tokens
-* Etc.
+* Request a trial of [Insights for ArcGIS](../products/insights-for-arcgis/README.md)
+* A suite of ready-to-use apps like the [mobile apps](../mobile-apps/README.md)
+* etc.
 
 > Learn more about [pricing for developers](../developers/developer-plan/README.md)
 
-### ArcGIS Online Organization Account (arcgis.com)
+### ArcGIS Online Organization account (arcgis.com)
 
-> An Organization Account can do everything a Developer Account can do plus additional things.
+**Account type**: 21-Days Trial
+
+An Organization Account can do everything a Developer Account can do plus a few additional things:
+
+* Access to ArcGIS Online for up to 5 [named users](./name-users/README.md).
+* Access to [ArcGIS Pro](../products/arcgis-desktop/arcgis-pro/README.md).
+* 200 ArcGIS Online service credits instead of 50.
 
 If you work for a company with already use ArcGIS you will use the one.
 
-* Access to ArcGIS Online for up to 5 [named users](./name-users/README.md).
-* ArcGIS Pro desktop software.
-* Insights for ArcGIS, a web-based, data analytics workbench where you can explore spatial and non-spatial data.
-* A suite of ready-to-use apps for the office, field, and community that can be accessed on browsers, desktops, and mobile devices.
-* The Esri Living Atlas of the World that includes maps and data on thousands of topics.
-* 200 ArcGIS Online service credits that can be used for data storage, premium data access, performing geocoding, analysis, and more.
+### ArcGIS Online Public account (arcgis.com)
 
-### ArcGIS Online Public Account (arcgis.com)
+**Account type**: FREE & unlimited time
+
+[From ArcGIS Online Frequently asked questions](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor4):
+
+> **Can I use ArcGIS Online free?**
+>
+> Yes, if it is for noncommercial use. With a free public account, you can create, store, and manage maps, scenes, layers, and apps, and share them with others. You also get access to content shared by Esri and GIS users around the world.
 
 An ArcGIS Online Public Account is free allows anyone to:
 
@@ -72,27 +89,22 @@ An ArcGIS Online Public Account is free allows anyone to:
 * Create [Story maps and Configurable Apps](../products/configurable-apps/README.md)
 * etc.
 
-Limitations. You won't be able to anything that consume credits:
+Limitations. You won't be able to anything that consume [credits](../products/arcgis-online/credits/README.md):
 
 * Upload datasets
 * Perform analysis
+* Create hosted feature services
 * etc
 
-### Esri Account (esri.com)
+### Esri account (esri.com)
 
-When you are an **ArcGIS paid user** (Esri customer) **or a member of the Startup or Partner program**, this account is used to open support tickets, download some solutions, download some SDKs, etc.
+**Account type**: FREE & unlimited time
 
-## Get your account
+[From Esri.com Common Questions](https://accounts.esri.com/en/commonquestions):
 
-To be able to start using ArcGIS you can create/buy you own account, or if you meet the criteria, you can also join to the **3 years [Esri Startup Program](../../esri/startup-program/README.md) for free** to get most of the tools for free.
+> An Esri Account gives you access to all participating sections of Esri web sites that require a login. Esri Account also gives you free, limited access to ArcGIS Online (**Public Account**), if you do not have a subscription.
 
-|Account type & Sign up link|Price|
-|---|---|
-|[Developer account](https://developers.arcgis.com/sign-up/)|FREE|
-|[ArcGIS Online Organization Account](http://www.arcgis.com/features/free-trial.html)|TRIAL (21-Day)|
-|[ArcGIS Online Organization Account](http://www.esri.com/software/arcgis/arcgisonline/purchase)|Paid|
-|[ArcGIS Online Public Account](https://www.arcgis.com/home/createaccount.html)|FREE|
-|[Esri Account](https://accounts.esri.com/signup)|FREE|
+If you are an **ArcGIS paid user** (Esri customer) **or a member of the Startup or Partner program**, you will use this account to open support tickets, download some solutions, old SDKs, etc.
 
 ## Localized resources
 

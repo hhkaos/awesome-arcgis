@@ -48,6 +48,13 @@ The official channel maintained by Esri for the global community of ArcGIS users
 |[esri.com/arcgis-blog](https://www.esri.com/arcgis-blog/)|Any|+2.5K articles
 |[github.com/esri](http://github.com/esri)|Developers|+1.1K Q&A
 
+More:
+
+* [Stackoverflow ArcGIS Top Users](https://stackoverflow.com/tags/arcgis/topusers)
+* [Esri Github People](https://github.com/orgs/Esri/people)
+* [Meetup related to ArcGIS](https://www.meetup.com/topics/arcgis/global/)
+* [ArcGIS @ Linkedin](https://www.linkedin.com/topic/arcgis)
+
 ### Early Adopter Community
 
 Learn more about the: [Early Adopter Community](https://www.esri.com/en-us/early-adopter)
@@ -84,10 +91,12 @@ There are many **initiatives for developers** running simultaneously around Esri
 * [Geo-Developers on Meetup](https://www.meetup.com/Geo-Developers)
 * [Geo-Developers on Slack](https://docs.google.com/forms/d/e/1FAIpQLSd18XdM62wakhQCf1yZHbvFWLr2ztM-WN1PNDdI9Hr-hx2ElQ/viewform)
 * [Geo-Developers on Github](https://github.com/geo-developers)
-* [Geo-Developers Website](geodevelopers.org)
+* [Geo-Developers Website](https://geodevelopers.org)
 * [GeoDevelopers on Youtube](https://www.youtube.com/GeoDevelopers)
 * [@esri-es on Github](https://github.com/esri-es)
 * [Developers Blog in Spanish](http://desarrolladores.esri.es)
+* [GeoDev Spain at Geonet](https://community.esri.com/groups/geodev-spain)
+* [geodev.slack.com](https://geodev.slack.com)
 
 [More initiatives](https://github.com/esri-es/conferencia-usuarios/blob/master/2017/iniciativas-desarrolladores.md): Slack, etc.
 

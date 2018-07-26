@@ -2,8 +2,11 @@
   "title": "Awesome ArcGIS",
   "description": "Awesome resource list for ArcGIS Developers, built from the community for the community",
   "author": "https://github.com/hhkaos/awesome-arcgis/graphs/contributors",
-  "plugins": ["-lunr", "-search", "search-plus", "collapsible-menu", "sitemap", "ga", "disqus", "youtube", "feed"],
-  "ignores": ["_book","node_modules", "TODO", "ISSUE_TEMPLATE", "CONTRIBUTING", "PRODUCT_PAGE_TEMPLATE", "INDUSTRY_PAGE_TEMPLATE"],
+  "plugins":    ["-lunr", "-search", "search-plus", "collapsible-menu", "sitemap",
+                "ga", "disqus", "youtube", "feed"],
+  "ignores":    ["_book","node_modules", "TODO", "ISSUE_TEMPLATE", "CONTRIBUTING",
+                "PRODUCT_PAGE_TEMPLATE", "INDUSTRY_PAGE_TEMPLATE",
+                "FILE_FORMAT_PAGE_TEMPLATE"],
   "pluginsConfig": {
     "theme-default": {
       "showLevel": false,

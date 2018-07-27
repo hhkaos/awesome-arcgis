@@ -2,11 +2,13 @@
 
 # Esri Partner program members
 
+Esri has more than [1600 partners](http://www.esri.com/about-esri#who-we-are) worldwide.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Partners](#partners)
+- [Members](#members)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

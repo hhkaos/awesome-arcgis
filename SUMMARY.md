@@ -223,7 +223,7 @@
     - [Program Members](esri/partners/program-members/README.md)
       - [Barcelona Science](esri/partners/program-members/barcelona-science/README.md)
       - [Becks Hybrids](esri/partners/program-members/becks-hybrids/README.md)
-      - [Cotesa](esri/partners/program-members/cotesa/README.md)
+      - [COTESA](esri/partners/program-members/cotesa/README.md)
       - [dotGIS](esri/partners/program-members/dotgis/README.md)
       - [Leica](esri/partners/program-members/leica/README.md)
       - [OSIGris](esri/partners/program-members/osigris/README.md)

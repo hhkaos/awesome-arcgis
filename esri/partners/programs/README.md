@@ -8,7 +8,7 @@ Esri has four program for: traditional partners, startups, alliances and complem
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Introduction](#introduction)
+- [Programs](#programs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -229,7 +229,7 @@
       - [OSIGris](esri/partners/program-members/osigris/README.md)
       - [Team Dev](esri/partners/program-members/team-dev/README.md)
       - [Vexiza](esri/partners/program-members/vexiza/README.md)
-    - Programs
+    - [Programs](esri/partners/programs/README.md)
       - [Partner Program](esri/partners/programs/partner-program/README.md)
       - [Startup Program](esri/partners/programs/startup-program/README.md)
   - [R And D](esri/r-and-d/README.md)

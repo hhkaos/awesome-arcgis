@@ -13,7 +13,7 @@ GIS Solutions for your daily work | [dotgiscorp.com](https://www.dotgiscorp.com/
 
 ## Introduction
 
-**Web**: [dotGIS Corp SL](http://partners.esri.com/PartnerDetail?id=a2T390000003CN9EAM) | **Based in**: Madrid, Spain | **Program**: [Startup program](../../programs/startup-program/README.md)
+**Web**: [dotGIS Corp SL](http://partners.esri.com/PartnerDetail?id=a2T390000003CN9EAM) | **Based in**: Madrid, Spain | **Program**: [Startup program](../../programs/partners/programs/startup-program/README.md)
 
 It was founded in 2015 with the aim of bringing technology to the GIS user.
 

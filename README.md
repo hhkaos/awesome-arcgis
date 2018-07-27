@@ -19,4 +19,4 @@ This awesome compile more than 240 resource pages with more than 3500 resources.
 * **Get 360º view of a product/concept/etc**: use the search bar in to top left of this page to find the resource page at take you time to check all the resources
 * **Get started with ArcGIS or GIS**: go to the [ArcGIS](./arcgis/README.md) resource page a follow the "Getting started" guide
 * **If you are a developer and want to know what ArcGIS can offer to you**: check the [Developers resource page](./arcgis/developers/README.md)
-* **If you are a startup and want to know what Esri can offer to you**: check the [Startup Program resource page](./esri/startup-program/README.md)
+* **If you are a startup and want to know what Esri can offer to you**: check the [Startup Program resource page](./esri/partners/programs/startup-program/README.md)

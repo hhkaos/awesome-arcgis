@@ -13,7 +13,7 @@
 
 ## Introduction
 
-**Web**: [Vexiza S.L.](https://vexiza.com/) | **Based in**: León, Spain | **Program**: [NAME program](../../programs/startup-program/README.md)
+**Web**: [Vexiza S.L.](https://vexiza.com/) | **Based in**: León, Spain | **Program**: [NAME program](../../programs/partners/programs/startup-program/README.md)
 
 ## Platform experience
 

@@ -37,7 +37,7 @@ You have several options:
     * Wait until next month, your account will be refilled
     * Get an [ArcGIS Online Deployment Plan](https://developers.arcgis.com/pricing/credits/)
     * Get a voucher    
-* If you are an startup -> get into the [Startup program](../../../../esri/startup-program/README.md)
+* If you are an startup -> get into the [Startup program](../../../../esri/partners/programs/startup-program/README.md)
 * If you have an organization account -> buy additional credits
 
 ## Manage your credits

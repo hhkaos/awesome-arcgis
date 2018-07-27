@@ -32,7 +32,7 @@ GML (Geography Markup Language) is the XML standard of the OGC to represent info
 * **Status**: Standard, [ISO 19136:2007](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=32554)
 * **Sample file(s)**: [GML samples on GitHub Gist](https://gist.github.com/search?utf8=%E2%9C%93&q=gml+sample)
 * **Consumable by**:
-    * [ArcGIS Desktop using ArcGIS Data Interoperabilty](https://support.esri.com/en/technical-article/000009150) (included in the [Esri Startup Program](../../../../../esri/startup-program/README.md) and the [ArcGIS Developer Subscription Professional Plan](https://developers.arcgis.com/pricing/))
+    * [ArcGIS Desktop using ArcGIS Data Interoperabilty](https://support.esri.com/en/technical-article/000009150) (included in the [Esri Startup Program](../../../../../esri/partners/programs/startup-program/README.md) and the [ArcGIS Developer Subscription Professional Plan](https://developers.arcgis.com/pricing/))
 
 ## Introduction
 

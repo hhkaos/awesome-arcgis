@@ -67,7 +67,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?ei=eZXgWudZ
 
 ## Get the tool
 
-You can access to this tool though and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/) (Entreprise Plan) or if you are an Startup you could also request to join to the [Esri Startup program](../../../../../esri//startup-program/README.md).
+You can access to this tool though and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/) (Entreprise Plan) or if you are an Startup you could also request to join to the [Esri Startup program](../../../../../esri//partners/programs/startup-program/README.md).
 
 ## Awesome projects & cool demos
 

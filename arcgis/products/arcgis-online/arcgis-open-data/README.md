@@ -81,7 +81,7 @@ technology so we recommend you to follow them.
 
 It is an app included in the ArcGIS Online Organizational Account. So you can try the [free trial](http://www.esri.com/software/arcgis/free-trial) or get it:
 
-* Through the [Startup program](../../../../esri/startup-program/README.md)
+* Through the [Startup program](../../../../esri/partners/programs/startup-program/README.md)
 * [Purchasing an ArcGIS Online Named User Annual Subscription](https://www.esri.com/en-us/store/arcgis-online/arcgis-online-named-users)
 
 ## Resources

@@ -91,7 +91,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 You can get an [ArcGIS Online Organization Account](../../../account-types/README.md) (21-Day trial) to test ArcGIS Pro, and you can get a [Builder Plan](https://developers.arcgis.com/pricing/) if for development purposes. After that you will be able to [download the ArcGIS Pro SDK from my.esri.com](http://links.esri.com/pro/download/current).
 
-If you are part of the [Esri Startup Program](../../../../esri/startup-program/README.md) you will also get access to it.
+If you are part of the [Esri Startup Program](../../../../esri/partners/programs/startup-program/README.md) you will also get access to it.
 
 ## Code
 

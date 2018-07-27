@@ -152,5 +152,5 @@ Videos:
 
 ### Other related list of resources
 
-* [Indoor mapping with ArcGIS Indoors and IMDF for Apple Maps](https://www.youtube.com/watch?v=05kg2C5rwqc&feature=youtu.be): you can get FME for free for one year joining the [Startup Program](../../startup-program/README.md)
+* [Indoor mapping with ArcGIS Indoors and IMDF for Apple Maps](https://www.youtube.com/watch?v=05kg2C5rwqc&feature=youtu.be): you can get FME for free for one year joining the [Startup Program](../../partners/programs/startup-program/README.md)
 * You should also check the [BIM resource page](../bim/README.md).

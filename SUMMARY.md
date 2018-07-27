@@ -218,7 +218,7 @@
       - [Web Map](esri/open-vision/open-specifications/web-map/README.md)
       - [Web Scene](esri/open-vision/open-specifications/web-scene/README.md)
   - [R And D](esri/r-and-d/README.md)
-  - [Startup Program](esri/startup-program/README.md)
+  - [Startup Program](esri/partners/programs/startup-program/README.md)
   - [Support](esri/support/README.md)
 - [GIS](gis/README.md)
   - [Utils](gis/utils/README.md)

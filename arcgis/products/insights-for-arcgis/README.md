@@ -63,7 +63,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 You need to have a developer subscription or an ArcGIS Online Trial Organizational account and the go to the [ArcGIS Marketplate](https://marketplace.arcgis.com/listing.html?id=18cc7f0e72764dc1ba0cbe82f2273437%20) and use the trial or buy an annual license.
 
-This product is not provided though the [Esri Startup Program](../../../esri/startup-program/README.md) (or any other program).
+This product is not provided though the [Esri Startup Program](../../../esri/partners/programs/startup-program/README.md) (or any other program).
 
 ## Coding
 

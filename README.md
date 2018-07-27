@@ -4,17 +4,26 @@
 
 # Awesome list for ArcGIS
 
-ArcGIS is a 360º [GIS](./gis/README.md) software platform built by Esri and it already have more than
-100 products.
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of contents**
 
-Many of those products are ready to use software like desktop
-applications or mobile applications but there are also **many APIs and SDKs for [developers](arcgis/developers/README.md)**.
+- [About ArcGIS](#about-arcgis)
+- [How to use this project](#how-to-use-this-project)
 
-Learn more about the [ArcGIS platform](./arcgis/README.md) and the company behind it [Esri](./esri/README.md).
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## About ArcGIS
+
+ArcGIS is a 360º [GIS](./gis/README.md) software platform built by Esri made up of more than 100 products.
+
+Many of those products are ready to use software, like desktop or mobile applications but there are also **many APIs and SDKs for [developers](arcgis/developers/README.md)**.
+
+Learn more about the [ArcGIS platform](./arcgis/README.md) and [Esri](./esri/README.md), the company behind it.
 
 ## How to use this project
 
-This awesome compile more than 240 resource pages with more than 3500 resources. There are resource pages about products, industries, general concepts, etc. so we are going to give you some advices based on what you are looking for:
+This awesome list compile more than 240 resource pages with more than 3500 resources. There are resource pages about products, industries, GIS and ArcGIS concepts, partners, etc. so we are going to give you some advices based on what you are looking for:
 
 * **Get 360º view of a product/concept/etc**: use the search bar in to top left of this page to find the resource page at take you time to check all the resources
 * **Get started with ArcGIS or GIS**: go to the [ArcGIS](./arcgis/README.md) resource page a follow the "Getting started" guide

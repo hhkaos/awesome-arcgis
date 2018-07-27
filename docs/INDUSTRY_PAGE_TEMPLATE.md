@@ -125,8 +125,8 @@ ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=ow
 
 Organizations with expertise on this topic:
 
-|Company|Services|Product|Country|
+|Company|Background|Country|
 |---|---|---|---|
-|[Name](#)|Fill|Name it|Country
+|[Name](#../../partners/program-members/company/README.md)|Services/Product/Projects|Country
 
-*Is there any partner or startup you can had with expertise on this topic?*
+*Is there any partner or startup you can had with expertise on this industry?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

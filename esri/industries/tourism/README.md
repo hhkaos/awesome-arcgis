@@ -63,3 +63,13 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
     * Video: [Esri UC 2010 Lightning Talks: Augmented Reality—Buzz Word or Business Bonanza](https://www.youtube.com/watch?v=VE7aB_-sTXk)
 * GeoDesign & tourism: [A Digital Workflow for Dynamic Geodesign](https://youtu.be/QERJbL9J1Xw?t=15m48s)
 * [ArcGIS Online items tagged with "tourism"](https://www.arcgis.com/home/search.html?t=content&q=tags%3Atourism&start=1&sortOrder=desc&sortField=relevance&focus=applications-web)
+
+## Partners and startups
+
+Organizations with expertise on this topic:
+
+|Company|Background|Country|
+|---|---|---|
+|[Cotesa](../../partners/program-members/cotesa/README.md)|Granada Human Smart City|Spain
+
+*Is there any partner or startup you can had with expertise on this industry?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

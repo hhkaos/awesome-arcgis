@@ -16,11 +16,13 @@ Find the full list at the [Partner directory](http://partners.esri.com/)
 
 Here you will find a list
 
-* Barcelona Science
-* DotGIS
-* OSIGris
-* SRM
-* Vexiza
-* |[Beck's Hybrids](https://www.beckshybrids.com/)|n.a.| [FarmServer](https://www.farmserver.com/)|USA
-* [TeamDev](https://www.teamdev.it/)|n.a.|n.a.|Italy
-* |[Cotesa](https://www.grupotecopy.es/es/nosotros/organizacion/cotesa)
+* [Barcelona Science](./barcelona-science/README.md)
+* [Beck's Hybrids](./becks-hybrids/README.md)
+* [Cotesa](./cotesa/README.md)
+* [DotGIS](./dotgis/README.md)
+* [Leica](./leica/README.md)
+* [OSIGris](./osigris/README.md)
+* [Team-Dev](./team-dev/README.md)
+* [Vexiza](./vexiza/README.md)
+
+> Feel free to improve/extend this list. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

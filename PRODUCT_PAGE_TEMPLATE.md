@@ -164,4 +164,4 @@ Organizations with expertise on this topic:
 |---|---|---|---|
 |[Name](#link-to-awesome-page)|Fill|Name it|Country
 
-*Is there any partner or startup you can had with expertise on this topic?*
+*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

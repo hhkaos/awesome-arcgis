@@ -8,6 +8,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Platform experience](#platform-experience)
+  - [Developer products](#developer-products)
+- [Products](#products)
+- [Background](#background)
+- [Esri related news & demos](#esri-related-news--demos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -62,6 +68,20 @@ Here you will their experience working with ArcGIS on different projects and ref
 * [Emerging technologies](../../../emerging-technologies/README.md)
 ```
 
+> **Recommendation**: include references to success stories from Esri website if there is any.
+
 ## Esri related news & demos
 
 *Presentations, news, ...*
+
+## Additional resources
+
+Replace `PARTNER` in the next paragraph and remove the \`\`\`.
+
+```
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PARTNER"](https://esri-es.github.io/arcgis-search/?search="PARTNER"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+```
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](../../../../PARTNER_PAGE_TEMPLATE.md)

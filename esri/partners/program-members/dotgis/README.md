@@ -19,7 +19,6 @@ It was founded in 2015 with the aim of bringing technology to the GIS user.
 
 ## Platform experience
 
-
 |Product|Where|Short description|
 |---|---|---|
 |[ArcGIS Pro](../../../../arcgis/products/arcgis-desktop/arcgis-pro)|Solarmap|Geodata management and launch of geoprocesses created with ArcPy.
@@ -64,19 +63,17 @@ Products developed on top of the ArcGIS platform or integrated with ArcGIS:
 |---|---|---|
 |[SolarMap](http://www.solarmap.es/)|ArcGIS based|How much energy can I generate on my roof?|
 
-## Background
-
-```
-Here you will their experience working with ArcGIS on different projects and references to their work with Esri customers:
-
-* [Industries](../../../industries/README.md)
-* [Business trends](../../../business-trends/README.md)
-* [Emerging technologies](../../../emerging-technologies/README.md)
-```
-
 ## Esri related news & demos
 
 * Resources in spanish:
     * [Jornada Técnica: MAPATÓN a partir de datos abiertos para el Ayuntamiento de Oviedo](http://www.esri.es/evento/jornada-tecnica-mapaton-partir-datos-abiertos-ayuntamiento-oviedo/)
     * [dotGIS en la Conferecia Esri 2017](https://www.youtube.com/watch?v=bNDt2IdAqXs)
     * [Entrevista a DotGIS en la CEsri17](https://www.youtube.com/watch?v=d0pbB_JBHbo)
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["dotGIS"](https://esri-es.github.io/arcgis-search/?search="dotGIS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](../../../../PARTNER_PAGE_TEMPLATE.md)

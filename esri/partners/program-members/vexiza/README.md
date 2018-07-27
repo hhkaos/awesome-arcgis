@@ -2,7 +2,7 @@
 
 # Vexiza
 
-*Soluciones GIS para tus proyectos | [vexiza.com](https://vexiza.com/)*
+Soluciones GIS para tus proyectos | [vexiza.com](https://vexiza.com/)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -37,3 +37,11 @@ From a developer perspective:
 |[ArcGIS REST API](../../../open-vision/open-specifications/arcgis-rest-api/README.md)|n.a.|Build geoprocesses in various projects for the management of mobility in traffic, emergencies and treatment of meteorological information.
 |[ArcGIS Runtime SDK for .NET](../../../../arcgis/developers/desktop/technologies/dot-net/README.md)|n.a.|Build an application for emergency resource management.
 |[ArcGIS Runtime SDK for Android](../../../../arcgis/developers/mobile/technologies/android/README.md)|n.a.|Build light clients for emergency management from the field.
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Vexiza"](https://esri-es.github.io/arcgis-search/?search="Vexiza"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](../../../../PARTNER_PAGE_TEMPLATE.md)

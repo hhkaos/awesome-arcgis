@@ -18,17 +18,17 @@
 
 GIS Partners fall into six categories according to the type of offerings they provide to users:
 
-* **Solutions**: Applications, product suites, and customized solutions that solve problems across business functions.
+* **[Solutions](http://partners.esri.com/partnerSearch)**: Applications, product suites, and customized solutions that solve problems across business functions.
 
-* **Services**: Best-in-class consulting, training, and development to help organizations maximize return on investment in the ArcGIS platform.
+* **[Services](http://partners.esri.com/partnerSearch)**: Best-in-class consulting, training, and development to help organizations maximize return on investment in the ArcGIS platform.
 
-* **Systems integration**: Integration of ArcGIS, IT and hardware infrastructure to support the development of new enterprise capabilities - from concept to completion.
+* **[Systems integration](http://partners.esri.com/partnerSearch)**: Integration of ArcGIS, IT and hardware infrastructure to support the development of new enterprise capabilities - from concept to completion.
 
-* **Content**: Release-ready imagery, data, and analytics that enrich ArcGIS and can be used to create beautiful, shareable maps and outputs that enhance decision making.
+* **[Content](../../../../arcgis/content/data-providers/README.md)**: Release-ready imagery, data, and analytics that enrich ArcGIS and can be used to create beautiful, shareable maps and outputs that enhance decision making.
+
+* **[Hardware](http://partners.esri.com/PartnerSearch)**: Packaged solutions, bundled offers and devices for use with Esri technology.
 
 * **Management consulting**: Enabling holistic change with a focus on process and performance improvements that address short and long-term needs when integrating ArcGIS.
-
-* **Hardware**: Packaged solutions, bundled offers and devices for use with Esri technology.
 
 ## Partner specialties
 

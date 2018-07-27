@@ -14,6 +14,8 @@
 - [Products](#products)
 - [Background](#background)
 - [Esri related news & demos](#esri-related-news--demos)
+- [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

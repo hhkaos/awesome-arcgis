@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# [PARTNER]
+# COTESA
 
 Experts in studies, projects and technical assistances of civil and industrial engineering, new technologies and geographic information systems | [grupotecopy.es](https://www.grupotecopy.es/es/nosotros/organizacion/cotesa)
 

@@ -11,11 +11,9 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Partners
+## Members
 
-Find the full list at the [Partner directory](http://partners.esri.com/)
-
-Here you will find a list
+Find the full list at the [Partner directory](http://partners.esri.com/). Here you will find more details of a few of them:
 
 * [Barcelona Science](./barcelona-science/README.md)
 * [Beck's Hybrids](./becks-hybrids/README.md)

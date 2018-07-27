@@ -25,7 +25,7 @@ var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "ArcCatalog", "ArcMap", "GeoAnalytics", "GeoEvent",
                         "Power BI", "APIs", "AppBuilder", "BIM", "BI",
                         "GeoNet", "AR", "IoT", "UAVs", "VR", "REST", "API",
-                        "dotGIS", "SRM", "OSIGris"];
+                        "dotGIS", "SRM", "OSIGris", "COTESA"];
 
 var walk = function(dir, done) {
         var results = [];

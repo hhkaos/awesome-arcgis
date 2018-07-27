@@ -29,11 +29,11 @@ It was founded in 2015 with the aim of bringing technology to the GIS user.
 |[Web AppBuilder](../../../../arcgis/products/web-appbuilder/README.md)|SolarMap|User interface for demos
 |[Operations Dashboard](../../../../arcgis/products/operations-dashboard/README.md)|SolarMap|User interface for data analysis demos
 |[Storymaps](../../../../arcgis/products/configurable-apps/README.md)|SolarMap|Brand awareness
-|[ArcGIS Data Reviewer Extension](../../../../arcgis/products/extensions/data-reviewer/README.md)|n.a.|Data Validation and create hexagonal grid
+|[ArcGIS Data Reviewer Extension](../../../../arcgis/products/extensions/data-reviewer/README.md)|n.a.|Data Validation and create hexagonal grid (ArcGIS Pro)
 |[ArcMap](../../../../arcgis/products/arcgis-desktop/arcmap-arccatalog/README.md)|n.a.| Cartography and toolboxes
 |[ArcGIS Maps for Office](../../../../arcgis/products/arcgis-maps-for-office/README.md)|n.a.| Create a quickly map from Excel
-|[Network Analyst Extension](../../../../arcgis/products/extensions/network-analyst/README.md)|n.a.|Create network datasets with different travel modes
-|[Data Interoperability Extension](../../../../arcgis/products/extensions/data-interoperability/README.md)|n.a.|Transform IFC (BIM) to multipatch
+|[Network Analyst Extension](../../../../arcgis/products/extensions/network-analyst/README.md)|n.a.|Create network datasets with different travel modes (ArcMap and Server)
+|[Data Interoperability Extension](../../../../arcgis/products/extensions/data-interoperability/README.md)|n.a.|Transform IFC (BIM) to multipatch (ArcMap and ArcGIS Pro)
 |[Collector for ArcGIS](../../../../arcgis/products/collector-for-arcgis/README.md)|n.a.|Collect data in the field
 |[Workforce for ArcGIS](../../../../arcgis/products/workforce/README.md)|n.a.|Assign work to field workers
 |[Esri City Engine](../../../../arcgis/products/city-engine/README.md)|n.a.|Modeling 3D buildings with real texture and 3D furniture

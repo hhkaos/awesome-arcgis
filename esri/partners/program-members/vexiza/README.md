@@ -13,13 +13,13 @@ Soluciones GIS para tus proyectos | [vexiza.com](https://vexiza.com/)
 
 ## Introduction
 
-**Web**: [Vexiza S.L.](https://vexiza.com/) | **Based in**: León, Spain | **Program**: [NAME program](../../programs/partners/programs/startup-program/README.md)
+**Web**: [Vexiza S.L.](https://vexiza.com/) | **Based in**: León, Spain | **Program**: [Startup program](../../programs/partners/programs/startup-program/README.md)
 
 ## Platform experience
 
 |Product|Where|Short description|
 |---|---|---|
-|[ArcGIS Network Analyst](../../../../arcgis/products/extensions/network-analyst/README.md)|n.a.|Create navigable networks and incorporation of restrictions and limitations of passage.
+|[ArcGIS Network Analyst](../../../../arcgis/products/extensions/network-analyst/README.md)|n.a.|Create navigable networks and incorporation of restrictions and limitations of passage. (With ArcMap & ArcGIS Server)
 |[ArcGIS Online](../../../../arcgis/products/arcgis-online/README.md)|n.a.|Publish map and application services, and their implementation in extensions to exploit the published information by creating dashboards and graphs.
 |[ArcGIS Server](../../../../arcgis/products/arcgis-enterprise/arcgis-server/README.md)|n.a.|Publish custom geoprocess and map services, which will be used in different applications, customizations of access capabilities to different services and performance optimizations.
 |[Portal for ArcGIS](../../../../arcgis/products/arcgis-enterprise/portal-for-arcgis/README.md)|n.a.|Design a corporate Portal where to dump geographic information and its representation on maps and corporate applications.

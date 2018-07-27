@@ -76,3 +76,13 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 #### Spanish
 
 * [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)
+
+## Partners and startups
+
+Organizations with expertise on this topic:
+
+|Company|Description|Country|
+|---|---|---|---|
+|[Leica](../../../esri/partners/program-members/leica/README.md)|ZenoCollector|Switzerland
+
+*Is there any partner or startup you can had with expertise on this topic?*

@@ -5,14 +5,13 @@ var path = require('path');
 var excludeFromLinkChecker = [
                                 "docs", "ISSUE_TEMPLATE.md", "CONTRIBUTING.md",
                                 "INDUSTRY_PAGE_TEMPLATE.md", "PRODUCT_PAGE_TEMPLATE.md",
-                                "FILE_FORMAT_PAGE_TEMPLATE.md", "node_modules"
+                                "FILE_FORMAT_PAGE_TEMPLATE.md", "PARTNER_PAGE_TEMPLATE.md", "node_modules"
                              ];
 
 // Avoid this files to create/update their TOCs
 var excludeFileFromDocToc = [
-                            "ISSUE_TEMPLATE.md", "INDUSTRY_PAGE_TEMPLATE.md",
-                            "PRODUCT_PAGE_TEMPLATE.md", "SUMMARY.md",
-                            "FILE_FORMAT_PAGE_TEMPLATE.md", "CONTRIBUTING.md",
+                            "ISSUE_TEMPLATE.md",
+                            "SUMMARY.md", "CONTRIBUTING.md",
                             "about/README.md", "README.md"
                         ];
 var excludeFoldersFromDocToc = [
@@ -25,7 +24,8 @@ var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "AppStudio", "AWS", "JS", "jQuery", "ExtJS", "iOS",
                         "ArcCatalog", "ArcMap", "GeoAnalytics", "GeoEvent",
                         "Power BI", "APIs", "AppBuilder", "BIM", "BI",
-                        "GeoNet", "AR", "IoT", "UAVs", "VR", "REST", "API"];
+                        "GeoNet", "AR", "IoT", "UAVs", "VR", "REST", "API",
+                        "dotGIS", "SRM", "OSIGris"];
 
 var walk = function(dir, done) {
         var results = [];

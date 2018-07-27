@@ -8,6 +8,11 @@ Soluciones GIS para tus proyectos | [vexiza.com](https://vexiza.com/)
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Platform experience](#platform-experience)
+  - [Developer products](#developer-products)
+- [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

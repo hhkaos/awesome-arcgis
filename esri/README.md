@@ -25,6 +25,7 @@
   - [Training & learning](#training--learning)
   - [Topics](#topics)
   - [Other accounts](#other-accounts)
+  - [Esri Twitter lists](#esri-twitter-lists)
 - [Github accounts](#github-accounts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -8,6 +8,10 @@ Leica Geosystems based in eastern Switzerland produces products and systems for 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [ArcGIS compatible products developed](#arcgis-compatible-products-developed)
+- [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -8,6 +8,11 @@ Family-owned and operated seed company that serves farmers | [beckshybrids.com](
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Products](#products)
+- [Background](#background)
+- [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

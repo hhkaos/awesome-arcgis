@@ -7,6 +7,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+  - [Localized resources](#localized-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

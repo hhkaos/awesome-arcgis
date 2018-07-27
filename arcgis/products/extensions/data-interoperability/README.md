@@ -9,23 +9,6 @@ ArcGIS Data Interoperability is an extension for ArcGIS Pro, ArcMap, and ArcGIS 
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Training](#training)
-  - [Documentation](#documentation)
-  - [Tutorials](#tutorials)
-  - [Videos](#videos)
-  - [Slides](#slides)
-- [Get the tool](#get-the-tool)
-- [Coding](#coding)
-  - [Code](#code)
-  - [Tools](#tools)
-- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
-- [Support and Community](#support-and-community)
-  - [People you should know](#people-you-should-know)
-- [News](#news)
-- [Additional resources](#additional-resources)
-  - [Localized resources](#localized-resources)
-  - [Other related list of resources](#other-related-list-of-resources)
-- [Partners and startups](#partners-and-startups)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

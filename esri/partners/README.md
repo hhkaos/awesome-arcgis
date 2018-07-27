@@ -8,6 +8,9 @@ Esri has more than [1600 partners](http://www.esri.com/about-esri#who-we-are) wo
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Partner programs](#partner-programs)
+- [Program members](#program-members)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

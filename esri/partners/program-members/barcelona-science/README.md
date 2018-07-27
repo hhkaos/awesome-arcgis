@@ -8,6 +8,12 @@ Software for a sustainable planet, Earth sciences software and services | [barce
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Platform experience](#platform-experience)
+  - [Developer products](#developer-products)
+- [Products](#products)
+- [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

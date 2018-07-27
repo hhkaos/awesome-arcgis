@@ -8,6 +8,13 @@ GIS Solutions for your daily work | [dotgiscorp.com](https://www.dotgiscorp.com/
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
+- [Platform experience](#platform-experience)
+  - [Developer products](#developer-products)
+- [Products](#products)
+- [Esri related news & demos](#esri-related-news--demos)
+- [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

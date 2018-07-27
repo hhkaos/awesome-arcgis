@@ -12,7 +12,7 @@ var excludeFromLinkChecker = [
 var excludeFileFromDocToc = [
                             "ISSUE_TEMPLATE.md",
                             "SUMMARY.md", "CONTRIBUTING.md",
-                            "about/README.md", "README.md"
+                            "about/README.md", "./README.md"
                         ];
 var excludeFoldersFromDocToc = [
                             "./about", "./node_modules"

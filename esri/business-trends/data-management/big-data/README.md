@@ -48,3 +48,12 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 * [Big Data at esri.com search engine](https://www.esri.com/en-us/search#/?q=big+data&v=0&tab=Explore&page=1)
 * [Blog Posts about Big Data inside Places at GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bblogpost%5D)
+
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["big data"](https://esri-es.github.io/arcgis-search/?search="big data"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+* [Cómo adoptar una estrategia de éxito en Big Data y Artificial Intelligence con AWS - CEsri17](https://www.youtube.com/watch?v=DiQWviULaXg&feature=youtu.be)

@@ -121,6 +121,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 |Title|Length|
 |---|---|
 |[DataScience Toolbox e integración con ArcGIS y Machine Learning](https://www.youtube.com/watch?v=yCPKsOEI9GU)|2 Nov. 2017|
+|[Cómo adoptar una estrategia de éxito en Big Data y Artificial Intelligence con AWS - CEsri17](https://www.youtube.com/watch?v=DiQWviULaXg&feature=youtu.be)|2 Nov. 2017|
 |[Spatial Data Science con R](https://youtu.be/Z4k7Q6dvLK8)|28 Jul. 2016|
 
 ### Other related list of resources

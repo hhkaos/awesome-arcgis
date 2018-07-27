@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Esri
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -30,7 +31,7 @@
 
 ## Introduction
 
-[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/Pledger.aspx?id=186). Today it software ( [ArcGIS](https://en.wikipedia.org/wiki/ArcGIS) ) is been used by a [40% of the global market](https://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](http://www.esri.com/about-esri#who-we-are), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
+[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/Pledger.aspx?id=186). Today it software ( [ArcGIS](https://en.wikipedia.org/wiki/ArcGIS) ) is been used by a [40% of the global market](https://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](./partners/README.md), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
 
 It [organize multiple events](http://www.esri.com/events) annually and the biggest one (the [User Conference](http://www.esri.com/about/events/uc) in San Diego) brings together more than 15000 users. There is also a developer focused event, the **Developer Summit**, it take place at [Palm Springs](http://www.esri.com/events/devsummit) (USA) and [Berlin](http://www.esri.com/events/devsummit-europe) (EU) every year.
 

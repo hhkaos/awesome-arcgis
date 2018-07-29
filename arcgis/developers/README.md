@@ -2,13 +2,13 @@
 
 # ArcGIS Developers
 
-No matter your background or your favorite technology, we have putted together many links to help you find tools, code samples, training, and help you get started with ArcGIS.
+No matter your background or your favorite technology, we have putted together many links to help you find tools, code samples, training, to help you get started with ArcGIS.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Developer profiles](#developer-profiles)
+- [Developer tools overview](#developer-tools-overview)
 - [Getting started](#getting-started)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

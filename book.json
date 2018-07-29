@@ -4,9 +4,8 @@
   "author": "https://github.com/hhkaos/awesome-arcgis/graphs/contributors",
   "plugins":    ["-lunr", "-search", "search-plus", "collapsible-menu", "sitemap",
                 "ga", "disqus", "youtube", "feed"],
-  "ignores":    ["_book","node_modules", "TODO", "ISSUE_TEMPLATE", "CONTRIBUTING",
-                "PRODUCT_PAGE_TEMPLATE", "INDUSTRY_PAGE_TEMPLATE",
-                "FILE_FORMAT_PAGE_TEMPLATE", "PARTNER_PAGE_TEMPLATE"],
+  "ignores":    ["_book","node_modules", "templates", "CONTRIBUTING",
+                "templates"],
   "pluginsConfig": {
     "theme-default": {
       "showLevel": false,

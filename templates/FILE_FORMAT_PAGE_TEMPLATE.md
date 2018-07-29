@@ -1,4 +1,4 @@
-> **Goal**: compile everything a user or developer interested in this topic should know about it in the Esri World.
+> **Goal**: help anyone to understand this file format: data type, extension, technical description, tools, sample files, etc.
 
 ---
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
@@ -49,7 +49,7 @@
 
 *Github projects, format validator, conversion tools (Data interoperability, etc), codesharing.arcgis.com, ...*
 
-* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 * [developer-support samples](https://github.com/Esri/developer-support/search?q=csv&unscoped_q=FORMAT)
 
 ## Additional resources

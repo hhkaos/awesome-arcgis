@@ -1,54 +1,126 @@
 # Contributions
 
-You may know [why we started this project](https://github.com/hhkaos/awesome-arcgis/blob/master/about/README.md) or you might not, but whatever it is, we are very happy you are thinking on contributing.
-
-**Anyone is welcome to contribute** to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution.
-
-> **Disclaimer**: The technology change fast and some resources may be out to date or broken.
+You may know [why we started this project](about/README.md) or you might not, but whatever it is, we are very happy you are thinking on contributing.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
 - [How to contribute](#how-to-contribute)
+  - [Enhance content](#enhance-content)
+    - [Improve an existing resource page](#improve-an-existing-resource-page)
+    - [Suggest a new resource page](#suggest-a-new-resource-page)
+    - [Start a new resource page](#start-a-new-resource-page)
+    - [Check existing links](#check-existing-links)
+    - [Close existing issues](#close-existing-issues)
+  - [Become a curator](#become-a-curator)
+  - [Enhance the web application](#enhance-the-web-application)
+- [Tutorials](#tutorials)
   - [Commenting on Disqus (< 1 min)](#commenting-on-disqus--1-min)
   - [Opening an issue (< 1 min)](#opening-an-issue--1-min)
   - [Using: Github Online Editor (< 2 min)](#using-github-online-editor--2-min)
-  - [Using: Your favourite IDE locally](#using-your-favourite-ide-locally)
-- [Starting a new resources page](#starting-a-new-resources-page)
-  - [Sample resource pages](#sample-resource-pages)
-- [Develop and build locally](#develop-and-build-locally)
-  - [Check existing links programatically](#check-existing-links-programatically)
-  - [Configurations](#configurations)
-- [ArcGIS experts](#arcgis-experts)
+  - [Using: Your favorite IDE locally](#using-your-favorite-ide-locally)
+    - [Install and build](#install-and-build)
+    - [Configurations](#configurations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## How to contribute
 
-We are looking contributors willing to help:
+### Enhance content
 
-* **Adding new resource pages**:
-  * You can help us [starting a new resources page](#starting-a-new-resources-page)
-* **Enhancing existing resource pages**:
-  * Fixing broken links
-  * Suggesting missing resources
+> **Disclaimer**: Technology change fast and some resources may be out to date or broken.
 
-> You can use the [ArcGIS Search Engine](https://esri-es.github.io/arcgis-search/) to help us find missing resources.
+**Anyone is welcome to contribute** to this repository, not only the [ArcGIS Experts listed here](https://esri-es.github.io/arcgis-experts/), so please feel free to do any contribution.
+
+#### Improve an existing resource page
+
+You can contribute improving existing resource pages by:
+
+* Reporting broken links or suggest missing resources:
+    * [Opening an issue](#opening-an-issue--1-min)
+        * [Template to report a broken link](../../issues/new?template=broken-link-report.md)
+        * [Template to enhance a resource page](../../issues/new?template=enhance-resource-page.md)
+    * [Commenting on Disqus](#commenting-on-disqus--1-min)
+* Fixing broken links or add missing resources:
+    * [Using the Github Online Editor](#using-github-online-editor--2-min)
+    * [Using your favorite IDE locally](#using-your-favorite-ide-locally)
+
+> **Note**: remember you can use [ArcGIS Search Engine](https://esri-es.github.io/arcgis-search/) to help you find great resources. You can also find inspiration at the [template resource pages](templates/README.md).
+
+
+#### Suggest a new resource page
+
+Use Github issues to suggest a new resource page, but first check [the existing issues](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22content+needed%22) to verify no one else has already requested it. In case no one else has done it, [open up an issue](#opening-an-issue--1-min).
+
+> [Template to request a new resource page](../../issues/new?template=resource-page-request.md)
+
+#### Start a new resource page
+
+It also would be useful if you could start a first draft of the resource page. You can check if there is any [resource template](./templates/README.md) you could use for that.
+
+> **Note**: remember you can try to reach an [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/) to help you with it.
+
+#### Check existing links
+
+You can help us checking broken links programmatically running this command:
+
+`$ node deploy.js --links`
+
+This will display a link of messages but also it will create a bunch of files (called *ab-results--[PATH TO FILE]*) with a JSON containing detailes information about the state of the links in this repo.
+
+You can place them in the ignored folder `awesomebot-results`.
+
+`$ mkdir awesomebot-results && mv ab-* awesomebot-results`
+
+#### Close existing issues
+
+You can also contribute helping us to close issues find existing issues with [content that have been already requested](../../issues?q=is%3Aissue+is%3Aopen+label%3A%22content+needed%22)
+
+### Become a curator
+
+If you are an [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/) and are willing to help us curate and maintain a resource page please let us know writing to raul.jimenez@esri.es.
+
+### Enhance the web application
+
+Suggesting ideas or implementing ideas.
+
+* Sharing ideas/features to the web application:
+[How to add a feature request using Github issues](../../issues/new?template=feature_request.md)
+* Helping us to implement [existing enhancements requested](../../issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+
+> **Note**: Do not use this issues to request help to solve specific problems with your developments.
+>
+> If you need help to solve specific problems about any technology follow these steps:
+>
+> 1. Search the resource page for this technology inside the awesome list of resources
+> 2. Check resources and if you don't find anything helpful go to the community section
+> 3. Search there a solution in theses communities
+> 4. If you do not find the solution, request help at any of communities you found before and mention the experts you found in the same page.
+
+## Tutorials
 
 ### Commenting on Disqus (< 1 min)
 
 If you are in the [build version](https://hhkaos.github.io/awesome-arcgis/) made with [Gitbook](https://github.com/GitbookIO/gitbook) and you can report a broken link or suggest a new resource **using Disqus**. You can do it like so:
 
-[![Animation adding a comment on Disqus](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)](https://www.youtube.com/watch?v=1FBYMX_abhk&index=3&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX)
+[![Animation adding a comment on Disqus](../../blob/master/assets/Contribute%20thru%20disquss.gif?raw=true)](https://www.youtube.com/watch?v=1FBYMX_abhk&index=3&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX)
 
 ### Opening an issue (< 1 min)
 
-You can also report a broken link or suggest a new resource [opening a new issue](https://github.com/hhkaos/awesome-arcgis/issues) directly on Github.
-
 > **Note**: This option requires you to have a Github account
 
-[![Animation opening an issue](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Opening%20an%20issue.gif?raw=true)](https://www.youtube.com/watch?v=HGyQn3hhfIA&index=2&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX)
+Quick tutorial:
+
+[![Animation opening an issue](../../blob/master/assets/Opening%20an%20issue.gif?raw=true)](https://www.youtube.com/watch?v=HGyQn3hhfIA&index=2&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX)
+
+We have built several templates with some guidelines to help anyone to open issues:
+
+* [Template to report a broken link](../../issues/new?template=broken-link-report.md)
+* [Template to enhance a resource page](../../issues/new?template=enhance-resource-page.md)
+* [Template to request a new resource page](../../issues/new?template=resource-page-request.md)
+* [Template to request a new feature](../../issues/new?template=feature_request.md)
 
 ### Using: Github Online Editor (< 2 min)
 
@@ -58,10 +130,10 @@ You can also report a broken link or suggest a new resource [opening a new issue
 
 Or you can also watch this video to learn **how to create a new page** using the Github Online Editor:
 
-[![Animation showing how to use the Github Online Editor](https://github.com/hhkaos/awesome-arcgis/blob/master/assets/Using-%20Github%20Online%20Editor.gif?raw=true)](https://www.youtube.com/watch?v=OndbEzpZ124&t=2s&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX&index=1)
+[![Animation showing how to use the Github Online Editor](../../blob/master/assets/Using-%20Github%20Online%20Editor.gif?raw=true)](https://www.youtube.com/watch?v=OndbEzpZ124&t=2s&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX&index=1)
 
 
-### Using: Your favourite IDE locally
+### Using: Your favorite IDE locally
 
 > **Note**: This option requires you to have a Github account
 
@@ -69,29 +141,7 @@ If you are a developer you can also [fork this repo](https://help.github.com/art
 
 > Optionally you can [test it and create a new build](#develop-and-build-locally).
 
-## Starting a new resources page
-
-When you are considering to start a new resources page first you need to do is search on the [project structure](https://github.com/hhkaos/awesome-arcgis/blob/master/SUMMARY.md) and find or create the section where it should live.
-
-Then you can start drafting this page using the "[resource page template](https://github.com/hhkaos/awesome-arcgis/blob/master/PRODUCT_PAGE_TEMPLATE.md)" we have build (if it makes sense), or directly starting from scratch if you will.
-
-> **Note**: remember you can [ArcGIS Search Engine](https://esri-es.github.io/arcgis-search/) to help you find great resources or try to reach other [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/) to help you with it.
-
-### Sample resource pages
-
-These are sample pages you can check to better understand what we are trying to achieve on each resource page:
-
-* **Vector tiles resource page**:<br> [/arcgis/content/data-storage/service-types/map-service/tile-map-service/vector-tiles/README.md](https://hhkaos.github.io/awesome-arcgis/arcgis/content/data-storage/service-types/map-service/tile-map-service/vector-tiles/)
-
-* **Web AppBuilder Developer Edition resources page**:<br> [/arcgis/products/web-appbuilder/developer-edition/README.md](https://github.com/hhkaos/awesome-arcgis/blob/master/arcgis/products/web-appbuilder/developer-edition/README.md)
-
-* **Java Developers resources page**:<br> [/arcgis/developers/desktop/technologies/java/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/arcgis/developers/desktop/technologies/java)
-
-* **BIM resources page**:<br> [/esri/business-trends/data-management/bim/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/esri/business-trends/data-management/bim)
-
-* **Leaflet Developers resources page**:<br> [/arcgis/developers/front-end/technologies/leaflet/README.md](https://github.com/hhkaos/awesome-arcgis/tree/master/arcgis/developers/front-end/technologies/leaflet)
-
-## Develop and build locally
+#### Install and build
 
 First you need to have [npm](https://www.npmjs.com/) installed in your computer and they from the root folder run:
 
@@ -112,27 +162,11 @@ And whenever you are ready to create the new deployment run:
 
 > Be patient, this process can take a few minutes
 
-### Check existing links programatically
+#### Configurations
 
-You can help us checking broken links running this command:
+* **Ignore files and folders on build**: You can add folders and files you want to ignore during the build process, you can do that adding them to the `ignores` property at [book.json](../../blob/master/book.json#L6)
 
-`$ node deploy.js --links`
-
-This will display a link of messages but also it will create a bunch of files (called *ab-results--[PATH TO FILE]*) with a JSON containing detailes information about the state of the links in this repo.
-
-You can place them in the ignored folder `awesomebot-results`.
-
-`$ mkdir awesomebot-results && mv ab-* awesomebot-results`
-
-### Configurations
-
-* **Ignore files and folders on build**: You can add folders and files you want to ignore during the build process, you can do that adding them to the `ignores` property at [book.json](https://github.com/hhkaos/awesome-arcgis/blob/master/book.json#L6)
-
-* **Exclude from awesomebot**: if we want the `deploy.js` script to avoid checking links on any folder or file we can add it to the `excludeFromLinkChecker` array at [deploy.js](https://github.com/hhkaos/awesome-arcgis/blob/master/deploy.js#L5)
+* **Exclude from awesomebot**: if we want the `deploy.js` script to avoid checking links on any folder or file we can add it to the `excludeFromLinkChecker` array at [deploy.js](../../blob/master/deploy.js#L5)
 
 * **Exclude from doctoc**: every table of contents is generated automatically,
-we edit the [deploy.js](https://github.com/hhkaos/awesome-arcgis/blob/master/deploy.js#L11) script to add any file to `excludeFileFromDocToc` array, or any folder to the `excludeFoldersFromDocToc` array if we don't want them to have a TOC.
-
-## ArcGIS experts
-
-Everyone can contribute to this project, but we are also looking for [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/) willing to help us curate and maintain each resource page.
+we edit the [deploy.js](../../blob/master/deploy.js#L11) script to add any file to `excludeFileFromDocToc` array, or any folder to the `excludeFoldersFromDocToc` array if we don't want them to have a TOC.

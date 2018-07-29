@@ -52,7 +52,7 @@ One of the main problems of this trademark language is that there is the impossi
 
 ### Tools & Samples
 
-* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 * [GML 2.1.2 validator](http://cite.opengeospatial.org/test_engine/gml/2.1.2/validator/)
 
 

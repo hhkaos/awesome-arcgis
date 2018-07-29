@@ -44,7 +44,7 @@ Variants:
 
 ### Tools & Samples
 
-* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 
 ## Additional resources
 

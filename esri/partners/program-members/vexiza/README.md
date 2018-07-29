@@ -37,11 +37,11 @@ From a developer perspective:
 
 |Product|Where|Short description|
 |---|---|---|
-|[ArcPy](../../../../arcgis/developers/back-end/technologies/python)|n.a.|Build models based on personalization and concatenation of different geoprocess tools.
-|[ArcGIS API for JavaScript](../../../../arcgis/developers/front-end/technologies/dojo/README.md)|n.a.|Web applications with VueJS and AngularJS to visualize and manage GIS information.
+|[ArcPy](../../../../arcgis/developers/profiles/back-end/technologies/python)|n.a.|Build models based on personalization and concatenation of different geoprocess tools.
+|[ArcGIS API for JavaScript](../../../../arcgis/developers/profiles/front-end/technologies/dojo/README.md)|n.a.|Web applications with VueJS and AngularJS to visualize and manage GIS information.
 |[ArcGIS REST API](../../../open-vision/open-specifications/arcgis-rest-api/README.md)|n.a.|Build geoprocesses in various projects for the management of mobility in traffic, emergencies and treatment of meteorological information.
-|[ArcGIS Runtime SDK for .NET](../../../../arcgis/developers/desktop/technologies/dot-net/README.md)|n.a.|Build an application for emergency resource management.
-|[ArcGIS Runtime SDK for Android](../../../../arcgis/developers/mobile/technologies/android/README.md)|n.a.|Build light clients for emergency management from the field.
+|[ArcGIS Runtime SDK for .NET](../../../../arcgis/developers/profiles/desktop/technologies/dot-net/README.md)|n.a.|Build an application for emergency resource management.
+|[ArcGIS Runtime SDK for Android](../../../../arcgis/developers/profiles/mobile/technologies/android/README.md)|n.a.|Build light clients for emergency management from the field.
 
 ## Additional resources
 

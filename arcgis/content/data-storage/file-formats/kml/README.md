@@ -47,7 +47,7 @@ XML notation for expressing geographic annotation and visualization within Inter
 
 *Github projects, conversion tools (Data interoperability, etc), ...*
 
-* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 
 ## Additional resources
 

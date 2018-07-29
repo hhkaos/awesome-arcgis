@@ -46,7 +46,7 @@ Esri Mobile Map Package
 
 *Github projects, format validator, conversion tools (Data interoperability, etc), codesharing.arcgis.com, ...*
 
-* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 * [developer-support samples](https://github.com/Esri/developer-support/search?q=csv&unscoped_q=FORMAT)
 
 ## Additional resources

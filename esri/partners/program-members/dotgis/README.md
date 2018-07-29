@@ -53,12 +53,12 @@ From a developer perspective:
 
 |Product|Where|Short description|
 |---|---|---|
-|[ArcPy](../../../../arcgis/developers/back-end/technologies/python/README.md)|SolarMap|Creation of geoprocesses for LIDAR processing and creation of Rasters and Feature layers. Geoprocessing data transfer.
-|[ArcGIS API for Python](../../../../arcgis/developers/back-end/technologies/python/README.md)|n.a.|Spatial analysis
-|[ArcGIS API for JS 4.x](../../../../arcgis/developers/front-end/technologies/dojo/4.x/README.md)|SolarMap|SolarMap user interface.
-|[ArcGIS Runtime SDK Android](../../../../arcgis/developers/mobile/technologies/android/README.md)|n.a.|App for special route analysis
-|[ArcGIS Runtime SDK iOS](../../../../arcgis/developers/mobile/technologies/ios/README.md)|n.a.|App for special route analysis
-|[ArcGIS Runtime SDK for .NET](../../../../arcgis/developers/desktop/technologies/dot-net/README.md)|n.a.|Addins for ArcGIS Pro
+|[ArcPy](../../../../arcgis/developers/profiles/back-end/technologies/python/README.md)|SolarMap|Creation of geoprocesses for LIDAR processing and creation of Rasters and Feature layers. Geoprocessing data transfer.
+|[ArcGIS API for Python](../../../../arcgis/developers/profiles/back-end/technologies/python/README.md)|n.a.|Spatial analysis
+|[ArcGIS API for JS 4.x](../../../../arcgis/developers/profiles/front-end/technologies/dojo/4.x/README.md)|SolarMap|SolarMap user interface.
+|[ArcGIS Runtime SDK Android](../../../../arcgis/developers/profiles/mobile/technologies/android/README.md)|n.a.|App for special route analysis
+|[ArcGIS Runtime SDK iOS](../../../../arcgis/developers/profiles/mobile/technologies/ios/README.md)|n.a.|App for special route analysis
+|[ArcGIS Runtime SDK for .NET](../../../../arcgis/developers/profiles/desktop/technologies/dot-net/README.md)|n.a.|Addins for ArcGIS Pro
 |[AppStudio for ArcGIS](../../../../arcgis/products/appstudio/README.md)|n.a.|Build demo apps
 |[ArcGIS Online ready to use services](../../../../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md)|n.a.|Special route analysis
 

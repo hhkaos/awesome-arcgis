@@ -19,11 +19,11 @@ If you are developing and application which need to deal with any of these thing
 
 You are in the right page. Here you will find some generic concepts you should
 know and then you can check the specific pages for:
-* [Best practices for back-ends](../../../arcgis/developers/back-end/best-practices/README.md)
-* [Best practices for front-ends](../../../arcgis/developers/front-end/best-practices/README.md)
-* [Best practices for mobile developers](../../../arcgis/developers/mobile/best-practices/README.md)
-* [Best practices for devops](../../../arcgis/developers/devops/best-practices/README.md)
-* [Best practices for desktop developers](../../../arcgis/developers/desktop/best-practices/README.md)
+* [Best practices for back-ends](../../../arcgis/developers/profiles/back-end/best-practices/README.md)
+* [Best practices for front-ends](../../../arcgis/developers/profiles/front-end/best-practices/README.md)
+* [Best practices for mobile developers](../../../arcgis/developers/profiles/mobile/best-practices/README.md)
+* [Best practices for devops](../../../arcgis/developers/profiles/devops/best-practices/README.md)
+* [Best practices for desktop developers](../../../arcgis/developers/profiles/desktop/best-practices/README.md)
 * [Best practices for VR developers](../../../esri/emerging-technologies/vr/best-practices/README.md)
 
 ## Display large amount of data
@@ -37,7 +37,7 @@ application is web, desktop or mobile.
 
 ## Technology specifics
 
-* [Desktop](../../arcgis/developers/desktop/best-practices/performance/README.md)
+* [Desktop](../../arcgis/developers/profiles/desktop/best-practices/performance/README.md)
 * mobile
 * web
 * ...

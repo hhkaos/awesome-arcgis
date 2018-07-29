@@ -25,7 +25,7 @@ you will find many of those.
 
 ## Developer technologies
 ### Native apps
-If you are a [mobile developer](../../arcgis/developers/mobile/README.md) or a [desktop developer](../../arcgis/developers/desktop/README.md)
+If you are a [mobile developer](../../arcgis/developers/profiles/mobile/README.md) or a [desktop developer](../../arcgis/developers/profiles/desktop/README.md)
 you have all our native Runtimes and SDKs and some builders to build you own
 custom apps.
 
@@ -38,9 +38,9 @@ consider to use [Collector for ArcGIS](http://www.esri.com/products/collector-fo
 
 ### Web apps
 But if you are a web developer and you don't need a powerful GIS SDK to build
-app you can also build it using [phonegap](../../arcgis/developers/front-end/technologies/phonegap/README.md).
+app you can also build it using [phonegap](../../arcgis/developers/profiles/front-end/technologies/phonegap/README.md).
 
-We also encourage you to take a look to the [offline-editor-js project](../../arcgis/developers/front-end/technologies/dojo/offline-editor-js/README.md) which is an ArcGIS JavaScript
+We also encourage you to take a look to the [offline-editor-js project](../../arcgis/developers/profiles/front-end/technologies/dojo/offline-editor-js/README.md) which is an ArcGIS JavaScript
 library for handling offline editing and tiling.
 
 If you are looking for a responsive app to collect points oflline you could take
@@ -70,7 +70,7 @@ The services pattern is best for supporting a large number of users. This patter
 
 For operational data, you can use a sync-enabled feature service from ArcGIS for Server, ArcGIS Online, or Portal for ArcGIS to generate the geodatabase for offline use. Through the synchronization process, you can control whether a user can upload their changes, download others' changes, or both. This allows the application to have an up-to-date view of the data. When more than one user is editing the same feature and the edits conflict, the last edit synchronized to the service overrides the others.
 
-In one workflow, sometimes referred to as a pre-planned workflow, you generate the geodatabase once and load it onto your users' devices. This workflow requires you to [register a geodatabase](https://developers.arcgis.com/net/10-2/arcgis/developers/desktop/guide/create-an-offline-map.htm#ESRI_SECTION3_7BBF009905B847569B3E8B61A1991001).
+In one workflow, sometimes referred to as a pre-planned workflow, you generate the geodatabase once and load it onto your users' devices. This workflow requires you to [register a geodatabase](https://developers.arcgis.com/net/10-2/arcgis/developers/profiles/desktop/guide/create-an-offline-map.htm#ESRI_SECTION3_7BBF009905B847569B3E8B61A1991001).
 
 For basemap data, ArcGIS tiled map services and ArcGIS Online basemaps allow for the on-demand creation of tile caches, letting you take your basemaps offline.
 

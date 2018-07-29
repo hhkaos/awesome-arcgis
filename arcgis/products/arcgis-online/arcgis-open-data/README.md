@@ -59,8 +59,8 @@ This playlist ([ArcGIS Hub and Open Data](https://www.youtube.com/watch?v=HsFdhs
 
 Many componentes of the ArcGIS Open Data product are Open Source themselves, here you can find a few:
 
-* [KoopJS](../../../../arcgis/developers/devops/technologies/koop/README.md): ETL engine that allows to export data in different format in ArcGIS Open Data.
-* [Cedar](../../../../arcgis/developers/front-end/technologies/cedar/README.md): charting library used to explore the data
+* [KoopJS](../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): ETL engine that allows to export data in different format in ArcGIS Open Data.
+* [Cedar](../../../../arcgis/developers/profiles/front-end/technologies/cedar/README.md): charting library used to explore the data
 * [opendata-search-component](https://github.com/esridc/opendata-search-component): A custom element for adding ArcGIS Open Data search capability
 * [sonar](https://github.com/Esri/sonar): Chat bot for asking questions about your community with open data
 

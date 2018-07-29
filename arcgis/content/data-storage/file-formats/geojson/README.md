@@ -35,8 +35,8 @@ Represent simple geographical features, along with their non-spatial attributes 
 * **Sample file(s)**: [ArcGIS Online public GeoJSON](https://www.arcgis.com/home/search.html?q=typekeywords%3Ageojson&start=1&sortOrder=desc&sortField=numviews)
 * **Consumable by**:
     * [ArcGIS Online](../../../../products/arcgis-online/README.md) - [How to](https://developers.arcgis.com/labs/arcgisonline/import-data/)
-    * [ArcGIS API for JavaScript 4.x](../../../../../arcgis/developers/front-end/technologies/dojo/4.x/README.md) - [How to](https://developers.arcgis.com/javascript/latest/sample-code/layers-featurelayer-collection/index.html)
-    * [ArcGIS API for JavaScript 3.x](../../../../../arcgis/developers/front-end/technologies/dojo/3.x/README.md) - [How to](https://github.com/Esri/geojson-layer-js)
+    * [ArcGIS API for JavaScript 4.x](../../../../../arcgis/developers/profiles/front-end/technologies/dojo/4.x/README.md) - [How to](https://developers.arcgis.com/javascript/latest/sample-code/layers-featurelayer-collection/index.html)
+    * [ArcGIS API for JavaScript 3.x](../../../../../arcgis/developers/profiles/front-end/technologies/dojo/3.x/README.md) - [How to](https://github.com/Esri/geojson-layer-js)
     * ...
 
 ## Introduction
@@ -53,8 +53,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/GeoJSON).
 
 ## Tools
 
-* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine. It is a Node.js server that can translate [GeoJSON](http://geojson.org/) into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS
-* [esri-leaflet](../../../../../arcgis/developers/front-end/technologies/leaflet/README.md): A lightweight set of tools for working with ArcGIS services in Leaflet - (example: [Using GeoJSON with Leaflet](https://leafletjs.com/examples/geojson/))
+* [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine. It is a Node.js server that can translate [GeoJSON](http://geojson.org/) into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS
+* [esri-leaflet](../../../../../arcgis/developers/profiles/front-end/technologies/leaflet/README.md): A lightweight set of tools for working with ArcGIS services in Leaflet - (example: [Using GeoJSON with Leaflet](https://leafletjs.com/examples/geojson/))
 * [geojson projects on Github](https://github.com/Esri?utf8=%E2%9C%93&q=geojson&type=&language=)
     * [geojson-utils](https://github.com/Esri/geojson-utils): A set of utilities for converting between standard geojson and other json formats
     * [arcgis-to-geojson-utils](https://github.com/Esri/arcgis-to-geojson-utils): Tools to convert ArcGIS JSON geometries to GeoJSON geometries and vice-versa.

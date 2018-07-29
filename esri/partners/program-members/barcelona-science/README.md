@@ -33,7 +33,7 @@ From a developer perspective:
 
 |Product|Where|Short description|
 |---|---|---|
-|[ArcObjects .NET SDK](../../../../arcgis/developers/desktop/technologies/arcobjects/README.md)|AkvaMaps|AddIn development for hydrochemistry|
+|[ArcObjects .NET SDK](../../../../arcgis/developers/profiles/desktop/technologies/arcobjects/README.md)|AkvaMaps|AddIn development for hydrochemistry|
 
 ## Products
 

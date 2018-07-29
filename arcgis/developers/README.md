@@ -21,5 +21,6 @@ This diagram displays an overview of the technologies available for ArcGIS devel
 
 # Getting started
 
+* [Developer profiles](./profiles/README.md): front-end, back-end, mobile, etc.
 * [DevLabs](https://developers.arcgis.com/labs/): this is the best way to start practicing with ArcGIS and build your first apps.
 * [Pricing](./developer-plan/README.md): There are several plans and use cases

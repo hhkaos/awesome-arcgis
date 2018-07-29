@@ -53,7 +53,7 @@ A device saves GPX data as a standard Unicode text file, usually with the GPX ex
 
 * [Features to GPX](https://www.arcgis.com/home/item.html?id=067d6ab392b24497b8466eb8447ea7eb): This tool turns features into a GPX file (a file type used by GPS devices and Smart Phones with GPS applications).
 * [GPX Validator](http://www.topografix.com/gpx_validation.asp)
-* [Koop](../../../../../arcgis/developers/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
+* [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
 
 ## Additional resources
 

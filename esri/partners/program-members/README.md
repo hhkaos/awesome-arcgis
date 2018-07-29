@@ -19,11 +19,11 @@ Find the full list at the [Partner directory](http://partners.esri.com/). Here y
 
 * [Barcelona Science](./barcelona-science/README.md)
 * [Beck's Hybrids](./becks-hybrids/README.md)
-* [Cotesa](./cotesa/README.md)
+* [COTESA](./cotesa/README.md)
 * [DotGIS](./dotgis/README.md)
 * [Leica](./leica/README.md)
 * [OSIGris](./osigris/README.md)
-* [Team-Dev](./team-dev/README.md)
+* [TeamDev](./teamdev/README.md)
 * [Vexiza](./vexiza/README.md)
 
 > Feel free to improve/extend this list. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

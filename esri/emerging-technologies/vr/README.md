@@ -71,8 +71,8 @@ technology so we recommend you to follow them.
 Technologies:
 
 * [Augmented Reality & ArcGIS](../ar/README.md)
-* [Mobile technologies - Runtime SDKs](../arcgis/developers/mobile/README.md)
-* [Desktop technologies - Runtime SDKs](../arcgis/developers/desktop/README.md)
+* [Mobile technologies - Runtime SDKs](../arcgis/developers/profiles/mobile/README.md)
+* [Desktop technologies - Runtime SDKs](../arcgis/developers/profiles/desktop/README.md)
 
 To learn or improve your skills with VR here check these curated lists of
 awesome resources about:

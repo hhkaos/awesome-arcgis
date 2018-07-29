@@ -4,7 +4,6 @@
 
 [Esri Partners](https://www.esri.com/en-us/about/esri-partner-network/our-partners/gis) customize and extend the reach of ArcGIS technology. They collaborate with Esri to help users and customers take advantage of opportunities to be more effective and efficient, maximizing the benefits of their investment.
 
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

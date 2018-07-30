@@ -1,4 +1,4 @@
-> **Goal**: compile everything a user/developer interested in this topic should know about it in the Esri World.
+> **Goal**: compile everything a anyone interested in this product should know about it: documentation, tutorials, technical talks, slides, code samples, tools, demos, news, etc.
 
 ---
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).

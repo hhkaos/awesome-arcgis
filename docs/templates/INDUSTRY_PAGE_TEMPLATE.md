@@ -1,4 +1,4 @@
-> **Goal**: describe ArcGIS featured technology, technology use cases, useful content for this industry, awesome projects and cool demos, news, success stories, etc. 
+> **Goal**: describe ArcGIS featured technology, technology use cases, useful content for this industry, awesome projects and cool demos, news, success stories, etc.
 
 ---
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
@@ -119,14 +119,14 @@ ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=ow
 
 ### Other related list of resources
 
-*Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc. *
+*Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc.*
 
 ## Partners and startups
 
-Organizations with expertise on this topic:
+Organizations and the type of relation with this industry or technologies:
 
-|Company|Background|Country|
-|---|---|---|---|
-|[Name](#../../partners/program-members/company/README.md)|Services/Product/Projects|Country
+|Company|Relation type|Country|
+|---|---|---|
+|[Name](#../../partners/program-members/company/README.md)|Product ([Product name]) and/or services|Country
 
 *Is there any partner or startup you can had with expertise on this industry?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

@@ -169,7 +169,9 @@ And whenever you are ready to create the new deployment run:
 
 * **Exclude from doctoc**: every table of contents (TOC) is generated automatically. If you don't want them to have a TOC edit the [deploy.js](../../blob/master/deploy.js#L11) script and add any file or folder to `excludeFromDocToc` array.
 
-* **Fixing summary/"book index" capitalization**: by default the index is generated automatically using [gitbook-summary](https://www.npmjs.com/package/gitbook-summary), and it provides the folder name capitalized to each chapter. You can overwrite this capitalization adding a new value to `summary_titles` array.
+* **Fixing summary/"book index"**: by default the index is generated automatically using [gitbook-summary](https://www.npmjs.com/package/gitbook-summary) which can provoke unexpected behaviors:
+    * **Capitalization**: , and it provides the folder name capitalized to each chapter. You can overwrite this capitalization adding a new value to `summary_titles` array.
+    * **Splitted names**: names containing numbers or capitals can be splitted. You can add a array to the `replace_titles`to define a new value for those indexes.
 
 ## Project misuse
 

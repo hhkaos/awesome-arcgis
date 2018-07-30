@@ -15,7 +15,7 @@ Templates are used to define a common structure for similar resource pages.
 
 ## PRODUCT_PAGE_TEMPLATE.md
 
-[Product page template](./PRODUCT_PAGE_TEMPLATE.md) | **Goal**: compile everything a user/developer interested in this topic should know about it in the Esri World.
+[Product page template](./PRODUCT_PAGE_TEMPLATE.md) | **Goal**: compile everything a anyone interested in this product should know about it: documentation, tutorials, technical talks, slides, code samples, tools, demos, news, etc.
 
 Sample product pages:
 

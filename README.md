@@ -4,17 +4,6 @@
 
 # Awesome list for ArcGIS
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of contents**
-
-- [About ArcGIS](#about-arcgis)
-- [How to use this project](#how-to-use-this-project)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## About ArcGIS
-
 ArcGIS is a 360º [GIS](./gis/README.md) software platform built by Esri made up of more than 100 products.
 
 Many of those products are ready to use software, like desktop or mobile applications but there are also **many APIs and SDKs for [developers](arcgis/developers/README.md)**.

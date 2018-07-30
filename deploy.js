@@ -7,14 +7,15 @@ var excludeFromLinkChecker = [
                                 "templates", "node_modules"
                              ];
 
-// Avoid this files to create/update their TOCs
-var excludeFileFromDocToc = [
+// Avoid this files and folders to create/update their TOCs
+var excludeFromDocToc = [
                             "SUMMARY.md", "CONTRIBUTING.md",
-                            "about/README.md", "./README.md"
-                        ];
-var excludeFoldersFromDocToc = [
+                            "about/README.md", "./README.md",
                             "./about", "./node_modules"
+]
                         ];
+
+// Fix capitalization
 var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "USGS NASA", "MODIS", "CSV", "ECW", "GDB", "GeoCSV",
                         "GeoJSON", "GML", "GPKG", "GPX", "GTFS", "KML", "KMZ",
@@ -190,10 +191,15 @@ var commandExists = require('command-exists');
         exec(cmd, function(error, stdout, stderr) {
             console.log("Removing old summary ",stdout);
 
-            excludeFileFromDocToc = excludeFileFromDocToc.join(" ! -name ");
+            //excludeFileFromDocToc = excludeFileFromDocToc.join(" ! -name ");
+            excludeFromDocToc = excludeFromDocToc.map(function(a){return '"'+a.replace("./", "\\./")+'"'});
+            excludeFromDocToc = excludeFromDocToc.join(" | grep -v ");
+
             excludeFoldersFromDocToc = excludeFoldersFromDocToc.join(" -prune -o -path ");
 
             cmd = `find . -path ${excludeFoldersFromDocToc} -prune -o -name "*.md" ! -name ${excludeFileFromDocToc} -print | xargs node ./node_modules/doctoc/doctoc.js --title '**Table of contents**'`;
+            cmd = `find . -name "*.md" | grep -v ${excludeFromDocToc} | xargs node ./node_modules/doctoc/doctoc.js --title '**Table of contents**'`;
+            console.log(cmd)
             exec(cmd, function(error, stdout, stderr) {
                 console.log("Updating tables of contents: ",stdout);
 

@@ -57,13 +57,13 @@ International program managers
 
 |Avatar|Linkedin|Twitter|Country|
 |---|---|---|---|
-|![Katie Decker](../community/img/katie_decker.jpg)|[Katie Decker](https://www.linkedin.com/in/katdecker/)|[globaldecker](https://twitter.com/globaldecker)|USA
-|![Lars](../community/img/lars_schmitz.jpg)|[Lars Schmitz](https://www.linkedin.com/in/larsschmitz/)|[@pilukinum](https://twitter.com/pilukinum)|Germany
-|![Raul](../community/img/raul_jimenez.jpg)|[Raul Jimenez](https://es.linkedin.com/in/jimenezortegaraul)|[@hhkaos](https://www.twitter.com/hhkaos)| Spain
-|![Sean](../community/img/sean_mcgee.jpg)|[Sean McGee](https://www.linkedin.com/in/hertswestuk/)|[@hertswestuk](https://twitter.com/hertswestuk)|UK
+|![Katie Decker](../../../community/img/katie_decker.jpg)|[Katie Decker](https://www.linkedin.com/in/katdecker/)|[globaldecker](https://twitter.com/globaldecker)|USA
+|![Stephan Künster](../../../community/img/stephan_kunster.jpeg)|[Stephan Künste](https://www.linkedin.com/in/skuenster/)|[@skuenster](https://twitter.com/skuenster)|Germany
+|![Raul](../../../community/img/raul_jimenez.jpg)|[Raul Jimenez](https://es.linkedin.com/in/jimenezortegaraul)|[@hhkaos](https://www.twitter.com/hhkaos)| Spain
+|![Sean](../../../community/img/sean_mcgee.jpg)|[Sean McGee](https://www.linkedin.com/in/hertswestuk/)|[@hertswestuk](https://twitter.com/hertswestuk)|UK
 |![Marine](./img/marine-sage.jpg)|[Marine Sage](https://www.linkedin.com/in/marinesage/)|[@marinesage](https://twitter.com/marinesage)|France
 |![Rui](./img/rui-santos.jpg)|[Rui Santos](https://www.linkedin.com/in/ruimaiasantos/)|[@esrui](https://twitter.com/esrui)|Portugal
-|![Alia Kotb](../community/img/alia_kotb.jpg)|[Alia Kotb](https://www.linkedin.com/in/aliakotb/)|[@alia_kotb](https://twitter.com/alia_kotb)|Canada|
+|![Alia Kotb](../../../community/img/alia_kotb.jpg)|[Alia Kotb](https://www.linkedin.com/in/aliakotb/)|[@alia_kotb](https://twitter.com/alia_kotb)|Canada|
 |![Laura](./img/laura-berman.jpg)|[Laura Berman](https://www.linkedin.com/in/laura-berman-13330312/)|n.a.|Australia
 |![Lucian](./img/lucian-zavate.jpg)|[Lucian Zavate](https://www.linkedin.com/in/lucian-zavate-05891834/)|n.a.|Rumania
 
@@ -72,6 +72,3 @@ But you would probably want to know also about more [ArcGIS Experts](https://esr
 ## Others
 
 * Esri Spain Startup Program website: [startups.esri.es](http://startup.esri.es)
-
-
-

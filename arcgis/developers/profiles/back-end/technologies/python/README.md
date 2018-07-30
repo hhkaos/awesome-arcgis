@@ -18,6 +18,7 @@
 - [People you should know](#people-you-should-know)
   - [Other community resources](#other-community-resources)
   - [News](#news)
+  - [Partners and startups](#partners-and-startups)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

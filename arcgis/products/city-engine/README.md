@@ -11,6 +11,7 @@
 - [News](#news)
 - [Videos](#videos)
 - [Get the tool](#get-the-tool)
+- [Partners and startups](#partners-and-startups)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

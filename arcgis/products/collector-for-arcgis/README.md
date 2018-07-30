@@ -82,8 +82,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 Organizations with expertise on this topic:
 
-|Company|Description|Country|
-|---|---|---|---|
-|[Leica](../../../esri/partners/program-members/leica/README.md)|ZenoCollector|Switzerland
+|Company|Relation type|Country|
+|---|---|---|
+|[Leica](../../../esri/partners/program-members/leica/README.md)|Product (ZenoCollector)|Switzerland
 
 *Is there any partner or startup you can had with expertise on this topic?*

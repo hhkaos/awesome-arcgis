@@ -75,3 +75,15 @@ technology so we recommend you to follow them.
 ## News
 
 * [Python at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/subject-python/)
+
+
+## Partners and startups
+
+Organizations and the type of relation with this product:
+
+|Company|Relation type|Country|
+|---|---|---|
+|[Vexiza](../../../../../../esri/partners/program-members/vexiza/README.md)|Services|Spain
+|[DotGIS](../../../../../../esri/partners/program-members/dotgis/README.md)|Product (SolarMap) and services|Spain
+
+*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

@@ -48,3 +48,14 @@ allows you to build complex scenarios from raw data.
 Free trial
 Startup program
 Buy a license
+
+## Partners and startups
+
+Organizations and the type of relation with this product:
+
+|Company|Relation type|Country|
+|---|---|---|
+|[VRBN](../../partners/program-members/vrbn/README.md)|Services|Switzerland
+|[DotGIS](../../../esri/partners/program-members/dotgis/README.md)|Services|Spain
+
+*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

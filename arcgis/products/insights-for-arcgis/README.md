@@ -119,3 +119,14 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [Página de producto de Insights for ArcGIS](http://www.esri.es/producto/insights-for-arcgis/)
 * [Webinar Insights](https://www.youtube.com/watch?v=k6LT6VOiAfE) - Mayo 2017
 * [Insights para ArcGIS](https://www.youtube.com/watch?v=J4ddr8c5njQ) - CEsri2016
+
+## Partners and startups
+
+Organizations and the type of relation with this product:
+
+|Company|Relation type|Country|
+|---|---|---|
+|[Vexiza](../../../esri/partners/program-members/vexiza/README.md)|Services|Spain|
+|[DotGIS](../../../esri/partners/program-members/dotgis/README.md)|Services|Spain
+
+*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

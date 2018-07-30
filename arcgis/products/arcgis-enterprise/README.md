@@ -95,3 +95,13 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [Página de producto de ArcGIS Enterprise](http://www.esri.es/producto/arcgis-enterprise/)
 * [Webinar ArcGIS Enterprise](https://www.youtube.com/watch?v=T-ewxTA85oU)
 * [Esri Startup Program - Spanish portal](http://startups.esri.es)
+
+## Partners and startups
+
+Organizations and the type of relation with this product:
+
+|Company|Relation type|Country|
+|---|---|---|
+|[DotGIS](../../../esri/partners/program-members/dotgis/README.md)|Product (SolarMap) and services|Spain
+
+*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

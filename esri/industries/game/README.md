@@ -147,8 +147,10 @@ Or this book: [Geogames and Geoplay - Game-based Approaches to the Analysis of G
 
 ## Partners and startups
 
-Organizations with expertise on this industry or technologies:
+Organizations and the type of relation with this industry or technologies:
 
-|Company|Services|Product|Country|
-|---|---|---|---|
-|[VRBN](https://www.vrbn.io/)|City Engine training and services|n.a.|Switzerland
+|Company|Relation type|Country|
+|---|---|---|
+|[VRBN](../../partners/program-members/vrbn/README.md)|Services (City Engine)|Switzerland
+|
+|[Solusoft](../../partners/program-members/solusoft/README.md)|Services (Mobile SDKs)|Spain|

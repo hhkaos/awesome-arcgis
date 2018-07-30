@@ -67,10 +67,10 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ## Partners and startups
 
-Organizations with expertise on this topic:
+Organizations and the type of relation with this industry or technologies:
 
 |Company|Background|Country|
 |---|---|---|
-|[Cotesa](../../partners/program-members/cotesa/README.md)|Granada Human Smart City|Spain
+|[COTESA](../../partners/program-members/cotesa/README.md)|Services|Spain
 
 *Is there any partner or startup you can had with expertise on this industry?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

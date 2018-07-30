@@ -158,10 +158,10 @@ ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=ow
 
 ## Partners and startups
 
-Organizations with expertise on this topic:
+Organizations and the type of relation with this product:
 
-|Company|Services|Product|Country|
-|---|---|---|---|
-|[Name](#link-to-awesome-page)|Fill|Name it|Country
+|Company|Relation type|Country|
+|---|---|---|
+|[Name](#link-to-awesome-page)|Product ([Product name]) and/or services|Country
 
 *Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*

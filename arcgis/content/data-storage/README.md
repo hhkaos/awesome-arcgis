@@ -13,18 +13,28 @@
 
 ## Introduction
 
+There are two main ways to store and manage any type of data in a computer, here you will learn about different ways to store geographic information:
+
+* **[Using databases](./databases/README.md)**
+* **[Using files](./file-formats/README.md)** (binary or plain text)
+
+## ArcGIS storage
+
 The benefits from storing content inside ArcGIS are:
 
 * Been able to run spatial analysis inside the platform
 * Consume your data from any [ArcGIS product](../../products/README.md)
 * ...
 
-When working with ArcGIS you will likely have to work with geolocated content on different storages:
+> **Recommendation**: If you are building an app using ArcGIS we recommended you to store your content in an ArcGIS storage because that way you will get the most of the APIs and SDKs
 
-* [ArcGIS Geodatabases](./geodatabase/README.md)
-* [Shapefile](./shapefile/README.md)
+## ArcGIS services
 
-> Recommendation: If you are building an app using ArcGIS we recommended you to store your content in an ArcGIS storage because that way you will get the most of the APIs and SDKs
+Long time ago both the applications an the source code use to live in the same machine. Nowadays software architectures have evolved and distributed software is very common.
+
+That's why ArcGIS provide many service type to be able to access to all the content stored in your databases or files.
+
+Learn more about [ArcGIS service types](./service-types/README.md) and how you can benefit from them. 
 
 ## Additional resources
 

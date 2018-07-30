@@ -87,17 +87,16 @@ var fix_summary_capitalziations = function(){
       }
 
       do{
-          var pattern = capitalizeFirstLetter(summary_titles[i].toLocaleLowerCase())
+          var pattern = capitalizeFirstLetter(summary_titles[i].toLocaleLowerCase());
           re = new RegExp("\\b"+pattern+"\\b", "g");
-          data = data.replace(re, summary_titles[i])
+          data = data.replace(re, summary_titles[i]);
           i++;
       }while(summary_titles[i]);
 
       var i = 0;
       do{
 
-        re = new RegExp("\\b"+replace_titles[i][0]+"\\b", "g");
-        data = data.replace(re, replace_titles[i][1])
+        data = data.replace("["+replace_titles[i][0]+"]", "["+replace_titles[i][1]+"]");
         i++;
       }while(replace_titles[i]);
 

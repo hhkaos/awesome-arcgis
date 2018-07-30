@@ -23,7 +23,18 @@ var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "ArcCatalog", "ArcMap", "GeoAnalytics", "GeoEvent",
                         "Power BI", "APIs", "AppBuilder", "BIM", "BI",
                         "GeoNet", "AR", "IoT", "UAVs", "VR", "REST", "API",
-                        "dotGIS", "SRM", "OSIGris", "COTESA"];
+                        "dotGIS", "SRM", "OSIGris", "COTESA", "NodeJS",
+                        "ArcObjects", "DevOps", "TeamDev"];
+
+var replace_titles =  [
+                        ["R And D", "R\&D"], ["Mac OS", "macOS"],
+                        ["D 3", "D3.js"], ["Vuejs", "Vue.js"],
+                        ["Add Ins", "Add-ins"], ["Drone 2 Map", "Drone2Map"],
+                        ["3 D Analyst", "3D Analyst"], ["3 D Data", "3D Data"],
+                        ["Survey 123", "Survey123"], ["AR", "Augmented Reality"],
+                        ["BI", "Business Intelligence"], ["I 3 S", "I3S"],
+                        ["VR", "Virtual Reality"]
+                      ];
 
 var walk = function(dir, done) {
         var results = [];
@@ -80,7 +91,15 @@ var fix_summary_capitalziations = function(){
           re = new RegExp("\\b"+pattern+"\\b", "g");
           data = data.replace(re, summary_titles[i])
           i++;
-      }while(summary_titles[i])
+      }while(summary_titles[i]);
+
+      var i = 0;
+      do{
+
+        re = new RegExp("\\b"+replace_titles[i][0]+"\\b", "g");
+        data = data.replace(re, replace_titles[i][1])
+        i++;
+      }while(replace_titles[i]);
 
       fs.writeFile(someFile, data, 'utf8', function (err) {
          if (err) return console.log(err);

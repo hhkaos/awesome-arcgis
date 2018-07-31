@@ -20,6 +20,6 @@ Learn more about [ArcGIS Imagery & Remote Sensing](http://www.esri.com/arcgis/im
 When we are talking about remote sensing we could be talking about:
 
 * [Imagery](../imagery-data/README.md).
-* [IoT](../iot/README.md)
+* [IoT](../iot-rt/README.md)
 * [UAVs](../uavs/README.md)
 * ....

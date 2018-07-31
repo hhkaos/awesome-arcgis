@@ -2,7 +2,7 @@
 
 # Sentinel
 
-Under the **Copernicus Programm** from the European Space Agency (ESA) which is part of the European Commission (EC) had run several earth observation missions called **[Sentinel missions](https://en.wikipedia.org/wiki/Copernicus_Programme#Sentinel_missions)**.
+Under the **Copernicus Program** from the European Space Agency (ESA) which is part of the European Commission (EC) had run several earth observation missions called **[Sentinel missions](https://en.wikipedia.org/wiki/Copernicus_Programme#Sentinel_missions)**.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -28,6 +28,12 @@ Sentinel-2 Imagery Services provides global 10m imagery for Earth observation an
 * Hosted in Amazon Web Services - Frankfurt Region
 * Open access via Sentinel Explorer App
 * Full access with ArcGIS susbcription (no credits)
+
+
+Satellite sensor raster types:
+
+* [Sentinel-1](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/satellite-sensor-raster-types.htm#ESRI_SECTION1_41B05625D7F14BD4B19D9FCEE4052332)
+* [Sentinel-2](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/satellite-sensor-raster-types.htm#ESRI_SECTION1_6A974546B0C44E10908BBB5B15463917)
 
 ## Services and apps
 

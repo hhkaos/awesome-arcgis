@@ -21,47 +21,54 @@ Learn more about the organizations that work with us providing some of the data 
 
 In this page you will learn who and what data this public and private organizations provide to the platform:
 
-* Public organizations: [USGS & NASA](usgs-nasa/README.md), [European Spatial Agency (ESA)](esa/README.md), [PNOA](pnoa/README.md), ... 
-* Private companies: [Airbus](airbus/README.md), [Digital Globe](digital-globe/README.md), [Here](here/README.md), ... .
+* Public organizations: [USGS & NASA](./usgs-nasa/README.md), [European Spatial Agency (ESA)](./esa/README.md), [PNOA](./pnoa/README.md), ...
+* Private companies: [Airbus](./airbus/README.md), [Digital Globe](./digital-globe/README.md), [Here](./here/README.md), ... .
 
 ## Data type
 
 ### Imagery
 
-There are three main types of [imagery data](../../../esri/business-trends/data-management/imagery-data/README.md): [multispectral](../../../esri/business-trends/data-management/imagery-data/multispectral-image/README.md), [temporal](../../../esri/business-trends/data-management/imagery-data/temporal) and [elevation](../../../esri/business-trends/data-management/imagery-data/elevation).
+There are three main types of [imagery data](../../../esri/business-trends/data-management/imagery-data/README.md): [multispectral](../../../esri/business-trends/data-management/imagery-data/multispectral-image/README.md), [temporal](../../../esri/business-trends/data-management/imagery-data/temporal/README.md) and [elevation](../../../esri/business-trends/data-management/imagery-data/elevation/README.md).
 
-|Company|Imagery type|Coverage
-|---|---|---|
-|[Airbus](airbus/README.md)|Orthophotos|World wide
-|[USGS & NASA](usgs-nasa/README.md)|Multispectral and temporal|n.a.
-|[European Spatial Agency (ESA)](esa/README.md)| Multispectral and temporal|n.a.
-|[PNOA](pnoa/README.md)|Orthophotos|Spain
+|Company|Imagery type|Coverage|Cost|
+|---|---|---|---|
+|[Airbus](./airbus/README.md)|Orthophotos|World wide|n.a.
+|[USGS & NASA](./usgs-nasa/README.md)|Multispectral and temporal|n.a.|n.a.
+|[European Spatial Agency (ESA)](./esa/README.md)| Multispectral and temporal|n.a.|n.a.
+|[PNOA](./pnoa/README.md)|Orthophotos|Spain|n.a.
+|[Deimos Imaging](./deimos-imaging/README.md)|n.a.|World wide|n.a.
 
 Elevation data is in essence imagery too. Our elevation data providers are:
 
-|Company|Coverage
+|Company|Coverage|Cost
 |---|---|---|
-|[Airbus](airbus/README.md)|World wide
-|[PNOA](pnoa/README.md)|Spain
+|[Airbus](./airbus/README.md)|World wide|n.a.
+|[PNOA](./pnoa/README.md)|Spain|n.a.
+
+Temporal data providers are: *pending*
+
+Multispectral data providers are: *pending*
+
+> Find more [Imaging satellites](https://en.wikipedia.org/wiki/Satellite_imagery#Imaging_satellites) at Wikipedia
 
 ### Basemaps
 
 Basemaps can be made with imagery (orthophotos / satellite images) but also can be done without imagery, like a street basemap.
 
-|Company|Content provided|Data coverage
-|---|---|
-|[Here](here/README.md)|n.a.|World wide|
-|[Digital Globe](digital-globe/README.md)|Orthophotos|World wide
-|[PNOA](pnoa/README.md)|Orthophotos|Spain
+|Company|Content provided|Data coverage|Cost
+|---|---|---|---|
+|[Here](./here/README.md)|n.a.|World wide|n.a.
+|[Digital Globe](./digital-globe/README.md)|Orthophotos|World wide|n.a.
+|[PNOA](./pnoa/README.md)|Orthophotos|Spain|n.a.
 
 ### Geocoding
 
-|Company|Coverage
-|---|---|
-|[Here](here/README.md)|World wide
+|Company|Coverage|Cost|
+|---|---|---|
+|[Here](./here/README.md)|World wide
 
 ### Networks
 
-|Company|Coverage
-|---|---|
-|[Here](here/README.md)|World wide
+|Company|Coverage|Cost
+|---|---|---|
+|[Here](./here/README.md)|World wide|n.a.

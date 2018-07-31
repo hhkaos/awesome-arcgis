@@ -31,4 +31,9 @@
 |[LAS](./las/README.md)|\*.las|Lidar data (Vector)|*Pending*
 |[GTFS](./gtfs/README.md)|\*.zip|Transit schedule (Vector)|*Pending*
 |[DWG/DXF/DGN](./dwg-dxf-dgn/README.md)|\*.dwg, \*.dxf, \*.dgn |CAD data (Vector)|*Pending*
+|TIFF|\*.tif, \*.tiff|Raster|*Pending*
+|GeoTIFF|\*.tif, \*.tiff, \*.tfw|Raster|*Pending*
+|[MrSID](./sid/README.md)|\*.sid, \*.sdw|Raster|*Pending*
 |...|...|...|...
+
+* [View full list of ArcGIS supported raster dataset file formats](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/supported-raster-dataset-file-formats.htm)

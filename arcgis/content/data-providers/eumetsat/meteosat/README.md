@@ -1,8 +1,8 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# USGS NASA
+# Meteosat
 
-United States Geological Survey (USGS) and National Aeronautics and Space Administration are Esri Content providers.
+The Meteosat series of satellites are geostationary meteorological satellites operated by EUMETSAT under the Meteosat Transition Programme (MTP) and the Meteosat Second Generation (MSG) program. | *Source:  [wikipedia](https://en.wikipedia.org/wiki/Meteosat)*.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -13,12 +13,3 @@ United States Geological Survey (USGS) and National Aeronautics and Space Admini
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-
-Different programs
-
-|Satellite|Types|
-|---|---|
-|[Landsat](landsat/README.md)|[Multiespectral](../../../../esri/business-trends/data-management/imagery-data/multispectral-image/README.md) & [temporal](../../../esri/business-trends/data-management/imagery-data/temporal)|
-|[MODIS](modis/README.md)|[Multiespectral](../../../../esri/business-trends/data-management/imagery-data/multispectral-image/README.md)|
-
-Sensor

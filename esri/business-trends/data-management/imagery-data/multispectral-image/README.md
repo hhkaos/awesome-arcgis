@@ -10,4 +10,6 @@ https://en.wikipedia.org/wiki/Multispectral_image
 
 ## Introduction
 
+[Multispectral Imagery from the living atlas](https://livingatlas.arcgis.com/en/browse/#d=2&categories=Imagery:0100)
+
 Temporal imagery available in the platform is mainly provided by: [Landsat](../../../../../arcgis/content/data-providers/usgs-nasa/README.md), [MODIS](../../../../../arcgis/content/data-providers/usgs-nasa/modis/README.md) and [Sentinel](../../../../../arcgis/content/data-providers/esa/sentinel/README.md).

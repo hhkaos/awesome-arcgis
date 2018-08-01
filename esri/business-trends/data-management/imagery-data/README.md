@@ -27,7 +27,6 @@ When working with [imagery in the platform]((http://www.esri.com/data/imagery) y
 * **Multispectral, Temporal, Dynamic Image Services**: Dynamic image services suitable for visualization and analysis include Landsat, National Agriculture Imagery Program (NAIP), Moderate Resolution Imaging Spectroradiometer (MODIS), and elevation data.
 * **Premium Imagery Content**: Access current imagery without needing to manage it, including premium imagery from Nearmap and Hexagon.
 
-
 But if you collect your own imagery, you can also use ArcGIS to process, analyze, and maintain it along with your raster data.
 
 ## Training
@@ -46,6 +45,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=TOPIC#?sortby=recent)
 |Event|Title|Length|
 |---|---|---|
 |DevSummit 18|[Developing Imagery Apps Using the ArcGIS API for JavaScript and WebApp Builder](https://www.youtube.com/watch?v=jxK326-79Aw&list=PLaPDDLTCmy4aA6oxJVe1YsJlxJO_0psyv&index=74&t=0s)|n.a.
+|User Conference 17|[Imagery Sources and Usage in ArcGIS](https://www.youtube.com/watch?v=pnoj24ncZas&t=5s)|1h 12min 45secs
 
 > You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="TOPIC"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="TOPIC"), [EsriTV](https://www.youtube.com/user/esritv/search?query="TOPIC"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="TOPIC") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
 

@@ -24,7 +24,9 @@ There are many options to solve problems when you need apps to work offline, her
 you will find many of those.
 
 ## Developer technologies
+
 ### Native apps
+
 If you are a [mobile developer](../../arcgis/developers/profiles/mobile/README.md) or a [desktop developer](../../arcgis/developers/profiles/desktop/README.md)
 you have all our native Runtimes and SDKs and some builders to build you own
 custom apps.
@@ -37,8 +39,9 @@ And in case you don't need to but to build a custom or branded app you may also
 consider to use [Collector for ArcGIS](http://www.esri.com/products/collector-for-arcgis).
 
 ### Web apps
+
 But if you are a web developer and you don't need a powerful GIS SDK to build
-app you can also build it using [phonegap](../../arcgis/developers/profiles/front-end/technologies/phonegap/README.md).
+app you can also build it using [phonegap](../../developers/profiles/front-end/technologies/phonegap/README.md).
 
 We also encourage you to take a look to the [offline-editor-js project](../../arcgis/developers/profiles/front-end/technologies/dojo/offline-editor-js/README.md) which is an ArcGIS JavaScript
 library for handling offline editing and tiling.
@@ -55,7 +58,7 @@ Google is doing a great job spreading the word about it benefits.
 
 Check the videos at the [Proggressive Web App Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb)
 
-##Prepare content to be consumed offline
+## Prepare content to be consumed offline
 
 When you are developing an offline app you can follow two main patterns:
 
@@ -65,7 +68,9 @@ When you are developing an offline app you can follow two main patterns:
 [Take maps offline with ArcGIS Online](http://doc.arcgis.com/en/arcgis-online/create-maps/take-maps-offline.htm)
 
 ### Patterns
+
 #### Services pattern
+
 The services pattern is best for supporting a large number of users. This pattern allows multiple offline users to edit the same data layers and sync edits later, when online.
 
 For operational data, you can use a sync-enabled feature service from ArcGIS for Server, ArcGIS Online, or Portal for ArcGIS to generate the geodatabase for offline use. Through the synchronization process, you can control whether a user can upload their changes, download others' changes, or both. This allows the application to have an up-to-date view of the data. When more than one user is editing the same feature and the edits conflict, the last edit synchronized to the service overrides the others.
@@ -77,9 +82,10 @@ For basemap data, ArcGIS tiled map services and ArcGIS Online basemaps allow for
 **Create a basemap from a tiled service (download a basemap)**: An offline copy of
 tiled map services can be requested so that a basemap is available when the
 application is working in an offline environment. These copies can be downloaded
-in the form of a tile package (.tpk file) or compact cache by using the API.
+in the form of a [tile package (.tpk file)](../../content/data-storage/file-formats/tpk/README.md) or compact cache by using the API.
 
 #### Desktop pattern
+
 This is the best for supporting applications with read-only data that requires
 periodic updates.
 
@@ -91,13 +97,11 @@ Learn more: [Create ArcGIS Runtime content using ArcGIS Desktop](http://desktop.
 To include operational data in your offline app generate a geodatabase (using
 ArcGIS for Desktop).
 
-**Create a basemap using ArcGIS for Desktop**: When you create a basemap using
-ArcGIS for Desktop, you can set the format, tiling schemes, and levels of detail.
-For details, see the online ArcGIS help topics
+**Create a basemap using ArcGIS for Desktop**: When you create a basemap using ArcGIS for Desktop, you can set the format, tiling schemes, and levels of detail.
+
+For details, see the online ArcGIS help topics:
 [How to create a tile package](http://desktop.arcgis.com/en/arcmap/10.3/map/working-with-arcmap/how-to-create-a-tile-package.htm) and [About tile packages](http://desktop.arcgis.com/en/arcmap/10.3/map/working-with-arcmap/about-tile-packages.htm).
 
 ### Conflicts
+
 [Offline maps and versioned data](http://server.arcgis.com/en/server/latest/publish-services/linux/offline-maps-and-versioned-data.htm)
-
-
-

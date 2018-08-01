@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Geostationary, follow the rotation, cover diferent parts of the world
+Geostationary, follow the rotation, cover different parts of the world
 
 There are three main types of [imagery data](../../../esri/business-trends/data-management/imagery-data/README.md): [multispectral](../../../esri/business-trends/data-management/imagery-data/multispectral-image/README.md), [temporal](../../../esri/business-trends/data-management/imagery-data/temporal/README.md) and [elevation](../../../esri/business-trends/data-management/imagery-data/elevation/README.md).
 
@@ -30,7 +30,7 @@ Satellite web viewers:
 * [Satellite Map](https://www.arcgis.com/home/item.html?id=9a0fd8671a044ae9a18a9a377056ff81): displays approximately 1,250 satellites is their current location. Satellites groups can be toggled on and off using the menu on the right hand side of the applicatio
 
 
-http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/satellite-sensor-raster-types.htm
+Learn more about: [satellite sensor raster type](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/satellite-sensor-raster-types.htm)
 
 ## Data storage
 

@@ -10,7 +10,11 @@ Aerial photography (or airborne imagery) is the taking of photographs from an ai
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Data storage](#data-storage)
+- [Raster types](#raster-types)
+- [Data Providers](#data-providers)
+- [Storage](#storage)
+- [Videos](#videos)
+- [Related topics](#related-topics)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -9,7 +9,8 @@ Multidimensional data formats are often used in the scientific community to stor
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Data storage](#data-storage)
+- [Data Storage](#data-storage)
+- [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

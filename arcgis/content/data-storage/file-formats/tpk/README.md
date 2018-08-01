@@ -11,10 +11,8 @@ Tile packages (.tpk) are a set of tiles (images) from a map or raster dataset th
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
 - [Additional documentation](#additional-documentation)
-- [Tools & Samples](#tools--samples)
+    - [Videos](#videos)
 - [Additional resources](#additional-resources)
-  - [Related resources](#related-resources)
-  - [Localized resources](#localized-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -11,6 +11,7 @@ A file GeoDataBase (GDB) is a collection of files in a folder on disk that can s
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
 - [Additional documentation](#additional-documentation)
+- [Mosaic Dataset (Raster)](#mosaic-dataset-raster)
 - [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

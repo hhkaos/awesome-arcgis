@@ -21,7 +21,7 @@ var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "LAS", "MDB", "MMPK", "TopoJSON", "OGC", "CAD", "NC",
                         "AppStudio", "AWS", "JS", "jQuery", "ExtJS", "iOS",
                         "ArcCatalog", "ArcMap", "GeoAnalytics", "GeoEvent",
-                        "Power BI", "APIs", "AppBuilder", "BIM", "BI", "TPK"
+                        "Power BI", "APIs", "AppBuilder", "BIM", "BI", "TPK",
                         "GeoNet", "AR", "UAVs", "VR", "REST", "API",
                         "dotGIS", "SRM", "OSIGris", "COTESA", "NodeJS",
                         "ArcObjects", "DevOps", "TeamDev", "IKONOS",

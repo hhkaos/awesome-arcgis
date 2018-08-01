@@ -11,9 +11,6 @@ MrSID (pronounced Mister Sid) is an acronym that stands for multiresolution seam
 
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
-- [Additional documentation](#additional-documentation)
-- [Tools](#tools)
-- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

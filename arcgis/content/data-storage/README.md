@@ -7,6 +7,8 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [ArcGIS storage](#arcgis-storage)
+- [ArcGIS services](#arcgis-services)
 - [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

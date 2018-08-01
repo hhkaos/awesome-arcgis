@@ -9,6 +9,7 @@
 - [Developer technologies](#developer-technologies)
   - [Native apps](#native-apps)
   - [Web apps](#web-apps)
+- [Prepare content to be consumed offline](#prepare-content-to-be-consumed-offline)
   - [Patterns](#patterns)
     - [Services pattern](#services-pattern)
     - [Desktop pattern](#desktop-pattern)

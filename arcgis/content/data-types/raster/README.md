@@ -10,6 +10,7 @@ Rasters are digital aerial photographs, imagery from satellites, digital picture
 
 - [Introduction](#introduction)
 - [Raster data types](#raster-data-types)
+- [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -27,11 +28,10 @@ Raster data types could be classified in many different ways,
     * **Single bands**: grayscale imagery, DEM (Digital Elevation Model), 3D imagery (DTM and DSM)
     * **Multispectral**: NaturalColor, color infrared, NDMI, NDVI, ...
 
-* **Imagery sources** (Sensor platforms): to capture
-    * Satellite (landsat, modis, sentinel, ...)
-    * Aircrafts
-    * Drones (UAVs)
-    * Ground based/handheld
+* **Imagery sources** (Sensor platforms):
+    * Satellites: Landsat, MODIS, Sentinel, WorldView, ...
+    * Aerial: aircrafts, helicopters, balloons, drones (UAVs), blimps and dirigibles, rockets, pigeons, kites, parachutes, ...
+    * Ground based: vehicle-mounted poles, stand-alone telescoping, handheld, ...
 
 * **Sensor type used**:
     * Passive (record reflected sunlight): cameras, spectrometers

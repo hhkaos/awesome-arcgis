@@ -34,6 +34,8 @@
 |TIFF|\*.tif, \*.tiff|Raster|*Pending*
 |GeoTIFF|\*.tif, \*.tiff, \*.tfw|Raster|*Pending*
 |[MrSID](./sid/README.md)|\*.sid, \*.sdw|Raster|*Pending*
+|[NetCDF](./nc/README.md)|\*.nc|Multidimensional data (Raster)|*Pending*
+|[TPK](./tpk/README.md)|\*.tpk|Raster|*Pending*
 |...|...|...|...
 
 * [View full list of ArcGIS supported raster dataset file formats](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/supported-raster-dataset-file-formats.htm)

@@ -67,6 +67,10 @@ A file GeoDataBase (GDB) is a collection of files in a folder on disk that can s
 * [Comparing the three types of geodatabases](http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm)
 * [License a file geodatabase](http://desktop.arcgis.com/en/arcmap/latest/manage-data/administer-file-gdbs/license-file-geodatabase.htm): You can share data in a file geodatabase with other people and apply a license that determines the length of time they can use the data or whether they can export feature classes.
 
+## Mosaic Dataset (Raster)
+
+Mosaic dataset is the way to work with raster in a GeoDatabase an it reference to lo original source (TIF, ...)
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["file geodatabase"](https://esri-es.github.io/arcgis-search/?search="file geodatabase"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

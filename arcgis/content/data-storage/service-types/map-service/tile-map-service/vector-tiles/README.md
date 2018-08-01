@@ -26,18 +26,21 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 ![Vector tiles showcase](https://github.com/esri-es/arcgis-vector-tiles/raw/master/images/Vector%20Tile%20Showcase.gif?raw=true)
 
 ## Training
+
+* Tutorial for creating a map and publishing it as a vector basemap: [The Design and Publish Basemaps﻿](http://learn.arcgis.com/en/projects/design-and-publish-basemaps/)
 * [Vector tiles resources at esri.com/training](https://www.esri.com/training/Bookmark/rkecrk9Yl)
 * [Create Vector Tile Package using ArcGIS Pro](http://pro.arcgis.com/en/pro-app/tool-reference/data-management/create-vector-tile-package.htm)
 * [Publish Vector Tile Package in ArcGIS Online](http://doc.arcgis.com/en/arcgis-online/share-maps/publish-tiles.htm#ESRI_SECTION1_D7F82432E5DD479DA47B4C9DD657610E)
 * [Vector Tile Service documentation](http://server.arcgis.com/en/server/latest/publish-services/windows/vector-tile-services.htm)
 * [Esri Vector Basemaps Reference Document](https://www.arcgis.com/home/item.html?id=f0b44a7e86b84109920e23e1e09d38a8)
-* [Using non-basemap vector tiles](http://odoe.net/blog/using-non-basemap-vector-tiles/)
+* [Using non-basemap vector tiles (JavaScript API)](http://odoe.net/blog/using-non-basemap-vector-tiles/)
 * [Design custom basemaps with the new ArcGIS Vector Tile Style Editor](https://www.esri.com/arcgis-blog/products/developers/mapping/design-custom-basemaps-with-the-new-arcgis-vector-tile-style-editor/)
 
 ### Videos
 
 |Event|Title|Length|
 |---|---|---|
+|[UC](http://www.esri.com/about/events/uc) 2017|[Desktop Mapping: Creating Vector Tiles](https://www.youtube.com/watch?v=dqKsEos1iSw)| 1h 19min 12secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Bringing Your Data to Life in ArcGIS API for JavaScript: Vector Tiles](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 2min 42secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Vector Tiles in the ArcGIS Platform](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 1min 30secs
 |[UC](http://www.esri.com/about/events/uc) 2016|[Content: Vector Tiles: Styling Your Own Base Maps](http://www.esri.com/videos/watch?videoid=rYo2YUIM6Yk&title=content:-vector-tiles:-styling-your-own-base-maps)|56min 49secs

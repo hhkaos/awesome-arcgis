@@ -18,13 +18,14 @@ var excludeFromDocToc = [
 var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "USGS NASA", "MODIS", "CSV", "ECW", "GDB", "GeoCSV",
                         "GeoJSON", "GML", "GPKG", "GPX", "GTFS", "KML", "KMZ",
-                        "LAS", "MDB", "MMPK", "TopoJSON", "OGC", "CAD",
+                        "LAS", "MDB", "MMPK", "TopoJSON", "OGC", "CAD", "NC",
                         "AppStudio", "AWS", "JS", "jQuery", "ExtJS", "iOS",
                         "ArcCatalog", "ArcMap", "GeoAnalytics", "GeoEvent",
-                        "Power BI", "APIs", "AppBuilder", "BIM", "BI",
-                        "GeoNet", "AR", "IoT", "UAVs", "VR", "REST", "API",
+                        "Power BI", "APIs", "AppBuilder", "BIM", "BI", "TPK"
+                        "GeoNet", "AR", "UAVs", "VR", "REST", "API",
                         "dotGIS", "SRM", "OSIGris", "COTESA", "NodeJS",
-                        "ArcObjects", "DevOps", "TeamDev"];
+                        "ArcObjects", "DevOps", "TeamDev", "IKONOS",
+                        "QuickBird"];
 
 var replace_titles =  [
                         ["R And D", "R\&D"], ["Mac OS", "macOS"],
@@ -33,7 +34,8 @@ var replace_titles =  [
                         ["3 D Analyst", "3D Analyst"], ["3 D Data", "3D Data"],
                         ["Survey 123", "Survey123"], ["AR", "Augmented Reality"],
                         ["BI", "Business Intelligence"], ["I 3 S", "I3S"],
-                        ["VR", "Virtual Reality"]
+                        ["VR", "Virtual Reality"], ["Iot Rt", "IoT & RT"],
+                        ["Geoeye 1", "GeoEye-1"]
                       ];
 
 var walk = function(dir, done) {

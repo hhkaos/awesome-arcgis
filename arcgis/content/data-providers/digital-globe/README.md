@@ -12,4 +12,17 @@
 
 ## Introduction
 
-**Pending**
+
+DigitalGlobe is an American commercial vendor of space imagery and geospatial content, and operator of civilian remote sensing spacecraft. The company went public on the New York Stock Exchange on 14 May 2009, selling 14.7 million shares at $19.00 each to raise $279 million in capital. On 5 October 2017, Maxar Technologies has completed its acquisition of DigitalGlobe.
+
+Satellites:
+
+* EarlyBird-1
+* IKONOS
+* [QuickBird](./quickbird/README.md)
+* GeoEye-1
+* [WorldView satellites](./worldview/README.md)
+
+## Additional resources
+
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Digital Globe"](https://esri-es.github.io/arcgis-search/?search="Digital Globe"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

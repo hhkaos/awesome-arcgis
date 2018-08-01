@@ -13,3 +13,7 @@ The Meteosat series of satellites are geostationary meteorological satellites op
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
+Model of a first generation Meteosat geostationary satellite:
+
+![Meteosat](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/EUMETSAT_Meteosat_model.jpg/440px-EUMETSAT_Meteosat_model.jpg)

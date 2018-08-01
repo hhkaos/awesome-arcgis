@@ -21,11 +21,41 @@ The raster model represents the surface of the earth as a grid of cells of equal
 
 > Learn more: [What is raster data?](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/what-is-raster-data.htm)
 
+Raster data types could be classified in many different ways,
+
+* **Number of spectral bands**: sunlight consist of more wavelengths of electromagnetic radiation than the human eye can see (images are single band or multispectral)
+    * **Single bands**: grayscale imagery, DEM (Digital Elevation Model), 3D imagery (DTM and DSM)
+    * **Multispectral**: NaturalColor, color infrared, NDMI, NDVI, ...
+
+* **Imagery sources** (Sensor platforms): to capture
+    * Satellite (landsat, modis, sentinel, ...)
+    * Aircrafts
+    * Drones (UAVs)
+    * Ground based/handheld
+
+* **Sensor type used**:
+    * Passive (record reflected sunlight): cameras, spectrometers
+    * Active (emit energy and record reflected radiation): Lidar, Radar, Sonar
+
+* **Number of dimensions**: unidimensional or multidimensional.
+
+* **Use type**: basemap, multiespectral, temporal, event, elevation, ...
+
 ## Raster data types
 
-Some raster data types:
+> PENDING TO REVIEW THIS CLASSIFICATION
+
+There are two main raster data types:
 
 * [Aerial photography, aerial imagery or airborne imagery](./aerial-imagery/README.md): photographs from an flying object (aircraft, helicopters, UAVs (or "drones"), etc.
 * [Satellite imagery (from satellite sensors)](./satellite-sensor/README.md)
+* [Multidimensional data](./multidimensional/README.md): refers to data normally stored as variables, where each variable is a multidimensional array.
 
 Digital pictures, or even scanned maps.
+
+## Videos
+
+[Imagery Youtube Playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd5uO1xe6QmO2wsQHfWnRs-B)
+
+* [Imagery Sources and Usage in ArcGIS](https://www.youtube.com/watch?v=pnoj24ncZas&t=5s)
+* [Python: Working with Raster Data](https://www.youtube.com/watch?v=1jx5uRwLld8&t=2625s)

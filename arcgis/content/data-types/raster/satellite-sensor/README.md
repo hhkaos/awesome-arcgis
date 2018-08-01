@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Satellite sensor rater type
+# Satellite sensor
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -14,8 +14,13 @@
 
 ## Introduction
 
+Geostationary, follow the rotation, cover diferent parts of the world
 
 There are three main types of [imagery data](../../../esri/business-trends/data-management/imagery-data/README.md): [multispectral](../../../esri/business-trends/data-management/imagery-data/multispectral-image/README.md), [temporal](../../../esri/business-trends/data-management/imagery-data/temporal/README.md) and [elevation](../../../esri/business-trends/data-management/imagery-data/elevation/README.md).
+
+SPOT image of Bratislava:
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bratislava_SPOT_1027.jpg/440px-Bratislava_SPOT_1027.jpg)
 
 There are many
 
@@ -29,5 +34,5 @@ http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/satelli
 
 ## Data storage
 
-* **Database formats**: [DWG/DXF/DGN](../../data-storage/file-formats/dwg-dxf-dgn/README.md): are the file formats for CAD data (Computer-Aided Design aids in the creation, modification, analysis, or optimization of a 2D and 3D designs)
-* **File formats**: ...
+* **Database formats**: ...
+* **File formats**: [DWG/DXF/DGN](../../data-storage/file-formats/dwg-dxf-dgn/README.md): are the file formats for CAD data (Computer-Aided Design aids in the creation, modification, analysis, or optimization of a 2D and 3D designs), ...

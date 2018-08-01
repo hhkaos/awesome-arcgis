@@ -48,9 +48,14 @@ They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
+## Videos
+
+* [Imagery Sources and Usage in ArcGIS: Lidar](https://youtu.be/pnoj24ncZas?t=39m9s)
+
 ## Related topics
 
 * [Full Motion Video](../../../../products/arcgis-desktop/add-ins/full-motion-video/README.md)
 
 ## Resources
+
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["lidar"](https://esri-es.github.io/arcgis-search/?search="lidar"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

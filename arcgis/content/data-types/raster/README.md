@@ -39,7 +39,7 @@ Raster data types could be classified in many different ways,
 
 * **Number of dimensions**: unidimensional or multidimensional.
 
-* **Use type**: basemap, multiespectral, temporal, event, elevation, ...
+* **Use type**: basemap, multispectral, temporal, event, elevation, ...
 
 ## Raster data types
 

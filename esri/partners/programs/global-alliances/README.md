@@ -6,7 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Programs](#programs)
+- [SAP](#sap)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

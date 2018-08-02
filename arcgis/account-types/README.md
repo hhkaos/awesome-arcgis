@@ -69,7 +69,10 @@ An Organization Account can do everything a Developer Account can do plus a few 
 * Access to [ArcGIS Pro](../products/arcgis-desktop/arcgis-pro/README.md).
 * 200 ArcGIS Online service credits instead of 50.
 
-If you work for a company with already use ArcGIS you will use the one.
+**When should you use ArcGIS Online Organization account**
+
+* If you work for a company which already use any ArcGIS product.
+* You plan your customers will benefit from having a [name user](./name-users/README.md).
 
 ### ArcGIS Online Public account (arcgis.com)
 

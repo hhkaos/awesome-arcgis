@@ -22,7 +22,7 @@ There are two levels of name users (level 1 and level 2) and they have different
 
 ## Integration using OAuth 2.0
 
-Any developer can add login button (as any other "social login") to enable an user with an ArcGIS account to [login to his app using OAuth, read more](https://github.com/esri-es/arcgis-oauth-samples).
+Any developer can add login button (as any other "social login") to enable an user with an ArcGIS account to [login to his app using oAuth, read more](https://github.com/esri-es/arcgis-oauth-samples).
 
 ## Name User Levels Guide
 

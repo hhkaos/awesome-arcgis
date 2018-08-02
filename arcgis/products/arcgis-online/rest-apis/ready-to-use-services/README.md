@@ -54,8 +54,13 @@ HowTos:
 HowTos: [Spatial Analysis API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Spatial-Analysis&product=any)
 
 
+## REST API to calculate credit consumption
 
-### More resources
+This REST API is not documented but if you debug the **analysis tools** inside the [ArcGIS Online Web Viewer](http://www.arcgis.com/home/webmap/viewer.html) whenever you click the "Show credits" link you will find an AJAX request to this endpoint: https://analysis.arcgis.com/arcgis/rest/services/tasks/GPServer/exts/Estimate/**<OPERATION>**.
+
+Use it to find the parameters you need to send in order to do the calculations.
+
+## More resources
 
 **Pending**:
 

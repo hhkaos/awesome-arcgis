@@ -175,6 +175,7 @@ To be able to migrate your content **you will need to have your account unblocke
 
 * [ArcGIS Online Assistant](https://ago-assistant.esri.com/) (manually)
 * [ArcGIS API for Python](https://developers.arcgis.com/python/) (programmatically)
+* [ArcGIS REST JS](https://esri.github.io/arcgis-rest-js/) (programmatically)
 * [ArcGIS Online REST API](https://developers.arcgis.com/rest/users-groups-and-items/working-with-users-groups-and-items.htm) (programmatically)
 
 ### Organization accounts

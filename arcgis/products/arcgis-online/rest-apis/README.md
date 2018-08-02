@@ -8,8 +8,8 @@
 
 - [ArcGIS Online](#arcgis-online)
 - [ArcGIS Open Data](#arcgis-open-data)
+- [Tools](#tools)
 - [Community](#community)
-- [Community](#community-1)
 - [News](#news)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

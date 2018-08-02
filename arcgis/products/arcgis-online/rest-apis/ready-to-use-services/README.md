@@ -14,7 +14,8 @@ There are several services hosted on [ArcGIS Online](../../README.md) that can b
   - [Routing service](#routing-service)
   - [GeoEnrichment service](#geoenrichment-service)
   - [Spatial Analysis](#spatial-analysis)
-  - [More resources](#more-resources)
+- [REST API to calculate credit consumption](#rest-api-to-calculate-credit-consumption)
+- [More resources](#more-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

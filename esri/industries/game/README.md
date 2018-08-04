@@ -132,6 +132,8 @@ Many of this demos are available at the [Esri's Prototype Lab Portal](https://ma
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["game"](https://esri-es.github.io/arcgis-search/?search="game"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../README.md)
+
 ### Localized resources
 
 #### Spanish

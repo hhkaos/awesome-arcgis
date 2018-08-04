@@ -16,6 +16,7 @@ Esri invests [25-30]% of it earnings yearly on R&D ([~$1M/day](https://youtu.be/
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 Some things that have been produced though the R&D Centers:
 
 * Products:
@@ -73,5 +74,6 @@ green-infrastructure.esri.com/LandCover/index.html
 |![John Grayson](https://avatars2.githubusercontent.com/u/5324720?v=3&s=50)|John Grayson|[Github](https://github.com/jgrayson-apl)|[Twitter](https://twitter.com/johndgrayson9)|[ArcGIS](http://www.arcgis.com/home/search.html?q=owner%3Ajgrayson)|n.a.|n.a.|
 |![Richie Carmichael](https://avatars1.githubusercontent.com/u/2531121?v=3&s=50)|Richie Carmichael|[Github](https://github.com/richiecarmichael)|[Twitter](https://twitter.com/KiwiRichie?s=03)|n.a.|n.a.|n.a.
 
+## Additional resources
 
-
+[Prototype labs Org in ArcGIS Online](https://www.arcgis.com/home/search.html?q=orgid%3A6DIQcwlPy8knb6sg&start=1&sortOrder=desc&sortField=numviews#content)

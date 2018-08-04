@@ -9,3 +9,25 @@
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Introduction
+
+## ArcGIS Enterprise
+
+### Training
+
+Videos:
+
+* ArcGIS Enterprise Security: https://www.youtube.com/watch?v=eFRtv0IcoLY
+* Web GIS: Server and Online: ArcGIS for Server Security: An Introduction: https://www.youtube.com/watch?v=6NR8N31C2wc
+* ArcGIS Enterprise and SSL Considerations: https://www.youtube.com/watch?v=dncIdA8I6Qs
+
+PPTs:
+
+* ArcGIS Enterprise Security: Advanced http://proceedings.esri.com/library/userconf/proc17/tech-workshops/tw_201-141.pdf
+* ArcGIS Enterprise Security: An introduction http://proceedings.esri.com/library/userconf/fed18/papers/fed-018.pdf
+
+### Tools
+
+* Server scan: http://enterprise.arcgis.com/en/server/latest/administer/linux/scan-arcgis-server-for-security-best-practices.htm
+* Portal scan: http://enterprise.arcgis.com/en/portal/latest/administer/windows/scan-your-portal-for-security-best-practices.htm

@@ -262,3 +262,60 @@ Esri employees:
 * [Esri Spain](https://github.com/esri-es)
 * [Esri UK](https://github.com/esriuk)
 * [Esri UK Map Labs](https://github.com/maplabs)
+
+## ArcGIS Online Users
+
+Esri own many ArcGIS Online organizations, and each of them have many users. Some of those users are used for personal use and some of them to publish team work under the same username. So Esri share items by one or another way: using organizations groups or team users.
+
+Here we will focus on team users but you can list User's groups from their profile (click on: `View User's Groups`):
+
+* [Esri](https://www.arcgis.com/home/user.html?user=esri)
+* [esri_en](https://www.arcgis.com/home/user.html?user=esri_en)
+* [esri_3d](https://www.arcgis.com/home/user.html?user=esri_3d)
+* [esri_vector](https://www.arcgis.com/home/user.html?user=esri_vector)
+* [esri_maps](https://www.arcgis.com/home/user.html?user=esri_maps)
+* [esri_dm](https://www.arcgis.com/home/user.html?user=esri_dm)
+* [ArcGISEarthTutorials](https://www.arcgis.com/home/user.html?user=ArcGISEarthTutorials)
+* [ esri_imagery_workflows](https://www.arcgis.com/home/user.html?user=esri_imagery_workflows)
+* [ArcGISTeamAnalysis](https://www.arcgis.com/home/user.html?user=ArcGISTeamAnalysis)
+* [3DGISTeam](https://www.arcgis.com/home/user.html?user=3DGISTeam)
+* [ImageryWorkflowsTeam](https://www.arcgis.com/home/user.html?user=ImageryWorkflowsTeam)
+* [RasterDevTeam](https://www.arcgis.com/home/item.html?id=cf91203a1c1a4f0f8ce8c22e5e84877c)
+* [ArcGISTeamLocalGov](https://www.arcgis.com/home/item.html?id=9ea218ff575f4a5195e01a2cae03a0ae)
+* [Esri_Technical_Marketing](https://www.arcgis.com/home/item.html?id=fa5c4dfa07094bcfbe4a16c28f43be85)
+...
+* Content:
+    * [Esri_LivingAtlas](https://www.arcgis.com/home/user.html?user=Esri_LivingAtlas)
+    * [esri_demographics](https://www.arcgis.com/home/user.html?user=esri_demographics)  
+    * [esri_basemaps](https://www.arcgis.com/home/user.html?user=esri_basemaps)
+    * [esri_imagery](https://www.arcgis.com/home/user.html?user=esri_imagery)
+    * [esri_atlas](https://www.arcgis.com/home/user.html?user=esri_atlas)
+    * [esri_oceans](https://www.arcgis.com/home/user.html?user=esri_oceans)
+    * [esri_landscape2](https://www.arcgis.com/home/user.html?user=esri_landscape2)
+    * [esri_transport](https://www.arcgis.com/home/user.html?user=esri_transport)
+    * [esri_landsat](https://www.arcgis.com/home/user.html?user=esri_landsat)
+    * [esri_modis](https://www.arcgis.com/home/user.html?user=esri_modis)
+    * [esri_observations](https://www.arcgis.com/home/user.html?user=esri_observations)
+    * [esri_hydro](https://www.arcgis.com/home/user.html?user=esri_hydro)
+* Products & Product teams:
+    * [esri_promaps](https://www.arcgis.com/home/user.html?user=esri_promaps)
+    * [esri_collector](https://www.arcgis.com/home/user.html?user=esri_collector)
+    * [Survey123forArcGIS](https://www.arcgis.com/home/user.html?user=Survey123forArcGIS)
+    * [esri_dashboard](https://www.arcgis.com/home/user.html?user=esri_dashboard)
+    * [GeoEventTeam](https://www.arcgis.com/home/user.html?user=GeoEventTeam)
+    * [StoryMaps](https://www.arcgis.com/home/user.html?user=StoryMaps)
+    * [esri_solutions](https://www.arcgis.com/home/user.html?user=esri_solutions)
+    * [ArcGISRuntimeSDK](https://www.arcgis.com/home/user.html?user=ArcGISRuntimeSDK)
+    * [EsriAndroidTeam](https://www.arcgis.com/home/user.html?user=EsriAndroidTeam)
+    * [EsriQtTeam](https://www.arcgis.com/home/user.html?user=EsriQtTeam)
+    * ...
+* Distributors:
+    * [EsriUKContent](https://www.arcgis.com/home/item.html?id=27d4e1a3170c428980e0f903d834779c)
+    * [EsriUKedteam](https://www.arcgis.com/home/user.html?user=EsriUKedteam)
+    * [EsriUKEdContent](https://www.arcgis.com/home/user.html?user=EsriUKEdContent)
+    * [EsriEspanaContenidos](https://www.arcgis.com/home/user.html?user=EsriEspanaContenidos)
+    * [esri_es](https://www.arcgis.com/home/user.html?user=esri_es)
+    * [Esri_NL_Tools](https://www.arcgis.com/home/item.html?id=4c05e58fc3d74c3b93928c8b7ec211c3)
+    * [Esri_Japan](https://www.arcgis.com/home/user.html?user=Esri_Japan)
+    * ...
+* ...

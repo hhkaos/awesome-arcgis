@@ -110,7 +110,7 @@ Replace `INDUSTRY` in the next paragraph and remove the \`\`\`.
 ```
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["INDUSTRY"](https://esri-es.github.io/arcgis-search/?search="INDUSTRY"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=owner%3AStoryMaps&restrict=false&start=1&sortOrder=desc&sortField=modified), ...
+You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../README.md)
 ```
 
 ### Localized resources

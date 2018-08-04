@@ -8,6 +8,8 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [ArcGIS Enterprise](#arcgis-enterprise)
+  - [GeoEvent Server](#geoevent-server)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

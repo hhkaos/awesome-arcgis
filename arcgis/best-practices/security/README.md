@@ -6,7 +6,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Contributions](#contributions)
+- [Introduction](#introduction)
+- [ArcGIS Enterprise](#arcgis-enterprise)
+  - [Training](#training)
+  - [Tools](#tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -16,6 +16,14 @@
 
 [Provision a base ArcGIS Enterprise deployment on one Amazon Web Service instance](http://arcgisstore105.s3.amazonaws.com/6491/docs/ReadmeAllInOneVPC.html).
 
+## Amazon Web Services (AWS) AMIs
+
+* Amazon Cloud formation templates?<- https://youtu.be/0kIe_Ujb0VA?t=5m6s
+* Azure? Cloud builder? <-https://youtu.be/0kIe_Ujb0VA?t=5m6s
+* ArcGIS Server en AWS:
+http://server.arcgis.com/en/server/latest/cloud/amazon/what-is-arcgis-server-on-aws.htm
+
+You can find more resources about how to [extend ArcGIS Server here](../arcgis/products/arcgis-enterprise/arcgis-server/README.md)
 
 
 ### Localized resources

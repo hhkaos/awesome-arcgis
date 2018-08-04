@@ -1,6 +1,9 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Desktop developers
+
+Desktop developer have several tools to build applications
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -11,9 +14,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Depending You have several tools to build
-
 ## Build from scratch
+
 You can use any of the following Runtime SDKs to build custom desktop apps:
 
 |Name|Language|Desktop OS|Mobile OS
@@ -26,10 +28,12 @@ You can use any of the following Runtime SDKs to build custom desktop apps:
 As you noticed, some of those Runtimes can also be used to build mobile apps.
 
 ## Configure and build
+
 [Check this out](../arcgis/products/README.md#app-builders)
 
 ## Extent the Platform
-You can write your own addins in order to be able to extend our desktop tools:
+
+You can write your own add-ins in order to be able to extend our desktop tools:
   * ArcMap using ArcPy
   * ArcCatalog using ArcPy
   * ArcGIS Pro using SDK for .Net
@@ -37,6 +41,3 @@ You can write your own addins in order to be able to extend our desktop tools:
 Geoprocessing tools using python
 
 If you are a desktop developer you may also want to consider to [extend our desktop tools](../arcgis/products/README.md#extendable-products)
-
-
-

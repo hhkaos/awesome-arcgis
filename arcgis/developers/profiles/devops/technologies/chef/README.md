@@ -1,8 +1,7 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Best practices for DevOps
+# Chef
 
-Storing and doing analysis
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -12,7 +11,11 @@ Storing and doing analysis
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
 ## Introduction
 
-* [Performance best practices on the ArcGIS Platform](../../../../best-practices/README.md)
-* Learn more security at [ArcGIS > Best practices > Security](../../../../best-practices/README.md)
+Chef cookbook for ArcGIS:
+
+* [Repo](https://github.com/esri/arcgis-cookbook)
+* [Wiki](https://github.com/esri/arcgis-cookbook/wiki)
+* [Video](https://www.youtube.com/watch?v=0kIe_Ujb0VA&feature=youtu.be)

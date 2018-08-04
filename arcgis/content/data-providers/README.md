@@ -61,6 +61,8 @@ Basemaps can be made with imagery (orthophotos / satellite images) but also can 
 |[Digital Globe](./digital-globe/README.md)|Orthophotos|World wide|n.a.
 |[PNOA](./pnoa/README.md)|Orthophotos|Spain|n.a.
 
+> **Related article**: [Using World Imagery Wayback](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/using-world-imagery-wayback/): is a digital archive of the World Imagery basemap that enables you to access 80 versions of World Imagery captured over the past 5 years.
+
 ### Geocoding
 
 |Company|Coverage|Cost|

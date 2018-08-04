@@ -61,6 +61,8 @@ Read some [user stories](http://www.esri.com/products/workforce)
 ## News
 
 * [Workforce](https://blogs.esri.com/esri/arcgis/tag/workforce-for-arcgis/)
+* [Workforce for ArcGIS (Web App) Released](https://www.esri.com/arcgis-blog/products/workforce/field-mobility/workforce-for-arcgis-web-app-released/)
+
 
 ## Additional resources
 

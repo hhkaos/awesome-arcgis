@@ -47,6 +47,8 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 |[UC](http://www.esri.com/about/events/uc) 2016|[Mapping: Desktop Mapping: Creating Vector Tiles](http://www.esri.com/videos/watch?videoid=L2ds2rb-d5c&title=mapping:-desktop-mapping:-creating-vector-tiles)| 1h 15min 45secs
 
 ## Resources
+
+* [Vector Tile Services from Esri user in ArcGIS Online](https://www.arcgis.com/home/search.html?q=group%3A30de8da907d240a0bccd5ad3ff25ef4a%20type%3A%22Vector%20Tile%20Service%22&start=1&sortOrder=desc&sortField=numviews#content)
 * [Vector Basemaps showcase](https://github.com/esri-es/arcgis-vector-tiles)
   * [from user: esri_basemaps ](http://www.arcgis.com/home/search.html?q=owner%3Aesri_basemaps&focus=layers-weblayers&restrict=false)
   * [from user: esri_vector](http://www.arcgis.com/home/search.html?q=owner%3Aesri_vector&focus=layers-weblayers&restrict=false)

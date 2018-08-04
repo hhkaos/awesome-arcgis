@@ -57,6 +57,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=collector#?sortby=re
 * [Collector on GeoNet](https://community.esri.com/community/gis/applications/collector-for-arcgis)
 
 ## People you should know
+
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Collector%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Collector%20for%20ArcGIS)
 
 They don't work on the support team and some may even not work at Esri,
@@ -65,6 +66,7 @@ technology so we recommend you to follow them.
 
 ## News
 
+* [Collector for ArcGIS - Releasing the Aurora Project](https://www.esri.com/arcgis-blog/products/collector/field-mobility/collector-for-arcgis-releasing-the-aurora-project/)
 * [Collector Blog](https://blogs.esri.com/esri/arcgis/tag/collector/)
 
 

@@ -144,8 +144,14 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 * [GeoDev Webinar Series](go.esri.com/geodev)
 
 * Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PRODUCT"](https://esri-es.github.io/arcgis-search/?search="PRODUCT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+```
 
-* You might also find interesting content from some [Esri users or groups in ArcGIS Online](/esri/README.md) <--- UPDATE URL
+### ArcGIS Online
+
+```
+You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).
+
+[Search PRODUCT related items in ArcGIS Online](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/)
 ```
 
 ### Localized resources

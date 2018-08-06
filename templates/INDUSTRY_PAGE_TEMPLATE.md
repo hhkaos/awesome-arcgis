@@ -74,7 +74,11 @@ The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/READ
 Check existing geolocated content in ArcGIS
 https://esri-es.github.io/awesome-arcgis/arcgis/content/
 
-Or ready to use services: GeoEnrichment, Elevantion Service
+You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).
+
+[Search INDUSTRY related items in ArcGIS Online](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/)
+
+Or ready to use services: GeoEnrichment, Elevation Service
 https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/
 ```
 

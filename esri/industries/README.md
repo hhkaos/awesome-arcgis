@@ -21,7 +21,15 @@ Esri mapping and analytics software inspires positive change across industries |
 
 Learn more about Esri and:
 
-* [Tourism](tourism/README.md)
+* [Entertainment](./entertainment/README.md)
+    * [Games](./entertainment/game/README.md)
+* [Natural resources](./natural-resources/README.md)
+    * [Agriculture](./natural-resources/agriculture/README.md)
+* [Public Safety and Defense](./public-safety-and-defense/README.md)
+    * [Defense](./public-safety-and-defense/defense/README.md)
+* [State and local government](./state-and-local-government/README.md)
+    * [Tourism](./state-and-local-government/tourism/README.md)
+* [Water](./water/README.md)
 
 If you want us to extend this list with any trend, please [let us know](https://github.com/hhkaos/awesome-arcgis/issues).
 

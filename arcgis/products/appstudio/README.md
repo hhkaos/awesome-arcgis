@@ -71,6 +71,12 @@ technology so we recommend you to follow them.
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["AppStudio for ArcGIS"](https://esri-es.github.io/arcgis-search/?search="AppStudio for ArcGIS"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### ArcGIS Online
+
+You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).
+
+[Search AppStudio items in ArcGIS Online](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/?q=type%3A"Native+Application"+OR+type%3A"Native+Application+Template"+OR+type%3A"Native+Application+Installer"&numResults=100&sortField=relevance&Thumbnail=generateThumbnail%28elem%29&Title=elem.title&Details=%27<a+href%3D"https%3A%2F%2Fwww.arcgis.com%2Fhome%2Fitem.html%3Fid%3D%27%2Belem.id%2B%27"+target%3D"_blank">Details<%2Fa>%27&Type=elem.type&Type+keywords=elem.typeKeywords)
+
 ### Localized resources
 
 #### Spanish

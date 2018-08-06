@@ -74,3 +74,10 @@ Basemaps can be made with imagery (orthophotos / satellite images) but also can 
 |Company|Coverage|Cost
 |---|---|---|
 |[Here](./here/README.md)|World wide|n.a.
+
+### Traffic
+
+|Company|Coverage|Cost
+|---|---|---|
+|[Here](./here/README.md)|n.a.|n.a.
+|Waze|n.a.|n.a.

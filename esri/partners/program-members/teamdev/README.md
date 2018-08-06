@@ -24,7 +24,7 @@ TeamDev deals with research and technological innovation at national and interna
 Here you will their experience working with ArcGIS on different projects and references to their work with Esri customers:
 
 * [Business trends](../../../business-trends/README.md)
-    * [Precision agriculture](../../../business-trends/precision-agriculture/README.md): *pending links to storymaps*
+    * [Precision agriculture](../../../industries/natural-resources/agriculture/precision-agriculture/README.md): *pending links to storymaps*
 
 ## Additional resources
 

@@ -24,7 +24,7 @@ Experts in studies, projects and technical assistances of civil and industrial e
 Here you will their experience working with ArcGIS on different projects and references to their work with Esri customers:
 
 * [Business trends](../../../business-trends/README.md)
-    * [Precision agriculture](../../../business-trends/precision-agriculture/README.md): *pending links to storymaps*
+    * [Precision agriculture](../../../industries/natural-resources/agriculture/precision-agriculture/README.md): *pending links to storymaps*
 * [Industries](../../../industries/README.md):
     * [Tourism](../../../industries/tourism/README.md): [Granada Human Smart City](http://www.esri.es/caso-de-exito/granada-human-smartcity/)
 

@@ -33,7 +33,7 @@ Products developed on top of the ArcGIS platform or integrated with ArcGIS:
 Here you will their experience working with ArcGIS on different projects and references to their work with Esri customers:
 
 * [Business trends](../../../business-trends/README.md)
-    * [Precision agriculture](../../../business-trends/precision-agriculture/README.md): FarmeServer
+    * [Precision agriculture](../../../industries/natural-resources/agriculture/precision-agriculture/README.md): FarmeServer
 
 ## Additional resources
 

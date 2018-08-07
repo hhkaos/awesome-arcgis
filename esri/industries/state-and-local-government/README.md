@@ -9,6 +9,7 @@ Learn how ArcGIS is been used for state and local governments
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

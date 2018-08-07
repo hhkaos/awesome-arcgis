@@ -14,6 +14,7 @@ Learn more about the organizations that work with us providing some of the data 
   - [Basemaps](#basemaps)
   - [Geocoding](#geocoding)
   - [Networks](#networks)
+  - [Traffic](#traffic)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

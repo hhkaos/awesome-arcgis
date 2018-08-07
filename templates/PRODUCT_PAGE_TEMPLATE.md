@@ -26,6 +26,7 @@
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
+  - [ArcGIS Online](#arcgis-online)
   - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)

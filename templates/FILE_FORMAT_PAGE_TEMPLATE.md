@@ -34,7 +34,7 @@
 * **License**: *Unknown*
 * **Regulated by**: *Organization*/Unknown
 * **Status**: industry-standard/[de facto standard](https://en.wikipedia.org/wiki/De_facto_standard)/open specification/proprietary/IETF standard/OGC standard/W3C standard/...
-* **Sample file(s)**: *URL(s)*/*Pending*
+* **Sample file(s)**: *URL(s)* https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/ /*Pending*
 * **Consumable by**: *Esri products supporting it*
 
 ## Introduction

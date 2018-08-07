@@ -184,6 +184,7 @@ Esri employees:
 
 ### Product
 
+* [ArcGIS Companion](https://twitter.com/arcgiscompanion)
 * [ArcGIS Earth](https://twitter.com/ArcGISEarth)
 * [ArcGIS Javascript](https://twitter.com/ArcGISJSAPI)
 * [ArcPy](https://twitter.com/arcpy)

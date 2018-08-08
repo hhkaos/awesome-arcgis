@@ -26,7 +26,8 @@
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [ArcGIS Online](#arcgis-online)
+  - [Related products](#related-products)
+  - [ArcGIS Online content](#arcgis-online-content)
   - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)
@@ -147,7 +148,11 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 * Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PRODUCT"](https://esri-es.github.io/arcgis-search/?search="PRODUCT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 ```
 
-### ArcGIS Online
+### Related products
+
+*Any related product*
+
+### ArcGIS Online content
 
 ```
 You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).

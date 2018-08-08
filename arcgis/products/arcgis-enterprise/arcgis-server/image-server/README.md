@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS Image Server
+
 ArcGIS Image Server provides serving, processing, analysis, and extracting value from massive collections of imagery, rasters, and remotely sensed data.
 
 
@@ -33,18 +34,57 @@ ArcGIS Image Server provides serving, processing, analysis, and extracting value
 
 * **Share Imagery Products Enterprise-Wide**: Give your entire organization access to imagery—a great interactive source of visual and analytic information. With ArcGIS Image Server, it’s easy to deliver interactive imagery products and provide access to end-users where and how they need it via the entire ArcGIS platform.
 
+## Functionality Matrix
+
+> Check the [ArcGIS Enterprise Functionality Matrix](https://assets.esri.com/content/dam/esrisites/media/brochures/arcgis-enterprise-functionality-matrix.pdf)
+
+SERVER CAPABILITIES:
+
+* Run on Windows
+* Run on Linux
+* Deploy in the cloud
+* Deploy on premises
+* Deploy disconnected from the open Internet
+* Script and automate workflows
+* Create analytical models and model chains
+* Edit data on the web
+* Create OGC-compliant web services
+* Create image and raster mosaics dynamically
+* Display imagery and raster data on the fly
+* Process and analyze big data
+
+SERVICE TYPES:
+
+* Cached service—Map, image
+* Geoprocessing service
+* Image service—From mosaic dataset
+* Image service—From single raster
+
+HOSTED LAYER TYPES:
+
+* Imagery layer
+
+INPUT DATA TYPES:
+
+* Big data—Imagery/Raster
+* Feature data (points, lines, polygons)
+* Imagery/Raster data—Mosaic dataset
+* Imagery/Raster data—Single raster
+* Lidar/Terrain data—Mosaic dataset
+* Lidar/Terrain data—Single raster
+* Raster elevation surfaces
+
 ## Training
 
 ### Documentation
 
 * What is ArcGIS Image Server (for [Windows]((http://server.arcgis.com/en/server/latest/get-started/windows/what-is-arcgis-image-server-.htm)) | [Linux](http://server.arcgis.com/en/server/latest/get-started/linux/what-is-arcgis-image-server-.htm))
 
-
 There is also a MOOC for Imagery Analysts: [Earth Imagery at Work](https://www.esri.com/training/catalog/57aba196cbc441087e0d2395/earth-imagery-at-work/).
 
 ### Tutorials
 
-These are not tutorials on [learn.arcgis.](https://www.esri.com/training/catalog/57aba196cbc441087e0d2395/earth-imagery-at-work/)com for Imager Server, but there are some for Image Analyst, ArcGIS Pro, ArcGIS Spatial Analyst and 3D Analyst so you can better understand what can be done on **Imagery and Remote Sensing data** in the platform. For example: [Assess Burn Scars with Satellite Imagery](https://learn.arcgis.com/en/projects/assess-burn-scars-with-satellite-imagery/).
+These are not tutorials on [learn.arcgis.com](https://www.esri.com/training/catalog/57aba196cbc441087e0d2395/earth-imagery-at-work/) for Imager Server, but there are some for Image Analyst, ArcGIS Pro, ArcGIS Spatial Analyst and 3D Analyst so you can better understand what can be done on **Imagery and Remote Sensing data** in the platform. For example: [Assess Burn Scars with Satellite Imagery](https://learn.arcgis.com/en/projects/assess-burn-scars-with-satellite-imagery/).
 
 ### Videos
 

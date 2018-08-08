@@ -1,6 +1,7 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Geoevent Server
+
 [ArcGIS GeoEvent Server](http://www.esri.com/arcgis/products/geoevent-server)
 enables you to work with Real-Time Mapping and Analytics
 
@@ -24,12 +25,16 @@ enables you to work with Real-Time Mapping and Analytics
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 ArcGIS GeoEvent Server can track dynamic assets that are constantly changing
 location such as vehicles, aircraft, and vessels or stationary assets such as
 weather and environmental monitoring sensors. In addition, it provides real-time
 situational awareness for coordinated field activities.
 
+> Check the [ArcGIS Enterprise Functionality Matrix](https://assets.esri.com/content/dam/esrisites/media/brochures/arcgis-enterprise-functionality-matrix.pdf)
+
 ## Training
+
 ### Documentation
 
 * [Extending GeoEvent Server](http://server.arcgis.com/en/geoevent/latest/administer/extending-geoevent-server.htm)
@@ -38,6 +43,7 @@ situational awareness for coordinated field activities.
 * [ArcGIS GeoEvent Server Gallery](http://geoevent.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=186a8c8df5954bf1a8ec7dd847cbee14)
 
 ### Videos
+
 On **video.esri.com** there are [more than 40 videos related to GeoEvent](http://www.esri.com/videos/search?q=geoevent#?sortby=recent&channels=esri,Events,ArcGIS,Industries,ArcGIS,esri). You can also find it slides at [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=geoevent+site:proceedings.esri.com).
 
 
@@ -51,6 +57,7 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS GeoEvent Extension for Server: Creating Processors with the SDK](http://www.esri.com/videos/watch?videoid=4361&isLegacy=true&title=arcgis-geoevent-extension-for-server-creating-processors-with-the-sdk)|56min 58secs
 
 ## Code
+
 * [Proxy that handles tokens for versions of ArcGIS GeoEvent Processor for Server and ArcGIS GeoEvent Extension for Server](https://github.com/Esri/geoevent-datastore-proxy)
 * [The Cluster Simulator functions as a source of data feeding GeoEvents into a cluster of ArcGIS Servers running GeoEvent Extension.](https://github.com/Esri/cluster-simulator-for-geoevent)
 * [Custom processors, adapters and transports for geoevent server.](https://github.com/Esri/solutions-geoevent-java)
@@ -70,10 +77,12 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 * More sample code on github: [geoev search](https://github.com/Esri?utf8=%E2%9C%93&q=geoev) & [geoevent topic](https://github.com/topics/geoevent)
 
 ## Community
+
 * [Real-Time & Big Data GIS on GeoNet](https://community.esri.com/groups/real-time-gis)
 * [GeoEvent on GeoNet](https://community.esri.com/community/gis/enterprise-gis/geoevent)
 
 ## People you should know
+
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=GeoEvent%20Server](https://esri-es.github.io/arcgis-experts/?topic=GeoEvent%20Server)
 
 They don't work on the support team and some may even not work at Esri,
@@ -81,6 +90,7 @@ but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
 ## News
+
 * [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoevent&search=Search)
 
 ## Localized resources
@@ -94,7 +104,5 @@ Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/us
 |[Webinar de GeoEvent y GeoAnalytics](https://youtu.be/dgahu7MgXoA)|Abr 2017|58:26
 
 ## Additional resources
+
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["scene service"](https://esri-es.github.io/arcgis-search/?search="geoevent"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
-
-
-

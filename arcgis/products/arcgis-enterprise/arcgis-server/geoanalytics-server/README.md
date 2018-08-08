@@ -2,7 +2,7 @@
 
 # GeoAnalytics Server
 
-[ArcGIS GeoAnalytics Server](http://www.esri.com/arcgis/products/geoanalytics-server) allow you to answer difficult questions—the kind that involve large volumes of data—in minutes or hours instead of days or weeks. ArcGIS GeoAnalytics Server uses the power of distributed computing to speed up your geospatial analysis and make you more productive with ArcGIS Pro and ArcGIS Enterprise.
+[GeoAnalytics Server](http://www.esri.com/arcgis/products/geoanalytics-server) allow you to answer difficult questions—the kind that involve large volumes of data—in minutes or hours instead of days or weeks. ArcGIS GeoAnalytics Server uses the power of distributed computing to speed up your geospatial analysis and make you more productive with ArcGIS Pro and ArcGIS Enterprise.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -22,7 +22,10 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-ArcGIS GeoAnalytics Server introduces distributed computing to vector-based feature data and can be used to analyze big data or accelerate traditional ArcGIS Desktop analysis workflows through ArcGIS Pro and Portal for ArcGIS. The GeoAnalytics Server capability can also be used from within the Insights for ArcGIS app.
+
+GeoAnalytics Server introduces distributed computing to vector-based feature data and can be used to analyze big data or accelerate traditional ArcGIS Desktop analysis workflows through ArcGIS Pro and Portal for ArcGIS. The GeoAnalytics Server capability can also be used from within the Insights for ArcGIS app.
+
+> Check the [ArcGIS Enterprise Functionality Matrix](https://assets.esri.com/content/dam/esrisites/media/brochures/arcgis-enterprise-functionality-matrix.pdf)
 
 ## Training
 

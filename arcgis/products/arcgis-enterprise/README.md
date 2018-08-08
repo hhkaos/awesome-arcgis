@@ -29,7 +29,7 @@ It has four components:
 
 * [ArcGIS Server](arcgis-server/README.md): to power everything behind the hood.
 * [Portal for ArcGIS](portal-for-arcgis/README.md): the geographic CMS
-* ArcGIS Data Store: to store the data within the system
+* [ArcGIS Data Store](./data-store//README.md): to store the data within the system
 * ArcGIS Web Adaptor: for security an enable to web clients
 
 > ArcGIS for Server offers a variety of product editions that are distinguished by functionality and capacity, these are: Basic, Standard and Advanced ([learn more](https://server.arcgis.com/en/server/10.4/get-started/windows/arcgis-server-editions.htm)).

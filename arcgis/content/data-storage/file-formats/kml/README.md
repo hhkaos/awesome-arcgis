@@ -34,6 +34,8 @@ XML notation for expressing geographic annotation and visualization within Inter
 * **Status**: [OGC standard](http://docs.opengeospatial.org/is/12-007r2/12-007r2.html)
 * **Sample file(s)**: *URL(s)*/*Pending*
 * **Consumable by**: *Esri products supporting it*
+    * ArcGIS Earth
+    * [ArcGIS API for Javascript](../../../../developers/profiles/front-end/dojo/README.md) - [Using the KMLLayer](https://developers.arcgis.com/javascript/latest/sample-code/layers-kml/index.html)
 
 ## Introduction
 

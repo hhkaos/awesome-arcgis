@@ -37,6 +37,7 @@ Represent simple geographical features, along with their non-spatial attributes 
     * [ArcGIS Online](../../../../products/arcgis-online/README.md) - [How to](https://developers.arcgis.com/labs/arcgisonline/import-data/)
     * [ArcGIS API for JavaScript 4.x](../../../../../arcgis/developers/profiles/front-end/technologies/dojo/4.x/README.md) - [How to](https://developers.arcgis.com/javascript/latest/sample-code/layers-featurelayer-collection/index.html)
     * [ArcGIS API for JavaScript 3.x](../../../../../arcgis/developers/profiles/front-end/technologies/dojo/3.x/README.md) - [How to](https://github.com/Esri/geojson-layer-js)
+    * [ArcGIS API for Javascript 4.x](../../../../developers/profiles/front-end/dojo/README.md) - [Create a FeatureLayer with client side graphics from GeoJSON](https://developers.arcgis.com/javascript/latest/sample-code/layers-featurelayer-collection/index.html)
     * ...
 
 ## Introduction

@@ -29,7 +29,12 @@ Specification of the tabular file format CSV with an optional geometry extension
 * **Regulated by**: Unknown
 * **Status**: industry-standard/de facto standard/standard/....
 * **Sample file(s)**: [GeoCSV examples](https://giswiki.hsr.ch/GeoCSV#Examples)
-* **Consumable by**: *Esri products supporting it*
+* **Consumable by**:
+    * [ArcGIS Online](../../../../products/arcgis-online/README.md) - [How to generate hosted service from CSV](https://developers.arcgis.com/labs/arcgisonline/import-data/)
+    * [ArcGIS Web Map Viewer](../../../../products/web-map-viewer/README.md)
+    * [ArcGIS Web Scene Viewer](../../../../products/web-scene-viewer)
+    * [ArcGIS API for Javascript](../../../../developers/profiles/front-end/dojo/README.md) - [Intro to CSVLayer](https://developers.arcgis.com/javascript/latest/sample-code/layers-csv/index.html)
+    * ...
 
 ## Introduction
 

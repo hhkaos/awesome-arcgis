@@ -32,6 +32,7 @@ The LAS file format is a public file format for the interchange of 3-dimensional
 * **Sample file(s)**: [United Stated Naval Academy Sample Data](https://www.usna.edu/Users/oceano/pguth/md_help/rabat_courses/geology_lidar_sampler_lab.html)
 * **Consumable by**:
     * [ArcGIS Pro](../../../../products/arcgis-desktop/arcgis-pro/README.md)
+    * [ArcGIS API for Javascript](../../../../developers/profiles/front-end/dojo/README.md) - [Intro to PointCloudLayer](https://developers.arcgis.com/javascript/latest/sample-code/layers-pointcloud-portal/index.html)
     * ...
 
 ## Introduction

@@ -26,7 +26,7 @@ That's why ArcGIS provide many service type to be able to access to all the cont
 |Geocode service|no?|Yes
 |Geodata service|n.a|Yes
 |Geometry service||Yes
-|Image services|Limited|Yes ([Image Server](../../../products/arcgis-enterprise/arcgis-server/image-server/README.md) required)|
+|[Image services](./image-services/README.md)|Limited|Yes ([Image Server](../../../products/arcgis-enterprise/arcgis-server/image-server/README.md) required)|
 |KML service||Yes
 |Network analyst service||Yes
 |[Scene service](scene-service/README.md)|Yes|Yes

@@ -8,7 +8,11 @@ Feature services allow you to serve feature data and nonspatial tables over the 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Hosted feature layers](#hosted-feature-layers)
+- [Introduction](#introduction)
+- [ArcGIS Online](#arcgis-online)
+- [ArcGIS Enterprise](#arcgis-enterprise)
+- [ArcGIS Online items](#arcgis-online-items)
+- [Related resources](#related-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -10,6 +10,9 @@ Raster and image data can be shared as an image service using ArcGIS Online and 
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Image services in ArcGIS Online](#image-services-in-arcgis-online)
+- [Image services in ArcGIS Enterprise](#image-services-in-arcgis-enterprise)
+- [Image services through the REST API](#image-services-through-the-rest-api)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

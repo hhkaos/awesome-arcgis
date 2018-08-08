@@ -11,6 +11,8 @@ If you are not familiarized with the industry vocabulary or applications, here y
 - [Introduction](#introduction)
 - [GIS core concepts](#gis-core-concepts)
 - [ArcGIS core concepts](#arcgis-core-concepts)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -39,3 +39,12 @@ Resources:
 ## ArcGIS core concepts
 
 [ArcGIS Core concepts](https://developers.arcgis.com/documentation/#core-concepts): Web Maps, Web Scenes, Layers, ...
+
+
+## Localized resources
+
+### Spanish
+
+* [Sistemas de información geográfica](https://www.youtube.com/watch?v=c4k4kYQSssg&index=6&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd)
+* [Sistemas de referencia](https://www.youtube.com/watch?v=jvLlq7PILTg&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=7)
+* [Verificar un sistema de referencia](https://www.youtube.com/watch?v=5tMv8Fi_MD8&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=8)

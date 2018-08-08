@@ -11,5 +11,9 @@
 
 [i3s-spec](https://github.com/Esri/i3s-spec): This repository hosts the specification for the ArcGIS Scene Service, including the Indexed 3D Scene delivery format and the Scene Layer Package definition (both encoded using JSON).
 
+I3S - Scene layer types and profiles:
 
-
+* 3D Objects
+* Points
+* Integrated Meshes
+* Point Clouds

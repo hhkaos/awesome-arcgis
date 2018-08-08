@@ -147,7 +147,11 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 * Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PRODUCT"](https://esri-es.github.io/arcgis-search/?search="PRODUCT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 ```
 
-### ArcGIS Online
+### Related products
+
+*Any related product*
+
+### ArcGIS Online content
 
 ```
 You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).

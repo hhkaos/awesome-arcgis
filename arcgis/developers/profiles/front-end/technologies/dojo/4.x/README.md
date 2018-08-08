@@ -68,6 +68,7 @@ Yeoman - Generator for ArcGIS JS API applications
 https://github.com/odoe/generator-arcgis-js-app
 
 ## People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Dojo](https://esri-es.github.io/arcgis-experts/?topic=Dojo)
 
 They don't work on the support team and some may even not work at Esri,
@@ -75,8 +76,6 @@ but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
 ## More resources
+
 * [GIS Utils](../../../../gis/utils/README.md)
 * [Best practices](../../../best-practices/README.md)
-
-
-

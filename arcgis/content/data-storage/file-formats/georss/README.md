@@ -15,6 +15,7 @@ GeoRSS is a specification for encoding location as part of a [Web feed](https://
 - [Additional resources](#additional-resources)
   - [Related resources](#related-resources)
   - [Localized resources](#localized-resources)
+    - [Language](#language)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -31,13 +32,13 @@ GeoRSS is a specification for encoding location as part of a [Web feed](https://
 * **License**: *Unknown*
 * **Regulated by**: [OGC](http://www.opengeospatial.org/standards/gml#schemas)
 * **Status**: OGC standard
-* **Sample file(s)**: [rss-sample.xml](https://esri.box.com/shared/static/ko99d42udctfv8z0ja2j6dz6q5tzbzu4.xml)
+* **Sample file(s)**: [Copernicus Emergency Management Service](http://emergency.copernicus.eu/mapping/activations-rapid/feed)
 * **Consumable by**:
     * [ArcGIS API for Javascript](../../../../developers/profiles/front-end/dojo/README.md) - [GeoRSSLayer](https://developers.arcgis.com/javascript/latest/sample-code/layers-georss/index.html)
 
 ## Introduction
 
-*Extended description*
+[More about GeoRSS](http://www.georss.org/)
 
 ## Additional documentation
 

@@ -39,7 +39,8 @@
 
 *Link to the official page and more extended description*
 
-{% youtube %} https://www.youtube.com/watch?v=VideoID {% endyoutube %}
+If possible embed a short Youtube video like the Collector resource page:
+https://github.com/esri-es/awesome-arcgis/tree/master/arcgis/products/collector-for-arcgis#introduction
 
 ## Training
 

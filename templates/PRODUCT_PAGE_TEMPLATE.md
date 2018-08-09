@@ -39,7 +39,9 @@
 
 *Link to the official page and more extended description*
 
+```
 {% youtube %} https://www.youtube.com/watch?v=VideoID {% endyoutube %}
+```
 
 ## Training
 

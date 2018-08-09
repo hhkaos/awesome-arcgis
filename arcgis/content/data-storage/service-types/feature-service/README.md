@@ -22,7 +22,7 @@ Feature services are probably the most used ArcGIS service type. They can be pre
 
 It can be consume from any developer technology:
 
-* [ArcGIS JavaScript API](../../../../developers/profiles/front-end/technologies/dojo/README.md) - [example](https://developers.arcgis.com/javascript/latest/sample-code/layers-featurelayer/index.html)
+* [ArcGIS JavaScript API](../../../../developers/profiles/front-end/technologies/dojo/README.md) - [example](https://developers.arcgis.com/javascript/latest/sample-code/layers-featurelayer/index.html) (uses WebGL > GraphicLayer)
 * [Runtime SDK for Android](../../../../developers/profiles/mobile/technologies/android/README.md) - [example](https://developers.arcgis.com/android/latest/sample-code/feature-layer-feature-service.htm)
 * ...
 

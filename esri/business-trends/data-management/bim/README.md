@@ -32,7 +32,9 @@ Read the [ArcGIS Tools for BIM](https://greenshoots.maps.arcgis.com/apps/Cascade
 
 ### Videos
 
-We have created a [TOPIC Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd7eF_jbaYJ4RivZG2IoHdd-) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+We have created a [BIM Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd7eF_jbaYJ4RivZG2IoHdd-) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
+Check also this [BIM Youtube Playlist from Don Khuene](https://www.youtube.com/playlist?list=PLHTg8zWG0OulP3SzoEQdiFa4eMe0k1l3S).
 
 On [*video.esri.com*](https://www.esri.com/videos/search?q=bim) you will find many technical talks.
 

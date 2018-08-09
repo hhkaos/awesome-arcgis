@@ -48,6 +48,8 @@ There are many useful resources, here you have a subset of them:
 
 |Resource|Level|Format|Details|
 |---|---|---|---|
+|[ArcGIS Online: Getting Started](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IJt1O_OTDFR-3dUpiCZGKf) - Playlist|Beginner|Video|Non developer approach
+|ArcGIS Online](https://www.youtube.com/playlist?list=PLGZUzt4E4O2IulSSoNHnpaprsxhbWPa3B) - Playlist|Different levels|Video|Non developer approach
 |[ArcGIS Online quick exercises](https://doc.arcgis.com/en/arcgis-online/get-started/online-quick-exercises.htm)|Beginner|Tutorial|Non developer approach|
 |[Get started with ArcGIS Online](http://learn.arcgis.com/en/projects/get-started-with-arcgis-online/)|Beginner|Tutorial|Non developer approach|
 |[Creating Empty Feature Layers for Data Collection](https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/creating-an-empty-feature-layer-for-data-collection/)|Beginner|Tutorial|Non developer approach

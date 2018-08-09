@@ -38,6 +38,8 @@
 
 *Link to the official page and more extended description*
 
+{% youtube %} https://www.youtube.com/watch?v=VideoID {% endyoutube %}
+
 ## Training
 
 ### Documentation
@@ -85,9 +87,6 @@ Developer site:
 Github:
   * [esri/developer-support](https://github.com/esri/developer-support), [Github repositories](https://hhkaos.github.io/awesome-arcgis/esri/#github-accounts)
 
-ArcGIS Online:
-  * [codesharing.arcgis.com](http://codesharing.arcgis.com/), team account on ArcGIS Online ([EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [EsriQtTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified), ...), or any other known source.
-
 [More at ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=PRODUCT+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
 ### Tools
@@ -112,6 +111,10 @@ If needed, remember you can always check the [Technical Support Website for deve
 * ...
 
 Is there any category on [ArcGIS Ideas on GeoNet](https://community.esri.com/community/arcgis-ideas) for this topic?
+
+```
+Vote/share the ideas about PRODUCT @ [ArcGIS Ideas on GeoNet](https://community.esri.com/search.jspa?q=PRODUCT&place=%2Fplaces%2F478947&depth=ALL)
+```
 
 ### People you should know
 
@@ -155,6 +158,9 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 ### ArcGIS Online content
 
 ```
+ArcGIS Online:
+  * [codesharing.arcgis.com](http://codesharing.arcgis.com/), team account on ArcGIS Online ([EsriAndroidTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriAndroidTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [EsriQtTeam](https://www.arcgis.com/home/search.html?q=owner%3AEsriQtTeam&restrict=false&start=1&sortOrder=desc&sortField=modified), [ArcGISRuntimeSDK](https://www.arcgis.com/home/search.html?q=owner%3AArcGISRuntimeSDK&restrict=false&start=1&sortOrder=desc&sortField=modified), ...), or any other known source.
+
 You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).
 
 [Search PRODUCT related items in ArcGIS Online](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/)
@@ -162,7 +168,7 @@ You might also find interesting content from some [Esri users or groups in ArcGI
 
 ### Localized resources
 
-*In case a distributor has made additional documentation, docs, https://geonet.esri.com/groups/geodev-spain, etc* (add a ```#### Language``` section)
+*In case a distributor has made additional documentation, docs, https://geonet.esri.com/groups/geodev-spain, https://www.youtube.com/user/esriSpainTV/search?query=PRODUCT, https://www.youtube.com/channel/UC5Kegds6aV88wjdAhqQ5Wsg/search?query=PRODUCT, etc* (add a ```#### Language``` section)
 
 ### Other related list of resources
 
@@ -177,3 +183,7 @@ Organizations and the type of relation with this product:
 |[Name](#link-to-awesome-page)|Product ([Product name]) and/or services|Country
 
 *Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

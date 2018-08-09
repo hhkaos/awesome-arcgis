@@ -89,4 +89,4 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ## Contributions
 
-Feel free to improve/extend this resource page using [this template](../../../../PARTNER_PAGE_TEMPLATE.md)
+Feel free to improve/extend this resource page using [this template](../../../../templates/PARTNER_PAGE_TEMPLATE.md)

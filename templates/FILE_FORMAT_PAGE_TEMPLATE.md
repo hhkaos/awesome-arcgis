@@ -36,6 +36,8 @@
 * **Status**: industry-standard/[de facto standard](https://en.wikipedia.org/wiki/De_facto_standard)/open specification/proprietary/IETF standard/OGC standard/W3C standard/...
 * **Sample file(s)**: *URL(s)* https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/ /*Pending*
 * **Consumable by**: *Esri products supporting it*
+    * [ArcGIS Data interoperability](../../../../products/extensions/data-interoperability/README.md)
+    * [PRODUCT](../../../../products/) - [How to](#)
 
 ## Introduction
 
@@ -47,10 +49,16 @@
 
 ## Tools & Samples
 
-*Github projects, format validator, conversion tools (Data interoperability, etc), codesharing.arcgis.com, ...*
-
+```
+* Conversion tools: ...
+* [FILE_FORMAT projects on Esri GitHub](https://github.com/esri?utf8=%E2%9C%93&q=FILE_FORMAT&type=&language=)
+    * ...
 * [Koop](../../../../../arcgis/developers/profiles/devops/technologies/koop/README.md): An Open Geospatial ETL Engine that can translate into the [Geoservices specification](https://geoservices.github.io/) supported by the ArcGIS.
-* [developer-support samples](https://github.com/Esri/developer-support/search?q=csv&unscoped_q=FORMAT)
+* [developer-support samples](https://github.com/Esri/developer-support/search?q=FILE_FORMAT)
+
+```
+*Github projects, format validator, conversion tools ([Data interoperability](https://www.esri.com/en-us/arcgis/products/arcgis-data-interoperability/supported-formats), etc), codesharing.arcgis.com, ...*
+
 
 ## Additional resources
 
@@ -67,3 +75,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Localized resources
 
 *In case a distributor has made additional documentation, docs, https://geonet.esri.com/groups/geodev-spain, etc* (add a ```#### Language``` section)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/FILE_FORMAT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

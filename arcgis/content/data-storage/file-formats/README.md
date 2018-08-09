@@ -30,7 +30,9 @@
 |[ECW](./ecw/README.md)|\*.ecw|Raster|*Pending*
 |[LAS](./las/README.md)|\*.las|Lidar data (Vector)|*Pending*
 |[GTFS](./gtfs/README.md)|\*.zip|Transit schedule (Vector)|*Pending*
-|[DWG/DXF/DGN](./dwg-dxf-dgn/README.md)|\*.dwg, \*.dxf, \*.dgn |CAD data (Vector)|*Pending*
+|[DWG](./dwg/README.md)|\*.dwg|CAD data (Vector)|*Pending*
+|[DXF](./dxf/README.md)|\*.dxf|CAD data (Vector)|*Pending*
+|[DGN](./dgn/README.md)|\*.dgn|CAD data (Vector)|*Pending*
 |TIFF|\*.tif, \*.tiff|Raster|*Pending*
 |GeoTIFF|\*.tif, \*.tiff, \*.tfw|Raster|*Pending*
 |[MrSID](./sid/README.md)|\*.sid, \*.sdw|Raster|*Pending*

@@ -24,6 +24,7 @@ Learn how ArcGIS is been used in [INDUSTRY].
   - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -134,3 +135,7 @@ Organizations and the type of relation with this industry or technologies:
 |[Name](#../../partners/program-members/company/README.md)|Product ([Product name]) and/or services|Country
 
 *Is there any partner or startup you can had with expertise on this industry?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/INDUSTRY_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

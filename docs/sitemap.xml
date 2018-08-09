@@ -40,7 +40,9 @@
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/databases/enterprise-geodatabase/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/csv/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/dwg-dxf-dgn/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/dgn/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/dwg/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/dxf/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/ecw/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/gdb/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-storage/file-formats/geocsv/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -173,6 +175,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-enterprise/portal-for-arcgis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-for-autocad/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-hub/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-office/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-maps-for-power-bi/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

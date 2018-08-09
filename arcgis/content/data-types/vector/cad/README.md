@@ -10,6 +10,12 @@ Very detailed models of 2D and 3D objects (buildings, engines, etc.)
 
 - [Introduction](#introduction)
 - [Data storage](#data-storage)
+- [Training](#training)
+  - [Documentation](#documentation)
+  - [Videos](#videos)
+  - [Related products](#related-products)
+  - [People you should know](#people-you-should-know)
+- [Related pages](#related-pages)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

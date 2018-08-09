@@ -10,11 +10,8 @@
 
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
-- [Additional documentation](#additional-documentation)
-- [Tools & Samples](#tools--samples)
 - [Additional resources](#additional-resources)
-  - [Related resources](#related-resources)
-  - [Localized resources](#localized-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

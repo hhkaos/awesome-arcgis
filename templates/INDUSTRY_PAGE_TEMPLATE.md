@@ -24,6 +24,7 @@ Learn how ArcGIS is been used in [INDUSTRY].
   - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

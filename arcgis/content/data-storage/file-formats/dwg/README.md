@@ -10,9 +10,8 @@ The [DWG](https://en.wikipedia.org/wiki/.dwg) format is the most widespread form
 
 - [Quick overview](#quick-overview)
 - [Introduction](#introduction)
-- [Additional documentation](#additional-documentation)
-- [Tools](#tools)
 - [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

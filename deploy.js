@@ -25,7 +25,7 @@ var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "GeoNet", "AR", "UAVs", "VR", "REST", "API",
                         "dotGIS", "SRM", "OSIGris", "COTESA", "NodeJS",
                         "ArcObjects", "DevOps", "TeamDev", "IKONOS",
-                        "QuickBird"];
+                        "QuickBird", "DGN", "DWG", "DXF"];
 
 var replace_titles =  [
                         ["R And D", "R\&D"], ["Mac OS", "macOS"],
@@ -35,7 +35,8 @@ var replace_titles =  [
                         ["Survey 123", "Survey123"], ["AR", "Augmented Reality"],
                         ["BI", "Business Intelligence"], ["I 3 S", "I3S"],
                         ["VR", "Virtual Reality"], ["Iot Rt", "IoT & RT"],
-                        ["Geoeye 1", "GeoEye-1"]
+                        ["Geoeye 1", "GeoEye-1"],
+                        ["ArcGIS For Autocad", "ArcGIS for AutoCAD"]
                       ];
 
 var walk = function(dir, done) {

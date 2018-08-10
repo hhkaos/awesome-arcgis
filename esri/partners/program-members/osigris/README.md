@@ -28,6 +28,7 @@ Company in the incubation phase of the Startup Program
 |[ArcGIS Pro](../../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md)|OSIGris|Processing of the data of the projects carried out
 |[ArcGIS Online](../../../../arcgis/products/arcgis-online/README.md)|OSIGris|Hosted service for OSIGris viewers
 |[Web AppBuilder](../../../../arcgis/products/web-appbuilder/README.md)|OSIGris|Build custom viewers for customers|
+|Spatial analyst|OSIGris|n.a.
 
 ## Products
 

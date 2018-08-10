@@ -99,6 +99,8 @@ Github:
 
 *If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example: [2018](https://www.youtube.com/watch?v=K2lBYyAGN_c&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe), [2017](https://www.youtube.com/watch?v=uHDkhm3QiTY&list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), [2016](https://www.youtube.com/watch?v=Qn7ezk-9iqs&list=PLaPDDLTCmy4ZvztJzqBnGTBoD0Lz9r39S)), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
 
+Find more awesome projects and cool demos in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=8cb77aecfb4d49cb8460a97181aa5434&start=1&view=list#content).
+
 ## Support and Community
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
@@ -131,6 +133,8 @@ They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
+You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=f3807dde35134fb5b5f0cdc9b1b506f0&start=1&view=list#content).
+
 ## News
 
 > Links to articles to specific articles but also to any source of news.
@@ -151,6 +155,8 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 * [GeoDev Webinar Series](go.esri.com/geodev)
 
 * Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PRODUCT"](https://esri-es.github.io/arcgis-search/?search="PRODUCT"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+* There is also an Awesome ArcGIS organization in ArcGIS Online, explore the [groups](https://awesome-arcgis.maps.arcgis.com/home/groups.html?#featured) or [items](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/?q=orgid%3ArF1wdZICHfgsvter&numResults=300&sortField=relevance&Thumbnail=generateThumbnail%28elem29&Title=elem.title&Details=%27%3Ca+href%3D%22https%3A%2F%2Fwww.arcgis.com%2Fhome%2Fitem.html%3Fid%3D%27%2Belem.id%2B%27%22+target%3D%22_blank%22%3EDetails%3C%2Fa%3E%27&Type=elem.type&Views=elem.numViews&Snippet=elem.snippet)
 ```
 
 ### Related products

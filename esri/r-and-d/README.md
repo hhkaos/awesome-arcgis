@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Research & Development
+
 Esri invests [25-30]% of it earnings yearly on R&D ([~$1M/day](https://youtu.be/qNrySnLVJ_A?t=7m48s)) to keep introducing innovation to the ArcGIS Platform.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -52,9 +53,11 @@ Github accounts:
 * https://github.com/Esri-DevCenter-Beijing
 
 ### Carrers
+
 [Job positions at R&D centers](http://pdx.esri.com/careers/#jobs)
 
 ### Team
+
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|
 |![Andrew Turner](https://avatars2.githubusercontent.com/u/1218?v=3&s=50)|[Andrew turner](https://www.linkedin.com/in/ajturner/)|[Github](https://github.com/ajturner)|[Twitter](https://twitter.com/ajturner)|n.a.|n.a.|n.a.

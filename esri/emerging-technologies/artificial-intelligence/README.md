@@ -101,6 +101,10 @@ technology so we recommend you to follow them.
 
 ## News
 
+* [GeoAI @ medium.com](https://medium.com/geoai): thoughts about where AI and GIS intersect
+    * [Parking Lot Vehicle Detection Using Deep Learning](https://medium.com/geoai/parking-lot-vehicle-detection-using-deep-learning-49597917bc4a)
+    * [Swimming pool detection and classification using deep learning](https://medium.com/geoai/swimming-pool-detection-and-classification-using-deep-learning-aaf4a3a5e652)
+    * [Using Machine Learning to Predict Car Accident Risk](https://medium.com/geoai/using-machine-learning-to-predict-car-accident-risk-4d92c91a7d57)
 * [A new business intelligence emerges: Geo.AI](https://www.esri.com/about/newsroom/publications/wherenext/new-business-intelligence-emerges-geo-ai/)
 * [New Clustering Tools in ArcGIS Pro 2.1: More Machine Learning at your Fingertips](https://blogs.esri.com/esri/arcgis/2018/01/22/pro-2-1-new-clustering-tools/)
 

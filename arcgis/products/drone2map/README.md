@@ -49,7 +49,8 @@ working with [ArcGIS Server](../arcgis-enterprise/README.md) and
 
 ## News
 
-[Drone2map Esri Blog](https://blogs.esri.com/esri/arcgis/tag/drone2map/)
+* [Drone2map Esri Blog](https://blogs.esri.com/esri/arcgis/tag/drone2map/)
+* [Parking Lot Vehicle Detection Using Deep Learning](https://medium.com/geoai/parking-lot-vehicle-detection-using-deep-learning-49597917bc4a): Using Deep Learning with Drone2Map, Raster Functions, AGOL, Operations Dashboard, & Deep Learning tools in ArcGIS Pro to understand Parking Utilization per Time
 
 ## Related technologies
 * [Full Motion Video Add in](../arcgis-desktop/add-ins/full-motion-video/README.md)

@@ -16,6 +16,7 @@ Learn how ArcGIS is been used in [INDUSTRY].
   - [Slides](#slides)
 - [Featured technology](#featured-technology)
 - [Content for this industry](#content-for-this-industry)
+  - [People you should know](#people-you-should-know)
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [Community](#community)
 - [News](#news)
@@ -77,7 +78,10 @@ https://esri-es.github.io/awesome-arcgis/arcgis/content/
 
 You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).
 
-[Search INDUSTRY related items in ArcGIS Online](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/)
+Search INDUSTRY related items in:
+
+* [ArcGIS advanced (items) search](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/)
+* This [ArcGIS Content Group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list#content)
 
 Or ready to use services: GeoEnrichment, Elevation Service
 https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/
@@ -85,9 +89,15 @@ https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-online/rest-apis
 
 You might find more content in: ArcGIS Open Data, Living Atlas of the world, Marketplace, ArcGIS Online content shared publicly
 
+### People you should know
+
+Discover ArcGIS experts on different technologies and contents though the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=f3807dde35134fb5b5f0cdc9b1b506f0&start=1&view=list#content).
+
 ## Awesome projects and cool demos
 
 *If it make sense, a list to nice apps build for this industry: live previews, videos from [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/playlists?disable_polymer=1), [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw), success cases, presales demos, etc*
+
+Find more awesome projects and cool demos in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=8cb77aecfb4d49cb8460a97181aa5434&start=1&view=list#content).
 
 ## Community
 
@@ -113,6 +123,12 @@ More news:
 Replace `INDUSTRY` in the next paragraph and remove the \`\`\`.
 
 ```
+There is also an Awesome ArcGIS organization in ArcGIS Online, explore:
+
+* [Featured groups](https://awesome-arcgis.maps.arcgis.com/home/groups.html?#featured)
+* [Public customer portals](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=1047da457c884f629a17f3d842f0c0fa&start=1&view=list&categories=%5B%22%2FCategories%2FIndustries%22%5D#content)
+* [All items](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/?q=orgid%3ArF1wdZICHfgsvter&numResults=300&sortField=relevance&Thumbnail=generateThumbnail%28elem29&Title=elem.title&Details=%27%3Ca+href%3D%22https%3A%2F%2Fwww.arcgis.com%2Fhome%2Fitem.html%3Fid%3D%27%2Belem.id%2B%27%22+target%3D%22_blank%22%3EDetails%3C%2Fa%3E%27&Type=elem.type&Views=elem.numViews&Snippet=elem.snippet)
+
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["INDUSTRY"](https://esri-es.github.io/arcgis-search/?search="INDUSTRY"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../README.md)

@@ -16,6 +16,7 @@ Learn how ArcGIS can be used to build games.
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
   - [Educational games / Serious games](#educational-games--serious-games)
   - [Entertainment games](#entertainment-games)
+  - [Tools](#tools)
 - [News](#news)
 - [Related industry pages](#related-industry-pages)
 - [Additional resources](#additional-resources)

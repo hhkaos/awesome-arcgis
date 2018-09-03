@@ -16,6 +16,7 @@ Learn how ArcGIS is been used in [INDUSTRY].
   - [Slides](#slides)
 - [Featured technology](#featured-technology)
 - [Content for this industry](#content-for-this-industry)
+  - [People you should know](#people-you-should-know)
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [Community](#community)
 - [News](#news)

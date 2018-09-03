@@ -113,6 +113,10 @@ Many of this demos are available at the [Esri's Prototype Lab Portal](https://ma
 
 * [PokéVision](https://pokevision.com/)
 
+### Tools
+
+* [Terrain Exporter (for games engines)](https://github.com/richiecarmichael/Esri-Terrain-Exporter) - [Demo: exporting to Unity](https://www.youtube.com/watch?v=ZxEc_ZKD7js)
+
 ## News
 
 * [Unreal Studio Brings CityEngine Neighborhood to Life](https://www.unrealengine.com/en-US/blog/unreal-studio-brings-cityengine-neighborhood-to-life) (2018)

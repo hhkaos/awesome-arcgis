@@ -17,3 +17,5 @@ I3S - Scene layer types and profiles:
 * Points
 * Integrated Meshes
 * Point Clouds
+
+**[Vendors that consumes i3S](https://github.com/Esri/i3s-spec/blob/master/README.md#where-can-i-use)**: Bentley, Vricon, Pix4D and Melown.

@@ -4149,7 +4149,9 @@
 <li><a href="#general">General</a><ul>
 <li><a href="#what-does-not-consume-credits">What does NOT consume credits?</a></li>
 <li><a href="#what-consume-credits">What consume credits?</a></li>
-<li><a href="#how-are-credits-discounted">How are credits discounted?</a></li>
+<li><a href="#how-often-are-credits-discounted">How often are credits discounted?</a></li>
+<li><a href="#how-are-hosted-services-credit-consumption-calculated">How are hosted services credit consumption calculated?</a></li>
+<li><a href="#how-do-i-know-how-many-mb-my-data-will-consume">How do I know how many MB my data will consume?</a></li>
 <li><a href="#how-can-i-avoid-to-get-my-account-blocked">How can I avoid to get my account blocked</a></li>
 </ul>
 </li>
@@ -4210,8 +4212,29 @@
 <blockquote>
 <p><strong>Note</strong>: there are some credit-consuming operations that can also be performed using free services, such as the <a href="https://developers.arcgis.com/rest/services-reference/geometry-service.htm" target="_blank">sampleserver6.arcgisonline.com geometry REST service</a> or the geometry engine of some APIs/SDKs (JS <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html" target="_blank">geometryEngine</a> &amp; <a href="https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-projection.html" target="_blank">projectionEngine</a>).</p>
 </blockquote>
-<h4 id="how-are-credits-discounted">How are credits discounted?</h4>
-<p>Credits are discounted periodically (not in real time). (<em>Pending more details</em>)</p>
+<h4 id="how-often-are-credits-discounted">How often are credits discounted?</h4>
+<p>Credits are not discounted in real time. This is the update frequency:</p>
+<ul>
+<li><strong>Storage</strong>: Every hour</li>
+<li><strong>Analytics</strong>: Updated approximately every 10 minutes</li>
+<li><strong><a href="https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-7DD6E881-411F-4861-B140-C6E465C1371D" target="_blank">Premium Content</a></strong> - updated approximately every 10 minutes (only demographic maps consume credits at this time)</li>
+</ul>
+<p>Read the <a href="https://community.esri.com/message/797070-re-how-often-are-the-remaining-credits-in-an-account-updated?commentID=797070&amp;et=watches.email.thread#comment-797070" target="_blank">original explanation @ GeoNet</a>.</p>
+<h4 id="how-are-hosted-services-credit-consumption-calculated">How are hosted services credit consumption calculated?</h4>
+<p>As mentioned before, hosted services are charged hourly based.</p>
+<blockquote>
+<p><strong>Credit Math:</strong> (<em>Autor: <a href="https://community.esri.com/thread/209489-arcgis-online-storage-per-day-or-per-month-for-credits#comment-751906" target="_blank">Kelly Gerrow</a></em>)</p>
+<p>Example if you have 10 MB of feature storage for an entire month, it will cost 2.4 credits for the entire month.</p>
+<p>If you publish and delete feature storage throughout the month, the credit charges reflect these changes due to the size of feature storage scheduled hourly. <em>This isn&apos;t the exact math as I have rounded the numbers and estimated the month, but should provide an idea about how the hourly storage is calculated.</em></p>
+<p>Example if you had a 10 MB  service and had it hosted in ArcGIS Online for 6 hours, it would be</p>
+<p>2.4 credits per month &#xF7; 744 hours (month of March) = 0.00322 (credits per hour)</p>
+<p>0.00322 credits * 6 = total of 0.019 credits for storage for the six hours.</p>
+</blockquote>
+<h4 id="how-do-i-know-how-many-mb-my-data-will-consume">How do I know how many MB my data will consume?</h4>
+<blockquote>
+<p>The data storage size is dependent on the actual data, field number and stored geometry in the dataset. Estimations are often inaccurate as all datasets vary. If looking to estimate for budgeting, the most accurate way to determine the size is to upload the data and view the size. Data that is larger than desired can be easily deleted. As mentioned above, short term storage of feature datasets is generally quite low.</p>
+</blockquote>
+<p>Read the <a href="https://community.esri.com/thread/209489-arcgis-online-storage-per-day-or-per-month-for-credits#comment-796896" target="_blank">original explanation @ GeoNet</a></p>
 <h4 id="how-can-i-avoid-to-get-my-account-blocked">How can I avoid to get my account blocked</h4>
 <p>Currently there is no foolproof way to prevent your account from being blocked, but there is an <a href="https://developers.arcgis.com/account/usage-alerts/" target="_blank">alert mechanism</a> that allows you to set up notifications when you exceed a credit limit (75%, 90%, 100%).</p>
 <p>But the most important thing to keep your account from being blocked is:</p>
@@ -4221,8 +4244,8 @@
 <li>There is also a REST API that can be used programmatically to calculate credit consumption (<a href="../rest-apis/ready-to-use-services/">learn more</a>).</li>
 </ul>
 </li>
-<li>Check the number of credits you have left, but remember that they are not updated in real time.</li>
-<li>Be careful when using the services that consume credits.</li>
+<li>Check the number of credits you have left, but remember that they are not updated in real time (<a href="#how-often-are-credits-discounted">more info</a>).</li>
+<li>Be careful when using the features that consume credits: analysis services, premium content and storage.</li>
 </ul>
 <h3 id="arcgis-online-deployment-plan">ArcGIS Online Deployment Plan</h3>
 <h4 id="any-plan">Any plan</h4>
@@ -4322,6 +4345,12 @@
 <h3 id="check-the-detailed-credit-consumption">Check the detailed credit consumption</h3>
 <p>Scrolling down you will notice you can interact with the chart to better understand how you are using your credits:</p>
 <p><img src="../../../../assets/checking-credits-detailed.png" alt="Screenshot status page"></p>
+<p>Additional resources:</p>
+<ul>
+<li><a href="https://www.esri.com/arcgis-blog/products/arcgis-online/administration/understanding-feature-storage-reports-december-2016/?rmedium=redirect&amp;rsource=/esri/arcgis/2016/12/15/71673" target="_blank">Understanding Feature Storage Reports</a></li>
+<li><a href="http://learn.arcgis.com/en/projects/set-up-an-arcgis-organization/lessons/monitor-member-activity.htm" target="_blank">Monitor member activity</a></li>
+<li><a href="https://doc.arcgis.com/en/arcgis-online/administer/view-status.htm" target="_blank">View credit status</a> (<a href="http://www.arcgis.com/home/organization.html#status" target="_blank">Organization &gt; Status &gt; Credits Credit</a>)</li>
+</ul>
 <h3 id="check-your-credit-renewal-date">Check your credit renewal date</h3>
 <p>You can also check the renewal date:</p>
 <p><img src="../../../../assets/checking-renewal-credits-date.png" alt="Screenshot status page"></p>
@@ -4389,7 +4418,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Credits","level":"1.3.10.11.2","depth":4,"next":{"title":"Developer Console","level":"1.3.10.11.3","depth":4,"path":"arcgis/products/arcgis-online/developer-console/README.md","ref":"arcgis/products/arcgis-online/developer-console/README.md","articles":[]},"previous":{"title":"ArcGIS Open Data","level":"1.3.10.11.1","depth":4,"path":"arcgis/products/arcgis-online/arcgis-open-data/README.md","ref":"arcgis/products/arcgis-online/arcgis-open-data/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/arcgis-online/credits/README.md","mtime":"2018-09-03T12:35:52.664Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-09-03T12:36:04.228Z"},"basePath":"../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Credits","level":"1.3.10.11.2","depth":4,"next":{"title":"Developer Console","level":"1.3.10.11.3","depth":4,"path":"arcgis/products/arcgis-online/developer-console/README.md","ref":"arcgis/products/arcgis-online/developer-console/README.md","articles":[]},"previous":{"title":"ArcGIS Open Data","level":"1.3.10.11.1","depth":4,"path":"arcgis/products/arcgis-online/arcgis-open-data/README.md","ref":"arcgis/products/arcgis-online/arcgis-open-data/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/arcgis-online/credits/README.md","mtime":"2018-09-06T11:21:14.974Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-09-06T11:21:28.186Z"},"basePath":"../../../..","book":{"language":""}});
         });
     </script>
 </div>

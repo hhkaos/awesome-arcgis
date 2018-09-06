@@ -13,7 +13,9 @@ Service credits are the currency used across ArcGIS and are consumed for specifi
   - [General](#general)
     - [What does NOT consume credits?](#what-does-not-consume-credits)
     - [What consume credits?](#what-consume-credits)
-    - [How are credits discounted?](#how-are-credits-discounted)
+    - [How often are credits discounted?](#how-often-are-credits-discounted)
+    - [How are hosted services credit consumption calculated?](#how-are-hosted-services-credit-consumption-calculated)
+    - [How do I know how many MB my data will consume?](#how-do-i-know-how-many-mb-my-data-will-consume)
     - [How can I avoid to get my account blocked](#how-can-i-avoid-to-get-my-account-blocked)
   - [ArcGIS Online Deployment Plan](#arcgis-online-deployment-plan)
     - [Any plan](#any-plan)
@@ -100,11 +102,12 @@ Read the [original explanation @ GeoNet](https://community.esri.com/thread/20948
 Currently there is no foolproof way to prevent your account from being blocked, but there is an [alert mechanism](https://developers.arcgis.com/account/usage-alerts/) that allows you to set up notifications when you exceed a credit limit (75%, 90%, 100%).
 
 But the most important thing to keep your account from being blocked is:
+
 * Check the number of credits an analysis will take.
     * Almost every interface using any of the [ready to use ArcGIS Online REST APIs](../rest-apis/ready-to-use-services/README.md) have a credit calculator you can check before executing it.
     * There is also a REST API that can be used programmatically to calculate credit consumption ([learn more](../rest-apis/ready-to-use-services/README.md)).
-* Check the number of credits you have left, but remember that they are not updated in real time.
-* Be careful when using the services that consume credits.
+* Check the number of credits you have left, but remember that they are not updated in real time ([more info](#how-often-are-credits-discounted)).
+* Be careful when using the features that consume credits: analysis services, premium content and storage.
 
 ### ArcGIS Online Deployment Plan
 

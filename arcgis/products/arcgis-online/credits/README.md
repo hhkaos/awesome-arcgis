@@ -63,9 +63,37 @@ You can use service credits in exchange for storage, analytics, demographics and
 
 > **Note**: there are some credit-consuming operations that can also be performed using free services, such as the [sampleserver6.arcgisonline.com geometry REST service](https://developers.arcgis.com/rest/services-reference/geometry-service.htm) or the geometry engine of some APIs/SDKs (JS [geometryEngine](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html) & [projectionEngine](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-projection.html)).
 
-#### How are credits discounted?
+#### How often are credits discounted?
 
-Credits are discounted periodically (not in real time). (*Pending more details*)
+Credits are not discounted in real time. This is the update frequency:
+
+* **Storage**: Every hour
+* **Analytics**: Updated approximately every 10 minutes
+* **[Premium Content](https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-7DD6E881-411F-4861-B140-C6E465C1371D)** - updated approximately every 10 minutes (only demographic maps consume credits at this time)
+
+Read the [original explanation @ GeoNet](https://community.esri.com/message/797070-re-how-often-are-the-remaining-credits-in-an-account-updated?commentID=797070&et=watches.email.thread#comment-797070).
+
+#### How are hosted services credit consumption calculated?
+
+As mentioned before, hosted services are charged hourly based.
+
+> **Credit Math:** (*Autor: [Kelly Gerrow](https://community.esri.com/thread/209489-arcgis-online-storage-per-day-or-per-month-for-credits#comment-751906)*)
+>
+> Example if you have 10 MB of feature storage for an entire month, it will cost 2.4 credits for the entire month.
+>
+> If you publish and delete feature storage throughout the month, the credit charges reflect these changes due to the size of feature storage scheduled hourly. *This isn't the exact math as I have rounded the numbers and estimated the month, but should provide an idea about how the hourly storage is calculated.*
+>
+> Example if you had a 10 MB  service and had it hosted in ArcGIS Online for 6 hours, it would be
+>
+> 2.4 credits per month ÷ 744 hours (month of March) = 0.00322 (credits per hour)
+>
+> 0.00322 credits * 6 = total of 0.019 credits for storage for the six hours.
+
+#### How do I know how many MB my data will consume?
+
+> The data storage size is dependent on the actual data, field number and stored geometry in the dataset. Estimations are often inaccurate as all datasets vary. If looking to estimate for budgeting, the most accurate way to determine the size is to upload the data and view the size. Data that is larger than desired can be easily deleted. As mentioned above, short term storage of feature datasets is generally quite low.
+
+Read the [original explanation @ GeoNet](https://community.esri.com/thread/209489-arcgis-online-storage-per-day-or-per-month-for-credits#comment-796896)
 
 #### How can I avoid to get my account blocked
 
@@ -216,6 +244,12 @@ Remaining amount of credits you have:
 Scrolling down you will notice you can interact with the chart to better understand how you are using your credits:
 
 ![Screenshot status page](../../../../assets/checking-credits-detailed.png)
+
+Additional resources:
+
+* [Understanding Feature Storage Reports](https://www.esri.com/arcgis-blog/products/arcgis-online/administration/understanding-feature-storage-reports-december-2016/?rmedium=redirect&rsource=/esri/arcgis/2016/12/15/71673)
+* [Monitor member activity](http://learn.arcgis.com/en/projects/set-up-an-arcgis-organization/lessons/monitor-member-activity.htm)
+* [View credit status](https://doc.arcgis.com/en/arcgis-online/administer/view-status.htm) ([Organization > Status > Credits Credit](http://www.arcgis.com/home/organization.html#status))
 
 ### Check your credit renewal date
 

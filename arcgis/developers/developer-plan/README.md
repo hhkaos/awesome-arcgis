@@ -19,7 +19,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-(move this to each type of developer?)
+> **Under consideration**: should we move this to each type of developer?
 
 ## Get tools
 
@@ -88,3 +88,9 @@ Level 2|Basic
 If you are going to use .... you need an ArcGIS deployment plan
 
 ## EDN
+
+## Localized resources
+
+### Spanish
+
+* [Repo para preguntas y respuestas sobre el licenciamiento para developers](https://github.com/esri-es/licenciamiento-developers)

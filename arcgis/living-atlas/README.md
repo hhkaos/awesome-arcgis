@@ -18,8 +18,8 @@ There are some ready-to-use map layers, analytic tools, and services published b
 |Content type|Example content|Consume credits|
 |---|---|---|
 |Default content|Any content shared publicly|No
-|[Subscriber content](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor61)|NAIP imagery, landscape analysis layers, and historical maps|No
-|[Premium content](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor62)|Demographic and lifestyle maps as well as tools for geocoding, geoenrichment, network analysis, elevation analysis, and spatial analysis|Yes|
+|[Subscriber content](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor61)|NAIP imagery, landscape analysis layers, and historical maps ([view all](http://www.arcgis.com/home/search.html?q=typekeywords%3A%22Requires%20Subscription%22&t=content&start=1&sortOrder=desc&sortField=relevance))|No
+|[Premium content](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor62)|Demographic and lifestyle maps as well as tools for geocoding, geoenrichment, network analysis, elevation analysis, and spatial analysis ([view all](http://www.arcgis.com/home/search.html?q=typekeywords%3A%22Requires%20Credits%22&t=content&start=1&sortOrder=desc&sortField=relevance))|Yes|
 
 Learn more: [Using subscriber content in Web Apps and Story Maps](https://www.esri.com/arcgis-blog/products/arcgis-online/sharing-collaboration/using-subscriber-content-in-web-apps-and-story-maps/)
 

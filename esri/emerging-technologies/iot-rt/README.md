@@ -25,3 +25,8 @@ There are a set of products in the ArcGIS platform you might want to know if you
 ## News
 
 * [Esri and PubNub Collaborate on Real-Time Location Strategy Technology for Developers of Next Gen Mapping and Analytics Apps](https://www.esri.com/arcgis-blog/products/arcgis-solutions/analytics/esri-and-pubnub-collaborate-on-real-time-location-strategy-technology-for-developers-of-next-gen-mapping-and-analytics-apps/)
+
+## Real time content
+
+* [Real time content published in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list&categories=%5B%22%2FCategories%2FContent%20type%2FReal-time%22%5D#content)
+* [Stream services](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list&searchTerm=stream&categories=%5B%22%2FCategories%2FServices%2FStream%20service%22%5D#content) published in ArcGIS Online

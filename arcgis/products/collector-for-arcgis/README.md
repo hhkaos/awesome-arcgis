@@ -87,5 +87,6 @@ Organizations with expertise on this topic:
 |Company|Relation type|Country|
 |---|---|---|
 |[Leica](../../../esri/partners/program-members/leica/README.md)|Product (ZenoCollector)|Switzerland
+|[Trimble](../../../esri/partners/program-members/leica/README.md)|Product (Catalyst)|USA|
 
 *Is there any partner or startup you can had with expertise on this topic?*

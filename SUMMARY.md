@@ -263,6 +263,7 @@
       - [OSIGris](esri/partners/program-members/osigris/README.md)
       - [Solusoft](esri/partners/program-members/solusoft/README.md)
       - [TeamDev](esri/partners/program-members/teamdev/README.md)
+      - [Trimble](esri/partners/program-members/trimble/README.md)
       - [Vexiza](esri/partners/program-members/vexiza/README.md)
       - [Vrbn](esri/partners/program-members/vrbn/README.md)
     - [Programs](esri/partners/programs/README.md)

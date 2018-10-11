@@ -17,10 +17,10 @@ The Enterprise Geodatabase also call ArcSDE geodatabase is a collection of table
 
 Work on top of:
 
-* Db2
+* DB2
 * Oracle
 * PostgreSQL
-* SQL Server
+* Microsoft SQL Server
 * SAP HANA
 
 

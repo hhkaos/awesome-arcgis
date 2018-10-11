@@ -19,13 +19,14 @@ To build great apps you need may need great content, learn what ArcGIS supports.
 
 ## Introduction
 
-ArcGIS offer you the possibility to host your own geographic content and consume third party content. This content is delivered though ArcGIS services.
+ArcGIS offer you the possibility to host your own geographic content and consume third party content. This content use to be delivered though ArcGIS services.
 
 Learn more about:
 
 * [ArcGIS geoinformation model](https://doc.arcgis.com/en/arcgis-online/reference/geo-info.htm)
 * [ArcGIS data types](data-types/README.md)
 * [ArcGIS data storage](data-storage/README.md)
+* [ArcGIS service types](data-storage/service-types/README.md)
 * [ArcGIS data providers](data-providers/README.md)
 
 ## Find existing geolocated content in ArcGIS

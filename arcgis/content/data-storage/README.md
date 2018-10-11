@@ -26,6 +26,7 @@ The benefits from storing content inside ArcGIS are:
 
 * Been able to run spatial analysis inside the platform
 * Consume your data from any [ArcGIS product](../../products/README.md)
+* Store many different data sources (vector data, raster data, tabular data and attachments)
 * ...
 
 > **Recommendation**: If you are building an app using ArcGIS we recommended you to store your content in an ArcGIS storage because that way you will get the most of the APIs and SDKs
@@ -36,7 +37,7 @@ Long time ago both the applications an the source code use to live in the same m
 
 That's why ArcGIS provide many service type to be able to access to all the content stored in your databases or files.
 
-Learn more about [ArcGIS service types](./service-types/README.md) and how you can benefit from them. 
+Learn more about [ArcGIS service types](./service-types/README.md) and how you can benefit from them.
 
 ## Additional resources
 

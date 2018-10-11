@@ -16,16 +16,26 @@
 When an application needs to support simultaneous editing of users, work with large volumes of data, etc. we would want to use databases capable of performing advanced functionalities with spatial data, for example:
 
 * [Esri Enterprise GeoDatabases](./enterprise-geodatabase/README.md)
-* Postgre
-* SQL Server
+* PostgreSQL
+* Microsoft SQL Server
 * Oracle
+* Informix
+* IBM DB2
+
+When working with spatial data normally we would use the spatial version of a database:
+
+* PostGIS instead of PostgreSQL
+* Oracle Spatial instead of Oracle
 * etc.
+
+If we don't use an ArcGIS geodatabase but we want to connect it to use in with the platform we might want to use [Koop](../../../developers//profiles/devops/technologies/koop/README.md) to expose our data to the platform.
+
 
 ## Introduction to Esri Geodatabases
 
-> **Important**: no every Esri Geodatabase type run on top of a DBMS
+> **Important**: no every Esri GeoDatabase type run on top of a DBMS
 
-A geodatabase is a based on the relational database model and is allows you to store GIS information in one large file, which can contain multiple point, polygon, and/or polyline layers. It is a less “messy” way of organizing data than having multiple [shapefiles](../shapefile/README.md) in multiple folders.
+A geodatabase is a based on the relational database model and is allows you to store GIS information in "one large file", which can contain multiple point, polygon, and/or polyline layers. It is a less “messy” way of organizing data than having multiple [shapefiles](../shapefile/README.md) in multiple folders.
 
 > Geodatabases also allows you to set up a topology, store rasters, add domains or geometric networks, which you can’t do with shapefiles.
 
@@ -34,8 +44,8 @@ Three types of geodatabases (GDB):
 |Geodatabase type|Format|Multi-editor|Storage limit|Release date|
 |---|---|---|---|---|
 |[Personal GDB](../file-formats/mdb/README.md)| File format|No|2GB|1999
-|[File GDB](../file-formats/dgb/README.md)|File format|Many readers or one writer per feature dataset|1TB per dataset|2006
-|[Enterprise GDB](./enterprise-geodatabase/README.md)| Database|Multiuser: many readers and many writers|Up to DBMS limits|Unknown|
+|[File GDB](../file-formats/dgb/README.md)|File format|Many readers or one writer per feature dataset (but multiple people editing different feature classes or tables at the same time)|1TB to 256TB (with keywords) per dataset|2006
+|[Enterprise GDB](./enterprise-geodatabase/README.md)| Database|Multiuser: many readers and many writers (unlimited editors)|Up to DBMS limits|Unknown|
 
 > **Detailed comparison**: [Comparing the three types of geodatabases](http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm)
 
@@ -45,7 +55,7 @@ The functionality:
 * Store datasets (tables for non spatial data, feature classes for vector data and raster), rules and relationships
 * Reference rasters
 * Behaviour rules and relationships to maintain integrity
-* Addcional tools to help maintain the integrity of spatial data (advance data topology)
+* Additional tools to help maintain the integrity of spatial data (advance data topology)
 * Geometric networks (for route solving)
 * Store toolboxes with geoprocessing tools, python scripts and models built in model builder
 * Story address locators for geocoding tasks

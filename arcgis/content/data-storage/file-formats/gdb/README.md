@@ -2,7 +2,7 @@
 
 # GDB
 
-A file GeoDataBase (GDB) is a collection of files in a folder on disk that can store, query, and manage both spatial (vector and raster) and nonspatial data.
+A file GeoDataBase (GDB) is a collection of files in a folder on disk that can store, query, and manage both spatial (vector and raster) and nonspatial data. Its storage mechanism of platform is SQL Server Express (*.mdf)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

@@ -16,7 +16,12 @@ Rasters are digital aerial photographs, imagery from satellites, digital picture
 
 ## Introduction
 
-The raster model represents the surface of the earth as a grid of cells of equal size (square meter, square mile, ...) is usually used to represent continuous phenomena.
+The raster model represents the surface of the earth as a grid of cells of equal size (square meter, square mile, ...) is usually used to represent continuous phenomena such us precipitation, elevation, heat from a forest fire, etc..
+
+Each grid contains a discrete or continuous value. Examples:
+
+* Discrete can have values that represent a code for a particular category. For example could be values defining the land type / land cover (1=backgound, 2=oak-pine, etc.)
+* Continuous an elevation raster where each value define the altitude of that point
 
 ![Raster data](http://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/GUID-6754AF39-CDE9-4F9D-8C3A-D59D93059BDD-web.png)
 
@@ -52,6 +57,11 @@ There are two main raster data types:
 * [Multidimensional data](./multidimensional/README.md): refers to data normally stored as variables, where each variable is a multidimensional array.
 
 Digital pictures, or even scanned maps.
+
+## Training
+
+* [ArcGIS Imagery Book](https://learn.arcgis.com/en/arcgis-imagery-book)
+* [ArcGIS Imagery Book - Instructional Guide](http://downloads.esri.com/LearnArcGIS/pdf/instructional-guide-for-the-arcgis-imagery-book.pdf)
 
 ## Videos
 

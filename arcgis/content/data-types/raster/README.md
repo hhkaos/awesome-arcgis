@@ -10,6 +10,7 @@ Rasters are digital aerial photographs, imagery from satellites, digital picture
 
 - [Introduction](#introduction)
 - [Raster data types](#raster-data-types)
+- [Training](#training)
 - [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

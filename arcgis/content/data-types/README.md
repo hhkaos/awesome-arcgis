@@ -10,7 +10,6 @@ There are two main geographic data types: raster and vector. But there are sever
 
 - [Introduction](#introduction)
 - [Data types](#data-types)
-- [Training](#training)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

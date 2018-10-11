@@ -10,6 +10,7 @@ When we talk about vector data we are talking about non-raster data. This includ
 
 - [Introduction](#introduction)
 - [Vector data types](#vector-data-types)
+  - [Vector data representation](#vector-data-representation)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

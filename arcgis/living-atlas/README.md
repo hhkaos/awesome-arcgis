@@ -9,7 +9,7 @@ The ArcGIS Living Atlas of the World is the foremost collection of geographic in
 
 ## Introduction
 
-[Living Atlas](https://livingatlas.arcgis.com/en/) contains more than **5500 authoritative items** (trusted) from different sources and types: layers, 2D maps, 3D scenes, tools, applications and storymaps.
+[Living Atlas](https://livingatlas.arcgis.com/en/) contains more than **[7000 items](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=#content)** ([>2000 authoritative](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=contentstatus%3A%22public_authoritative%22&sortOrder=desc&sortField=numviews&focus=layers#content)) from different sources and types: layers, 2D maps, 3D scenes, tools, applications and storymaps.
 
 ## Limited access content
 

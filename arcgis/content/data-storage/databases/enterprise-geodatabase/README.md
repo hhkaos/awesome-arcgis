@@ -9,6 +9,7 @@ The Enterprise Geodatabase also call ArcSDE geodatabase is a collection of table
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
   - [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -5,6 +5,7 @@
 - [ArcObjects & ArcGIS Engine](#arcobjects--arcgis-engine)
 - [Introduction](#introduction)
     - [Migrating](#migrating)
+  - [Training](#training)
     - [Videos](#videos)
   - [Additional resources](#additional-resources)
     - [Localized resources](#localized-resources)

@@ -152,6 +152,8 @@ You might also want to check this emerging technologies: [Augmented Reality](../
 
 Or this book: [Geogames and Geoplay - Game-based Approaches to the Analysis of Geo-Information](https://www.springer.com/gp/book/9783319227733).
 
+[Size Comparison in Video Game Maps](https://www.youtube.com/watch?v=80vctFJqoG8)
+
 ## Partners and startups
 
 Organizations and the type of relation with this industry or technologies:

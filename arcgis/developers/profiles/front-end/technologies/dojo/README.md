@@ -41,6 +41,7 @@ In this section we will focus on [Dojo Toolkit](https://dojotoolkit.org/) traini
   * [Serverside integrations](https://github.com/peterkokot/awesome-dojo#serverside-integrations)
 * [Working with Dojo - ArcGIS Short Guide](https://developers.arcgis.com/javascript/3/jshelp/inside_dojo.html)
 * [Dojo: The Good Parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts)
+* iGeometry from [Hussein Nasser](https://www.linkedin.com/in/hnaser/): [ArcGIS JavaScript API 4.x](https://www.youtube.com/playlist?list=PLQnljOFTspQUppK8iiIuoQJTAj436IWQz)
 
 ### Videos / Technical talks
 

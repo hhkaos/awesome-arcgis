@@ -43,6 +43,10 @@ using Pro’s new APIs.
 
 * [ArcGIS Pro for Developers Training resources](www.esri.com/training/Bookmark/F3KJ7DXDA)
 
+* iGeometry from [Hussein Nasser](https://www.linkedin.com/in/hnaser/)
+    * [Getting Started with ArcGIS Pro 2.x - Youtube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQVJVUe9tdnwByPl8CkzOSi6)
+    * [Podcast](https://open.spotify.com/show/55pPBm0l75K28dIqoHIQIc)
+
 * .NET developers:
   * [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/sdk/)
   * [ArcGIS Pro API reference](https://pro.arcgis.com/en/pro-app/sdk/api-reference/)

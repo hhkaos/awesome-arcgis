@@ -34,6 +34,10 @@ Now it have different licensing roles:
 * [What is ArcGIS Server?](http://server.arcgis.com/en/server/latest/get-started/linux/what-is-arcgis-for-server-.htm)
 * [Extend ArcGIS Server customizing or adding new endpoints](http://server.arcgis.com/en/server/latest/publish-services/linux/about-extending-services.htm)
 * [ArcGIS REST API](../../../../esri/open-vision/open-specifications/arcgis-rest-api/README.md)
+* iGeometry from [Hussein Nasser](https://www.linkedin.com/in/hnaser/)
+    * [Podcast](https://open.spotify.com/show/55pPBm0l75K28dIqoHIQIc)
+    * [ArcGIS for Server - Youtube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQUb2IsJ6qPQcQ8f7NkqNcxr)
+    * [ArcGIS Server Talk - Youtube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQVciJ4lvfuocOJcrvoaqPWu)
 
 ### Videos / Technical talks
 

@@ -28,6 +28,14 @@ It is multi user and editor, "unlimited" size.
 
 Support [vector](../../../data-types/vector/README.md) and [raster](../../../data-types/raster/README.md) datasets
 
+## Training
+
+* iGeometry from [Hussein Nasser](https://www.linkedin.com/in/hnaser/)
+    * [Podcast](https://open.spotify.com/show/55pPBm0l75K28dIqoHIQIc)
+    * [Geodatabase Talk - Youtube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQVciJ4lvfuocOJcrvoaqPWu)
+    * [Multi-User Geodatabase - Youtube playlist](https://www.youtube.com/playlist?list=PLQnljOFTspQWseiNSmOMgsR5lgugKg_KP)
+
+
 ### Videos
 
 On [*video.esri.com*](http://video.esri.com/search/Geodatabase) you will find many technical talks and slides from [*proceedings.esri.com*](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20Geodatabase).

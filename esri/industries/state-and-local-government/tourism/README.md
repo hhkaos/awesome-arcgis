@@ -44,6 +44,7 @@ Learn how ArcGIS is been used in tourism
     * [Leipzig City Map using Web AppBuilder](http://www.arcgis.com/home/item.html?id=4c89f67a66a049a8a69cd4f8dedb3aa1)
 * Using [Configurable Apps](../../../arcgis/products/configurable-apps/README.md) (  [MapTour](http://www.arcgis.com/home/item.html?id=91d75e9b375e4e9b9b3a4004544bfadf), [Shortlist](http://www.arcgis.com/home/item.html?id=c62ff7eec30641e69ae6acd7f1599512) and [Finder](http://www.arcgis.com/home/item.html?id=547a3a4462344880be61ed4083142f63))) and storymaps:
     * [Monuments in Seville](http://sig.urbanismosevilla.org/sevilla.art/monumentos/index_en.html)
+    * [Tourism Aragon](http://gob-aragon.maps.arcgis.com/apps/webappviewer/index.html?id=8d644249c065452ca8707a78ea352dd1)
     * [Tourism related Storymaps](https://storymaps.arcgis.com/en/gallery/#s=0&q=tourism)
 * [Esri Spain Presales Tourism Demos](http://preventas.maps.arcgis.com/home/gallery.html?view=list&sortOrder=true&sortField=relevance&showFilters=true&searchTerm=turismo)
 

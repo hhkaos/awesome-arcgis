@@ -25,6 +25,8 @@ Some examples:
 
 ### Videos
 
-We have created a [3D on the ArcGIS Platform Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd4s3rJUwILIM8aAGENsyN9M) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+Chris Andrews made this awesome playlist: [2018 Esri 3D GIS](https://www.youtube.com/playlist?list=PLWiaaHW6vXUouu5ycjuEIfKhO615mesjY) with +10 short videos (~5min) explaining core concepts.
+
+We have also created a [3D on the ArcGIS Platform Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd4s3rJUwILIM8aAGENsyN9M) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
 
 > You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="TOPIC"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="TOPIC"), [EsriTV](https://www.youtube.com/user/esritv/search?query="TOPIC"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="TOPIC") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)

@@ -10,6 +10,8 @@ Get location-based insight for market planning, site selection, and customer seg
 
 - [Introduction](#introduction)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

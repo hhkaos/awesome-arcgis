@@ -30,6 +30,7 @@
         - [Meteosat](arcgis/content/data-providers/eumetsat/meteosat/README.md)
       - [HERE](arcgis/content/data-providers/here/README.md)
       - [PNOA](arcgis/content/data-providers/pnoa/README.md)
+      - [Tomtom](arcgis/content/data-providers/tomtom/README.md)
       - [Usgs Nasa](arcgis/content/data-providers/usgs-nasa/README.md)
         - [Aster](arcgis/content/data-providers/usgs-nasa/aster/README.md)
         - [Landsat](arcgis/content/data-providers/usgs-nasa/landsat/README.md)

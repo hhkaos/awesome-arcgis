@@ -8,6 +8,9 @@
 
 - [Introduction](#introduction)
   - [Videos](#videos)
+- [Products](#products)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

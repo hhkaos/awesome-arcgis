@@ -10,6 +10,7 @@ Learn how ArcGIS is been used in tourism
 
 - [Introduction](#introduction)
   - [Videos](#videos)
+- [Featured technology](#featured-technology)
 - [Events calendar app](#events-calendar-app)
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [News](#news)

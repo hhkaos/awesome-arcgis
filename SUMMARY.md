@@ -264,6 +264,8 @@
       - [OSIGris](esri/partners/program-members/osigris/README.md)
       - [Solusoft](esri/partners/program-members/solusoft/README.md)
       - [TeamDev](esri/partners/program-members/teamdev/README.md)
+      - [Tecnosylva](esri/partners/program-members/tecnosylva/README.md)
+      - [Telefonica](esri/partners/program-members/telefonica/README.md)
       - [Trimble](esri/partners/program-members/trimble/README.md)
       - [Vexiza](esri/partners/program-members/vexiza/README.md)
       - [Vrbn](esri/partners/program-members/vrbn/README.md)

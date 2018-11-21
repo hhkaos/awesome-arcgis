@@ -158,7 +158,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 #### Spanish
 
-* [Página de producto de ArcGIS Pro](http://www.esri.es/producto/arcgis-pro/)
+* [Página de producto de ArcGIS Pro](https://www.esri.es/producto/arcgis-pro/)
+    * Vídeo: [Herramientas para profesionales. Conoce ArcGIS Pro. - CEsri18](https://www.youtube.com/watch?v=TXaoT7m2O5A)
 * [Licenciamiento para developers](https://github.com/esri-es/licenciamiento-developers)
 
 

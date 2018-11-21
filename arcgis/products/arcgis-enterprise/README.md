@@ -94,6 +94,11 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 #### Spanish
 
 * [Página de producto de ArcGIS Enterprise](http://www.esri.es/producto/arcgis-enterprise/)
+    * [ArcGIS Enterprise Sites 10.6.1](https://youtu.be/3kZfWIQHFgQ?t=14m44s)
+    * [ArcGIS Enterprise: Web GIS en tu infraestructura - CEsri17](https://www.youtube.com/watch?v=xTOYjri1l-Y)
+    * [Webinar ArcGIS Enterprise 10.5](https://www.youtube.com/watch?v=T-ewxTA85oU)
+* [Web Esri España > Implementación](https://www.esri.es/arcgis/implementacion/)
+    * [Alternativas de Arquitectura física y Lógica. Modelos de despliegue. - CEsri18](https://www.youtube.com/watch?v=xm0LS4wV9aI)
 * [Webinar ArcGIS Enterprise](https://www.youtube.com/watch?v=T-ewxTA85oU)
 * [Esri Startup Program - Spanish portal](http://startups.esri.es)
 

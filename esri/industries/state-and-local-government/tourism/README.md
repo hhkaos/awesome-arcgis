@@ -29,6 +29,16 @@ Learn how ArcGIS is been used in tourism
 * [INSTO Meeting 2017 - The Importance of Geospatial Analysis in Tourism - ESRI & SEGITTUR](https://www.youtube.com/watch?v=7com2Ma7PuU)
 * [A Digital Workflow for Dynamic Geodesign](https://www.youtube.com/watch?v=QERJbL9J1Xw)
 
+## Featured technology
+
+The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/README.md) and [solutions](https://solutions.arcgis.com/), the most popular ones for **INDUSTRY** are:
+
+* ArcGIS Hub
+* Configurable Apps (Storymaps)
+* Operations Dashboard
+* Network Analyst
+* Web AppBuilder
+
 ## Events calendar app
 
 [Events Calendar](https://solutions.arcgis.com/local-government/help/event-calendar/) is a configuration of Web AppBuilder for ArcGIS that can be used by the general public to discover festivals, shows, concerts and other events occurring in a community. Event information can be accessed from a smartphone, tablet, and desktop computer. | [Video demo](https://youtu.be/YAZFXXvJKZQ?t=10m53s)

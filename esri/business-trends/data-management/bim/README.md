@@ -90,6 +90,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 #### Spanish
 
+Web Esri España: [ArcGIS > Capacidad BIM](https://www.esri.es/capacidad/bim/)
 * [Playlist de Youtube: BIM Y ArcGIS](https://www.youtube.com/playlist?list=PLoptan2utx14symbrI699ksBRDOXRJp0)
 * [Webinar 3D, BIM y Gestión Indoor](https://www.youtube.com/watch?v=-PzdMRk7n80) (2017)
 * [BIM & Indoor, servicios i3s y realidad virtual, 3D en las nuevas tecnologías](https://www.youtube.com/watch?v=mV77R2I_M-0) (2017)

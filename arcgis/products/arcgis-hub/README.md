@@ -84,4 +84,5 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 #### Spanish
 
-* [Página de producto de ArcGIS Hub](http://www.esri.es/producto/arcgis-hub/)
+* [Página de producto de ArcGIS Hub](https://www.esri.es/producto/arcgis-hub/)
+ * [ArcGIS Hub en la Conferencia Esri España 2018](https://youtu.be/3kZfWIQHFgQ?t=14m44s)

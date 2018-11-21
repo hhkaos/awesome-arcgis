@@ -118,5 +118,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 * [Playlist de Youtube - Introducción a ArcGIS Online](https://www.youtube.com/watch?v=qgh8wdDjQ8A&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=1&t=0s)
 * [Página de producto de ArcGIS Online](http://www.esri.es/producto/arcgis-online/)
+* [Web Esri España > Implementación](https://www.esri.es/arcgis/implementacion/)
+    * [Alternativas de Arquitectura física y Lógica. Modelos de despliegue. - CEsri18](https://www.youtube.com/watch?v=xm0LS4wV9aI)
 * [ArcGIS Online para organizaciones y proyectos sin ánimo de lucro](https://www.youtube.com/watch?v=nMXNoc2D4Bo)
 * [Introducción a ArcGIS Online para desarrolladores](https://www.youtube.com/watch?v=g9UJHsUe-e8)

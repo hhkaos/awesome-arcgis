@@ -19,9 +19,9 @@ This is an [ArcGIS overview](https://www.esri.com/es-es/arcgis/about-arcgis/over
 Capabilities:
 
 * Mapping & Visualization
-* Data Collection & Management
-* Offline mapping
-* Real-Time GIS
-* Spatial Analytics
-* Imagery & Remote Sensing
-* 3D GIS
+* [Data Collection & Management](../../esri/business-trends/data-management/README.md)
+* [Offline mapping](./offline/README.md)
+* [Real-Time GIS](../../esri/emerging-technologies/iot-rt/README.md)
+* [Spatial Analytics](./spatial-analysis/README.md)
+* [Imagery](../../esri/business-trends/data-management/imagery-data/) & [Remote Sensing](../../esri/business-trends/remote-sensing/README.md)
+* [3D GIS](../../esri/business-trends/data-management/3d-data/README.md)

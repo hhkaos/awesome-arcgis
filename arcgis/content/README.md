@@ -53,7 +53,11 @@ ArcGIS Online accounts publishing curated content: [esri](https://www.arcgis.com
 
 #### Spanish
 
-* [Contents from Esri Spain](http://www.esri.es/arcgis/contenidos/)
+* [Contents from Esri Spain](https://www.esri.es/arcgis/contenidos/). Vídeos:
+    * [Datos. La columna vertebral de tus proyectos. - CEsri18](https://www.youtube.com/watch?v=aUukXa8xyUE)
+    * [Webinar Contenidos de la Plataforma](https://www.youtube.com/watch?v=yyWffKRmiKk)
+    * [Seminario Esri y Tomtom: Mapas, navegación y tráfico](https://www.youtube.com/watch?v=K8g6thyrsoQ)
+
 * ArcGIS Online user: [EsriEspanaContenidos](https://www.arcgis.com/home/search.html?q=owner:EsriEspanaContenidos&restrict=false)
 
 

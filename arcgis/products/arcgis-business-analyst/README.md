@@ -27,3 +27,11 @@ More videos about ArcGIS Business Analyst: [ArcGIS Business Analyst Youtube Play
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Business Analyst"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Business Analyst"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Localized resources
+
+#### Spanish
+
+* [Página de producto de Business Analyst](https://www.esri.es/producto/business-analyst/)
+    * [Inspirando el futuro del análisis espacial - CEsri18](https://www.youtube.com/watch?v=W5k-mVpXQy0)
+    * [Apps de ArcGIS para usuarios de negocio - CEsri17](https://www.youtube.com/watch?v=DzQCsaz7cUw)

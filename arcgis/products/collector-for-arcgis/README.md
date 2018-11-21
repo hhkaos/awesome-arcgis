@@ -79,6 +79,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 #### Spanish
 
 * [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)
+* [Casos de uso reales de Collector en España](https://youtu.be/QH8prq2lrgs?t=2m46s)
+    * [Novedades de Collector (Aurora)](https://youtu.be/QH8prq2lrgs?t=6m4s)
 
 ## Partners and startups
 

@@ -66,7 +66,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Featured technology
 
-The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/README.md) and [solutions](https://solutions.arcgis.com/), the most popular ones for gaming are:
+The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/README.md) and [solutions](https://solutions.arcgis.com/), the most popular ones for **INDUSTRY** are:
 
 *List*
 

@@ -30,3 +30,27 @@ Chris Andrews made this awesome playlist: [2018 Esri 3D GIS](https://www.youtube
 We have also created a [3D on the ArcGIS Platform Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd4s3rJUwILIM8aAGENsyN9M) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
 
 > You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="TOPIC"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="TOPIC"), [EsriTV](https://www.youtube.com/user/esritv/search?query="TOPIC"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="TOPIC") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
+
+## Products
+
+All these products work and support 3D:
+
+* New generation of Runtime SDKs and APIs
+* ArcGIS Pro
+    * 3D Analyst
+* City Engine
+* ArcGIS Online and Enterprise
+    * Scene Viewer
+    * Web AppBuilder
+* Drone2Map
+* ArcGIS VR
+* ...
+
+## Localized resources
+
+### Spanish
+
+Web Esri España: [ArcGIS > Capacidad 3D](https://www.esri.es/capacidad/3d/):
+
+* [El valor del GIS en 3D. Regreso al futuro. - CEsri18](https://www.youtube.com/watch?v=fxG1Y3TUIeg)
+* [Webinar 3D, BIM y Gestión Indoor](https://www.youtube.com/watch?v=-PzdMRk7n80)

@@ -17,4 +17,4 @@ Business intelligence (BI) comprises the strategies and technologies used by ent
 There are a set of products in the ArcGIS platform you might want to know if you are interested in this topic:
 
 * [Insights](../../../arcgis/products/insights-for-arcgis/README.md)
-* [Operations Dashboard](../../../arcgis/products/operations-dashboard)
+* [Operations Dashboard](../../../../arcgis/products/operations-dashboard)

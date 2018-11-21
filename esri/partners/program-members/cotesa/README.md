@@ -26,7 +26,7 @@ Here you will their experience working with ArcGIS on different projects and ref
 * [Business trends](../../../business-trends/README.md)
     * [Precision agriculture](../../../industries/natural-resources/agriculture/precision-agriculture/README.md): *pending links to storymaps*
 * [Industries](../../../industries/README.md):
-    * [Tourism](../../../industries/tourism/README.md): [Granada Human Smart City](http://www.esri.es/caso-de-exito/granada-human-smartcity/)
+    * [Tourism](../../../industries/state-and-local-government/tourism/README.md): [Granada Human Smart City](http://www.esri.es/caso-de-exito/granada-human-smartcity/)
 
 ## Additional resources
 

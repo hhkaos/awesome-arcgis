@@ -31,7 +31,7 @@ Sample product pages:
 
 Sample industry pages:
 
-* **Tourism**:<br> [esri/industries/tourism/README.md](../esri/industries/tourism/README.md)
+* **Tourism**:<br> [esri/industries/state-and-local-government/tourism/README.md](../esri/industries/state-and-local-government/tourism/README.md)
 
 * **Game industry**:<br> [esri/industries/game/README.md](../esri/industries/game/README.md)
 

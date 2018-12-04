@@ -82,7 +82,4 @@ Collection of data visualization samples created with ArcGIS API for JavaScript:
 https://github.com/Esri/visualization-js
 
 ## More resources
-* [GIS Utils](../../../../gis/utils/README.md)
-
-
-
+* [GIS Utils](../../../../../../../gis/utils/README.md)

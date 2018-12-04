@@ -82,7 +82,7 @@ technology so we recommend you to follow them.
 
 ## Related resources
 We recommend you to take a look to:
-* [GIS Utils](../../../gis/utils/README.md)
+* [GIS Utils](../../../../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)
 
 Here you will find a lot of interesting resources to learn an improve your skills
@@ -90,6 +90,3 @@ with Angular:
 * [Angular: A list of awesome AngularJs services, directives, utilities and resources.](https://github.com/gianarb/awesome-angularjs)
 * [Angular 2: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass](https://github.com/AngularClass/awesome-angular2)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
-
-
-

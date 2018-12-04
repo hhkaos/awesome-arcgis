@@ -30,7 +30,7 @@ but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
 ## Related resources
-* [GIS Utils](../../../../gis/utils/README.md)
+* [GIS Utils](../../../../../../../gis/utils/README.md)
 
 Here you will find a lot of interesting resources to learn an improve your skills
 with VueJS:

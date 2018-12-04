@@ -100,7 +100,7 @@ technology so we recommend you to follow them.
     * [Web AppBuilder Custom Themes Group ](https://community.esri.com/groups/web-appbuilder-custom-themes/content?filterID=contentstatus%5Bpublished%5D~objecttype~objecttype%5Bblogpost%5D)
 
 ## More resources
-* [GIS Utils](../../../../gis/utils/README.md)
+* [GIS Utils](../../../../../../../gis/utils/README.md)
 * [Web AppBuilder Live Sites Showcase](http://www.arcgis.com/apps/MapAndAppGallery/index.html?appid=1e3085af6e1a48c8908fa624bdfef768) - see what others are doing with Web AppBuilder
 
 ## Resources in other languages

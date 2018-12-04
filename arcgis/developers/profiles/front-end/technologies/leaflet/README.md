@@ -84,6 +84,6 @@ A list of awesome projects built with Esri Leaflet:
 
 ## Related resources
 We recommend you to take a look to:
-* [GIS Utils](../../../gis/utils/README.md)
+* [GIS Utils](../../../../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)

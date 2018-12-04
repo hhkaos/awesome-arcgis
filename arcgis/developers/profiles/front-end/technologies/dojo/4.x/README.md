@@ -77,5 +77,5 @@ technology so we recommend you to follow them.
 
 ## More resources
 
-* [GIS Utils](../../../../gis/utils/README.md)
+* [GIS Utils](../../../../../../../gis/utils/README.md)
 * [Best practices](../../../best-practices/README.md)

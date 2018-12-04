@@ -62,7 +62,7 @@ On [**video.esri.com**](http://video.esri.com/search/dojo) you will find many te
 
 We recommend you to take a look to:
 
-* [GIS Utils](../../../gis/utils/README.md)
+* [GIS Utils](../../../../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md): testing, performance, ...
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 

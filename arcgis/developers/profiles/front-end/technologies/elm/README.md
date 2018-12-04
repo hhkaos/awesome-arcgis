@@ -19,7 +19,7 @@ we will show you how in this page.
 
 ## More resources
 We recommend you to take a look to:
-* [GIS Utils](../../../gis/utils/README.md)
+* [GIS Utils](../../../../../../gis/utils/README.md)
 * [Best practices](../../best-practices/README.md)
 
 Here you will find a lot of interesting resources to learn an improve your skills

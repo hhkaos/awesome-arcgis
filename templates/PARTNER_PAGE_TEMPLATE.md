@@ -75,6 +75,10 @@ Here you will their experience working with ArcGIS on different projects and ref
 
 > **Recommendation**: include references to success stories from Esri website if there is any.
 
+### Customers
+
+> Mention customers in which they have implemented ArcGIS
+
 ## Esri related news & demos
 
 *Presentations, news, ...*

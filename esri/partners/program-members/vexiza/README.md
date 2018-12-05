@@ -43,6 +43,24 @@ From a developer perspective:
 |[ArcGIS Runtime SDK for .NET](../../../../arcgis/developers/profiles/desktop/technologies/dot-net/README.md)|n.a.|Build an application for emergency resource management.
 |[ArcGIS Runtime SDK for Android](../../../../arcgis/developers/profiles/mobile/technologies/android/README.md)|n.a.|Build light clients for emergency management from the field.
 
+## Background
+
+Here you will their experience working with ArcGIS on different projects and references to their work with Esri customers:
+
+* *Telecommunications*: Design of FTTH and FTTO deployment networks.
+* *Meteorology*: Development of GIS services for the processing of meteorological information and generation of geolocalized alerts.
+
+### Customers
+
+| Customer|Description|More info|
+|---|---|---|
+|DGT|Development and implementation of GIS solutions based on the ArcGIS platform within the DGT|*n.a. (internal use)*
+|DGT|Development of applications for the calculation of claims indices on ArcGIS Server|*n.a. (internal use)*
+|Xunta de Galicia|Development of solutions and services in emergencies|*n.a. (internal use)*
+|Xunta de Galicia|Development of solutions and services in MeteoGalicia|*n.a. (internal use)*
+|Ayuntamiento de León|Development of solutions for incident management and maintenance of traffic management elements|*n.a. (internal use)*
+|Ayuntamiento de La Bañeza|Business Directory of La Bañeza|[Preview](http://empresas.aytobaneza.net/)
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Vexiza"](https://esri-es.github.io/arcgis-search/?search="Vexiza"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

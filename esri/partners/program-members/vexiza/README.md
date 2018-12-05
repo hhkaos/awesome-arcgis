@@ -11,6 +11,8 @@ Soluciones GIS para tus proyectos | [vexiza.com](https://vexiza.com/)
 - [Introduction](#introduction)
 - [Platform experience](#platform-experience)
   - [Developer products](#developer-products)
+- [Background](#background)
+  - [Customers](#customers)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 
@@ -54,12 +56,12 @@ Here you will their experience working with ArcGIS on different projects and ref
 
 | Customer|Description|More info|
 |---|---|---|
-|DGT|Development and implementation of GIS solutions based on the ArcGIS platform within the DGT|*n.a. (internal use)*
-|DGT|Development of applications for the calculation of claims indices on ArcGIS Server|*n.a. (internal use)*
-|Xunta de Galicia|Development of solutions and services in emergencies|*n.a. (internal use)*
-|Xunta de Galicia|Development of solutions and services in MeteoGalicia|*n.a. (internal use)*
-|Ayuntamiento de León|Development of solutions for incident management and maintenance of traffic management elements|*n.a. (internal use)*
-|Ayuntamiento de La Bañeza|Business Directory of La Bañeza|[Preview](http://empresas.aytobaneza.net/)
+|[DGT](http://www.dgt.es/es/)|Development and implementation of GIS solutions based on the ArcGIS platform within the DGT|*n.a. (internal use)*
+|[DGT](http://www.dgt.es/es/)|Development of applications for the calculation of claims indices on ArcGIS Server|*n.a. (internal use)*
+|[Xunta de Galicia](https://www.xunta.gal/portada)|Development of solutions and services in emergencies|*n.a. (internal use)*
+|[Xunta de Galicia](https://www.xunta.gal/portada)|Development of solutions and services in MeteoGalicia|*n.a. (internal use)*
+|[Ayuntamiento de León](http://www.aytoleon.es/en/Paginas/en_home.aspx)|Development of solutions for incident management and maintenance of traffic management elements|*n.a. (internal use)*
+|[Ayuntamiento de La Bañeza](http://www.aytobaneza.es/)|Business Directory of La Bañeza|[Preview](http://empresas.aytobaneza.net/)
 
 ## Additional resources
 

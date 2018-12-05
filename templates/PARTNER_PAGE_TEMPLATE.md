@@ -16,6 +16,7 @@
   - [Developer products](#developer-products)
 - [Products](#products)
 - [Background](#background)
+  - [Customers](#customers)
 - [Esri related news & demos](#esri-related-news--demos)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)

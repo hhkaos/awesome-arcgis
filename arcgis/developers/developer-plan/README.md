@@ -77,13 +77,13 @@ Simple feature editing
 
 Instead of paying directly for an account, if you are developing an app that
 will be used only for customers already have ArcGIS users, you have the option
-to add social login to your app and depending of level of the user the
+to add social login to your app and depending of user type the
 SDK will be able to use more capabilities:
 
-Name user level|License
+Name user type|License
 ---|---
-Level 1|Lite
-Level 2|Basic
+Viewer|Lite
+Creator|Basic
 
 ## ArcGIS Online
 

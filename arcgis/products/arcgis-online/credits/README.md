@@ -179,7 +179,7 @@ If you are a developer and over exceeded the free 50 monthly credits you can:
 
 There are several [monthly paid plans](https://developers.arcgis.com/pricing/credits/): $20/$90/$200/$500/$1000/$2000/$4000 and larger plans available for [developer accounts]((../../../account-types/README.md).
 
-Remember these plans only allow one [level 2 name user](../../../account-types/name-users/README.md). If you need more users you should buy an [organization account](../../../account-types/README.md).
+Remember these plans only allow one [creator user type](../../../account-types/name-users/README.md). If you need more users you should buy an [organization account](../../../account-types/README.md).
 
 ##### What if I go over my Deployment Plan limit?
 

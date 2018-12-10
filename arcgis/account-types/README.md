@@ -36,7 +36,7 @@ If you are planning to use ArcGIS **we strongly recommend you to understand the 
 
 This is the one you should use if you want to play around with ArcGIS Online for non commercial purposes.
 
-After signing up you will get **one [level 2 named user](./name-users/README.md)** with 50 [ArcGIS Online credits](../products/arcgis-online/credits/README.md) (per month) that will give you access to:
+After signing up you will get **one [creator user](./name-users/README.md)** with 50 [ArcGIS Online credits](../products/arcgis-online/credits/README.md) (per month) that will give you access to:
 
 * Developer tools included in the [essentials plan](../developers/developer-plan/README.md)
 * Use [ArcGIS Online](../products/arcgis-online/README.md) tools for development and testing purposes, this will allow you to:

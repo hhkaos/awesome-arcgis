@@ -4197,7 +4197,7 @@
 <ul>
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#integration-using-oauth-20">Integration using OAuth 2.0</a></li>
-<li><a href="#name-user-levels-guide">Name User Levels Guide</a></li>
+<li><a href="#user-types">User Types</a></li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <h2 id="introduction">Introduction</h2>
@@ -4206,51 +4206,48 @@
 <p>There are two levels of name users (level 1 and level 2) and they have different costs.</p>
 <h2 id="integration-using-oauth-20">Integration using OAuth 2.0</h2>
 <p>Any developer can add login button (as any other &quot;social login&quot;) to enable an user with an ArcGIS account to <a href="https://github.com/esri-es/arcgis-oauth-samples" target="_blank">login to his app using oAuth, read more</a>.</p>
-<h2 id="name-user-levels-guide">Name User Levels Guide</h2>
-<p>Extracted from: <a href="https://blogs.esri.com/esri/arcgis/2016/12/20/your-guide-to-named-user-levels/" target="_blank">Your Guide to Named User Levels
-</a></p>
+<h2 id="user-types">User Types</h2>
 <blockquote>
-<p><strong>Why a New Named User Level?</strong></p>
-<p>Many of you have asked for the ability to share private information more broadly with others in your organization. We realize that you create a lot of valuable information products&#x2014;analysis results, dashboards, maps, and more&#x2014;that others need to view and use in order to make decisions.</p>
-<p>This new Level 1 Named User is in addition to the Level 2 Named User (formerly called Named User) and is a cost-effective way to share those important information products in your organization without giving up control over what information is seen by whom and how it is used. And all of this is accomplished using the same sharing workflows that you already have in place.</p>
-<p><strong>What Can This New Level 1 Named Users Do?</strong></p>
-<ul>
-<li>View private content shared within your organization</li>
-<li>Participate in private groups (invitation only)</li>
-<li>Access subscription and premium ArcGIS content that is shared as part of a map, scene, or app</li>
-<li>Use configured apps (read only)</li>
-<li>Access basemaps, search for content, and use geosearch</li>
-</ul>
-<p><a href="https://blogs.esri.com/esri/arcgis/2018/01/10/no-cost-viewers-level-1-named-users-for-arcgis-enterprise-standard-and-advanced-faq/" target="_blank">FAQ: No-Cost Viewers (Level 1 Named Users) for ArcGIS Enterprise Standard and Advanced</a></p>
-<p><strong>What Can This New Level 1 Named Users Not Do?</strong></p>
-<ul>
-<li>Create any kind of content*</li>
-<li>Edit or make new map</li>
-<li>Share content to their organization or the public</li>
-<li>Create groups</li>
-<li>Manage other users, groups, or content</li>
-<li>Perform analysis</li>
-<li>How Does This New Level 1 Named User Affect What I Have Today?</li>
-</ul>
-<p><strong>ArcGIS Enterprise users</strong></p>
-<ul>
-<li>With ArcGIS Enterprise you still have the same number of User Entitlements, which are now called Level 2 Named Users and which have the same capabilities (including ArcGIS apps) as before. As part of your maintenance benefit, we are also including additional 30 Level 1 Named Users in ArcGIS Enterprise Standard and Advanced.</li>
-<li>You can purchase additional Level 1 and Level 2 Named Users at any time and add them to your ArcGIS Enterprise instance.</li>
-</ul>
-<p><strong>ArcGIS Online users</strong></p>
-<ul>
-<li>All your existing Named Users have been automatically converted to Level 2 Named User. You also now have the ability to purchase additional Level 1 Named Users and add them to your ArcGIS Online subscription, just like you already can purchase additional Level 2 Named Users to expand your subscription.</li>
-</ul>
-<p><strong>ArcGIS Desktop users</strong></p>
-<ul>
-<li>Your named User Entitlement is now referred to as a Level 2 Named User. There are no changes to the functionality you currently have access to.</li>
-</ul>
-<p><strong>ArcGIS App users</strong></p>
-<ul>
-<li>Existing ArcGIS App users will continue to use their apps as they have been using them.</li>
-</ul>
-<p>Please note that you can&#x2019;t convert your current named users (Level 2) in your ArcGIS Online subscription or ArcGIS Enterprise instance to Level 1 Named Users until you&#x2019;ve purchased and added Level 1 accounts to your ArcGIS Enterprise instance or ArcGIS Online subscription. Once you&#x2019;ve purchased Level 1 Named Users, you can change Named User Level designations between members. ArcGIS Enterprise and ArcGIS Online administrators can still configure a Level 2 Named User and create custom roles and define privileges, just like they have been able to do.</p>
+<p><strong>Note:</strong> This section has been extracted from <a href="https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-coming-in-arcgis-online-introducing-user-types/" target="_blank">What&apos;s Coming in ArcGIS Online: Introducing User Types</a> &amp; <a href="https://doc.arcgis.com/en/arcgis-online/reference/roles.htm" target="_blank">User types, roles, and privileges</a></p>
+<p><strong>Note:</strong> User Types replaced <a href="https://blogs.esri.com/esri/arcgis/2016/12/20/your-guide-to-named-user-levels/" target="_blank">User Levels</a> on Dec. 2018</p>
 </blockquote>
+<p>User types are a combination of identity, capabilities and apps that align with the needs of typical members in an organization. The user type determines the privileges that can be granted to the member through a default or custom role:</p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Capabilities</th>
+<th>Apps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Viewer</strong> (formerly Level 1 users)</td>
+<td>View items that are shared with them by other ArcGIS users, but they can&#x2019;t create, edit, share, or perform analysis on items or data</td>
+<td><a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/pricing/arcgis-online-subscriptions#apps" target="_blank">Essential Apps Bundle</a>.</td>
+</tr>
+<tr>
+<td><strong>Editor</strong></td>
+<td>View and edit data in ArcGIS maps and apps that are shared with them by other ArcGIS users. Editors can&#x2019;t analyze, create, or share items or data.</td>
+<td><a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/pricing/arcgis-online-subscriptions#apps" target="_blank">Essential Apps Bundle</a>.</td>
+</tr>
+<tr>
+<td><strong>Field Worker</strong></td>
+<td>Field Workers can view and edit data that has been shared with them by other ArcGIS users but can&#x2019;t analyze, create, or share items or data</td>
+<td><a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/pricing/arcgis-online-subscriptions#apps" target="_blank">Essential Apps and Field Apps bundles</a>.</td>
+</tr>
+<tr>
+<td><strong>Creator</strong> (formerly Level 2 users)</td>
+<td>All the capabilities of the Viewer, Editor, and Field Worker user types, plus the ability to create content, administer the organization, and share content</td>
+<td><a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/pricing/arcgis-online-subscriptions#apps" target="_blank">Essential Apps, Field Apps, and Office Apps bundles</a>.</td>
+</tr>
+<tr>
+<td><strong>GIS Professional</strong></td>
+<td>All the capabilities and app bundles of the Creator, plus access to ArcGIS Pro (Basic, Standard, or Advanced). It type can be assigned at the following three levels, which correspond to the three license levels of ArcGIS Pro: Basic, Standard &amp; Advanced</td>
+<td>Include access to apps in all of the <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/pricing/arcgis-online-subscriptions#apps" target="_blank">app bundles</a> in addition to ArcGIS Pro</td>
+</tr>
+</tbody>
+</table>
 
                                 
                                 </section>
@@ -4294,7 +4291,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Name Users","level":"1.3.1.1","depth":3,"next":{"title":"oAuth","level":"1.3.1.1.1","depth":4,"path":"arcgis/account-types/name-users/oauth/README.md","ref":"arcgis/account-types/name-users/oauth/README.md","articles":[]},"previous":{"title":"Account Types","level":"1.3.1","depth":2,"path":"arcgis/account-types/README.md","ref":"arcgis/account-types/README.md","articles":[{"title":"Name Users","level":"1.3.1.1","depth":3,"path":"arcgis/account-types/name-users/README.md","ref":"arcgis/account-types/name-users/README.md","articles":[{"title":"oAuth","level":"1.3.1.1.1","depth":4,"path":"arcgis/account-types/name-users/oauth/README.md","ref":"arcgis/account-types/name-users/oauth/README.md","articles":[]}]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/account-types/name-users/README.md","mtime":"2018-12-05T12:20:36.256Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-12-05T12:20:43.993Z"},"basePath":"../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Name Users","level":"1.3.1.1","depth":3,"next":{"title":"oAuth","level":"1.3.1.1.1","depth":4,"path":"arcgis/account-types/name-users/oauth/README.md","ref":"arcgis/account-types/name-users/oauth/README.md","articles":[]},"previous":{"title":"Account Types","level":"1.3.1","depth":2,"path":"arcgis/account-types/README.md","ref":"arcgis/account-types/README.md","articles":[{"title":"Name Users","level":"1.3.1.1","depth":3,"path":"arcgis/account-types/name-users/README.md","ref":"arcgis/account-types/name-users/README.md","articles":[{"title":"oAuth","level":"1.3.1.1.1","depth":4,"path":"arcgis/account-types/name-users/oauth/README.md","ref":"arcgis/account-types/name-users/oauth/README.md","articles":[]}]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","collapsible-menu","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"collapsible-menu":{},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/account-types/name-users/README.md","mtime":"2018-12-10T11:18:52.256Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-12-10T11:19:01.071Z"},"basePath":"../../..","book":{"language":""}});
         });
     </script>
 </div>

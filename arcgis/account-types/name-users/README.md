@@ -8,7 +8,7 @@
 
 - [Introduction](#introduction)
 - [Integration using OAuth 2.0](#integration-using-oauth-20)
-- [Name User Levels Guide](#name-user-levels-guide)
+- [User Types](#user-types)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

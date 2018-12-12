@@ -2,7 +2,7 @@
   "title": "Awesome ArcGIS",
   "description": "Awesome resource list for ArcGIS Developers, built from the community for the community",
   "author": "https://github.com/hhkaos/awesome-arcgis/graphs/contributors",
-  "plugins":    ["-lunr", "-search", "search-plus", "collapsible-menu", "sitemap",
+  "plugins":    ["-lunr", "-search", "search-plus", "toggle-chapters", "sitemap",
                 "ga", "disqus", "youtube", "feed"],
   "ignores":    ["_book","node_modules", "templates", "CONTRIBUTING",
                 "templates"],

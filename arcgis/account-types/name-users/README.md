@@ -18,7 +18,7 @@ The ArcGIS platform has been designed mainly to be used directly by organization
 
 So, when we talk about name users at ArcGIS we are talking about users for [organization accounts](../account-types/README.md) for [ArcGIS Online](../products/arcgis-online/README.md) or [ArcGIS Enterprise](../products/arcgis-enterprise/README.md).
 
-There are two levels of name users (level 1 and level 2) and they have different costs.
+There are five user types and they have different costs.
 
 ## Integration using OAuth 2.0
 

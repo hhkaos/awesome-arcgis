@@ -24,7 +24,8 @@ Learn how ArcGIS is been used in [INDUSTRY].
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
-- [Partners and startups](#partners-and-startups)
+- [Customer references](#customer-references)
+- [Partners, alliances and startups](#partners-alliances-and-startups)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -142,11 +143,15 @@ You might also find interesting content from some [Esri users or groups in ArcGI
 
 *Other pages in the awesome list that could be helpful for the target audience of this page (or third party awesome lists), third party MOOCs, related pages inside the awesome related to this topic, etc.*
 
-## Partners and startups
+## Customer references
+
+*List any reference that can be made publicly*
+
+## Partners, alliances and startups
 
 Organizations and the type of relation with this industry or technologies:
 
-|Company|Relation type|Country|
+|Company|Relation type|Headquarters|
 |---|---|---|
 |[Name](#../../partners/program-members/company/README.md)|Product ([Product name]) and/or services|Country
 

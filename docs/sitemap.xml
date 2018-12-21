@@ -248,6 +248,8 @@
 <url> <loc>https://hhkaos.github.io/esri/industries/public-safety-and-defense/defense/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/tourism/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/industries/transportation/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/industries/transportation/logistics/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/water/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/open-vision/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/open-vision/open-specifications/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

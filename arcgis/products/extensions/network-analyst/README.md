@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Network Analyst is an Extension available for [ArcGIS Pro](../../arcgis-desktop/arcgis-pro/README.md), [ArcMap](../../arcgis-desktop/arcmap-arccatalog/README.md) and [ArcGIS Server](../../arcgis-enterprise/arcgis-server/README.md) to answer questions like:
+[ArcGIS Network Analyst](https://www.esri.com/en-us/arcgis/products/arcgis-network-analyst/overview) is an Extension available for [ArcGIS Pro](../../arcgis-desktop/arcgis-pro/README.md), [ArcMap](../../arcgis-desktop/arcmap-arccatalog/README.md) and [ArcGIS Server](../../arcgis-enterprise/arcgis-server/README.md) to answer questions like:
 
 * What is the quickest way to get from point A to point B?
 * What houses are within five minutes of our fire stations?

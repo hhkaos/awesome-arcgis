@@ -13,15 +13,12 @@ Learn how ArcGIS is been used in logistics.
   - [Slides](#slides)
 - [Featured technology](#featured-technology)
 - [Content for this industry](#content-for-this-industry)
-  - [People you should know](#people-you-should-know)
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [Community](#community)
 - [News](#news)
-- [Related industry pages](#related-industry-pages)
 - [Additional resources](#additional-resources)
-  - [Localized resources](#localized-resources)
-  - [Other related list of resources](#other-related-list-of-resources)
-- [Partners and startups](#partners-and-startups)
+- [Customer references](#customer-references)
+- [Partners, alliances and startups](#partners-alliances-and-startups)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

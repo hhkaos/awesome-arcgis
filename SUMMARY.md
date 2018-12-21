@@ -247,6 +247,8 @@
       - [Defense](esri/industries/public-safety-and-defense/defense/README.md)
     - [State And Local Government](esri/industries/state-and-local-government/README.md)
       - [Tourism](esri/industries/state-and-local-government/tourism/README.md)
+    - [Transportation](esri/industries/transportation/README.md)
+      - [Logistics](esri/industries/transportation/logistics/README.md)
     - [Water](esri/industries/water/README.md)
   - [Open Vision](esri/open-vision/README.md)
     - [Open Specifications](esri/open-vision/open-specifications/README.md)

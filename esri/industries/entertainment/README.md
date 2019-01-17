@@ -15,5 +15,5 @@ Learn how ArcGIS is been used in the entertainment industry
 ## Introduction
 
 * [Game](./game/README.md)
-* Film
+* [Media](https://docs.google.com/document/d/1wDkDCv-YiNijT-HF2zBJboKU2Jk0SqBCNyHKC0ctoTw/edit#heading=h.p6ptnctc9tt3)
 * ...

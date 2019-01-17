@@ -108,6 +108,8 @@ You can find Esri Customers talking about Transportation on GeoNet:
 
 More news:
 
+* [How logistics companies use GIS to ensure those orders arrive on time](https://www.esri.com/about/newsroom/publications/wherenext/holiday-deliveries-and-logistics/)
+
 * ["logistics" at esri.com search engine](https://www.esri.com/en-us/search#/?q=logistics&v=0&tab=Explore&page=1)
 * [Blog Posts about "logistics" inside Places at GeoNet](https://community.esri.com/content?query=logistics&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 

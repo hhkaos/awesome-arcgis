@@ -23,7 +23,35 @@ Learn how ArcGIS is been used in tourism
 
 ## Introduction
 
+These are some of the Tourism GIS Applications:
 
+* **Personality Atlas** – Assigning personality stereotypes to countries around the world based on a sample size of global population’s perspectives. (Personality Atlas)
+* **Tourist Map** – Plotting out landmarks in tourist maps.
+* **Sunrise and Sunset** – Finding the perfect sunrise and sunset during at any given location. (SunCalc)
+* **Subway Map** – Simplifying maps for the reader to better understand such as the lines of a subway map in high contrasting colors. (Cartographer Toolkit** – Gretchen Peterson)
+* **Linear Referencing** – Using linear referencing along shorelines to track volumes of organic debris.
+* **Off-Beaten Tracks** – Finding the off-beaten track for backpackers and marking its position with 3 words. (Off-Beaten Track Location** – What3Words)
+* **Safe Travel** – Advising travelers where unsafe location are on a map.
+* **Tourism Dollars** – Tracking the exports of purchased goods and services using desire lines.
+* **Sustainable Tourism Planning** – Identifying conflicting interests from tourism and solving issues by examining suitable locations for proposed developments.
+* **Hotel Search** – Searching geographically for five star hotels using a circle radius.
+* **Horizon Blockage** – Calculating the horizon blocking line in all directions from a given observation point with gvSIG’s Horizon Blockage.
+* **Travel Mode Detection** – Detecting travel mode (walk, car, bus, subway and commuter rail) from a multi-modal transportation network using GIS and GPS in New York City.
+* **Finding Islands** – Using satellite to find uninhabited islands around the world** – Landsat found Landsat Island near the coast of Canada.
+* **Time Zones** – Representing time zones around the world.
+* **Eco-Tourism Site Selection** – Gauging environmental impacts for sustainable eco-tourism sites.
+* **Virtual Travel** – Seeing your destination before physically being there. (Google Earth Street View)
+* **Geo-tagging** – Discover places with 360 panoramic camera views. (Mapillary)
+* **Highway Planning** – Constructing viewpoints with multiple layers like ecology, topography and cultural features for a three-dimensional visual highway.
+* **Virtual Arctic** – Exploring the Arctic in Google Street View without getting out of your chair.
+* **3D Synthetic Scene** – Overlaying synthetic scenes over real scene. (Manifold)
+* **Life Travels** – Accompanying travellers in their life travels in map-form. (Where in the World is Andrew?)
+* **Yellowstone** – Putting all the pieces together in a GIS database at Yellowstone National Park including its geologic past, geyser recharge and seismic activity.
+* **Trip Planning** – Adventuring around for your next road trip with pit stops and offbeat using suggested sites.
+* **Observer Points** – Calculating visibility through multiple observer points.
+* **Historic Street View** – Time-travelling in the past to see just how much a location has changed over time with historic street view.
+
+> Extracted from [1000 GIS Applications & Uses – How GIS Is Changing the World](https://docs.google.com/document/d/1wDkDCv-YiNijT-HF2zBJboKU2Jk0SqBCNyHKC0ctoTw/edit#heading=h.nr7gd2rh0tfr)
 
 ### Videos
 

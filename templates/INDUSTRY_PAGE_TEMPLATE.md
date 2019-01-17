@@ -41,6 +41,8 @@ ArcGIS can be in [INDUSTRY] for:*
 * ...
 ```
 
+> Extracted from [1000 GIS Applications & Uses – How GIS Is Changing the World](https://docs.google.com/document/d/1wDkDCv-YiNijT-HF2zBJboKU2Jk0SqBCNyHKC0ctoTw/edit)
+
 *Is there any [event organized by Esri](http://events.esri.com/info/index.cfm?fuseaction=EventSearch&slc=true) for this industry?*
 
 *Is there any [storymap](https://storymaps.arcgis.com/en/gallery/) for this industry?*

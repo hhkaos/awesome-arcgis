@@ -19,6 +19,8 @@ Learn how Esri though ArcGIS can support different industries
 
 Esri mapping and analytics software inspires positive change across industries | [Esri Industries](http://www.esri.com/industries.html).
 
+> **Interesting reading**: [1000 GIS Applications & Uses – How GIS Is Changing the World](https://docs.google.com/document/d/1wDkDCv-YiNijT-HF2zBJboKU2Jk0SqBCNyHKC0ctoTw/edit)
+
 Learn more about Esri and:
 
 * [Entertainment](./entertainment/README.md)

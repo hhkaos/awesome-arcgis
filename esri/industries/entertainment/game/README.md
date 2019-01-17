@@ -31,6 +31,15 @@ Learn how ArcGIS can be used to build games.
 
 ArcGIS can be used to develop games but also to build game scenarios as you will find on this page.
 
+* **Oculus Rift** – Building realistic 3D environments with Esri CityEngine because virtual reality is all about location and a sense of place. (Esri CityEngine and Oculus Rift)
+* **Building Virtual Environments** – Designing future buildings, roads, cities, and parks with video game contributions. (GIS and Gaming** – Matt Artz)
+* **Geoguessr** – Embarking on an educational journey that takes you all over the world (Geoguessr)
+* **Mercator Projection Game** – Learning about shape, size, and conformity of the Earth with map projections.
+* **Spatial Data Integration** – Intersecting the gaming world with rich, real-world, spatial data integration.
+* **Planet Hunters** – Finding undiscovered planets with crowd-source style online games. (Planet Hunters)
+
+> Extracted from [1000 GIS Applications & Uses – How GIS Is Changing the World](https://docs.google.com/document/d/1wDkDCv-YiNijT-HF2zBJboKU2Jk0SqBCNyHKC0ctoTw/edit#heading=h.p8w7msi18uti)
+
 ## Videos
 
 On [*video.esri.com*](https://www.esri.com/videos/search?q=INDUSTRY#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=INDUSTRY) you might also find many technical talks related to this industry.

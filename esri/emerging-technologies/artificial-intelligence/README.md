@@ -122,6 +122,9 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 #### Spanish
 
+Noticias:
+* [GeoAI: Inteligencia Artificial en ArcGIS](https://www.esri.es/entrada-de-blog/geoai-inteligencia-artificial-arcgis/)
+
 |Title|Length|
 |---|---|
 |[DataScience Toolbox e integración con ArcGIS y Machine Learning](https://www.youtube.com/watch?v=yCPKsOEI9GU)|2 Nov. 2017|

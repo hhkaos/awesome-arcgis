@@ -11,6 +11,7 @@ enables you to work with Real-Time Mapping and Analytics
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Getting started](#getting-started)
 - [Training](#training)
   - [Documentation](#documentation)
   - [Videos](#videos)

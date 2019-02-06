@@ -7,6 +7,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Getting started](#getting-started)
 - [Training](#training)
   - [Videos](#videos)
 - [Code](#code)

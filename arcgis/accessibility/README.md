@@ -6,8 +6,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Getting started](#getting-started)
-- [Additional resources](#additional-resources)
+  - [Getting started](#getting-started)
+  - [Code](#code)
+  - [Videos](#videos)
+- [Slides](#slides)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

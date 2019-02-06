@@ -9,6 +9,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Getting started](#getting-started)
 - [Training](#training)
   - [Documentation](#documentation)
   - [Tutorials](#tutorials)
@@ -127,6 +128,7 @@ technology so we recommend you to follow them.
 ## News
 
 * [Some Example Operations Dashboard for ArcGIS Apps & Resources](https://blogs.esri.com/esri/arcgis/2018/02/06/some-example-operations-dashboard-for-arcgis-apps/)
+* [Dashboard tips that will make you say, “I didn’t know I could do that!”](https://resources.esri.ca/getting-technical/dashboard-tips-that-will-make-you-say-i-didn-t-know-i-could-do-that)
 
 More news:
 

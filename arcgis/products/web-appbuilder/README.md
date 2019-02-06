@@ -9,6 +9,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Getting started](#getting-started)
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)

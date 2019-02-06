@@ -12,6 +12,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Getting started](#getting-started)
 - [Training](#training)
   - [Documentation](#documentation)
   - [Tutorials](#tutorials)

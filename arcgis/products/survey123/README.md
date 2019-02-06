@@ -33,6 +33,10 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 
 [Download any of these versions here](http://doc.arcgis.com/en/survey123/download/).
 
+## Getting started
+
+[ArcGIS Solutions Gallery](https://solutions.arcgis.com/gallery/#s=0&md=products-or-applications:Survey123%20for%20ArcGIS) offer a bunch of options for ready-to-use maps, surveys, preconfigured applications, maps and feature layers... where you can filter by industry, products/applications and implementation patterns to jumpstart your work.
+
 ## Training
 
 * [Survey123 Help](http://survey123.arcgis.com/help)

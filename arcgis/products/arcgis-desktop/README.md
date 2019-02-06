@@ -28,6 +28,10 @@ Free trial
 Startup program
 Buy a license
 
+## Getting started
+
+[ArcGIS Solutions Gallery](https://solutions.arcgis.com/gallery/#s=0&md=products-or-applications:ArcGIS%20for%20Desktop) offer a bunch of options for ready-to-use maps, surveys, preconfigured applications, maps and feature layers... where you can filter by industry, products/applications and implementation patterns to jumpstart your work.
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Desktop"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Desktop"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

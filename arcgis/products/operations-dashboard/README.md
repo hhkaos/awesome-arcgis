@@ -33,6 +33,10 @@ Using the ArcGIS API for JavaScript, you can develop extensions for Operations, 
 
 ![Operations Dashboard](./img/operations-dashboard.jpg)
 
+## Getting started
+
+[ArcGIS Solutions Gallery](https://solutions.arcgis.com/gallery/#s=0&md=products-or-applications:Operations%20Dashboard%20for%20ArcGIS) offer a bunch of options for ready-to-use maps, surveys, preconfigured applications, maps and feature layers... where you can filter by industry, products/applications and implementation patterns to jumpstart your work.
+
 ## Training
 
 ### Documentation

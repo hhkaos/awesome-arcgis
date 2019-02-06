@@ -26,6 +26,10 @@
 
 {% youtube %} https://www.youtube.com/watch?v=li89w2O9opg {% endyoutube %}
 
+## Getting started
+
+[ArcGIS Solutions Gallery](https://solutions.arcgis.com/gallery/#s=0&md=products-or-applications:Collector%20for%20ArcGIS) offer a bunch of options for ready-to-use maps, surveys, preconfigured applications, maps and feature layers... where you can filter by industry, products/applications and implementation patterns to jumpstart your work.
+
 ## Training
 
 * [Collector documentation](http://doc.arcgis.com/en/collector/)

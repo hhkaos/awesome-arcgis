@@ -33,6 +33,10 @@ situational awareness for coordinated field activities.
 
 > Check the [ArcGIS Enterprise Functionality Matrix](https://assets.esri.com/content/dam/esrisites/media/brochures/arcgis-enterprise-functionality-matrix.pdf)
 
+## Getting started
+
+[ArcGIS Solutions Gallery](https://solutions.arcgis.com/gallery/#s=0&md=products-or-applications:GeoEvent%20Extension) offer a bunch of options for ready-to-use maps, surveys, preconfigured applications, maps and feature layers... where you can filter by industry, products/applications and implementation patterns to jumpstart your work.
+
 ## Training
 
 ### Documentation

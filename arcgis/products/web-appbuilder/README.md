@@ -32,6 +32,10 @@ Web AppBuilder has two versions:
 
 ![Web AppBuilder](images/web-appbuilder.png)
 
+## Getting started
+
+[ArcGIS Solutions Gallery](https://solutions.arcgis.com/gallery/#s=0&md=products-or-applications:Web%20AppBuilder%20for%20ArcGIS) offer a bunch of options for ready-to-use maps, surveys, preconfigured applications, maps and feature layers... where you can filter by industry, products/applications and implementation patterns to jumpstart your work.
+
 ## Training
 
 * [Web AppBuilder interface documentation](http://doc.arcgis.com/en/web-appbuilder/)

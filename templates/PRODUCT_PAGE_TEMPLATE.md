@@ -42,6 +42,10 @@
 If possible embed a short Youtube video like the Collector resource page:
 https://github.com/esri-es/awesome-arcgis/tree/master/arcgis/products/collector-for-arcgis#introduction
 
+## Getting started
+
+> [ArcGIS Solutions Gallery](https://solutions.arcgis.com/gallery/#s=0&md=products-or-applications:Operations%20Dashboard%20for%20ArcGIS) offer a bunch of options for ready-to-use maps, surveys, preconfigured applications, maps and feature layers... where you can filter by industry, products/applications and implementation patterns to jumpstart your work.
+
 ## Training
 
 ### Documentation

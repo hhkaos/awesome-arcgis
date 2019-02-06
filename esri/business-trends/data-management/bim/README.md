@@ -53,7 +53,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=bim) you will find ma
 * [Your Perfect 3D World (BIM and GIS Integrated)](http://proceedings.esri.com/library/userconf/proc15/papers/965_86.pdf)
 * [Planning, 3D GIS & BIM, and project information management & collaboration](http://proceedings.esri.com/library/userconf/proc16/papers/1710_368.pdf)
 * [Advanced Data Interoperability: LiDAR, 3D, and BIM - Esri](http://proceedings.esri.com/library/userconf/proc15/tech-workshops/tw_587-58.pdf)
-* [Multimodal stop place accesibility and indoor way finding (from 2D CAD or point cloud data to 3D BIM through GIS tools](http://proceedings.esri.com/library/userconf/ets16/papers/ets-16.pdf)
+* [Multimodal stop place accessibility and indoor way finding (from 2D CAD or point cloud data to 3D BIM through GIS tools](http://proceedings.esri.com/library/userconf/ets16/papers/ets-16.pdf)
 * [GeoDesign – Concept for Integration of GIS / BIM in Landscape Planning](http://proceedings.esri.com/library/userconf/proc17/papers/584_385.pdf)
 * [3D in the ArcGIS Platform](http://proceedings.esri.com/library/userconf/ets17/papers/ets_02.pdf)
 * [GeoDesign Apps and 3D modeling for the Smart City Cologne](http://proceedings.esri.com/library/userconf/geodesign-euro16/papers/geoeuro_16.pdf)

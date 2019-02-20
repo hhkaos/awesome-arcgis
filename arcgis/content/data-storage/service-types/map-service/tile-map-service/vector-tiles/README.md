@@ -40,6 +40,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 
 |Event|Title|Length|
 |---|---|---|
+|None|[Styling Vector Tiles](https://www.youtube.com/watch?v=O54D0kilFtc)|7min 43secs
 |[UC](http://www.esri.com/about/events/uc) 2017|[Desktop Mapping: Creating Vector Tiles](https://www.youtube.com/watch?v=dqKsEos1iSw)| 1h 19min 12secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Bringing Your Data to Life in ArcGIS API for JavaScript: Vector Tiles](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 2min 42secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Vector Tiles in the ArcGIS Platform](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 1min 30secs

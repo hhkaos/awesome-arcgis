@@ -53,6 +53,8 @@ You can use your developer Subscription to download it from developers.arcgis.co
 
 #### Videos / Technical talks
 
+Check [Esri Geodev - Web Python playlist](https://www.youtube.com/playlist?list=PL0VMTWv3XRwVfX0THrdXkR2QxqF1aVmnA)
+
 #### Community
 
 * [GeoNet group](https://community.esri.com/groups/arcgis-python-api)

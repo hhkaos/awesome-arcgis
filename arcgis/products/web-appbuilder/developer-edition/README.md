@@ -27,6 +27,7 @@
 ---
 
 ## Introduction
+
 If you are not a developer please skip to the [Web AppBuilder hosted version](../README.md).
 
 The builder itself is written in NodeJS and can be downloaded from the [developer console](https://developers.arcgis.com/downloads/) but you will need at least to have a [free account](https://developers.arcgis.com/sign-up/) in order to be able to download it.
@@ -34,11 +35,15 @@ The builder itself is written in NodeJS and can be downloaded from the [develope
 In this page you will find some sites you can use to improve your skills to be able to extend Web AppBuilder.
 
 ## Training
+
 First resources you should know are:
 * [Developers site documentation](https://developers.arcgis.com/web-appbuilder/)
 * [Esri training courses](http://www.esri.com/training/Bookmark/H1rErV0Hg)
 
 ### Videos / Technical talks
+
+Check [Esri Geodev - Web AppBuilder playlist](https://www.youtube.com/playlist?list=PL0VMTWv3XRwVF_x5Rgu-qnrKoFTzXWh9y)
+
 On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).
 
 |Event|Title|Length|

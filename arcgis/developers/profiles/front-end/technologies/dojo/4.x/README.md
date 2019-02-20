@@ -13,6 +13,9 @@
 
 ## Video
 
+Check [Esri Geodev - JavaScript playlist](https://www.youtube.com/playlist?list=PL0VMTWv3XRwWLYfqwZ0pg0a8dD2juQ9Yy)
+
+
 |Event|Title|Length|
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Using TypeScript with ArcGIS API for JavaScript](https://www.youtube.com/watch?v=09GtEgyINdo&index=18&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E)|58min 10secs

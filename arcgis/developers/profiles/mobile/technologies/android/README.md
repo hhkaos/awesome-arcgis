@@ -60,6 +60,8 @@ Less than 20 minutes tutorials: [Android DevLabs](https://developers.arcgis.com/
 
 ### Videos
 
+Check [Esri Geodev - Android playlist](https://www.youtube.com/playlist?list=PL0VMTWv3XRwXacOMrlyd2s23QiLUuI33Y)
+
 On [*video.esri.com*](https://www.esri.com/videos/search?q=android#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=android) you will find many technical talks.
 
 

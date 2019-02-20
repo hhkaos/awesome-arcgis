@@ -60,6 +60,8 @@ Less than 20 minutes tutorials: [.NET DevLabs](https://developers.arcgis.com/lax
 
 ### Videos
 
+Check [Esri Geodev - .NET playlist](https://www.youtube.com/playlist?list=PL0VMTWv3XRwUKOtoUlZg8QRHG55gS_Rq4)
+
 On [*video.esri.com*](https://www.esri.com/videos/search?q=.NET#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=.NET) you will find many technical talks (some of them are **Runtime generic**).
 
 |Event|Title|Length|

@@ -16,6 +16,7 @@ mechanism that allows users of an organization to create and configure
 - [Training](#training)
   - [Videos / Technical talks](#videos--technical-talks)
   - [Documentation](#documentation)
+  - [Story maps to learn about story maps](#story-maps-to-learn-about-story-maps)
 - [Apps developed by Esri](#apps-developed-by-esri)
   - [Story Maps](#story-maps)
   - [Crowdsource apps](#crowdsource-apps)

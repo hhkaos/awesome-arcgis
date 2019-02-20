@@ -95,6 +95,10 @@ On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#
 * Learn tips and tricks for developers to enhance your Story
 Map:  [developerscorner.storymaps.arcgis.com](https://developerscorner.storymaps.arcgis.com/).
 
+### Story maps to learn about story maps
+
+* [Including Charts in Story Maps](https://story.maps.arcgis.com/apps/Cascade/index.html?appid=fa3d49d41d654ab89d7b08852ec99f4a&adbsc=social_20190206_2689561&adbid=1092935915306020864&adbpl=tw&adbpr=615300761)
+
 ## Apps developed by Esri
 
 The [application-boilerplate-js](https://github.com/Esri/application-boilerplate-js) is a starter application that simplifies the process of building templates for the ArcGIS.com template gallery.

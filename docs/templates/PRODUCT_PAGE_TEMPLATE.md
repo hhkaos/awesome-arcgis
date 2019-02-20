@@ -65,7 +65,7 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 ```
 We have created a [PRODUCT Youtube playlist](https://www.youtube.com/channel/UCtOKtU_kXqz5ZlJ_-OJc_dw/playlists?disable_polymer=1) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
 
-On [*video.esri.com*](https://www.esri.com/videos/search?q=PRODUCT#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=PRODUCT) you will find many technical talks.
+On [*video.esri.com*](https://www.esri.com/videos/search?q=PRODUCT#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=PRODUCT) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
 ```
 
 And

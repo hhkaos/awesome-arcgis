@@ -825,16 +825,21 @@
     <script src="/awesome-arcgis/gitbook/theme.js"></script>
 
 
-    <script src="/awesome-arcgis/gitbook/gitbook-plugin-search-plus/search.js"></script>
+    <script id="hljs" async src="/awesome-arcgis/gitbook/gitbook-plugin-search-plus/search.js"></script>
     <script>
-    gitbook.events.on('start', function() {
-        bindSearch();
-        $.getJSON("https://hhkaos.github.io/awesome-arcgis/search_plus_index.json").then(function(data) {
-            INDEX_DATA = data;
-            showResult();
-            closeSearch();
-        });
-    });
+
+    var script = document.querySelector('#hljs');
+      script.addEventListener('load', function() {
+          gitbook.events.on('start', function() {
+              bindSearch();
+              $.getJSON("https://hhkaos.github.io/awesome-arcgis/search_plus_index.json").then(function(data) {
+                  INDEX_DATA = data;
+                  showResult();
+                  closeSearch();
+              });
+          });
+      });
+
     </script>
 
 

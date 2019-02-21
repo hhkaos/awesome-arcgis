@@ -41,6 +41,7 @@ On [**video.esri.com**](http://www.esri.com/videos/search?q=collector#?sortby=re
 
 |Event|Title|Length|
 |---|---|---|
+|n.a.|[How to Record Orthometric Heights in Collector v18.1.0 (Aurora) with Your Eos Arrow GNSS Receiver](https://eos-gnss.com/how-to-record-orthometric-heights-in-collector-aurora/)|4min 27secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[What is new in Collector for ArcGIS](https://www.youtube.com/watch?v=Cuk6c4Ry8kQ)|1h 19min 14secs
 |Case study|[How Collector for ArcGIS and Operations Dashboard for ArcGIS is being used to manage NASCAR events](http://video.esri.com/iframe/4949/000000/width/960/1/00:00:00)|3min 57secs
 |Tutorial|[Collect data using Collector for ArcGIS](http://video.arcgis.com/iframe/2194/000000/width/960/1)|3min 0secs

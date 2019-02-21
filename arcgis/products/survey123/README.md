@@ -47,6 +47,7 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 
 * [Survey123 Online version playlist](https://www.youtube.com/watch?v=jfaSlJ6BYr4&list=PLGZUzt4E4O2L7h2PdpL7st93nURZAW58d)
 * [Survey123 Desktop version playlist](https://www.youtube.com/playlist?list=PL2hNiIZRjxo9O510LUg4RCcH3rucrQge0)
+* [Example Field Applications of Spike and Esri's Survey123 for ArcGIS](https://www.youtube.com/watch?v=CxuHhfrwmrU)
 
 ## Community
 

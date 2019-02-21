@@ -65,7 +65,7 @@ using Pro’s new APIs.
 
 ### Videos
 
-We have created an [ArcGIS Pro SDK Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd4kQNyzn8yobM3DTUSdZcEN) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../../assets/SavePlaylist.gif)).
+There is an [ArcGIS Pro SDK Channel on Youtube](https://www.youtube.com/channel/UCSGXXfYjfpg9DI8eEUmW1ag), and we have also created an [ArcGIS Pro SDK Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd4kQNyzn8yobM3DTUSdZcEN) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../../assets/SavePlaylist.gif)).
 
 On [*video.esri.com*](http://www.esri.com/videos/search?q=%22arcgis%20pro%22#?channels=esri,Events,ArcGIS,Industries,ArcGIS,esri&sortby=recent) and [Esri Events](hhttps://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=%22ArcGIS+Pro%22) you will find many technical talks.
 

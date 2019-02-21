@@ -149,6 +149,7 @@ You can also find more information on any of our Youtube Channels:
 
 * [AppStudioForArcGIS at Esri](https://www.youtube.com/channel/UCaDpuQi3gcd5YD9KW-_jsQg)
 * [CityEngineTV](https://www.youtube.com/user/CityEngineTV)
+* [Pro SDK Channel](https://www.youtube.com/channel/UCSGXXfYjfpg9DI8eEUmW1ag)
 
 ### Country Specifics
 

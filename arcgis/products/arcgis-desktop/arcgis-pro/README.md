@@ -111,7 +111,7 @@ ArcGIS Online:
 
 [More at ArcGIS Search](https://esri-es.github.io/arcgis-search/?search="ArcGIS Pro"+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 
-## Awesome projects
+## Awesome projects and cool demos
 
 [ArcGIS Pro SDK Configurations Demo DevSummit 2017](https://youtu.be/u17Nt-4d_04?t=6m34s)
 

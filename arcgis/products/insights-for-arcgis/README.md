@@ -49,6 +49,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=%22insights%20for%20a
 
 |Event|Title|Length|
 |---|---|---|
+|n.a.|[Insights for ArcGIS – Link Analysis](https://www.youtube.com/watch?v=FEl13rPqn1I)|2min 51secs
 |[UC](http://www.esri.com/about/events/uc) 2017|[Insights for ArcGIS: An Introduction](https://www.youtube.com/watch?v=36ODQxIizKA)| 1h 15min 19secs
 |[UC](http://www.esri.com/about/events/uc) 2017|[Insights for ArcGIS: Advanced Topics](https://www.youtube.com/watch?v=IEOqZRbtHSc)|1h 17min 11secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Insights for ArcGIS](https://www.youtube.com/watch?v=8WtX1fXplKU&t=19s)|1h 2min 41secs

@@ -9,6 +9,7 @@ Learn how ArcGIS is been used to increase public safety
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -105,5 +105,6 @@ See [all Environments](https://livingatlas.arcgis.com/en/browse/#d=1&categories=
 
 #### Spanish
 
+* [Qué es y cómo contribuir al Living Atlas](http://comunidadsig.maps.arcgis.com/apps/Cascade/index.html?appid=afc517aed82149878a75ed610df5c649)
 * [Webinar: "Living Atlas: datos y mapas listos para usar en la Plataforma"
 ](https://www.youtube.com/watch?v=8_dfA-DptaU)

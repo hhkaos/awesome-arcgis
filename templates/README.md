@@ -56,3 +56,7 @@ Sample file format pages:
 * **File Geodatabase**:<br> [arcgis/content/data-storage/file-formats/gdb/README.md](../arcgis/content/data-storage/file-formats/gdb/README.md)
 
 * **GeoJSON**:<br> [arcgis/content/data-storage/file-formats/geojson/README.md](../arcgis/content/data-storage/file-formats/geojson/README.md)
+
+## CONTENT_PROVIDER_TEMPLATE.md
+
+[File format template](./CONTENT_PROVIDER_TEMPLATE.md) | **Goal**: help to understand what content they offer, how it use to be used, where you can try their content, how they collect the data,

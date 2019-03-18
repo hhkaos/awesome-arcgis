@@ -84,6 +84,20 @@ Here you will their experience working with ArcGIS on different projects and ref
 
 *Presentations, news, ...*
 
+## People you should know
+
+> Replace `PRODUCT` in the next paragraph
+
+Please find the [experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=PRODUCT):
+
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=PRODUCT)
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=f3807dde35134fb5b5f0cdc9b1b506f0&start=1&view=list#content).
+
 ## Additional resources
 
 Replace `PARTNER` in the next paragraph and remove the \`\`\`.
@@ -91,6 +105,10 @@ Replace `PARTNER` in the next paragraph and remove the \`\`\`.
 ```
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["PARTNER"](https://esri-es.github.io/arcgis-search/?search="PARTNER"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 ```
+
+### Localized resources
+
+*In case a distributor has made additional documentation (https://esri-es.github.io/arcgis-search/?search=PARTNER+site%3Aesri.es), docs, https://geonet.esri.com/groups/geodev-spain, https://www.youtube.com/user/esriSpainTV/search?query=PRODUCT, https://www.youtube.com/channel/UC5Kegds6aV88wjdAhqQ5Wsg/search?query=PRODUCT, etc* (add a ```#### Language``` section)
 
 ## Contributions
 

@@ -35,4 +35,10 @@ Afterwards you might want to continue with:
 * [Learn ArcGIS site](http://learn.arcgis.com)
 * [Book series](https://learn.arcgis.com/en/arcgis-book-series/#series)
 * [Learn ArcGIS place at GeoNet](https://community.esri.com/groups/learn-arcgis): Hear about new content on the [Learn ArcGIS site](http://learn.arcgis.com), ask questions, tell us what you think, and get in touch with your peers.
-* [Storymap: ArcGIS The Mapping & Analytics Platform](https://statesales.maps.arcgis.com/apps/Cascade/index.html?appid=c94ea837299945aca4c75cbe70a4e85a) 
+* [Storymap: ArcGIS The Mapping & Analytics Platform](https://statesales.maps.arcgis.com/apps/Cascade/index.html?appid=c94ea837299945aca4c75cbe70a4e85a)
+
+### Localized resources
+
+#### Spanish
+
+* [La Plataforma de Análisis y Mapeo](http://geoapps.esri.es/ArcGIS/)

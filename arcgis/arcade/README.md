@@ -46,6 +46,11 @@ On [**video.esri.com**](http://video.esri.com/search/arcade) you will find many 
 
 ## News
 
+* [Create powerful popups in web apps with Arcade feature sets](https://www.esri.com/arcgis-blog/products/mapping/mapping/create-powerful-popups-in-web-apps-with-arcade-feature-sets/)
+* [Functions aren't fields; use Arcade instead](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/functions-arent-fields-use-arcade-instead/)
+* [Generating Arcade expressions: what Smart Mapping does for you](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/generating-arcade-expressions-what-smart-mapping-does-for-you/)
+* [Smart Mapping with Arcade: Exploring age](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/smart-mapping-with-arcade-exploring-age/)
+* [Smart Mapping with Arcade: Exploring relationships](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/smart-mapping-with-arcade-exploring-relationships/)
 * [Combining Arcade and HTML for a Real-life Pop-up Display](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/combining-arcade-and-html-for-a-real-life-pop-up-display/)
 * [Share your Arcade expressions as templates](https://blogs.esri.com/esri/arcgis/2018/03/15/share-your-arcade-expressions-as-templates/)
 * [What's New in ArcGIS Online - 14/12/2016](https://blogs.esri.com/esri/arcgis/2016/12/14/whats-new-arcgis-online-december-2016/)

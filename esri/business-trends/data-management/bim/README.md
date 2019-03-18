@@ -85,6 +85,7 @@ technology so we recommend you to follow them.
 ## Additional resources
 
 * [Adding Revit Models into ArcGIS Pro and ArcGIS Online](http://www.brockwellit.com/wp-content/uploads/2018/10/Revit-whitepaper-2.pdf)
+* Check the [Lidar](../../../../arcgis/content/data-types/vector/lidar/README.md) page if you are interested in 3D Scanners
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["BIM"](https://esri-es.github.io/arcgis-search/?search="BIM"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 

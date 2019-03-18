@@ -31,6 +31,10 @@ https://developers.arcgis.com/javascript/latest/sample-code/widgets-frameworks-r
 
 https://github.com/ynunokawa/react-webmap
 
+## News
+
+* [Using React with the ArcGIS API for JavaScript](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/using-react-with-the-arcgis-api-for-javascript/)
+
 ## Community
 * [Stackoverflow: [react] and [arcgis]](https://stackoverflow.com/search?q=%5Breact%5D+and+%5Barcgis%5D)
 * You can also ask on [GeoNet](https://geonet.esri.com)
@@ -51,7 +55,3 @@ We recommend you to take a look to:
 Here you will find a lot of interesting resources to learn an improve your skills
 with React:
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
-
-
-
-

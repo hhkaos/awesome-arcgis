@@ -5,6 +5,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [News](#news)
 - [Community](#community)
 - [People you should know](#people-you-should-know)
 - [Related resources](#related-resources)

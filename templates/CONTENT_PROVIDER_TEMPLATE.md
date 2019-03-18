@@ -7,6 +7,12 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+- [How to try their data](#how-to-try-their-data)
+- [Sources](#sources)
+  - [Who and how companies are using their data](#who-and-how-companies-are-using-their-data)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

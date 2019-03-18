@@ -18,7 +18,9 @@
 - [Background](#background)
   - [Customers](#customers)
 - [Esri related news & demos](#esri-related-news--demos)
+- [People you should know](#people-you-should-know)
 - [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -8,8 +8,11 @@ No matter your background or your favorite technology, we have putted together m
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Developer tools overview](#developer-tools-overview)
-- [Getting started](#getting-started)
+- [Introduction](#introduction)
+  - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
+  - [Support and Community](#support-and-community)
+    - [People you should know](#people-you-should-know)
+  - [News](#news)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

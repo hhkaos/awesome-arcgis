@@ -10,6 +10,7 @@ Templates are used to define a common structure for similar resource pages.
 - [INDUSTRY_PAGE_TEMPLATE.md](#industry_page_templatemd)
 - [PARTNER_PAGE_TEMPLATE.md](#partner_page_templatemd)
 - [FILE_FORMAT_PAGE_TEMPLATE.md](#file_format_page_templatemd)
+- [CONTENT_PROVIDER_TEMPLATE.md](#content_provider_templatemd)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

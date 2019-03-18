@@ -84,6 +84,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-types/vector/gis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-types/vector/lidar/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/content/data-types/vector/transit-schedule/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/designers/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/developer-plan/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/developers/developer-plan/background/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -249,6 +250,7 @@
 <url> <loc>https://hhkaos.github.io/esri/industries/public-safety-and-defense/defense/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/tourism/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/weather-and-climate/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/transportation/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/transportation/logistics/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/water/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -264,8 +266,11 @@
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/becks-hybrids/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/cotesa/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/dotgis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/partners/program-members/harris-corporation/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/partners/program-members/ikegps/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/leica/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/osigris/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/partners/program-members/safe-software/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/solusoft/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/teamdev/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/partners/program-members/tecnosylva/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

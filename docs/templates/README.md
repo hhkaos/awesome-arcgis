@@ -10,6 +10,7 @@ Templates are used to define a common structure for similar resource pages.
 - [INDUSTRY_PAGE_TEMPLATE.md](#industry_page_templatemd)
 - [PARTNER_PAGE_TEMPLATE.md](#partner_page_templatemd)
 - [FILE_FORMAT_PAGE_TEMPLATE.md](#file_format_page_templatemd)
+- [CONTENT_PROVIDER_TEMPLATE.md](#content_provider_templatemd)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -56,3 +57,7 @@ Sample file format pages:
 * **File Geodatabase**:<br> [arcgis/content/data-storage/file-formats/gdb/README.md](../arcgis/content/data-storage/file-formats/gdb/README.md)
 
 * **GeoJSON**:<br> [arcgis/content/data-storage/file-formats/geojson/README.md](../arcgis/content/data-storage/file-formats/geojson/README.md)
+
+## CONTENT_PROVIDER_TEMPLATE.md
+
+[File format template](./CONTENT_PROVIDER_TEMPLATE.md) | **Goal**: help to understand what content they offer, how it use to be used, where you can try their content, how they collect the data,

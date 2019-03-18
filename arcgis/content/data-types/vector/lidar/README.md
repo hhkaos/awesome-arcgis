@@ -57,6 +57,21 @@ technology so we recommend you to follow them.
 
 * [Full Motion Video](../../../../products/arcgis-desktop/add-ins/full-motion-video/README.md)
 
+Hardware / scanners:
+
+[Handheld](https://en.wikipedia.org/wiki/3D_scanning#Hand-held_laser_scanners):
+
+* [ZEB-REVO](https://geoslam.com/zeb-revo-rt/) (by [GeoSlam](https://www.owler.com/company/geoslam))
+    * [ArcGIS Web Scene | San Diego Convention Center](https://www.arcgis.com/home/webscene/viewer.html?webscene=2d573ef678674559be2b6d96170b7632)
+* [Contour](http://www.kaarta.com/contour) (by [Kaarta](https://www.owler.com/company/kaarta))
+* [Comparative](https://www.aniwaa.com/best-handheld-and-portable-3d-scanner/)
+
+Other:
+
+* [RTC360, BLK360, ...](https://leica-geosystems.com/products/laser-scanners/scanners) (by [Leyca](../../../../../esri/partners/program-members/leica/README.md), **Esri Partner**)
+* [SX10 & TX8](https://www.trimble.com/3d-laser-scanning/3d-scanners.aspx) (by [Trimble](https://www.owler.com/company/trimble)
+
+
 ## Resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["lidar"](https://esri-es.github.io/arcgis-search/?search="lidar"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

@@ -31,8 +31,8 @@ Learn how [Dynamic Map Service](../../content/data-storage/service-types/map-ser
 allow us to display large amount of data in our app regardless of whether our
 application is web, desktop or mobile.
 
-
-[Drawing Millions of Features in ArcGIS: Advanced Techniques](https://www.esri.com/training/catalog/57630434851d31e02a43ef39/drawing-millions-of-features-in-arcgis:-advanced-techniques/) -
+* [Render millions of features in your maps](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/render-millions-of-features-in-your-maps/)
+* [Drawing Millions of Features in ArcGIS: Advanced Techniques](https://www.esri.com/training/catalog/57630434851d31e02a43ef39/drawing-millions-of-features-in-arcgis:-advanced-techniques/) -
 [PDF](http://proceedings.esri.com/library/userconf/devsummit16/papers/dev_int_169.pdf)
 
 ## Technology specifics

@@ -52,6 +52,8 @@ Grunt? Bower?
 
 ## Drawing features
 
+* [Visualize large feature datasets in 3D with ArcGIS API for JavaScript](https://www.esri.com/arcgis-blog/products/js-api-arcgis/3d-gis/visualize-large-feature-datasets-in-3d-with-arcgis-api-for-javascript/)
+
 Drawing more than 1000 interactive entities.
 
 ### Using feature services

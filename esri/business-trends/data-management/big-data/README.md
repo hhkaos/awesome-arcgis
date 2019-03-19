@@ -94,12 +94,13 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 * [GeoAnalytics at DevSummit Plenary 2019](https://www.youtube.com/watch?v=oiZlfh5stDo&index=23&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&t=0s)
 * [Raster Analytics at DevSummit Plenary 2019](https://www.youtube.com/watch?v=xqxGE-t0oIo&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&index=24)
 
+Check also the cool demos and projects at [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md), [GeoAnalytics](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm), [Spatiotemporal Big Data Store](../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) pages.
+
 > Find [more BigData use cases here](https://www.esri.com/en-us/arcgis/big-data/use-cases).
 
 ## Support and Community
 
 If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
-
 
 **Community channels:**
 

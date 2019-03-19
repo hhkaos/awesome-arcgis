@@ -96,6 +96,10 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 * [GeoAnalytics at DevSummit Plenary 2019](https://www.youtube.com/watch?v=oiZlfh5stDo&index=23&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&t=0s)
 * [Raster Analytics at DevSummit Plenary 2019](https://www.youtube.com/watch?v=xqxGE-t0oIo&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&index=24)
 
+* [Spatial Big Data Solution: Airbnb Los Angeles](https://redlandsbusiness.maps.arcgis.com/apps/MapJournal/index.html?appid=23de64541f374807ad4238df708eecce)
+* [Taxi Cab Terrain](https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=6984ffb035ed40b8b11e23f41236aac2): Millions of Cab Rides Over One Year Paint a Portrait of New York City
+* [Big Data Analytics on Citi Bike](https://www.arcgis.com/apps/Cascade/index.html?appid=668b3ac098404936ad40a3da30d4c04e)
+
 Check also the cool demos and projects at [GeoEvent](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md), [GeoAnalytics](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm), [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) and [ArcGIS Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-Server/image-server/README.md) pages.
 
 > Find [more BigData use cases here](https://www.esri.com/en-us/arcgis/big-data/use-cases).
@@ -139,6 +143,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Localized resources
 
+* [IoT y Big Data: los mejores aliados](http://preventas.maps.arcgis.com/apps/MapJournal/index.html?appid=1ea7ba05555746a9a8574ef3346e939b#)
 * [Cómo adoptar una estrategia de éxito en Big Data y Artificial Intelligence con AWS - CEsri17](https://www.youtube.com/watch?v=DiQWviULaXg&feature=youtu.be)
 
 ### Other related list of resources

@@ -22,6 +22,7 @@ enables you to work with Real-Time Mapping and Analytics
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
 - [Additional resources](#additional-resources)
+  - [Other related list of resources](#other-related-list-of-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

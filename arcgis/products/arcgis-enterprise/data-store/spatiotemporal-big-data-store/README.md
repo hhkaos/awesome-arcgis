@@ -9,6 +9,8 @@ The [ArcGIS Data Store](../README.md), available with [ArcGIS Enterprise](../../
 **Table of contents**
 
 - [Introduction](#introduction)
+  - [Videos](#videos)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

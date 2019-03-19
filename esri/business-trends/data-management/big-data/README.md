@@ -9,13 +9,13 @@ Big data is data sets that are so voluminous and complex that traditional data-p
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Technology](#technology)
+  - [Esri products](#esri-products)
+  - [Other tools an projects](#other-tools-an-projects)
 - [Training](#training)
   - [Documentation](#documentation)
   - [Videos](#videos)
   - [Slides](#slides)
-- [Product and tools](#product-and-tools)
-  - [From Esri](#from-esri)
-  - [From third parties](#from-third-parties)
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [Support and Community](#support-and-community)
   - [People you should know](#people-you-should-know)

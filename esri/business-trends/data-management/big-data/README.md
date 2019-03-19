@@ -33,6 +33,8 @@ There are a set of products in the ArcGIS platform you might want to know if you
 
 ## Training
 
+* [GIS Tools for Hadoop for Beginners](https://github.com/Esri/gis-tools-for-hadoop/wiki/GIS-Tools-for-Hadoop-for-Beginners)
+
 ### Documentation
 
 * [Discover Greater Value from Your Big Data](https://www.esri.com/en-us/arcgis/big-data/overview)
@@ -48,8 +50,58 @@ There are a set of products in the ArcGIS platform you might want to know if you
 
 More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+big+data) or check on [GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bdocument%5D).
 
+## Product and tools
+
+Tools and products to work with big datasets:
+
+### From Esri
+
+* [ArcGIS GeoAnalytics Server](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm%20)
+* [ArcGIS API for Python](https://developers.arcgis.com/python/guide/working-with-big-data/)
+
+### From third parties
+
+* [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/)
+* spark
+* cassandra
+* ..
+
+## Awesome projects and cool demos
+
+* [Big data > Use cases](https://www.esri.com/en-us/arcgis/big-data/use-cases)
+
+## Support and Community
+
+If needed, remember you can always check the [Technical Support Website for developer products](https://support.esri.com/en/Products/Developers) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
+
+
+**Community channels:**
+
+* [Big Data GeoNet Group](https://geonet.esri.com/groups/big-data)
+    * [Answered questions](https://community.esri.com/groups/big-data/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D)
+* [GIS Tools for Hadoop issues](https://github.com/Esri/gis-tools-for-hadoop/issues)
+
+Is there any category on [ArcGIS Ideas on GeoNet](https://community.esri.com/community/arcgis-ideas) for this topic?
+
+```
+Vote/share the ideas about Big Data @ [ArcGIS Ideas on GeoNet](https://community.esri.com/search.jspa?q=Big Data&place=%2Fplaces%2F478947&depth=ALL)
+```
+
+### People you should know
+
+Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=Big Data):
+
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=Big Data)
+
+They don't work on the support team and some may even not work at Esri,
+but they are opening some projects and sharing insights related to this
+technology so we recommend you to follow them.
+
+You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=f3807dde35134fb5b5f0cdc9b1b506f0&start=1&view=list#content).
+
 ## News
 
+* [An Introduction to Big Data](https://www.esri.com/arcgis-blog/products/product/data-management/an-introduction-to-big-data/) (by Esri)
 * [Big Data at esri.com search engine](https://www.esri.com/en-us/search#/?q=big+data&v=0&tab=Explore&page=1)
 * [Blog Posts about Big Data inside Places at GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 
@@ -61,3 +113,27 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Localized resources
 
 * [Cómo adoptar una estrategia de éxito en Big Data y Artificial Intelligence con AWS - CEsri17](https://www.youtube.com/watch?v=DiQWviULaXg&feature=youtu.be)
+
+### Other related list of resources
+
+* Performance:
+    * Learn more about how the ArcGIS API for Javascript is using WebGL, the GPU, WebAssembly, HTTP2, Protocol Buffers (pbfs), a client side geometry engine, etc. to deliver a high performance experience | [JSAPI performance](../../../../arcgis/developers/profiles/front-end/best-practices/performance/README.md)
+    * [ArcGIS and High Performance Computing (HPC)](https://community.esri.com/community/education/blog/2017/09/13/arcgis-and-high-performance-computing-hpc)
+    * Distributed computing
+* Other trends:
+    * Artificial intelligence
+
+## Partners and startups
+
+Organizations and the type of relation with this product:
+
+|Company|Relation type|Country|
+|---|---|---|
+|Safegraph|Startup|United states
+|[Name](#link-to-awesome-page)|Product ([Product name]) and/or services|Country
+
+*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

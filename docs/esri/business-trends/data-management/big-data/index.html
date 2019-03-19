@@ -4324,15 +4324,15 @@
 <p><strong>Table of contents</strong></p>
 <ul>
 <li><a href="#introduction">Introduction</a></li>
+<li><a href="#technology">Technology</a><ul>
+<li><a href="#esri-products">Esri products</a></li>
+<li><a href="#other-tools-an-projects">Other tools an projects</a></li>
+</ul>
+</li>
 <li><a href="#training">Training</a><ul>
 <li><a href="#documentation">Documentation</a></li>
 <li><a href="#videos">Videos</a></li>
 <li><a href="#slides">Slides</a></li>
-</ul>
-</li>
-<li><a href="#product-and-tools">Product and tools</a><ul>
-<li><a href="#from-esri">From Esri</a></li>
-<li><a href="#from-third-parties">From third parties</a></li>
 </ul>
 </li>
 <li><a href="#awesome-projects-and-cool-demos">Awesome projects and cool demos</a></li>
@@ -4353,15 +4353,37 @@
 <h2 id="introduction">Introduction</h2>
 <p><a href="https://www.esri.com/en-us/arcgis/big-data/overview" target="_blank">Big data</a> use to be related IoT in the platform, but that&apos;s not always the case, that&apos;s why we have created a separated page for <a href="../../../emerging-technologies/iot-rt/">ArcGIS and IoT</a></p>
 <p>Some times it is also related with the management of <strong>vast amounts of images</strong>.</p>
-<p>There are a set of products in the ArcGIS platform you might want to know if you are interested in this topic:</p>
+<h2 id="technology">Technology</h2>
+<p>Tools and products to work with big datasets.</p>
+<h3 id="esri-products">Esri products</h3>
+<p>There are a set of technologies in the ArcGIS platform you might want to know if you are interested in this topic:</p>
 <ul>
-<li><a href="../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md">GeoEvent</a></li>
-<li><a href="../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md">GeoAnalytics</a></li>
-<li><a href="../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md">Spatiotemporal Big Data Store</a></li>
+<li><a href="../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md">GeoEvent</a>: enables you to work with Real-Time Mapping and Analytics. It connect with: mongdb, hadoop, rabbitmq, activemq, etc.</li>
+<li><a href="../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md">GeoAnalytics</a>: <a href="https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm" target="_blank">perform big data analysis</a></li>
+<li><a href="../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md">Spatiotemporal Big Data Store</a>: the spatiotemporal big data store enables archival of high volume observation data, sustains high velocity write throughput, and can run across multiple machines (nodes).</li>
+<li><a href="https://developers.arcgis.com/python/guide/working-with-big-data/" target="_blank">ArcGIS API for Python</a>: the arcgis.geoanalytics module provides submodules, data types, classes and functions to process your big data using an ArcGIS GeoAnalytics Server</li>
+</ul>
+<h3 id="other-tools-an-projects">Other tools an projects</h3>
+<ul>
+<li><a href="http://esri.github.io/gis-tools-for-hadoop/" target="_blank">GIS Tools for Hadoop</a></li>
+<li><a href="https://github.com/mraad?utf8=%E2%9C%93&amp;tab=repositories&amp;q=spark&amp;type=&amp;language=" target="_blank">Spark projects from Mansour Raad</a><ul>
+<li><a href="https://github.com/mraad/spark-pip" target="_blank">spark-pip</a>: Spark job to perform massive Point in Polygon (PiP) operations</li>
+<li><a href="https://github.com/mraad/spark-gdb" target="_blank">spark-gdb</a>: A library for parsing and querying an Esri File Geodatabase with Apache Spark.</li>
+<li><a href="https://github.com/mraad/spark-dbf" target="_blank">Spark SQL DBF Library</a>: Spark SQL DBF Library</li>
+<li><a href="https://github.com/mraad/SparkProject" target="_blank">SparkProject</a>: Using Apache Spark in an ArcMap Toolbox</li>
+<li><a href="https://github.com/mraad/dbscan-spark" target="_blank">dbscan-spark</a>: DBSCAN implementation using Apache Spark</li>
+<li><a href="https://github.com/mraad/hdfs-geohex" target="_blank">hdfs-geohex</a>: (Web)Mapping Elephants with Sparks</li>
+<li><a href="https://github.com/mraad/hex-trips" target="_blank">Spark, Cassandra, Tessellation and ArcGIS](Spark, Cassandra, Tessellation and ArcGIS</a></li>
+<li>...</li>
+</ul>
+</li>
 </ul>
 <h2 id="training">Training</h2>
 <ul>
+<li><a href="http://enterprise.arcgis.com/en/server/latest/get-started/windows/what-is-a-big-data-file-share.htm" target="_blank">Get started with big data file shares in GeoAnalytics Server</a> (ArcGIS Enterprise)</li>
 <li><a href="https://github.com/Esri/gis-tools-for-hadoop/wiki/GIS-Tools-for-Hadoop-for-Beginners" target="_blank">GIS Tools for Hadoop for Beginners</a></li>
+<li><a href="https://www.esri.com/arcgis-blog/products/product/data-management/new-spatial-aggregation-tutorial-for-gis-tools-for-hadoop/" target="_blank">New Spatial Aggregation Tutorial for GIS Tools for Hadoop</a></li>
+<li><a href="http://enterprise.arcgis.com/en/geoevent/latest/process-event-data/input-connectors.htm" target="_blank">GeoEvent Server input connectors</a> (Kakfa, RabbitMQ, ActiveMQ, ...)</li>
 </ul>
 <h3 id="documentation">Documentation</h3>
 <ul>
@@ -4369,27 +4391,44 @@
 <li><a href="https://www.esri.com/training/catalog/599c71907ff0c21b68d07c2d/spatiotemporal-big-data-store/" target="_blank">Spatiotemporal Big Data Store</a></li>
 </ul>
 <h3 id="videos">Videos</h3>
+<p>We have created a <a href="https://www.youtube.com/channel/UCtOKtU_kXqz5ZlJ_-OJc_dw/playlists?disable_polymer=1" target="_blank">PRODUCT Youtube playlist</a> that we think it might be worth to you to save (<a href="../../../assets/SavePlaylist.gif">how to save a Youtube Playlist</a>).</p>
+<p>On <a href="https://www.esri.com/videos/search?q=PRODUCT#?sortby=recent" target="_blank"><em>video.esri.com</em></a> and <a href="https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=PRODUCT" target="_blank">Esri Events</a> you will find many technical talks. Or check <a href="https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw" target="_blank">Esri Geodev</a> channel for short videos.</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>Title</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2018</td>
+<td><a href="https://www.youtube.com/watch?v=JO2V4JAJ2PI" target="_blank">Real-Time and Big Data GIS: Best Practices</a></td>
+<td>57min 31secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2017</td>
+<td><a href="https://www.youtube.com/watch?v=uqRV-VUNI0U" target="_blank">Real-Time Data and Big Data GIS at a Massive Scale</a></td>
+<td>58min 19secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2017</td>
+<td><a href="https://www.youtube.com/watch?v=MqM4wzimSjs" target="_blank">Visualizing Big Data with the ArcGIS API for JavaScript and WebGL</a></td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=4SnZTLtw1h4" target="_blank">Big Data in ArcGIS</a></li>
-<li><a href="https://www.youtube.com/watch?v=Xu_qrKzL1_Q" target="_blank">Big Data and ArcGIS: An Introduction to ArcGIS GeoAnalytics Server</a></li>
 <li><a href="https://www.youtube.com/watch?v=lWM_GzxvJkY" target="_blank">Big Data: Using ArcGIS with Apache Hadoop</a></li>
 </ul>
+<p>|<a href="http://www.esri.com/about/events/uc" target="_blank">UC</a> 2017|<a href="https://www.youtube.com/watch?v=IEOqZRbtHSc" target="_blank">Insights for ArcGIS: Advanced Topics</a>|1h 17min 11secs
+|<a href="https://www.youtube.com/watch?v=8WtX1fXplKU&amp;t=19s" target="_blank">Insights for ArcGIS</a>|1h 2min 41secs</p>
+<blockquote>
+<p>You might also find interesting videos at <a href="https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query=&quot;PRODUCT&quot;" target="_blank">Esri Industries</a>, <a href="https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query=&quot;PRODUCT&quot;" target="_blank">ArcGIS</a>, <a href="https://www.youtube.com/user/esritv/search?query=&quot;PRODUCT&quot;" target="_blank">EsriTV</a>, <a href="https://www.youtube.com/user/esripdx/search?query=&quot;PRODUCT&quot;" target="_blank">Esri R&amp;D Center</a> <a href="https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels" target="_blank">etc</a></p>
+</blockquote>
 <h3 id="slides">Slides</h3>
 <p>More slides in <a href="https://www.google.es/search?q=site%3Aproceedings.esri.com+big+data" target="_blank"><em>proceedings.esri.com</em></a> or check on <a href="https://community.esri.com/content?query=big+data&amp;filterID=all~objecttype~objecttype%5Bdocument%5D" target="_blank">GeoNet</a>.</p>
-<h2 id="product-and-tools">Product and tools</h2>
-<p>Tools and products to work with big datasets:</p>
-<h3 id="from-esri">From Esri</h3>
-<ul>
-<li><a href="https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm%20" target="_blank">ArcGIS GeoAnalytics Server</a></li>
-<li><a href="https://developers.arcgis.com/python/guide/working-with-big-data/" target="_blank">ArcGIS API for Python</a></li>
-</ul>
-<h3 id="from-third-parties">From third parties</h3>
-<ul>
-<li><a href="http://esri.github.io/gis-tools-for-hadoop/" target="_blank">GIS Tools for Hadoop</a></li>
-<li>spark</li>
-<li>cassandra</li>
-<li>..</li>
-</ul>
 <h2 id="awesome-projects-and-cool-demos">Awesome projects and cool demos</h2>
 <ul>
 <li><a href="https://www.esri.com/en-us/arcgis/big-data/use-cases" target="_blank">Big data &gt; Use cases</a></li>
@@ -4428,13 +4467,13 @@ technology so we recommend you to follow them.</p>
 <h3 id="other-related-list-of-resources">Other related list of resources</h3>
 <ul>
 <li>Performance:<ul>
+<li><a href="../../../../arcgis/best-practices/performance/">ArcGIS performance</a></li>
 <li>Learn more about how the ArcGIS API for Javascript is using WebGL, the GPU, WebAssembly, HTTP2, Protocol Buffers (pbfs), a client side geometry engine, etc. to deliver a high performance experience | <a href="../../../../arcgis/developers/profiles/front-end/best-practices/performance/">JSAPI performance</a></li>
 <li><a href="https://community.esri.com/community/education/blog/2017/09/13/arcgis-and-high-performance-computing-hpc" target="_blank">ArcGIS and High Performance Computing (HPC)</a></li>
-<li>Distributed computing</li>
 </ul>
 </li>
 <li>Other trends:<ul>
-<li>Artificial intelligence</li>
+<li><a href="../../../emerging-technologies/artificial-intelligence/">Artificial intelligence</a></li>
 </ul>
 </li>
 </ul>
@@ -4450,14 +4489,9 @@ technology so we recommend you to follow them.</p>
 </thead>
 <tbody>
 <tr>
-<td>Safegraph</td>
+<td><a href="../../../partners/program-members/safegraph/">Safegraph</a></td>
 <td>Startup</td>
 <td>United states</td>
-</tr>
-<tr>
-<td><a href="#link-to-awesome-page">Name</a></td>
-<td>Product ([Product name]) and/or services</td>
-<td>Country</td>
 </tr>
 </tbody>
 </table>
@@ -4507,7 +4541,7 @@ technology so we recommend you to follow them.</p>
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Big Data","level":"1.4.2.1.3","depth":4,"next":{"title":"BIM","level":"1.4.2.1.4","depth":4,"path":"esri/business-trends/data-management/bim/README.md","ref":"esri/business-trends/data-management/bim/README.md","articles":[]},"previous":{"title":"Business Intelligence","level":"1.4.2.1.2","depth":4,"path":"esri/business-trends/data-management/bi/README.md","ref":"esri/business-trends/data-management/bi/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","toggle-chapters","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"esri/business-trends/data-management/big-data/README.md","mtime":"2019-03-19T13:16:11.916Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-03-19T13:16:26.808Z"},"basePath":"../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Big Data","level":"1.4.2.1.3","depth":4,"next":{"title":"BIM","level":"1.4.2.1.4","depth":4,"path":"esri/business-trends/data-management/bim/README.md","ref":"esri/business-trends/data-management/bim/README.md","articles":[]},"previous":{"title":"Business Intelligence","level":"1.4.2.1.2","depth":4,"path":"esri/business-trends/data-management/bi/README.md","ref":"esri/business-trends/data-management/bi/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","toggle-chapters","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"esri/business-trends/data-management/big-data/README.md","mtime":"2019-03-19T17:26:11.653Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-03-19T17:26:25.735Z"},"basePath":"../../../..","book":{"language":""}});
         });
     </script>
 </div>

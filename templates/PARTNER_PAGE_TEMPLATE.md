@@ -77,6 +77,7 @@ Here you will their experience working with ArcGIS on different projects and ref
 ```
 
 > **Recommendation**: include references to success stories from Esri website if there is any.
+> [PARTNER videos at Esri Industries Youtube Channel](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query=PARTNER)
 
 ### Customers
 

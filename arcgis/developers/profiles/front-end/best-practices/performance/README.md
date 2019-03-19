@@ -17,9 +17,17 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-In addition to the [performance best practices on the ArcGIS Platform](../../../arcgis/best-practices/performance/README.md)
-we want to show you two ways to improve your performance when talking about web
-applications: [Load time](#load-time) or [Drawing features](#drawing-features).
+
+There are some performance aspects that have been introduced in the JavaScript API when using de [ArcGIS API for JavaScript](../../technologies/dojo/README.md):
+
+* [GPU](https://www.youtube.com/watch?v=vYbTavNaTkY&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&index=11): ArcGIS API for JavaScript is able to render layer data directly on the GPU.
+* [Web GL & HTTP2 & Protocol Buffer & CDNs](https://www.youtube.com/watch?v=ysUlcFlxENc&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&index=8): high-performance feature layers (supported natively by WebGL)
+* [Dot Density Renderer](https://youtu.be/EtatruR-NBY?t=211) (demos: [Dot Density Legend](https://ekenes.github.io/conferences/ds-2019/plenary/dot-density-legend/) & [Houston Housing growth](https://ekenes.github.io/conferences/ds-2019/plenary/dot-density-housing/))
+* [Advanced symbology and rendering on the client-side](https://www.youtube.com/watch?v=9po7pEcgoJs&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&index=10)
+* [The client-side geometry engine](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html): for testing, measuring, and analyzing the spatial relationship between two or more 2D geometries.
+* [Web assembly](https://www.esri.com/arcgis-blog/products/js-api-arcgis/announcements/arcgis-api-for-javascript-versions-4-7-and-3-24-released/): from versions 4.7 and 3.24 the [client-side projection engine](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-projection.html) will only load in browsers that support WebAssembly.
+
+In addition to the [performance best practices on the ArcGIS Platform](../../../arcgis/best-practices/performance/README.md) the performance can be improved as explained here.
 
 ## Load time
 

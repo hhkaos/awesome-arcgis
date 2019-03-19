@@ -270,6 +270,7 @@
       - [Leica](esri/partners/program-members/leica/README.md)
       - [OSIGris](esri/partners/program-members/osigris/README.md)
       - [Safe Software](esri/partners/program-members/safe-software/README.md)
+      - [Safegraph](esri/partners/program-members/safegraph/README.md)
       - [Solusoft](esri/partners/program-members/solusoft/README.md)
       - [TeamDev](esri/partners/program-members/teamdev/README.md)
       - [Tecnosylva](esri/partners/program-members/tecnosylva/README.md)

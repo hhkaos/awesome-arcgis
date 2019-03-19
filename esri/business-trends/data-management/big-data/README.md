@@ -30,9 +30,7 @@ Big data is data sets that are so voluminous and complex that traditional data-p
 
 ## Introduction
 
-[Big data](https://www.esri.com/en-us/arcgis/big-data/overview) use to be related IoT in the platform, but that's not always the case, that's why we have created a separated page for [ArcGIS and IoT](../../../emerging-technologies/iot-rt/README.md)
-
-Some times it is also related with the management of **vast amounts of images**.
+[Big data](https://www.esri.com/en-us/arcgis/big-data/overview) use to be related IoT in the platform, but that's not always the case, for example, some times it is also related with the management of **vast amounts of images**.. That's why we have created a separated page for [ArcGIS and IoT](../../../emerging-technologies/iot-rt/README.md).
 
 ## Technology
 

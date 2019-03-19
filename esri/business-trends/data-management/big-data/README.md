@@ -42,7 +42,7 @@ Tools and products to work with big datasets.
 
 There are a set of technologies in the ArcGIS platform you might want to know if you are interested in this topic:
 
-* [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md): enables you to work with Real-Time Mapping and Analytics. It connect with: mongdb, hadoop, rabbitmq, activemq, etc.
+* [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md): enables you to work with Real-Time Mapping and Analytics, it connects with: mongdb, hadoop, rabbitmq, activemq, etc.
 * [GeoAnalytics](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm)
 * [Spatiotemporal Big Data Store](../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md): the spatiotemporal big data store enables archival of high volume observation data, sustains high velocity write throughput, and can run across multiple machines (nodes).
 * [ArcGIS API for Python](https://developers.arcgis.com/python/guide/working-with-big-data/): the arcgis.geoanalytics module provides submodules, data types, classes and functions to process your big data using an ArcGIS GeoAnalytics Server

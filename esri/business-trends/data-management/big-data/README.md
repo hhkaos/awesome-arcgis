@@ -82,12 +82,9 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=PRODUCT#?sortby=recen
 |---|---|---|
 |[DevSummit](http://www.esri.com/events/devsummit) 2018|[Real-Time and Big Data GIS: Best Practices](https://www.youtube.com/watch?v=JO2V4JAJ2PI)|57min 31secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Real-Time Data and Big Data GIS at a Massive Scale](https://www.youtube.com/watch?v=uqRV-VUNI0U)|58min 19secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Visualizing Big Data with the ArcGIS API for JavaScript and WebGL](https://www.youtube.com/watch?v=MqM4wzimSjs)
-* [Big Data in ArcGIS](https://www.youtube.com/watch?v=4SnZTLtw1h4)
-* [Big Data: Using ArcGIS with Apache Hadoop](https://www.youtube.com/watch?v=lWM_GzxvJkY)
-
-|[UC](http://www.esri.com/about/events/uc) 2017|[Insights for ArcGIS: Advanced Topics](https://www.youtube.com/watch?v=IEOqZRbtHSc)|1h 17min 11secs
-|[Insights for ArcGIS](https://www.youtube.com/watch?v=8WtX1fXplKU&t=19s)|1h 2min 41secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Big Data: Using ArcGIS with Apache Hadoop](https://www.youtube.com/watch?v=lWM_GzxvJkY)|24min 37secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Visualizing Big Data with the ArcGIS API for JavaScript and WebGL](https://www.youtube.com/watch?v=MqM4wzimSjs)|46min 25secs
+|[FedGIS](http://www.esri.com/events/federal) 2013| [Big Data in ArcGIS](https://www.youtube.com/watch?v=4SnZTLtw1h4)|5min 17secs
 
 > You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="PRODUCT"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="PRODUCT"), [EsriTV](https://www.youtube.com/user/esritv/search?query="PRODUCT"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="PRODUCT") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
 

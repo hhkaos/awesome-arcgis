@@ -54,6 +54,7 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 |[UC](http://www.esri.com/about/events/uc) 2017|[ArcGIS GeoAnalytics Server: An Introduction](https://www.youtube.com/watch?v=LHx-jZJjzRk)|49:42
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Big Data: GeoEvent & GeoAnalytics, Leveraging the Spatiotemporal Big Data Store](https://www.youtube.com/watch?v=-gnWpOrv7-4)|58:56
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Big Data and ArcGIS: an Introduction to ArcGIS GeoAnalytics Server](https://www.youtube.com/watch?v=Xu_qrKzL1_Q)|54:08
+|[DevSummit](http://www.esri.com/events/devsummit) 2016|[Big Data and ArcGIS: Large Scale Batch Analytics for Feature and Tabular Data](https://www.youtube.com/watch?v=iT63VLJ2nrc)|1h 15min 5secs
 |[FedGIS](http://www.esri.com/events/federal) 2017|[Real-Time GIS and GeoAnalytics](https://www.youtube.com/watch?v=OaodLd--Muk)|5:43
 |[UC](http://www.esri.com/about/events/uc) 2016|[GeoAnalytics Server](https://www.youtube.com/watch?v=tydfltQcy8A)|5:43
 
@@ -89,3 +90,7 @@ Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/us
 |[Tiempo Real - Integrando redes de sensores e IoT](https://youtu.be/p6QjUROOZKY?t=49m7s)|Abr 2017|~30min
 |[Caso práctico de GeoAnalytics de los autobuses de la EMT en la plenaria de la Conferencia de Esri España de 2016](https://youtu.be/s7BW1PbyRj8)|Oct 2016|10:57
 |[Sesión técnica de GeoAnalytics en la Conferencia de Esri España de 2016](https://youtu.be/uATC_Cunf8o)|Oct 2016|56:59
+
+### Other related list of resources
+
+* [Business trends > Data management > Big Data](../../../../../esri/business-trends/data-management/big-data/README.md)

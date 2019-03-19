@@ -34,15 +34,38 @@ Big data is data sets that are so voluminous and complex that traditional data-p
 
 Some times it is also related with the management of **vast amounts of images**.
 
-There are a set of products in the ArcGIS platform you might want to know if you are interested in this topic:
+## Technology
 
-* [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md)
-* [GeoAnalytics](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md)
-* [Spatiotemporal Big Data Store](../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md)
+Tools and products to work with big datasets.
+
+### Esri products
+
+There are a set of technologies in the ArcGIS platform you might want to know if you are interested in this topic:
+
+* [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md): enables you to work with Real-Time Mapping and Analytics. It connect with: mongdb, hadoop, rabbitmq, activemq, etc.
+* [GeoAnalytics](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm)
+* [Spatiotemporal Big Data Store](../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md): the spatiotemporal big data store enables archival of high volume observation data, sustains high velocity write throughput, and can run across multiple machines (nodes).
+* [ArcGIS API for Python](https://developers.arcgis.com/python/guide/working-with-big-data/): the arcgis.geoanalytics module provides submodules, data types, classes and functions to process your big data using an ArcGIS GeoAnalytics Server
+
+### Other tools an projects
+
+* [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/)
+* [Spark projects from Mansour Raad](https://github.com/mraad?utf8=%E2%9C%93&tab=repositories&q=spark&type=&language=)
+    * [spark-pip](https://github.com/mraad/spark-pip): Spark job to perform massive Point in Polygon (PiP) operations
+    * [spark-gdb](https://github.com/mraad/spark-gdb): A library for parsing and querying an Esri File Geodatabase with Apache Spark.
+    * [Spark SQL DBF Library](https://github.com/mraad/spark-dbf): Spark SQL DBF Library
+    * [SparkProject](https://github.com/mraad/SparkProject): Using Apache Spark in an ArcMap Toolbox
+    * [dbscan-spark](https://github.com/mraad/dbscan-spark): DBSCAN implementation using Apache Spark
+    * [hdfs-geohex](https://github.com/mraad/hdfs-geohex): (Web)Mapping Elephants with Sparks
+    * [Spark, Cassandra, Tessellation and ArcGIS](Spark, Cassandra, Tessellation and ArcGIS](https://github.com/mraad/hex-trips)
+    * ...
 
 ## Training
 
+* [Get started with big data file shares in GeoAnalytics Server](http://enterprise.arcgis.com/en/server/latest/get-started/windows/what-is-a-big-data-file-share.htm) (ArcGIS Enterprise)
 * [GIS Tools for Hadoop for Beginners](https://github.com/Esri/gis-tools-for-hadoop/wiki/GIS-Tools-for-Hadoop-for-Beginners)
+* [New Spatial Aggregation Tutorial for GIS Tools for Hadoop](https://www.esri.com/arcgis-blog/products/product/data-management/new-spatial-aggregation-tutorial-for-gis-tools-for-hadoop/)
+* [GeoEvent Server input connectors](http://enterprise.arcgis.com/en/geoevent/latest/process-event-data/input-connectors.htm) (Kakfa, RabbitMQ, ActiveMQ, ...)
 
 ### Documentation
 
@@ -51,29 +74,26 @@ There are a set of products in the ArcGIS platform you might want to know if you
 
 ### Videos
 
+We have created a [PRODUCT Youtube playlist](https://www.youtube.com/channel/UCtOKtU_kXqz5ZlJ_-OJc_dw/playlists?disable_polymer=1) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
+On [*video.esri.com*](https://www.esri.com/videos/search?q=PRODUCT#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=PRODUCT) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
+
+|Event|Title|Length|
+|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2018|[Real-Time and Big Data GIS: Best Practices](https://www.youtube.com/watch?v=JO2V4JAJ2PI)|57min 31secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Real-Time Data and Big Data GIS at a Massive Scale](https://www.youtube.com/watch?v=uqRV-VUNI0U)|58min 19secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Visualizing Big Data with the ArcGIS API for JavaScript and WebGL](https://www.youtube.com/watch?v=MqM4wzimSjs)
 * [Big Data in ArcGIS](https://www.youtube.com/watch?v=4SnZTLtw1h4)
-* [Big Data and ArcGIS: An Introduction to ArcGIS GeoAnalytics Server](https://www.youtube.com/watch?v=Xu_qrKzL1_Q)
 * [Big Data: Using ArcGIS with Apache Hadoop](https://www.youtube.com/watch?v=lWM_GzxvJkY)
+
+|[UC](http://www.esri.com/about/events/uc) 2017|[Insights for ArcGIS: Advanced Topics](https://www.youtube.com/watch?v=IEOqZRbtHSc)|1h 17min 11secs
+|[Insights for ArcGIS](https://www.youtube.com/watch?v=8WtX1fXplKU&t=19s)|1h 2min 41secs
+
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="PRODUCT"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="PRODUCT"), [EsriTV](https://www.youtube.com/user/esritv/search?query="PRODUCT"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="PRODUCT") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
 
 ### Slides
 
 More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+big+data) or check on [GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bdocument%5D).
-
-## Product and tools
-
-Tools and products to work with big datasets:
-
-### From Esri
-
-* [ArcGIS GeoAnalytics Server](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm%20)
-* [ArcGIS API for Python](https://developers.arcgis.com/python/guide/working-with-big-data/)
-
-### From third parties
-
-* [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/)
-* spark
-* cassandra
-* ..
 
 ## Awesome projects and cool demos
 
@@ -114,7 +134,6 @@ You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS O
 * [Big Data at esri.com search engine](https://www.esri.com/en-us/search#/?q=big+data&v=0&tab=Explore&page=1)
 * [Blog Posts about Big Data inside Places at GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 
-
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["big data"](https://esri-es.github.io/arcgis-search/?search="big data"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
@@ -126,11 +145,11 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Other related list of resources
 
 * Performance:
+    * [ArcGIS performance](../../../../arcgis/best-practices/performance/README.md)
     * Learn more about how the ArcGIS API for Javascript is using WebGL, the GPU, WebAssembly, HTTP2, Protocol Buffers (pbfs), a client side geometry engine, etc. to deliver a high performance experience | [JSAPI performance](../../../../arcgis/developers/profiles/front-end/best-practices/performance/README.md)
     * [ArcGIS and High Performance Computing (HPC)](https://community.esri.com/community/education/blog/2017/09/13/arcgis-and-high-performance-computing-hpc)
-    * Distributed computing
 * Other trends:
-    * Artificial intelligence
+    * [Artificial intelligence](../../../emerging-technologies/artificial-intelligence/README.md)
 
 ## Partners and startups
 
@@ -138,8 +157,7 @@ Organizations and the type of relation with this product:
 
 |Company|Relation type|Country|
 |---|---|---|
-|Safegraph|Startup|United states
-|[Name](#link-to-awesome-page)|Product ([Product name]) and/or services|Country
+|[Safegraph](../../../partners/program-members/safegraph/README.md)|Startup|United states
 
 *Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
 

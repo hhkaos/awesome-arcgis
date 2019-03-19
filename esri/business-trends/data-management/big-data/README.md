@@ -60,21 +60,20 @@ There are a set of technologies in the ArcGIS platform you might want to know if
 
 ## Training
 
-* [Get started with big data file shares in GeoAnalytics Server](http://enterprise.arcgis.com/en/server/latest/get-started/windows/what-is-a-big-data-file-share.htm) (ArcGIS Enterprise)
+* [An Introduction to Big Data](https://www.esri.com/arcgis-blog/products/product/data-management/an-introduction-to-big-data/) (by Esri)
 * [GIS Tools for Hadoop for Beginners](https://github.com/Esri/gis-tools-for-hadoop/wiki/GIS-Tools-for-Hadoop-for-Beginners)
 * [New Spatial Aggregation Tutorial for GIS Tools for Hadoop](https://www.esri.com/arcgis-blog/products/product/data-management/new-spatial-aggregation-tutorial-for-gis-tools-for-hadoop/)
-* [GeoEvent Server input connectors](http://enterprise.arcgis.com/en/geoevent/latest/process-event-data/input-connectors.htm) (Kakfa, RabbitMQ, ActiveMQ, ...)
+
+Check for specific training about: [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md), [GeoAnalytics](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm), [Spatiotemporal Big Data Store](../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) on their respective pages.
 
 ### Documentation
 
-* [Discover Greater Value from Your Big Data](https://www.esri.com/en-us/arcgis/big-data/overview)
-* [Spatiotemporal Big Data Store](https://www.esri.com/training/catalog/599c71907ff0c21b68d07c2d/spatiotemporal-big-data-store/)
+* [GeoEvent Server input connectors](http://enterprise.arcgis.com/en/geoevent/latest/process-event-data/input-connectors.htm) (Kakfa, RabbitMQ, ActiveMQ, ...)
+* [Get started with big data file shares in GeoAnalytics Server](http://enterprise.arcgis.com/en/server/latest/get-started/windows/what-is-a-big-data-file-share.htm) (ArcGIS Enterprise)
 
 ### Videos
 
-We have created a [PRODUCT Youtube playlist](https://www.youtube.com/channel/UCtOKtU_kXqz5ZlJ_-OJc_dw/playlists?disable_polymer=1) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
-
-On [*video.esri.com*](https://www.esri.com/videos/search?q=PRODUCT#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=PRODUCT) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
+On [*video.esri.com*](https://www.esri.com/videos/search?q=Big Data#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=Big Data) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
 
 |Event|Title|Length|
 |---|---|---|
@@ -84,7 +83,7 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=PRODUCT#?sortby=recen
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Visualizing Big Data with the ArcGIS API for JavaScript and WebGL](https://www.youtube.com/watch?v=MqM4wzimSjs)|46min 25secs
 |[FedGIS](http://www.esri.com/events/federal) 2013| [Big Data in ArcGIS](https://www.youtube.com/watch?v=4SnZTLtw1h4)|5min 17secs
 
-> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="PRODUCT"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="PRODUCT"), [EsriTV](https://www.youtube.com/user/esritv/search?query="PRODUCT"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="PRODUCT") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="Big Data"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="Big Data"), [EsriTV](https://www.youtube.com/user/esritv/search?query="Big Data"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="Big Data") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
 
 ### Slides
 
@@ -92,7 +91,10 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Awesome projects and cool demos
 
-* [Big data > Use cases](https://www.esri.com/en-us/arcgis/big-data/use-cases)
+* [GeoAnalytics at DevSummit Plenary 2019](https://www.youtube.com/watch?v=oiZlfh5stDo&index=23&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&t=0s)
+* [Raster Analytics at DevSummit Plenary 2019](https://www.youtube.com/watch?v=xqxGE-t0oIo&list=PLaPDDLTCmy4Y3e8AkFYr9n-njdf2fAbS4&index=24)
+
+> Find [more BigData use cases here](https://www.esri.com/en-us/arcgis/big-data/use-cases).
 
 ## Support and Community
 
@@ -125,7 +127,6 @@ You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS O
 
 ## News
 
-* [An Introduction to Big Data](https://www.esri.com/arcgis-blog/products/product/data-management/an-introduction-to-big-data/) (by Esri)
 * [Big Data at esri.com search engine](https://www.esri.com/en-us/search#/?q=big+data&v=0&tab=Explore&page=1)
 * [Blog Posts about Big Data inside Places at GeoNet](https://community.esri.com/content?query=big+data&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 
@@ -143,8 +144,10 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
     * [ArcGIS performance](../../../../arcgis/best-practices/performance/README.md)
     * Learn more about how the ArcGIS API for Javascript is using WebGL, the GPU, WebAssembly, HTTP2, Protocol Buffers (pbfs), a client side geometry engine, etc. to deliver a high performance experience | [JSAPI performance](../../../../arcgis/developers/profiles/front-end/best-practices/performance/README.md)
     * [ArcGIS and High Performance Computing (HPC)](https://community.esri.com/community/education/blog/2017/09/13/arcgis-and-high-performance-computing-hpc)
-* Other trends:
+* [Imagery data](../imagery-data/README.md)
+* [Other emerging technologies related](../../../emerging-technologies/README.md):
     * [Artificial intelligence](../../../emerging-technologies/artificial-intelligence/README.md)
+    * [IoT-Real Time](../../../emerging-technologies/iot-rt/README.md)
 
 ## Partners and startups
 

@@ -18,6 +18,10 @@ The [ArcGIS Data Store](../README.md), available with [ArcGIS Enterprise](../../
 
 Learn more about the [spatiotemporal big data store](http://enterprise.arcgis.com/en/geoevent/latest/administer/managing-big-data-stores.htm).
 
+## Training
+
+* [Spatiotemporal Big Data Store](https://www.esri.com/training/catalog/599c71907ff0c21b68d07c2d/spatiotemporal-big-data-store/)
+
 ### Videos
 
 On [*video.esri.com*](https://www.esri.com/videos/search?q=spatiotemporal+big+data+store#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=spatiotemporal+big+data+store) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.

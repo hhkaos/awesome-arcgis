@@ -182,6 +182,7 @@ Esri employees:
 |[Esri Globe](https://twitter.com/EsriGlobe)| News on GIS and smart mapping from Esri ([subscribe](http://www.esri.com/esri-news/esri-globe-subscribe) - [esri.com/esri-news](esri.com/esri-news))
 |[Esri Support](https://twitter.com/EsriSuptInfo)|Esri Support Services provides world-class support to help our customers. Via Twitter, we'll share info about Esri's online support resources and more! - [support.esri.com](https://support.esri.com)|
 |[Esri Careers](https://twitter.com/EsriCareers)|Connect with us for insight into the #EsriExperience! - [esri.com/careers](https://www.esri.com/careers/)
+|[Real-Time GIS](https://twitter.com/realtimegis)|n.a.|
 
 ### Product
 

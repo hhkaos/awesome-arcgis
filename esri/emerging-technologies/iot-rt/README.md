@@ -9,6 +9,7 @@ The Internet of Things (IoT) is the network of physical devices, vehicles, home 
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
 - [News](#news)
 - [Real time content](#real-time-content)
 

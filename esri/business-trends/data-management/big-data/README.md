@@ -38,13 +38,22 @@ Tools and products to work with big datasets.
 
 ### Esri products
 
+Based on your needs
 There are a set of technologies in the ArcGIS platform you might want to know if you are interested in this topic:
 
-* [GeoEvent](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md): enables you to work with Real-Time Mapping and Analytics, it connects with: mongdb, hadoop, rabbitmq, activemq, etc.
-* [GeoAnalytics](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm)
-* [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md): the spatiotemporal big data store enables archival of high volume observation data, sustains high velocity write throughput, and can run across multiple machines (nodes).
-* [ArcGIS API for Python](../../../../arcgis/developers/profiles/back-end/technologies/python/README.md): the arcgis.geoanalytics module provides submodules, data types, classes and functions to process your big data using an ArcGIS GeoAnalytics Server ([more info](https://developers.arcgis.com/python/guide/working-with-big-data/))
-* [ArcGIS Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-Server/image-server/README.md): ArcGIS Image Server provides serving, processing, analysis, and extracting value from massive collections of imagery, rasters, and remotely sensed data.
++ **Storage, search, querying & updating data** -> [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md): we offer the spatiotemporal big data store to enable archival of high volume observation data, sustains high velocity write throughput, and can run across multiple machines (nodes). But ArcGIS is also compatible with other storage technologies like [Apache Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop).
+
+* **Capture, transfer, sharing** -> [GeoEvent Server](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md): enables you to work with real-time mapping and analytics. It works with: MongDB, Hadoop, RabbitMQ, ActiveMQ, etc.
+
+* **Data analysis**:
+  * **[Vector Data](../../../../arcgis/content/data-types/vector/README.md) (Real-Time)** -> [GeoEvent Server](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md)
+  * **[Vector Data](../../../../arcgis/content/data-types/vector/README.md) (Batch)** -> [GeoAnalytics](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md) [performs analysis with large volume of data](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm)
+  * **[Raster Data](../../../../arcgis/content/data-types/raster/README.md) (Batch)** -> [ArcGIS Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-Server/image-server/README.md) provides serving, processing, analysis, and extracting value from massive collections of imagery, rasters, and remotely sensed data.
+
+* **Visualization** -> JavaScript API and SDK Runtimes, (learn more about the [developer tecnologies](../../../../arcgis/developers/README.md)).
+
+
+> **Note**: [ArcGIS API for Python](../../../../arcgis/developers/profiles/back-end/technologies/python/README.md): the arcgis.geoanalytics module provides submodules, data types, classes and functions to process your big data using an ArcGIS GeoAnalytics Server ([more info](https://developers.arcgis.com/python/guide/working-with-big-data/))
 
 ### Other tools an projects
 
@@ -64,8 +73,11 @@ There are a set of technologies in the ArcGIS platform you might want to know if
 * [An Introduction to Big Data](https://www.esri.com/arcgis-blog/products/product/data-management/an-introduction-to-big-data/) (by Esri)
 * [GIS Tools for Hadoop for Beginners](https://github.com/Esri/gis-tools-for-hadoop/wiki/GIS-Tools-for-Hadoop-for-Beginners)
 * [New Spatial Aggregation Tutorial for GIS Tools for Hadoop](https://www.esri.com/arcgis-blog/products/product/data-management/new-spatial-aggregation-tutorial-for-gis-tools-for-hadoop/)
+* [Tutorial: Run a GeoAnalytics tool](https://enterprise.arcgis.com/en/portal/latest/use/geoanalytics-tutorial-running-a-geoanalytics-tool.htm)
+* [From the Big Data Blog at GeoNet](https://community.esri.com/groups/big-data/blog)
+    * [Aggregating layers using GeoAnalytics](https://community.esri.com/groups/big-data/blog/2018/07/31/aggregating-layers-using-geoanalytics)
 
-Check for specific training about [GeoEvent](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md), [GeoAnalytics](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm), [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) and [ArcGIS Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-Server/image-server/README.md) on their respective pages.
+> Note**: Check for specific training about [GeoEvent](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md), [GeoAnalytics](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md), [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) and [ArcGIS Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-Server/image-server/README.md) on their respective pages.
 
 ### Documentation
 
@@ -100,7 +112,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 * [Taxi Cab Terrain](https://nation.maps.arcgis.com/apps/Cascade/index.html?appid=6984ffb035ed40b8b11e23f41236aac2): Millions of Cab Rides Over One Year Paint a Portrait of New York City
 * [Big Data Analytics on Citi Bike](https://www.arcgis.com/apps/Cascade/index.html?appid=668b3ac098404936ad40a3da30d4c04e)
 
-Check also the cool demos and projects at [GeoEvent](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md), [GeoAnalytics](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md): [perform big data analysis](https://enterprise.arcgis.com/en/portal/latest/use/perform-big-data-analysis.htm), [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) and [ArcGIS Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-Server/image-server/README.md) pages.
+> **Note**: Check also the cool demos and projects at [GeoEvent](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md), [GeoAnalytics](../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md), [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) and [ArcGIS Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-Server/image-server/README.md) pages.
 
 > Find [more BigData use cases here](https://www.esri.com/en-us/arcgis/big-data/use-cases).
 
@@ -143,6 +155,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Localized resources
 
+* [Taller de GeoaAalytics de un día](https://www.esri.es/cursos-y-master/cursos/?categoria=all&producto=225&roles=all)
 * [IoT y Big Data: los mejores aliados](http://preventas.maps.arcgis.com/apps/MapJournal/index.html?appid=1ea7ba05555746a9a8574ef3346e939b#)
 * [Cómo adoptar una estrategia de éxito en Big Data y Artificial Intelligence con AWS - CEsri17](https://www.youtube.com/watch?v=DiQWviULaXg&feature=youtu.be)
 

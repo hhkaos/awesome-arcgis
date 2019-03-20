@@ -23,9 +23,15 @@ There are a set of products in the ArcGIS platform you might want to know if you
 * [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md)
 * [Spatiotemporal Big Data Store](../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md)
 
+## Training
+
+* [Mapping The Internet Of Things](https://learn.arcgis.com/en/arcgis-book/chapter9/)
+
 ## News
 
 * [Esri and PubNub Collaborate on Real-Time Location Strategy Technology for Developers of Next Gen Mapping and Analytics Apps](https://www.esri.com/arcgis-blog/products/arcgis-solutions/analytics/esri-and-pubnub-collaborate-on-real-time-location-strategy-technology-for-developers-of-next-gen-mapping-and-analytics-apps/)
+
+* Twitter: @RealTimeGIS [Real-Time GIS](https://twitter.com/realtimegis)
 
 ## Real time content
 

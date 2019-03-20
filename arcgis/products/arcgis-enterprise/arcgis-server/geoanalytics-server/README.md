@@ -39,6 +39,7 @@ In the official documentation (for [Windows](http://server.arcgis.com/en/server/
 * How to prepare your data for GeoAnalytics Tools
 * How to perform Analysis
 * Tutorials
+    * [Run a GeoAnalytics tool](https://enterprise.arcgis.com/en/portal/latest/use/geoanalytics-tutorial-running-a-geoanalytics-tool.htm)
 
 You may also want to check:
 
@@ -82,6 +83,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Localized resources
 
 #### Spanish
+
+[Taller de GeoaAalytics](https://www.esri.es/cursos-y-master/cursos/?categoria=all&producto=225&roles=all)
 
 Más vídeos en el [canal en Youtube de Esri España](https://www.youtube.com/user/esriSpainTV/search?query=geoanalytics).
 

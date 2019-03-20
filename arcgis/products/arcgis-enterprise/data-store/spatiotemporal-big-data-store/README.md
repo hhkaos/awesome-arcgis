@@ -17,11 +17,26 @@ The [ArcGIS Data Store](../README.md), available with [ArcGIS Enterprise](../../
 
 ## Introduction
 
+This is the technology provided to work with observational data, it can be moving objects, changing attributes of stationary sensors, or both.
+
+The spatiotemporal big data store enables archival of high volume observation data, sustains high velocity write throughput, and can run across multiple machines (nodes). Adding additional machines adds capacity, enabling you to store more data, implement longer retention policies of your data, and support higher data write throughput.
+
+It allows in-flight aggregations of up to **hundreds of millions** of geometries.
+
+> For each larger amount of data [ArcGIS Analytics for IoT](https://www.esri.com/en-us/landing-page/product/2018/arcgis-analytics-for-iot) will be released in Beta in June 2019 (it will be deployed over [ArcGIS Online](../../../../products/arcgis-online/README.md))
+
+> Bear in mind that working with point geometry is not the same as working with linear or polygonal geometries, as each of these geometries can be large in size.
+
+> **Note**: it has been a developer from [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch).
+
 Learn more about the [spatiotemporal big data store](http://enterprise.arcgis.com/en/geoevent/latest/administer/managing-big-data-stores.htm).
+
+> To be able to publish in Big Data you have to have [GeoEvent Server](../../../../products/arcgis-enterprise/arcgis-server/geoevent-server/README.md) or [GeoAnalytics Server](../../../../products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md).
 
 ## Training
 
 * [Spatiotemporal Big Data Store](https://www.esri.com/training/catalog/599c71907ff0c21b68d07c2d/spatiotemporal-big-data-store/)
+* [Troubleshooting guide for ArcGIS Spatiotemporal Big Data Store](https://community.esri.com/groups/big-data/blog)
 
 ### Videos
 

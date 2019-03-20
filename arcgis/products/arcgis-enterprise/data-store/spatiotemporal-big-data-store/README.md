@@ -37,6 +37,7 @@ Learn more about the [spatiotemporal big data store](http://enterprise.arcgis.co
 
 * [Spatiotemporal Big Data Store](https://www.esri.com/training/catalog/599c71907ff0c21b68d07c2d/spatiotemporal-big-data-store/)
 * [Troubleshooting guide for ArcGIS Spatiotemporal Big Data Store](https://community.esri.com/groups/big-data/blog)
+* [Tutorial - Spatiotemporal Big Data Store](https://www.arcgis.com/home/item.html?id=870b1bf0ad17472497b84b528cb9af00) (2016)
 
 ### Videos
 

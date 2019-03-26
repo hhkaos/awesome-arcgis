@@ -4,6 +4,8 @@
 
 ArcGIS is a 360º [GIS](./gis/README.md) software platform built by Esri made up of more than 100 products.
 
+{% youtube %} https://www.youtube.com/watch?v=FypLh7-djjM {% endyoutube %}
+
 Many of those products are ready to use software, like desktop or mobile applications but there are also **many APIs and SDKs for [developers](arcgis/developers/README.md)**.
 
 Learn more about the [ArcGIS platform](./arcgis/README.md) and the company behind it: [Esri](./esri/README.md).

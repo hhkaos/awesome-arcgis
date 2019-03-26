@@ -9,15 +9,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Training](#training)
-- [Community](#community)
-- [Apps](#apps)
-- [Tools](#tools)
-- [Get an account](#get-an-account)
-- [News](#news)
 - [Additional resources](#additional-resources)
-  - [Localized resources](#localized-resources)
-    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

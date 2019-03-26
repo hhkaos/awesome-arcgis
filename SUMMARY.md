@@ -183,6 +183,7 @@
     - [ArcGIS Maps For Power BI](arcgis/products/arcgis-maps-for-power-bi/README.md)
     - [ArcGIS Maps For Sharepoint](arcgis/products/arcgis-maps-for-sharepoint/README.md)
     - [ArcGIS Online](arcgis/products/arcgis-online/README.md)
+      - [ArcGIS Analytics For Iot](arcgis/products/arcgis-online/arcgis-analytics-for-iot/README.md)
       - [ArcGIS Open Data](arcgis/products/arcgis-online/arcgis-open-data/README.md)
       - [Credits](arcgis/products/arcgis-online/credits/README.md)
       - [Developer Console](arcgis/products/arcgis-online/developer-console/README.md)

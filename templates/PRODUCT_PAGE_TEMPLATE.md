@@ -167,7 +167,7 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 ### Related products
 
 * Any related product*
-* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 
 ### ArcGIS Online content
 

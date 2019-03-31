@@ -44,7 +44,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Related products
 
 * [Business Analyst Extensions](../extensions/business-analyst/README.md)
-* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 
 ### Localized resources
 

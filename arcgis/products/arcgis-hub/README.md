@@ -83,7 +83,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Related products
 
-* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 
 ### Localized resources
 
@@ -91,7 +91,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 * [Página de producto de ArcGIS Hub](https://www.esri.es/producto/arcgis-hub/)
  * [ArcGIS Hub en la Conferencia Esri España 2018](https://youtu.be/3kZfWIQHFgQ?t=14m44s)
- 
+
  ## Contributions
 
  Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

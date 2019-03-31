@@ -23,15 +23,13 @@ Display data, sketch placemarks, measure distances and areas, and add annotation
 
 [Learn more](http://www.esri.com/software/arcgis-earth)
 
-> **Pending**: Help needed
-
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Earth"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Earth"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ### Related products
 
-* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 
 ## Contributions
 

@@ -200,7 +200,7 @@
       - [3D Analyst](arcgis/products/extensions/3d-analyst/README.md)
       - [ArcGIS Editor For Openstreetmap](arcgis/products/extensions/arcgis-editor-for-openstreetmap/README.md)
       - [ArcGIS For Aviation](arcgis/products/extensions/arcgis-for-aviation/README.md)
-      - [ArcGIS For Inspire](arcgis/products/extensions/arcgis-for-inspire/README.md)
+      - [ArcGIS for INSPIRE](arcgis/products/extensions/arcgis-for-inspire/README.md)
       - [ArcGIS For Maritime](arcgis/products/extensions/arcgis-for-maritime/README.md)
       - [ArcGIS Infographics Add In](arcgis/products/extensions/arcgis-infographics-add-in/README.md)
       - [ArcGIS Locatext](arcgis/products/extensions/arcgis-locatext/README.md)

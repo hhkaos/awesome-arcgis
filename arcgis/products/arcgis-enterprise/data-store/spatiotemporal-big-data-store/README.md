@@ -31,7 +31,7 @@ It allows in-flight aggregations of up to **hundreds of millions** of geometries
 
 Learn more about the [spatiotemporal big data store](http://enterprise.arcgis.com/en/geoevent/latest/administer/managing-big-data-stores.htm).
 
-> To be able to publish in Big Data you have to have [GeoEvent Server](../../../../products/arcgis-enterprise/arcgis-server/geoevent-server/README.md) or [GeoAnalytics Server](../../../../products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md).
+> To be able to publish in Big Data you have to have [GeoEvent Server](../../../../products/extensions/geoevent-server/README.md) or [GeoAnalytics Server](../../../../products/extensions/geoanalytics-server/README.md).
 
 ## Training
 

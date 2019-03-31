@@ -12,6 +12,7 @@
     "gitbook-plugin-ga": "^1.0.1",
     "gitbook-plugin-search-plus": "^1.0.3",
     "gitbook-plugin-sitemap": "^1.2.0",
+    "gitbook-plugin-toggle-chapters": "0.0.3",
     "gitbook-plugin-youtube": "^1.1.0"
   },
   "devDependencies": {

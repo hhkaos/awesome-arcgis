@@ -98,6 +98,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 * [ArcGIS Pro](../arcgis-desktop/arcgis-pro/README.md)
 * [ArcMap](../arcgis-desktop/arcmap-arccatalog/README.md)
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
 
 ### ArcGIS Online content
 
@@ -109,3 +110,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 You might also find interesting content from some [Esri users or groups in ArcGIS Online](../../../esri/README.md).
 
 [Search AutoCAD related items in ArcGIS Online](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/?q=type%3A%22CAD+Drawing%22&numResults=100&sortField=relevance&Thumbnail=generateThumbnail%28elem%29&Title=elem.title&Details=%27%3Ca+href%3D%22https%3A%2F%2Fwww.arcgis.com%2Fhome%2Fitem.html%3Fid%3D%27%2Belem.id%2B%27%22+target%3D%22_blank%22%3EDetails%3C%2Fa%3E%27&Owner=elem.owner&Type=elem.type&Views=elem.numViews)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

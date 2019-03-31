@@ -42,3 +42,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 #### Spanish
 
 * [Página de producto de ArcGIS Desktop](http://www.esri.es/producto/arcgis-for-desktop/)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

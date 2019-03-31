@@ -31,6 +31,10 @@ Learn more at: [esri.com/en-us/arcgis/products/arcgis-indoors](https://www.esri.
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Indoors"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Indoors"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Related products
+
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+
 ### Other related list of resources
 
 * [Esri & Indoors](../../../esri/emerging-technologies/indoor/README.md)

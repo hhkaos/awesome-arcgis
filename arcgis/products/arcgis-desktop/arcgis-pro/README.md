@@ -154,6 +154,10 @@ Find more news at:
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Pro SDK"](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=%22ArcGIS+Pro+SDK%22).
 
+### Related products
+
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+
 ### Localized resources
 
 #### Spanish
@@ -166,3 +170,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Other related list of resources
 
 * [Using ArcGIS Pro to Create a Hexbin Grid and Reshape Polygon Data](http://ryanruthart.com/using-arcgis-pro-to-create-a-hexbin-grid-and-reshape-polygon-data/)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

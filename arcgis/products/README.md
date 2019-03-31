@@ -19,6 +19,10 @@ Here you will find some products we have built which can be:
 * Extended: you can add more functionality
 * Configurable
 
+## Products
+
+You can find a list of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content) in the Awesome ArcGIS Online Organization.
+
 ## App Builders
 
 ArcGIS has many different type of users, GIS traditional users are great building

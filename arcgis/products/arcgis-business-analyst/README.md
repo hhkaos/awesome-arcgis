@@ -43,6 +43,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 ### Related products
 
 * [Business Analyst Extensions](../extensions/business-analyst/README.md)
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
 
 ### Localized resources
 
@@ -51,3 +52,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [Página de producto de Business Analyst](https://www.esri.es/producto/business-analyst/)
     * [Inspirando el futuro del análisis espacial - CEsri18](https://www.youtube.com/watch?v=W5k-mVpXQy0)
     * [Apps de ArcGIS para usuarios de negocio - CEsri17](https://www.youtube.com/watch?v=DzQCsaz7cUw)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

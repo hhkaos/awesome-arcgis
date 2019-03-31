@@ -72,9 +72,17 @@ technology so we recommend you to follow them.
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Survey123"](https://esri-es.github.io/arcgis-search/?search="Survey123"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Related products
+
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+
 ### Localized resources
 
 #### Spanish
 
 * [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)
 * [Demo Survey123 + Spike](https://youtu.be/QH8prq2lrgs?t=11m14s)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

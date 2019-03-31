@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Web Map Viewer
+
 The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web tool that allow you to create and modify [Web maps](../../../esri/open-vision/open-specifications/web-map/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
 
 [![Web Map Viewer](images/web-map-viewer.png)](https://www.arcgis.com/home/webmap/viewer.html)
@@ -31,6 +32,7 @@ The Web Map Viewer is available in ArcGIS Online and in Portal for ArcGIS as you
 ## Training
 
 ### Tutorials
+
 Step by step tutorials:
 * [Get started with Web Map Viewer](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online) (~90min)
 * [Create a web map (2D)](https://developers.arcgis.com/labs/design/create-a-web-map/) (~10min)
@@ -66,6 +68,7 @@ After you finish your Web map you can easily create apps combining it with [conf
 ## Localized resources
 
 ### Spanish
+
 * [Introducción a la interfaz de Web Map Viewer](https://www.youtube.com/watch?v=hM_-Ta_27a8)
 * [Cargar un CSV con coordenadas en ArcGIS Online](https://www.youtube.com/watch?v=tHy3ecKKZTM)
 * [Simbología y smart mapping en ArcGIS Online](https://www.youtube.com/watch?v=WZ0IHyOtqMk)
@@ -73,5 +76,14 @@ After you finish your Web map you can easily create apps combining it with [conf
 * [Análisis de áreas de influencia](https://www.youtube.com/watch?v=vTLlRVCurtA)
 * [Análisis de geoenriquecimiento](https://www.youtube.com/watch?v=MvKPced5oI8)
 
+## Additional resources
 
+Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Web Map Viewer"](https://esri-es.github.io/arcgis-search/?search="Web Map Viewer"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Related products
+
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

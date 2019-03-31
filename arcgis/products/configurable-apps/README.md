@@ -257,6 +257,10 @@ ArcGIS Online accounts: [StoryMaps](https://www.arcgis.com/home/search.html?q=ow
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: [storymaps OR "configurable apps"](https://esri-es.github.io/arcgis-search/?search=%22Insights%20for%20ArcGIS%22&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Related products
+
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+
 ### Localized resources
 
 #### Spanish
@@ -266,3 +270,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [Cómo crear plantillas configurables](http://desarrolladores.esri.es/crear-plantillas-parametrizables-en-arcgis/)
 * [Video tutorial: cómo y registrar plantillas configurables](http://desarrolladores.esri.es/granada-bike-tour/)  
 * [Taller: Aplicaciones configurables ArcGIS](https://www.youtube.com/watch?v=TtvxTudvBX0&index=13&list=PLwq5dz_FjCx6C9-ZtGJGM1eBEjFyndXd6)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

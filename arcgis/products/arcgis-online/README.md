@@ -112,6 +112,10 @@ If you are an independent developer we encourage you to start using the
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["arcgis online"](https://esri-es.github.io/arcgis-search/?search="arcgis online"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+### Related products
+
+* List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content
+
 ### Localized resources
 
 #### Spanish
@@ -122,3 +126,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
     * [Alternativas de Arquitectura física y Lógica. Modelos de despliegue. - CEsri18](https://www.youtube.com/watch?v=xm0LS4wV9aI)
 * [ArcGIS Online para organizaciones y proyectos sin ánimo de lucro](https://www.youtube.com/watch?v=nMXNoc2D4Bo)
 * [Introducción a ArcGIS Online para desarrolladores](https://www.youtube.com/watch?v=g9UJHsUe-e8)
+
+## Contributions
+
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

@@ -55,7 +55,7 @@ technology so we recommend you to follow them.
 
 ## Related topics
 
-* [Full Motion Video](../../../../products/arcgis-desktop/add-ins/full-motion-video/README.md)
+* [Full Motion Video](../../../../products/extensions/full-motion-video/README.md)
 
 Hardware / scanners:
 

@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS for INSPIRE
+# ArcGIS for INSPIRE - Extension
 
 As a member of the European Union, you must meet current requirements for delivering INSPIRE Discovery, View, and Download Services of your geospatial data. Part of the Esri Geospatial Cloud, ArcGIS for INSPIRE is designed to ensure INSPIRE compliance.
 

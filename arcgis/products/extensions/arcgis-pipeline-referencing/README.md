@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Pipeline Referencing
+# ArcGIS Pipeline Referencing - Extension
 
 ArcGIS Pipeline Referencing provides the GIS-based capabilities you need to effectively and efficiently perform pipeline linear referencing data management. Because location is critical to almost every aspect of a pipeline operator’s business, the ability to know and communicate the exact location of any point or part of a pipeline and the events that happen on it is essential. Achieving this requires pipeline operators to manage and maintain a vast amount of information about their pipelines.
 

@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Infographics Add-In
+# ArcGIS Infographics Add-In - Extension
 
 Gain greater insights about a location by adding small, dynamic charts and reports, which display as pop ups on your map, can help you answer questions to your ArcMap projects.
 

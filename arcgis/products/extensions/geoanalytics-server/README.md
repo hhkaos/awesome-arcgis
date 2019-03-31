@@ -1,6 +1,6 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# GeoAnalytics Server
+# GeoAnalytics Server - Extension
 
 [GeoAnalytics Server](http://www.esri.com/arcgis/products/geoanalytics-server) allow you to answer difficult questions—the kind that involve large volumes of data—in minutes or hours instead of days or weeks. ArcGIS GeoAnalytics Server uses the power of distributed computing to speed up your geospatial analysis and make you more productive with ArcGIS Pro and ArcGIS Enterprise.
 

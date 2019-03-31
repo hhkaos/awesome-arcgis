@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Publisher
+# ArcGIS Publisher - Extension
 
 ArcGIS Publisher makes it easy to share digital versions of maps and data. Use ArcGIS Publisher to convert ArcGIS Pro maps to mobile map packages viewable with the free Explorer for ArcGIS iOS and Android app. And, convert ArcMap and ArcGlobe documents to published map files for ArcReader. Your mobile maps also work on apps from AppStudio for ArcGIS or ArcGIS Runtime SDK.
 

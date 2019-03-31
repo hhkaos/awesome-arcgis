@@ -1,6 +1,6 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Geoevent Server
+# Geoevent Server - Extension
 
 [ArcGIS GeoEvent Server](http://www.esri.com/arcgis/products/geoevent-server)
 enables you to work with Real-Time Mapping and Analytics

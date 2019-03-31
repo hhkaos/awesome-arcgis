@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Geostatistical Analyst
+# ArcGIS Geostatistical Analyst - Extension
 
 It is not always possible or practical to predict and model spatial phenomena through real world observations. ArcGIS Geostatistical Analyst lets you generate optimal surfaces from sample data and evaluate predictions for better decision making.
 

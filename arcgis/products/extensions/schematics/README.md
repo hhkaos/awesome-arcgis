@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Schematics
+# ArcGIS Schematics - Extension
 
 See a simplified view of your network for better operations management and faster decision making. With ArcGIS Schematics you can model, design, and view any kind of network, from social and economic networks to electric power, traffic light, rail, and more.
 

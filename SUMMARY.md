@@ -162,7 +162,7 @@
     - [ArcGIS Community Analyst](arcgis/products/arcgis-community-analyst/README.md)
     - [ArcGIS Desktop](arcgis/products/arcgis-desktop/README.md)
       - [Add-ins](arcgis/products/arcgis-desktop/add-ins/README.md)
-        - [Full Motion Video](arcgis/products/arcgis-desktop/add-ins/full-motion-video/README.md)
+        - [Full Motion Video](arcgis/products/extensions/full-motion-video/README.md)
       - [ArcGIS Pro](arcgis/products/arcgis-desktop/arcgis-pro/README.md)
       - [ArcMap ArcCatalog](arcgis/products/arcgis-desktop/arcmap-arccatalog/README.md)
     - [ArcGIS Earth](arcgis/products/arcgis-earth/README.md)

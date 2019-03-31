@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Monitor
+# ArcGIS Monitor - Extension
 
 Monitor the health of your ArcGIS implementations throughout the lifecycle. It provides awareness of system usage and performance, helping you get the most from your GIS and IT investment.    
 

@@ -19,7 +19,7 @@ An unmanned aerial vehicle (UAV), commonly known as a drone, is an aircraft with
 # Introduction
 
 * Drones: [Drone2Map](../../../arcgis/products/drone2map/README.md)
-* [Full Motion Video for ArcGIS Desktop](../../../arcgis/products/arcgis-desktop/add-ins/full-motion-video/README.md)
+* [Full Motion Video for ArcGIS Desktop](../../../arcgis/products/extensions/full-motion-video/README.md)
 
 ## Additional resources
 

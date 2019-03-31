@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Esri Defense Mapping
+# Esri Defense Mapping - Extension
 
 Traditional map production is a mainstay of national agencies. You can track and manage end-to-end data extraction and cartographic production activities using enterprise production management tools and workflows in Esri Defense Mapping, and easily scale the implementation to meet your organization's changing needs.
 

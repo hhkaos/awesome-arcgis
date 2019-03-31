@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Notebook Server
+# ArcGIS Notebook Server - Extension
 
 Place—it’s the common thread that runs through almost every problem we try to solve. Spatial analytics is not simply putting points on a map, it is finding patterns in data, predicting impact, and modeling changes over time. ArcGIS Notebooks puts the power of spatial algorithms and analysis tools side by side with modern data science methods, so you can build better models.   
 

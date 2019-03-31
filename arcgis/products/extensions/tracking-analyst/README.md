@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Tracking Analyst
+# Tracking Analyst - Extension
 
 ArcGIS Tracking Analyst extends ArcGIS Desktop to help you spot and analyze time-related trends and patterns. For example, you can use it to track and project the paths of hurricanes so that you can be better prepared. Or, you could track an epidemic as it spreads and plan where to send proper medical supplies.
 

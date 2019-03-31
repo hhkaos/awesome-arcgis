@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Editor for OpenStreetMap
+# ArcGIS Editor for OpenStreetMap - Extension
 
 ArcGIS Editor for OpenStreetMap (OSM Editor) is a free, open-source add-on for ArcMap that helps you take advantage of the OpenStreetMap (OSM) dataset and become an active member of the growing OSM community.
 

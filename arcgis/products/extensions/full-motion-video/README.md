@@ -1,6 +1,7 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Full motion video
+
 [ArcGIS Full Motion Video](http://www.esri.com/products/arcgis-capabilities/imagery/full-motion-video)
 (FMV) is an Add-In to ArcGIS Desktop 10.x. It enables you to quickly and easily
 view and analyze video data within your ArcGIS environment. The FMV Add-In is
@@ -68,6 +69,3 @@ Probably not all the resources are in this list, please "check in this search en
 ## Related technologies
 
 * [Drone2Map](../../../drone2map/README.md)
-
-
-

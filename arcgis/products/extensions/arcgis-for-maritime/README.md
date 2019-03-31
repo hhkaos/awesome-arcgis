@@ -1,6 +1,6 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Maritime
+# ArcGIS Maritime - Extensions
 
 View your bathymetry, expose rich foundational geospatial information coming from electronic navigational charts, and much more.
 

@@ -17,18 +17,31 @@ Get location-based insight for market planning, site selection, and customer seg
 
 ## Introduction
 
+Business Analyst helps you make smarter market planning, site selection, and customer segmentation decisions by combining demographic, lifestyle, behavioral, and spending data, maps and reports with location-driven analytics.
+
+* Identify the under-performing markets.
+* Pinpoint the right growth sites.
+* Find where your target customers live.
+* Share the market research across your organization.
+
 Check the [ArcGIS Business Analyst product page](http://www.esri.com/software/businessanalyst).
 
-Also get started with the **Business Analyst Web App**:
+Also get started with the **[ArcGIS Business Analyst Web and Mobile Apps](https://marketplace.arcgis.com/listing.html?id=ed12fda02a0d4bd08f23dbc879bba00a)**:
 
 [![Get started with the Business Analyst Web App
 ](https://i.ytimg.com/vi/IkGBtMfg408/hqdefault.jpg)](https://www.youtube.com/watch?v=IkGBtMfg408)
+
+[Youtube playlist: ArcGIS Business Analyst](https://www.youtube.com/watch?list=PLGZUzt4E4O2KQIgWq0fiJdEenmNgvYzOe&v=TJW9i1ds6fk)
 
 More videos about ArcGIS Business Analyst: [ArcGIS Business Analyst Youtube Playlist](https://www.youtube.com/watch?v=IkGBtMfg408&list=PLGZUzt4E4O2KQIgWq0fiJdEenmNgvYzOe) and at [Esri Events channel](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=%22business+analyst%22).
 
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Business Analyst"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Business Analyst"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
+
+### Related products
+
+* [Business Analyst Extensions](../extensions/business-analyst/README.md)
 
 ### Localized resources
 

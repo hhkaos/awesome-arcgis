@@ -9,7 +9,15 @@ The ArcGIS Living Atlas of the World is the foremost collection of geographic in
 
 ## Introduction
 
-[Living Atlas](https://livingatlas.arcgis.com/en/) contains more than **[7000 items](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=#content)** ([>2000 authoritative](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=contentstatus%3A%22public_authoritative%22&sortOrder=desc&sortField=numviews&focus=layers#content)) from different sources and types: layers, 2D maps, 3D scenes, tools, applications and storymaps.
+[Living Atlas](https://livingatlas.arcgis.com/en/) is considered the foremost collection of geographic information from around the globe, and it contains more than **[7000 items](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=#content)** ([>2000 authoritative](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=contentstatus%3A%22public_authoritative%22&sortOrder=desc&sortField=numviews&focus=layers#content)) from different sources and types: layers, 2D maps, 3D scenes, tools, applications and storymaps.
+
+It is curated by Esri with contributions from its partner and user communities, the Living Atlas contains valuable maps, data layers, tools, services, and apps for geographic analysis. Organized by theme, this content strengthens the diverse and significant work of the GIS community at-large to address global and regional challenges. The Living Atlas is continually growing and evolving, featuring items such as weather, traffic, elevation, demographics, oceans, urban systems, and imagery, that impact people’s lives.
+
+## Community Maps program
+
+The [Community Maps Program](https://livingatlas.arcgis.com/en/participate/#v=community&subTab=what-to-contribute) is an effort to develop a suite of authoritative maps for use globally by the public in a wide variety of applications. **It"s how data is contributed to the Living Atlas**. With Community Maps your contributed data is hosted online as part of ArcGIS Online layers and basemaps, enriching the data available to the wider GIS community.
+
+> [Community Maps Program - Common questions](https://docs.google.com/document/d/1EpYvm_Mubg5MccV-3IjF8LqR_nYpcd61j5RyOFzJwC8/edit?usp=sharing)
 
 ## Limited access content
 
@@ -38,6 +46,8 @@ See [all Basemaps](https://livingatlas.arcgis.com/en/browse/#d=1&categories=Imag
 |[Vector tiles](https://livingatlas.arcgis.com/en/browse/#d=1&categories=Basemaps:00100)|+90|[Streets](https://geogeeks.maps.arcgis.com/home/item.html?id=55ebf90799fa4a3fa57562700a68c405), [Navigation](https://geogeeks.maps.arcgis.com/home/item.html?id=c50de463235e4161b206d000587af18b), [Streets (Night)](https://geogeeks.maps.arcgis.com/home/item.html?id=7e2b9be8a9c94e45b7f87857d8d168d6), ...
 |[Component layers](https://livingatlas.arcgis.com/en/browse/#d=1&categories=Basemaps:00010)|+80|[World Transportation](https://geogeeks.maps.arcgis.com/home/item.html?id=94f838a535334cf1aa061846514b77c7), [ Boundaries and Places](https://geogeeks.maps.arcgis.com/home/item.html?id=a842e359856a4365b1ddf8cc34fde079), ...
 |[Historical maps](https://livingatlas.arcgis.com/en/browse/#d=1&categories=Basemaps:00001)|+450|[World Globe 1812](https://geogeeks.maps.arcgis.com/home/item.html?id=ef5920f160bd4239bdeb1348de3a3156), [United States 1862](https://geogeeks.maps.arcgis.com/home/item.html?id=759ef88fb881477d8f70cc60148bd064), ...
+
+> [World Imagery Wayback](https://livingatlas.arcgis.com/wayback/): old basemap satellite imagery. Useful if you find undesirable color variations, or need previous versions that may align better with your GIS data, or there may be unwanted shadows or clouds ([more info](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/using-world-imagery-wayback/))
 
 ### Imagery
 

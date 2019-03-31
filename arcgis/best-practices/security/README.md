@@ -15,6 +15,8 @@
 
 ## Introduction
 
+[Trust.ArcGIS.com](https://trust.arcgis.com/en/) is your go to resource for security, privacy, and compliance information
+
 ## ArcGIS Enterprise
 
 ### Training

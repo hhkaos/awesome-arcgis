@@ -9,7 +9,10 @@ ArcGIS Indoors helps you create, customize, share, and apply workplace maps and 
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
+  - [Other related list of resources](#other-related-list-of-resources)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

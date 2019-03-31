@@ -9,6 +9,8 @@ As a member of the European Union, you must meet current requirements for delive
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

@@ -9,6 +9,8 @@ GeoPlanner for ArcGIS is a web-based planning tool that empowers you to rapidly 
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

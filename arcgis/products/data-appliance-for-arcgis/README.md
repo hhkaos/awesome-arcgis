@@ -9,6 +9,8 @@ Data Appliance for ArcGIS enables you to create, publish, and share map services
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

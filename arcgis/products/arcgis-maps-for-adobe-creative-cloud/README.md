@@ -9,6 +9,8 @@ With ArcGIS Maps for Adobe Creative Cloud, creative professionals can access and
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

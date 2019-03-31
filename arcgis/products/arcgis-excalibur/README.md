@@ -9,6 +9,8 @@ Cloud-based imagery application. View drone, aircraft, or satellite imagery as c
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

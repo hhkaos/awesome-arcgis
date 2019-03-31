@@ -74,6 +74,8 @@ Resources:
 
 ## Awesome projects
 
+You can find more [cool demos and projects here in the Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=8cb77aecfb4d49cb8460a97181aa5434&view=list&start=1&num=20&categories=%5B%22%2FCategories%2F3D%20Scenarios%2FIndoor%22%5D#content):
+
 Live examples:
 * [Facilities Operations Dashboard](http://facilities.maps.arcgis.com/apps/dashboard/index.html#/9681de79e5904dc28a104e8fadda6e00)
 * [Esri Campus Viewer - 3D, Indoor and Routing](http://3dcampus.arcgis.com/EsriCampusViewer/app/)

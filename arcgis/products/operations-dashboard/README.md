@@ -23,8 +23,10 @@
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
+  - [Related products](#related-products)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

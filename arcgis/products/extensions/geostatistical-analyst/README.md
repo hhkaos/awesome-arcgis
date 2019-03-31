@@ -10,6 +10,9 @@ It is not always possible or practical to predict and model spatial phenomena th
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Additional resources](#additional-resources)
+  - [Related products](#related-products)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

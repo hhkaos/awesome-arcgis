@@ -12,6 +12,7 @@ Cloud-based mapping solution that provides simple and easy-to-use GIS capabiliti
 - [Training](#training)
   - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
+  - [Related products](#related-products)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

@@ -20,8 +20,10 @@ find geolocated data, build maps, analyze information, etc.
 - [Get an account](#get-an-account)
 - [News](#news)
 - [Additional resources](#additional-resources)
+  - [Related products](#related-products)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

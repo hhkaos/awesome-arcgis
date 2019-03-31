@@ -9,6 +9,9 @@ See a simplified view of your network for better operations management and faste
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Additional resources](#additional-resources)
+  - [Related products](#related-products)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

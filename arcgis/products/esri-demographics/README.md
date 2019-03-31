@@ -12,6 +12,7 @@ Esri Demographics is a global collection of demographic, psychographic, and soci
 - [Training](#training)
   - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
+  - [Related products](#related-products)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

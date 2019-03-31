@@ -9,6 +9,9 @@ ArcGIS Data Reviewer is an extension for ArcGIS Pro, ArcMap, and ArcGIS Enterpri
 **Table of contents**
 
 - [Introduction](#introduction)
+- [Additional resources](#additional-resources)
+  - [Related products](#related-products)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

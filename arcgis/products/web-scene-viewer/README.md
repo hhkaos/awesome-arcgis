@@ -16,6 +16,9 @@ The [Web Scene Viewer](http://www.esri.com/software/scene-viewer) is a web tool 
   - [Documentation](#documentation)
   - [Examples](#examples)
 - [Build apps](#build-apps)
+- [Additional resources](#additional-resources)
+  - [Related products](#related-products)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -27,8 +27,10 @@ mechanism that allows users of an organization to create and configure
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
 - [Additional Resources](#additional-resources)
+  - [Related products](#related-products)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

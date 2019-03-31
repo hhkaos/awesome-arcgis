@@ -10,6 +10,8 @@ Microsoft Power BI users can tap into the power of geospatial analytics, and acc
 
 - [Introduction](#introduction)
 - [Additional resources](#additional-resources)
+  - [Related products](#related-products)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

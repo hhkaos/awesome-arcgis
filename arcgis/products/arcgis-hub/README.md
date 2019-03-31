@@ -15,6 +15,7 @@
   - [Spanish](#spanish)
   - [News](#news)
   - [Additional resources](#additional-resources)
+    - [Related products](#related-products)
     - [Localized resources](#localized-resources)
       - [Spanish](#spanish-1)
 

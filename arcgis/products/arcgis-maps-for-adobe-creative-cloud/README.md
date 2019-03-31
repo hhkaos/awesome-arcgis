@@ -12,6 +12,7 @@ With ArcGIS Maps for Adobe Creative Cloud, creative professionals can access and
 - [Training](#training)
   - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
+  - [Related products](#related-products)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

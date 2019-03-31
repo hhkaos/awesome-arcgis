@@ -18,6 +18,9 @@ The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web to
 - [Build apps](#build-apps)
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
+- [Additional resources](#additional-resources)
+  - [Related products](#related-products)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

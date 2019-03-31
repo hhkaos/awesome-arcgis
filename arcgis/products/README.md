@@ -6,6 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Products](#products)
 - [App Builders](#app-builders)
 - [Extendable products](#extendable-products)
 - [Developer products](#developer-products)

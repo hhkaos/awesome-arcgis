@@ -21,7 +21,7 @@ The Internet of Things (IoT) is the network of physical devices, vehicles, home 
 
 There are a set of products in the ArcGIS platform you might want to know if you are interested in this topic:
 
-* [GeoEvent](../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md)
+* [GeoEvent](../../../arcgis/products/extensions/geoevent-server/README.md)
 * [Spatiotemporal Big Data Store](../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md)
 
 ## Training

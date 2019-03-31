@@ -31,7 +31,7 @@ It was founded in 2015 with the aim of bringing technology to the GIS user.
 |[ArcGIS Pro](../../../../arcgis/products/arcgis-desktop/arcgis-pro)|Solarmap|Geodata management and launch of geoprocesses created with ArcPy.
 |[ArcGIS Server](../../../../arcgis/products/arcgis-enterprise/arcgis-server/README.md)|SolarMap|Server of the data and created contents.
 |[Portal for ArcGIS](../../../../arcgis/products/arcgis-enterprise/portal-for-arcgis/README.md)|SolarMap|Management of the employed web geoservices.
-|[Image Server](../../../../arcgis/products/arcgis-enterprise/arcgis-server/image-server/README.md)|SolarMap|Creation of an image service to display and interact with the solar radiation map via the web.
+|[Image Server](../../../../arcgis/products/extensions/image-server/README.md)|SolarMap|Creation of an image service to display and interact with the solar radiation map via the web.
 |[ArcGIS Online](../../../../arcgis/products/arcgis-online/README.md)|SolarMap|Storage of web services for demos & basemaps.
 |[Web AppBuilder](../../../../arcgis/products/web-appbuilder/README.md)|SolarMap|User interface for demos
 |[Operations Dashboard](../../../../arcgis/products/operations-dashboard/README.md)|SolarMap|User interface for data analysis demos

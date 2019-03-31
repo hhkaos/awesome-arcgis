@@ -71,7 +71,7 @@ There are several products you can use to work imagery content:
 * [ArcGIS Spatial Analyst](../../../../arcgis/products/extensions/spatial-analyst/README.md)
 * [ArcGIS 3D Analyst](../../../../arcgis/products/extensions/3d-analyst/README.md)
 * [ArcGIS Image Analyst](../../../../arcgis/products/extensions/image-analyst/README.md)
-* [ArcGIS Image server](../../../../arcgis/products/arcgis-enterprise/arcgis-server/image-server/README.md)
+* [ArcGIS Image server](../../../../arcgis/products/extensions/image-server/README.md)
 * [ArcGIS Earth](../../../../arcgis/products/arcgis-earth/README.md)
 * [Drone2Map](../../../../arcgis/products/drone2map/README.md)
 * [ArcGIS Enterprise](../../../../arcgis/products/arcgis-enterprise/README.md)

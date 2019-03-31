@@ -35,8 +35,8 @@ There are a set of products in the ArcGIS platform you should know when you are 
     * [Operations Dashboard](../../../../../arcgis/products/operations-dashboard) (monitoring)
 * [Collector](../../../../../arcgis/products/collector-for-arcgis/README.md), [Survey123](../../../../../arcgis/products/survey123/README.md), [Drone2Map](../../../../../arcgis/products/drone2map/README.md),
 and [Workforce for ArcGIS](../../../../../arcgis/products/workforce/README.md) ([field work](https://www.esri.com/software/apps/field)).
-* [ArcGIS Desktop](../../../../../arcgis/products/arcgis-desktop/README.md), [GeoAnalytics](../../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoanalytics-server/README.md) and  [Insights](../../../../../arcgis/products/insights-for-arcgis/README.md) (analysis).
-* [GeoEvent](../../../../../arcgis/products/arcgis-enterprise/arcgis-server/geoevent-server/README.md) (real time processing)
+* [ArcGIS Desktop](../../../../../arcgis/products/arcgis-desktop/README.md), [GeoAnalytics](../../../../../arcgis/products/extensions/geoanalytics-server/README.md) and  [Insights](../../../../../arcgis/products/insights-for-arcgis/README.md) (analysis).
+* [GeoEvent](../../../../../arcgis/products/extensions/geoevent-server/README.md) (real time processing)
 * [ArcGIS Image Server](../../../../../arcgis/products/arcgis-enterprise/arcgis-server/image-server)
 * [ArcGIS Spatial Analyst](../../../../../arcgis/products/extensions/spatial-analyst/README.md)
 

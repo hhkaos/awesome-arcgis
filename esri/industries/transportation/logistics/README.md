@@ -137,7 +137,7 @@ Organizations and the type of relation with this industry or technologies:
 
 |Company|Relation type|Headquarters|
 |---|---|---|
-|[HERE](https://partners.esri.com/PartnerDetail?id=a2T70000000TOWiEAO)|[World Traffic Service](https://awesome-arcgis.maps.arcgis.com/home/item.html?id=ff11eb5b930b4fabba15c47feb130de4), [StreetMap Premium](http://enterprise.arcgis.com/en/streetmap-premium/latest/get-started/dd-tomtom-data.htm), etc.|United States
+|[HERE](https://partners.esri.com/PartnerDetail?id=a2T70000000TOWiEAO)|[World Traffic Service](https://awesome-arcgis.maps.arcgis.com/home/item.html?id=ff11eb5b930b4fabba15c47feb130de4), [StreetMap Premium](../../../../arcgis/products/streetmap-premium/README.md), etc.|United States
 |[Waze](https://go.esri.com/waze)|[Waze Live Alerts Layer](https://marketplace.arcgis.com/listing.html?id=06723334075647738cec1259078c4dbe), [Waze for GeoEvent Server](http://www.arcgis.com/home/item.html?id=db18d2068d1d410595b841c3df38c280), ...|United States
 |[TomTom](https://partners.esri.com/PartnerDetail?id=a2T70000000TNg3EAG)|Partner Gold|United States
 |[SAP](https://www.esri.com/en-us/about/esri-partner-network/our-partners/global-alliances/sap-hana-esri/overview)|[ArcGIS Enterprise geodatabase for SAP HANA](https://pro.arcgis.com/en/pro-app/help/data/geodatabases/manage-saphana/create-geodatabase-saphana.htm)|Germany

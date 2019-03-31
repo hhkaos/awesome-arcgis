@@ -36,7 +36,8 @@ var replace_titles =  [
                         ["BI", "Business Intelligence"], ["I 3 S", "I3S"],
                         ["VR", "Virtual Reality"], ["Iot Rt", "IoT & RT"],
                         ["Geoeye 1", "GeoEye-1"],
-                        ["ArcGIS For Autocad", "ArcGIS for AutoCAD"]
+                        ["ArcGIS For Autocad", "ArcGIS for AutoCAD"],
+                        ["ArcGIS For Inspire", "ArcGIS for INSPIRE"]
                       ];
 
 var walk = function(dir, done) {

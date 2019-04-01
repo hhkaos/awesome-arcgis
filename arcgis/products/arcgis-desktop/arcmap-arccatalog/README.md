@@ -1,6 +1,9 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcMap & ArcCatalog
+
+ArcMap and ArcGIS Pro, the two primary desktop applications for GIS professionals, are both part of ArcGIS Desktop. ArcMap and its companion application, ArcCatalog, as well as ArcGlobe and ArcScene, work together to provide a full spectrum of GIS capabilities.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

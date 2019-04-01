@@ -2,6 +2,8 @@
 
 # ArcGIS Server
 
+ArcGIS Server is a back-end server software component of ArcGIS Enterprise that makes your geographic information available to others in your organization and optionally anyone with an Internet connection. 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -19,7 +21,7 @@
 
 ## Introduction
 
-[ArcGIS Server](http://server.arcgis.com/en/server/) is a key component of [ArcGIS Enterprise](../README.md).
+[ArcGIS Server](http://enterprise.arcgis.com/en/server/) is a key component of [ArcGIS Enterprise](../README.md).
 
 Now it have different licensing roles:
 

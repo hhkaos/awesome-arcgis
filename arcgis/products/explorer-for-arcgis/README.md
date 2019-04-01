@@ -17,6 +17,7 @@
 ## Introduction
 
 ## People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Explorer%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Explorer%20for%20ArcGIS)
 
 They don't work on the support team and some may even not work at Esri,

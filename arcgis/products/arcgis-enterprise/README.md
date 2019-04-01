@@ -1,6 +1,9 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS Enterprise
+
+[ArcGIS Enterprise](http://www.esri.com/en/arcgis/products/arcgis-enterprise/overview) is a server-side software that allows you to work with spatial databases, expose them though REST APIs, host geo-processing tools an also expose them though REST APIs and much more.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -24,8 +27,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-
-[ArcGIS Enterprise](http://www.esri.com/en/arcgis/products/arcgis-enterprise/overview) is a server-side software that allows you to work with spatial databases, expose them though REST APIs, host geo-processing tools an also expose them though REST APIs and much more.
 
 It has four components:
 

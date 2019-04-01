@@ -2,7 +2,7 @@
 
 # ArcGIS for AutoCAD
 
-Free Plug-In for AutoCAD Connects You to ArcGIS
+Free Plug-In for AutoCAD connects you to ArcGIS
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

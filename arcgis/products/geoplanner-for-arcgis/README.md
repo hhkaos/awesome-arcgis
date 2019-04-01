@@ -4,7 +4,7 @@
 
 GeoPlanner for ArcGIS is a web-based planning tool that empowers you to rapidly design city-, regional-, and landscape-scale scenarios in a collaborative, iterative environment.
 
-![ArcGIS GeoPlanner for ArcGIS Screenshot](../product-thumbnails/arcgis-geoplanner-for-arcgis.png)     
+![ArcGIS GeoPlanner for ArcGIS Screenshot](../product-thumbnails/geoplanner-for-arcgis.png)     
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

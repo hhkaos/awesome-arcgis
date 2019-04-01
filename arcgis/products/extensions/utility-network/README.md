@@ -4,6 +4,9 @@
 
 The ArcGIS Utility Network Management extension **for ArcGIS Enterprise** is designed for utilities and telecoms. It provides location-based data and asset management, plus network modeling, editing, and analysis. You will be able to model your entire utility network in ArcGIS at a level of detail that was never before possible.
 
+![Utility Network - Extension Screenshot](../../product-thumbnails/utility-network.png) 
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

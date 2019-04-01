@@ -4,7 +4,7 @@
 
 Place—it’s the common thread that runs through almost every problem we try to solve. Spatial analytics is not simply putting points on a map, it is finding patterns in data, predicting impact, and modeling changes over time. ArcGIS Notebooks puts the power of spatial algorithms and analysis tools side by side with modern data science methods, so you can build better models.   
 
-![ArcGIS Notebook Server - Extension Screenshot](../../product-thumbnails/arcgis-notebooks-server.png)  
+![ArcGIS Notebook Server - Extension Screenshot](../../product-thumbnails/arcgis-notebook-server.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

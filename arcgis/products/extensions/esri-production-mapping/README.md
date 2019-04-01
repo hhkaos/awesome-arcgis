@@ -4,6 +4,8 @@
 
 Improve the quality and value of your geospatial output through standardization, repeatability, and configuration of your production processes. Esri Production Mapping, helps you create and maintain large amounts of specification-driven GIS data and maps on strict schedules.
 
+![Esri Production Mapping - Extension Screenshot](../../product-thumbnails/esri-production-mapping.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

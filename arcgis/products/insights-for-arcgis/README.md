@@ -2,7 +2,9 @@
 
 # Insights for ArcGIS
 
-Insights for ArcGIS is a web-based, data analytics workbench where you can explore spatial and nonspatial data, answer questions you didn't know to ask, and quickly deliver powerful results.
+It is a web-based, data analytics workbench where you can explore spatial and nonspatial data, answer questions you didn't know to ask, and quickly deliver powerful results.
+
+![Insights for ArcGIS Screenshot](../product-thumbnails/insights-for-arcgis.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

@@ -1,6 +1,11 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Augmented Reality Developers
+
+AuGeo is a Beta product, but you can find more examples using not just mobile devices like: HoloLens, Google Glass, etc.
+
+![Augmented Reality Developers Screenshot](../../../arcgis/products/product-thumbnails/ar.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -16,7 +21,7 @@
 
 ## Introduction
 
-* [Esri UC 2010 Lightning Talks: Augmented Reality—Buzz Word or Business Bonanza](https://www.youtube.com/watch?v=VE7aB_-sTXk)
+[Esri UC 2010 Lightning Talks: Augmented Reality—Buzz Word or Business Bonanza](https://www.youtube.com/watch?v=VE7aB_-sTXk)
 
 ## HoloLens
 
@@ -36,12 +41,11 @@
 
 You can use the any of the Runtime SDKs to build your Augmented Really Apps.
 
-Sample demo:
-* [ARthursSeat](https://github.com/alan-edi/ARthursSeat), [more about the project](https://devpost.com/software/arthur-s-seat)
+Sample demo: [ARthursSeat](https://github.com/alan-edi/ARthursSeat), [more about the project](https://devpost.com/software/arthur-s-seat)
 
 ## Google Glass
 
-* [Google Glass and Esri - Yes I Can Haz the Maps! - 2014](http://www.esri.com/videos/watch?videoid=3404&isLegacy=true&title=google-glass-and-esri---yes-i-can-haz-the-maps!)
+[Google Glass and Esri - Yes I Can Haz the Maps! - 2014](http://www.esri.com/videos/watch?videoid=3404&isLegacy=true&title=google-glass-and-esri---yes-i-can-haz-the-maps!)
 
 ## Additional resources
 

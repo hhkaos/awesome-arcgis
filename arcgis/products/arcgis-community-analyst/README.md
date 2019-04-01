@@ -4,6 +4,8 @@
 
 Cloud-based mapping solution that provides simple and easy-to-use GIS capabilities to every user to: optimize resource allocation decisions, reach and inform.
 
+![ArcGIS Earth Screenshot](../product-thumbnails/arcgis-community-analyst.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

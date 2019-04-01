@@ -4,6 +4,8 @@
 
 Build cross-platform mapping apps for Windows, Linux, and macOS
 
+![ArcGIS Runtime SDK for Java](../../../../../products/product-thumbnails/java.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

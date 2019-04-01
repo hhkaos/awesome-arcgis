@@ -4,6 +4,8 @@
 
 ArcGIS Runtime SDK for Android integrates a wide range of mapping and GIS capabilities online or offline, including editing, analysis, geocoding, routing, management of web maps, data visualization, mobile map packages, and vector tiled layers
 
+![ArcGIS Runtime SDK for Android](../../../../../products/product-thumbnails/android.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

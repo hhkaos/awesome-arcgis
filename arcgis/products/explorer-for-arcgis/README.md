@@ -4,6 +4,8 @@
 
 Access your maps from your mobile device 24/7. Wherever you go, take searchable maps that include markup and measurement tools to easily find your way and to communicate with others about landmarks, assets, and areas of interest.
 
+![Explorer for ArcGIS Screenshot](../product-thumbnails/explorer-for-arcgis.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

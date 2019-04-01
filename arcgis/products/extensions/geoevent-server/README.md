@@ -4,6 +4,8 @@
 
 Track dynamic assets that are constantly changing location such as vehicles, aircraft, and vessels or stationary assets such as weather and environmental monitoring sensors. In addition, it provides real-time situational awareness for coordinated field activities.
 
+![ArcGIS GeoEvent Server Screenshot](../../product-thumbnails/geoevent-server.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

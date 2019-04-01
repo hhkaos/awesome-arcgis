@@ -2,7 +2,9 @@
 
 # Esri Demographics
 
-Esri Demographics is a global collection of demographic, psychographic, and socioeconomic data, with over 15,000 data variables from 130+ countries. Updated regularly, Esri Demographics datasets are of high value with strong lineage, accuracy, and completeness. Integrate datasets into your workflows by consuming them as maps, charts, infographics, reports, and more. Make confident decisions based on trusted, accessible, quality data.
+It is a global collection of demographic, psychographic, and socioeconomic data, with over 15,000 data variables from 130+ countries. Updated regularly you can integrate datasets into your workflows by consuming them as maps, charts, infographics, reports, and more.
+
+![Esri Demographics Screenshot](../product-thumbnails/esri-demographics.png)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

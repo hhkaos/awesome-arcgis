@@ -4,6 +4,8 @@
 
 App for efficient, accurate data collection on smartphones or tablets replaces paper forms. Respond, record, work on- or offline, and sync automatically.
 
+![ArcMap & ArcCatalog Screenshot](../product-thumbnails/collector-for-arcgis.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

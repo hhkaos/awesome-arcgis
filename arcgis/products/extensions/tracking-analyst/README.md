@@ -4,6 +4,8 @@
 
 ArcGIS Tracking Analyst extends ArcGIS Desktop to help you spot and analyze time-related trends and patterns. For example, you can use it to track and project the paths of hurricanes so that you can be better prepared. Or, you could track an epidemic as it spreads and plan where to send proper medical supplies.
 
+![ArcGIS Earth Screenshot](../../product-thumbnails/tracking-analyst.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

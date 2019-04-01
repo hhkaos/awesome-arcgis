@@ -4,6 +4,8 @@
 
  Esri Roads and Highways is a linear referencing system solution that makes it possible for departments of transportation to integrate data from multiple linear referencing system (LRS) networks to get a comprehensive view of their roadways.
 
+ ![Esri Roads and Highways - Extensions Screenshot](../../product-thumbnails/esri-roads-and-highways.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

@@ -4,7 +4,7 @@
 
 Access and design with data-driven maps inside Adobe Illustrator and Photoshop.
 
-![ArcGIS Maps for Adobe Creative Cloud Screenshot](../product-thumbnails/adobe-creative-cloud.png)  
+![ArcGIS Maps for Adobe Creative Cloud Screenshot](../product-thumbnails/arcgis-maps-for-adobe-creative-cloud.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

@@ -4,7 +4,7 @@
 
 Discover and extract geocoordinates, place names, and other critical information from unstructured text and place them instantly on a map.
 
-![ArcGIS LocateXT - Extension Screenshot](../../product-thumbnails/arcgis-locatetx.png)  
+![ArcGIS LocateXT - Extension Screenshot](../../product-thumbnails/arcgis-locatext.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

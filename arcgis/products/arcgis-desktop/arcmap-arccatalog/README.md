@@ -4,6 +4,8 @@
 
 ArcMap and ArcGIS Pro, the two primary desktop applications for GIS professionals, are both part of ArcGIS Desktop. ArcMap and its companion application, ArcCatalog, as well as ArcGlobe and ArcScene, work together to provide a full spectrum of GIS capabilities.
 
+![ArcMap & ArcCatalog Screenshot](../../product-thumbnails/arcmap-arccatalog.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

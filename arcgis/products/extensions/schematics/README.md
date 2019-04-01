@@ -4,6 +4,8 @@
 
 See a simplified view of your network for better operations management and faster decision making. With ArcGIS Schematics you can model, design, and view any kind of network, from social and economic networks to electric power, traffic light, rail, and more.
 
+![ArcGIS Schematics Screenshot](../../product-thumbnails/schematics.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

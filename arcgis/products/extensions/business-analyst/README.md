@@ -4,6 +4,8 @@
 
  Combine demographic, lifestyle, and spending data with map-based analytics for accurate reports and dynamic presentations, share spatial analytics and models, publish demographic and consumer insight dashboards, ...
 
+![ArcGIS Schematics Screenshot](../../product-thumbnails/business-analyst.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

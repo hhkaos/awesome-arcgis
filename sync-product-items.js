@@ -34,22 +34,43 @@ searchItems({
     }).then(response => {
     console.log("response.results.length=",response.results.length);
     response.results.forEach((elem, i) =>{
-        // if(elem.id=='08200c13cf5f4ba29097d35dbc96d9b3'){
+        //if(elem.id=='bb04b466539446cb9715943406c4c707'){
             parseHTML(elem.url).then(function(obj) {
+                var urlSplitted = elem.url.split('/'),
+                    slug = urlSplitted[urlSplitted.length-2];
+
+                const thumbnail = `./arcgis/products/product-thumbnails/${slug}.png`,
+                      thumbnailPath = 'https://esri-es.github.io/awesome-arcgis/arcgis/products/product-thumbnails',
+                      defaultThumb = 'https://www.arcgis.com/sharing/rest/content/items/c45fae339fae49c49136e507b82ccc22/info/thumbnail/thumbnail1533885818200.png';
+
+                var itemProp = {
+                    id: elem.id,
+                    description: obj.html,
+                    licenseInfo: `<div style="text-align: left;">Content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Attribution 4.0 International (CC BY 4.0)</a></div><div style="text-align: left;">Source code under <a href="https://github.com/esri-es/awesome-arcgis/blob/master/LICENSE" target="_blank">GNU GENERAL PUBLIC LICENSE</a><br /></div>`,
+                    accessInformation: 'https://github.com/esri-es/awesome-arcgis/graphs/contributors',
+                    snippet: obj.summary,
+                    thumbnail: defaultThumb,
+                    thumbnailurl: defaultThumb
+                }
+
+                try{
+                    if(fs.existsSync(thumbnail)){
+                        itemProp.thumbnailurl = `${thumbnailPath}/${slug}.png`;
+                        itemProp.thumbnail = `${thumbnailPath}/${slug}.png`;
+                        console.log("thumbnail exist, path=", itemProp.thumbnailurl)
+                    }
+                }catch(err){
+                    console.log("No thumbnail for ",slug)
+                }
+
                 updateItem({
-                    item: {
-                        id: elem.id,
-                        description: obj.html,
-                        licenseInfo: `<div style="text-align: left;">Content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Attribution 4.0 International (CC BY 4.0)</a></div><div style="text-align: left;">Source code under <a href="https://github.com/esri-es/awesome-arcgis/blob/master/LICENSE" target="_blank">GNU GENERAL PUBLIC LICENSE</a><br /></div>`,
-                        accessInformation: 'https://github.com/esri-es/awesome-arcgis/graphs/contributors',
-                        snippet: obj.summary
-                    },
+                    item: itemProp,
                     authentication: session
                 }).then(response=>{
                     console.log("response=",response)
                 });
             });
-        // }
+        //}
 
     })
 });

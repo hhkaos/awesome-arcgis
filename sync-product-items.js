@@ -57,10 +57,11 @@ searchItems({
                     if(fs.existsSync(thumbnail)){
                         itemProp.thumbnailurl = `${thumbnailPath}/${slug}.png`;
                         itemProp.thumbnail = `${thumbnailPath}/${slug}.png`;
-                        console.log("thumbnail exist, path=", itemProp.thumbnailurl)
+                    }else{
+                        console.log("No thumbnail for ",slug)
                     }
                 }catch(err){
-                    console.log("No thumbnail for ",slug)
+                    console.log("Error: ", err)
                 }
 
                 updateItem({

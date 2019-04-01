@@ -2,7 +2,7 @@
 
 # Web Scene Viewer
 
-The [Web Scene Viewer](http://www.esri.com/software/scene-viewer) is a web tool that allow you to create and modify [Web scenes](../../open-specifications/web-scene/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
+The Web Scene Viewer is a web tool that allow you to create and modify 3D Web scenes though a web browser. It is available on ArcGIS Online and ArcGIS Enterprise.
 
 [![Web Scene Viewer](images/web-scene-viewer.png)](https://www.arcgis.com/home/webscene/viewer.html)
 
@@ -21,6 +21,10 @@ The [Web Scene Viewer](http://www.esri.com/software/scene-viewer) is a web tool 
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Introduction
+
+The [Web Scene Viewer](http://www.esri.com/software/scene-viewer) is a web tool that allow you to create and modify [Web scenes](../../open-specifications/web-scene/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
 
 ## Training
 

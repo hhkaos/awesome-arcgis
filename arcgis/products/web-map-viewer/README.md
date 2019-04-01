@@ -2,7 +2,7 @@
 
 # Web Map Viewer
 
-The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web tool that allow you to create and modify [Web maps](../../../esri/open-vision/open-specifications/web-map/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
+The Web Map Viewer is a web tool that allow you to create and modify 2D Web maps though a web browser. It is available on ArcGIS Online and ArcGIS Enterprise.
 
 [![Web Map Viewer](images/web-map-viewer.png)](https://www.arcgis.com/home/webmap/viewer.html)
 
@@ -25,6 +25,8 @@ The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web to
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
+The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web tool that allow you to create and modify [Web maps](../../../esri/open-vision/open-specifications/web-map/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
 
 You can start using the Web Map Viewer on ArcGIS Online without creating an account but if you do, you will be able to able to save what you did, perform analysis, etc.
 

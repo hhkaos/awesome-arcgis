@@ -2,7 +2,7 @@
 
 # Data Interoperability - Extension
 
-ArcGIS Data Interoperability is an extension for ArcGIS Pro, ArcMap, and ArcGIS Enterprise that bring spatial data from many sources into the ArcGIS environment for mapping, visualization, and analysis.
+Extension for ArcGIS Pro, ArcMap, and ArcGIS Enterprise that bring spatial data from many sources into the ArcGIS environment for mapping, visualization, and analysis. Access not just geodatabases but hundreds of different files, databases, services, feeds, and more.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

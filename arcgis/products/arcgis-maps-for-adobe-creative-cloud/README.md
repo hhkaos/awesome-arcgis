@@ -2,7 +2,7 @@
 
 # ArcGIS Maps for Adobe Creative Cloud
 
-With ArcGIS Maps for Adobe Creative Cloud, creative professionals can access and design with data-driven maps inside Adobe Illustrator and Photoshop.
+Access and design with data-driven maps inside Adobe Illustrator and Photoshop.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

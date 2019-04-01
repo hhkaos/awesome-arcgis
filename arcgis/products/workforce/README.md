@@ -2,6 +2,8 @@
 
 # Workforce
 
+Workforce for ArcGIS is a web and mobile app that can be use to manage your workforce for field inspections, sales leads, service requests, capital improvements, one call tickets, etc.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -22,8 +24,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-
-[Workforce for ArcGIS](http://workforce.arcgis.com/) is a web and mobile app that can be use to manage your workforce for field inspections, sales leads, service requests, capital improvements, one call tickets, etc.
 
 It enables a common view in the field and the office. Get the right worker to the right place with the right tools to do the right job. Use the web app in the office to create and assign work to mobile workers, who use the mobile app to work through their personal To Do list.
 

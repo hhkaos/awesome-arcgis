@@ -2,7 +2,7 @@
 
 # Spatial Analyst - Extension
 
-Derive answers from your data using advanced spatial analysis
+This extension for ArcGIS Pro, ArcMap and ArcGIS Enterprise provide advanced spatial modeling and analysis tools. It helps with modeling terrains, finding suitable locations and routes, discovering spatial patterns, and performing hydrologic and statistical analysis.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

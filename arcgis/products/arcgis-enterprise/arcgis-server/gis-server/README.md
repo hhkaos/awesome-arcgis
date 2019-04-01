@@ -2,6 +2,8 @@
 
 # ArcGIS GIS Server
 
+ArcGIS GIS Server provides fundamental mapping, analytics, and data management capabilities to your ArcGIS Enterprise deployment. You use ArcGIS GIS Server to publish services, to host layers, and to provide Living Atlas of the World content to either connected or disconnected deployments. ArcGIS GIS Server supports OGC web services and custom geoprocessing models.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

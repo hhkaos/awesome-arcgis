@@ -2,7 +2,7 @@
 
 # ArcGIS Image Server - Extension
 
-ArcGIS Image Server provides serving, processing, analysis, and extracting value from massive collections of imagery, rasters, and remotely sensed data.
+This ArcGIS Enterprise extension  provides serving, processing, analysis, and extracting value from massive collections of imagery, rasters, and remotely sensed data.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

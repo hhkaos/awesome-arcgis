@@ -2,7 +2,7 @@
 
 # Image Analyst - Extension
 
-Access a complete imagery analysis workstation.
+This ArcGIS Pro extension gives you access to enriched visualization, geospatial analytics, and powerful image exploitation tools. It is designed for analysts, scientists, and photogrammetrists who focus on image processing, interpretation, analysis, and the creation of information products from remotely sensed data. 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

@@ -2,7 +2,7 @@
 
 # 3D Analyst - Extension
 
-Help you use a realistic perspective to analyze your data.
+Gain a new perspective by visualizing your information in 3D. Use 3D GIS capabilities to address problems that simply cannot be addressed in a 2D context.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

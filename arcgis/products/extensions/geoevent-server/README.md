@@ -1,10 +1,8 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Geoevent Server - Extension
+# ArcGIS GeoEvent Server - Extension
 
-[ArcGIS GeoEvent Server](http://www.esri.com/arcgis/products/geoevent-server)
-enables you to work with Real-Time Mapping and Analytics
-
+Track dynamic assets that are constantly changing location such as vehicles, aircraft, and vessels or stationary assets such as weather and environmental monitoring sensors. In addition, it provides real-time situational awareness for coordinated field activities.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -28,10 +26,8 @@ enables you to work with Real-Time Mapping and Analytics
 
 ## Introduction
 
-ArcGIS GeoEvent Server can track dynamic assets that are constantly changing
-location such as vehicles, aircraft, and vessels or stationary assets such as
-weather and environmental monitoring sensors. In addition, it provides real-time
-situational awareness for coordinated field activities.
+[ArcGIS GeoEvent Server](http://www.esri.com/arcgis/products/geoevent-server)
+enables you to work with Real-Time Mapping and Analytics
 
 > Check the [ArcGIS Enterprise Functionality Matrix](https://assets.esri.com/content/dam/esrisites/media/brochures/arcgis-enterprise-functionality-matrix.pdf)
 

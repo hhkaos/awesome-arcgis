@@ -4,6 +4,8 @@
 
 Get location-based insight for market planning, site selection, and customer segmentation plus 15,000+ variables of market data for maps, analytics, and reports.
 
+![ArcGIS Business Analyst Screenshot](../product-thumbnails/arcgis-business-analyst.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

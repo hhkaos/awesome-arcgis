@@ -4,6 +4,8 @@
 
 Microsoft Power BI users can tap into the power of geospatial analytics, and access new map themes, demographic data, and map visualizations, inside Power BI.
 
+![ArcGIS for INSPIRE - Extension Screenshot](../product-thumbnails/arcgis-maps-for-power-bi.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

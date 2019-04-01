@@ -4,6 +4,8 @@
 
 Cloud-based imagery application. View drone, aircraft, or satellite imagery as collected along with authoritative geospatial contextual and operational layers. Assign and manage imagery exploitation tasks across the organization. Compile, publish, share, and disseminate dynamic information products to consumers and devices in multiple formats..
 
+![ArcGIS Excalibur Screenshot](../product-thumbnails/arcgis-excalibur.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

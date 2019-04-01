@@ -4,6 +4,8 @@
 
 Know the real-time location of your most valued assets, your mobile users. Using Tracker to effortlessly capture location track data and feed it back into ArcGIS, you achieve control and agility to effectively allocate personnel to field needs, even in rapidly changing circumstances.
 
+![Tracker for ArcGIS](../product-thumbnails/tracker-for-arcgis.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

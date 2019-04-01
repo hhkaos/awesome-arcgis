@@ -6,6 +6,8 @@
 ([www.arcgis.com](http://arcgis.com)) is a cloud service that allow any user to
 find geolocated data, build maps, analyze information, etc.
 
+![ArcGIS Online Architecture](../product-thumbnails/arcgis-online.png)
+
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -40,9 +42,7 @@ With ArcGIS Online you have everything you need to build powerful applications:
 
 You can create a developer account an choose the essentials plan for free to get started.
 
-This is a simplified overview of the ArcGIS Online Architecture:
-
-[![ArcGIS Online Architecture](https://docs.google.com/drawings/d/1w7QLl1m2OKbJEDVax1nnuxIyyidHkKXuah7rxqlx3LM/pub?w=860&h=601)](https://docs.google.com/drawings/d/1w7QLl1m2OKbJEDVax1nnuxIyyidHkKXuah7rxqlx3LM/edit?usp=sharing)
+This is a simplified [overview of the ArcGIS Online Architecture](https://docs.google.com/drawings/d/1w7QLl1m2OKbJEDVax1nnuxIyyidHkKXuah7rxqlx3LM/edit?usp=sharing).
 
 ## Training
 

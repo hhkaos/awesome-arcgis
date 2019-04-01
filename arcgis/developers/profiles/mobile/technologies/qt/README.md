@@ -4,6 +4,8 @@
 
 ArcGIS Runtime for the Qt integrates a wide range of mapping and GIS capabilities online or offline, including editing, analysis, geocoding, routing, management of web maps, 2D and 3D, data visualization, mobile map packages, and vector tiled layers.
 
+![Qt Developers Screenshot](../../../../../products/product-thumbnails/qt.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

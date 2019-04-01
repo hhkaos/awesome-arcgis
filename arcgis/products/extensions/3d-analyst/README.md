@@ -4,6 +4,8 @@
 
 Gain a new perspective by visualizing your information in 3D. Use 3D GIS capabilities to address problems that simply cannot be addressed in a 2D context.
 
+![3D Analyst - Extension Screenshot](../../product-thumbnails/3d-analyst.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

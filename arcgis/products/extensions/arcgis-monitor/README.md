@@ -4,6 +4,8 @@
 
 Monitor the health of your ArcGIS implementations throughout the lifecycle. It provides awareness of system usage and performance, helping you get the most from your GIS and IT investment.    
 
+![ArcGIS Monitor - Extension Screenshot](../../product-thumbnails/arcgis-monitor.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

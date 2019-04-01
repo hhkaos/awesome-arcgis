@@ -4,6 +4,8 @@
 
 Extension available for ArcGIS Pro, ArcMap and ArcGIS Server to answer questions like: what is the quickest way to get from point A to point B?, what houses are within five minutes of our fire stations? what market areas does our business cover?, etc.
 
+![Network Analyst - Extension Screenshot](../../product-thumbnails/network-analyst.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

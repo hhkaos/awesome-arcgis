@@ -3,6 +3,9 @@
 # Virtual Reality Developers
 Export 3D scenarios built using [City Engine](../../../arcgis/products/city-engine/README.md), export them to [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine) and build your application using any VR SDK to finish the application for your [VR](https://en.wikipedia.org/wiki/Virtual_reality) [headset](https://en.wikipedia.org/wiki/Virtual_reality_headset).
 
+
+![ArcGIS for VR360 Screenshot](../product-thumbnails/vr.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

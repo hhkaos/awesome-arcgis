@@ -4,6 +4,7 @@
 
 Provides a two-way engagement platform to connect government and citizens. Create new landing pages for initiatives, display widgets linked to data published in ArcGIS Open Data (KPIs, tables, apps, etc.), publish events, etc.
 
+![ArcGIS Hub Screenshot](../product-thumbnails/arcgis-hub.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

@@ -2,7 +2,7 @@
 
 # ArcGIS Enterprise
 
-[ArcGIS Enterprise](http://www.esri.com/en/arcgis/products/arcgis-enterprise/overview) is a server-side software that allows you to work with spatial databases, expose them though REST APIs, host geo-processing tools an also expose them though REST APIs and much more.
+It is a server-side software that allows you to work with spatial databases, expose them though REST APIs, host geo-processing tools an also expose them though REST APIs and much more. It's mainly made up of four other Esri technologies.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

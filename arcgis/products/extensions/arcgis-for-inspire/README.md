@@ -4,6 +4,8 @@
 
 As a member of the European Union, you must meet current requirements for delivering INSPIRE Discovery, View, and Download Services of your geospatial data. Part of the Esri Geospatial Cloud, ArcGIS for INSPIRE is designed to ensure INSPIRE compliance.
 
+![ArcGIS for INSPIRE - Extension Screenshot](../../product-thumbnails/arcgis-for-inspire.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

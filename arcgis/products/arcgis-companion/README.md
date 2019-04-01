@@ -4,6 +4,8 @@
 
 The ArcGIS Companion app is a native mobile companion to your ArcGIS Online or ArcGIS Enterprise organization. Its simple, intuitive and ready to help you do the following tasks and more: browse and view content, people, and groups in your organization, manage your profile, groups, and settings, etc.
 
+![ArcGIS Companion Screenshot](../product-thumbnails/arcgis-companion.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

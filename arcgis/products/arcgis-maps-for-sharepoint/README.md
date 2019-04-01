@@ -4,6 +4,8 @@
 
 Turn lists or data into color-coded, point, clustered point, or heat maps. Enrich key business measures with demographic and lifestyle data from Esri.
 
+![ArcGIS Maps for Sharepoint Screenshot](../product-thumbnails/arcgis-maps-for-sharepoint.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

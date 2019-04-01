@@ -1,11 +1,12 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Full motion video
+# Full Motion Video - Extension
 
-[ArcGIS Full Motion Video](http://www.esri.com/products/arcgis-capabilities/imagery/full-motion-video)
-(FMV) is an Add-In to ArcGIS Desktop 10.x. It enables you to quickly and easily
+FMV is an Add-In to ArcGIS Desktop 10.x. It enables you to quickly and easily
 view and analyze video data within your ArcGIS environment. The FMV Add-In is
 comprised of the Video Player, Video Manager and associated GP Tools
+
+![Full Motion Video - Extension Screenshot](../../product-thumbnails/full-motion-video.png)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -23,7 +24,8 @@ comprised of the Video Player, Video Manager and associated GP Tools
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-Full motion video Add-in include capabilities for working with motion imagery inside
+
+[ArcGIS Full Motion Video](http://www.esri.com/products/arcgis-capabilities/imagery/full-motion-video) Add-in include capabilities for working with motion imagery inside
 ArcMap thanks to MISB as you can see in this [short video](http://www.esri.com/videos/watch?videoid=2805&isLegacy=true&title=introduction-to-the-full-motion-video-add_dash_in) (5min).
 
 The new Multiplexer geoprocessing tool makes it easy for your

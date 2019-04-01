@@ -4,6 +4,8 @@
 
 [Web AppBuilder](http://www.esri.com/software/web-appbuilder) is a WYSIWYG tool that allow any user to build 2D and 3D map-centric apps (*with a full screen map*) without writing any code. You as a web developer can add new widgets and themes or customize the existing ones.
 
+![Web AppBuilder Screenshot](../product-thumbnails/web-appbuilder.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -32,8 +34,6 @@ Web AppBuilder has two versions:
 * [Developer Edition](developer-edition/README.md) (for developers): It is a self-hosted version but also a framework that can be extended adding custom themes and widgets.
 
 > **Note**: In this page we will focus on the hosted version.
-
-![Web AppBuilder](images/web-appbuilder.png)
 
 ## Getting started
 

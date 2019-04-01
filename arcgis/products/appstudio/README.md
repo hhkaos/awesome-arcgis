@@ -4,6 +4,8 @@
 
 It is an extendable AppBuilder that help you to build cross-platform apps, web and native (Android, iOS, Windows, OS X and Linux), from your maps in order to be able to publish them using your own brand anywhere.
 
+![AppStudio Screenshot](../product-thumbnails/appstudio.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

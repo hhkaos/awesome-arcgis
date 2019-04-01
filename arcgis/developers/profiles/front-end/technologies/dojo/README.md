@@ -1,10 +1,10 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Dojo
+# ArcGIS API for JavaScript
 
-[ArcGIS API for JavaScript](http://js.arcgis.com) uses internally
-[Dojo Toolkit](https://dojotoolkit.org/) to implement more than 300 classes that
-allow you to build powerful maps, spatial analysis, data visualizations, etc.
+Implement more than 300 classes that allow you to build powerful 2D and 3D maps, spatial analysis, data visualizations, etc.
+
+![ArcGIS API for JavaScript](../../../../../products/product-thumbnails/dojo.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -21,7 +21,7 @@ allow you to build powerful maps, spatial analysis, data visualizations, etc.
 
 ## Introduction
 
-At this point in time there are two generations of the ArcGIS API been maintained:
+At this point in time has are two generations of the [ArcGIS API for JavaScript](http://js.arcgis.com) been maintained:
 
 * [3.x generation](3.x/README.md): for 2D maps
 * [4.x generation](4.x/README.md): integrates 2D and 3D
@@ -29,6 +29,8 @@ At this point in time there are two generations of the ArcGIS API been maintaine
 If you are familiar with the ArcGIS API you can check this
 [functionality matrix](https://developers.arcgis.com/javascript/latest/guide/choose-version/index.html),
 if you are not and need some hep to decide, then go to the [JavaScript API group at GeoNet](https://community.esri.com/community/developers/web-developers/arcgis-api-for-javascript).
+
+> ArcGIS API for JavaScript uses [Dojo Toolkit](https://dojotoolkit.org/) internally).
 
 ## Training
 

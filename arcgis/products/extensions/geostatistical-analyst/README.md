@@ -4,6 +4,7 @@
 
 It is not always possible or practical to predict and model spatial phenomena through real world observations. ArcGIS Geostatistical Analyst lets you generate optimal surfaces from sample data and evaluate predictions for better decision making.
 
+![ArcGIS Geostatistical Analyst Screenshot](../../product-thumbnails/geostatistical-analyst.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

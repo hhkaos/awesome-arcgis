@@ -4,7 +4,7 @@
 
 The Web Scene Viewer is a web tool that allow you to create and modify 3D Web scenes though a web browser. It is available on ArcGIS Online and ArcGIS Enterprise.
 
-[![Web Scene Viewer](images/web-scene-viewer.png)](https://www.arcgis.com/home/webscene/viewer.html)
+[![Web Scene Viewer Screenshot](../product-thumbnails/web-scene-viewer.png)](https://www.arcgis.com/home/webscene/viewer.html)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

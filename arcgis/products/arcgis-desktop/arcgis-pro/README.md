@@ -4,6 +4,8 @@
 
 [ArcGIS Pro](http://pro.arcgis.com/en/pro-app/) is a Desktop tool that allows you to create, manage, and share geographic maps, data, and analytical models.
 
+![ArcGIS Pro Screenshot](../../product-thumbnails/arcgis-pro.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

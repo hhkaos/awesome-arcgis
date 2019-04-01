@@ -4,7 +4,8 @@
 
 If you are willing to write mobile applications using .NET you are in the right place, the ArcGIS Runtime SDK for .NET contains APIs Xamarin.Android, Xamarin.iOS, and Xamarin.Forms that enable you to build mobile native mapping apps.
 
-It integrates a range of mapping and GIS capabilities online or offline, including 2D and 3D data visualization, web and mobile maps, editing, geocoding, routing, and spatial analysis. Use this site to access installation details, documentation, and sample code.
+![Xamarin developers Screenshot](../../../../../../arcgis/products/product-thumbnails/xamarin.png)
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -32,6 +33,8 @@ It integrates a range of mapping and GIS capabilities online or offline, includi
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
+It integrates a range of mapping and GIS capabilities online or offline, including 2D and 3D data visualization, web and mobile maps, editing, geocoding, routing, and spatial analysis. Use this site to access installation details, documentation, and sample code.
 
 The [ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/net/latest/) is the technology you may want to use if you want to build your Android and iOS applications in .NET.
 

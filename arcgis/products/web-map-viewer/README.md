@@ -4,7 +4,7 @@
 
 The Web Map Viewer is a web tool that allow you to create and modify 2D Web maps though a web browser. It is available on ArcGIS Online and ArcGIS Enterprise.
 
-[![Web Map Viewer](images/web-map-viewer.png)](https://www.arcgis.com/home/webmap/viewer.html)
+[![Web Map Viewer Screenshot](../product-thumbnails/web-map-viewer.png)](https://www.arcgis.com/home/webmap/viewer.html)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

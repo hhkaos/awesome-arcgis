@@ -4,6 +4,8 @@
 
 View your bathymetry, expose rich foundational geospatial information coming from electronic navigational charts, and much more.
 
+![ArcGIS Maritime - Extensions Screenshot](../../product-thumbnails/arcgis-maritime.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

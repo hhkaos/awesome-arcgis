@@ -4,6 +4,8 @@
 
 ArcGIS Publisher makes it easy to share digital versions of maps and data. Use ArcGIS Publisher to convert ArcGIS Pro maps to mobile map packages viewable with the free Explorer for ArcGIS iOS and Android app. And, convert ArcMap and ArcGlobe documents to published map files for ArcReader. Your mobile maps also work on apps from AppStudio for ArcGIS or ArcGIS Runtime SDK.
 
+![ArcGIS Publisher - Extension Screenshot](../../product-thumbnails/arcgis-publisher.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

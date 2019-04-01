@@ -4,6 +4,8 @@
 
 Gain greater insights about a location by adding small, dynamic charts and reports, which display as pop ups on your map, can help you answer questions to your ArcMap projects.
 
+![ArcGIS Infographics Add-In - Extension Screenshot](../../product-thumbnails/arcgis-infographics.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

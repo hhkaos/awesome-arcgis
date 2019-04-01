@@ -2,7 +2,9 @@
 
 # Operations Dashboard for ArcGIS
 
-[Operations Dashboard](https://www.esri.com/en-us/arcgis/products/operations-dashboard/overview) is a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) web tool that allows you to easily build interactive dashboards that provides location-aware data visualization and analytics.   
+[Operations Dashboard](https://www.esri.com/en-us/arcgis/products/operations-dashboard/overview) is a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) web tool that allows you to easily build interactive dashboards that provides location-aware data visualization and analytics.
+
+![Operations Dashboard Screenshot](../product-thumbnails/operations-dashboard.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -33,8 +35,6 @@
 ## Introduction
 
 Using the ArcGIS API for JavaScript, you can develop extensions for Operations, your own widgets, map tools, and feature actions, and include them in an operation view.
-
-![Operations Dashboard](./img/operations-dashboard.jpg)
 
 ## Getting started
 

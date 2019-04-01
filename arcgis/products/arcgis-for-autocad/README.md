@@ -4,7 +4,7 @@
 
 Free Plug-In for AutoCAD connects you to ArcGIS allowing you to enrich your CAD drawings with maps, background imagery, and geographic features. Edit locally created or imported GIS data within AutoCAD. You get:
 
-
+![Qt Developers Screenshot](../product-thumbnails/arcgis-for-autocad.png)  
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

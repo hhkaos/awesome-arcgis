@@ -4,6 +4,8 @@
 
 OSM Editor is a free, open-source add-on for ArcMap that helps you take advantage of the OpenStreetMap (OSM) dataset and become an active member of the growing OSM community.
 
+![ArcGIS Editor for OpenStreetMap - Extension Screenshot](../../product-thumbnails/arcgis-editor-for-openstreetmap.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

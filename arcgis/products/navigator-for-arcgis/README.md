@@ -4,6 +4,8 @@
 
 Navigate to where you need to be, unlock efficiency, and improve your field workforce reliability. Key features: navigate completely offline with locally stored data, use your own maps, search your assets, route on your roads, and view your layers, etc.
 
+![Navigator for ArcGIS Screenshot](../product-thumbnails/navigator-for-arcgis.png)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

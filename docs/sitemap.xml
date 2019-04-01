@@ -161,6 +161,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/products/appstudio/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-business-analyst/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-community-analyst/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-companion/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-desktop/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcgis-pro/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/arcgis-desktop/arcmap-arccatalog/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -235,6 +236,7 @@
 <url> <loc>https://hhkaos.github.io/arcgis/products/operations-dashboard/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/streetmap-premium/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/survey123/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/arcgis/products/tracker-for-arcgis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/web-appbuilder/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/web-appbuilder/developer-edition/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/arcgis/products/web-map-viewer/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

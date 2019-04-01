@@ -34,7 +34,7 @@ searchItems({
     }).then(response => {
     console.log("response.results.length=",response.results.length);
     response.results.forEach((elem, i) =>{
-        if(elem.id=='bb04b466539446cb9715943406c4c707'){
+        //if(elem.id=='bb04b466539446cb9715943406c4c707'){
             parseHTML(elem.url).then(function(obj) {
                 var urlSplitted = elem.url.split('/'),
                     slug = urlSplitted[urlSplitted.length-2];
@@ -57,10 +57,11 @@ searchItems({
                     if(fs.existsSync(thumbnail)){
                         itemProp.thumbnailurl = `${thumbnailPath}/${slug}.png`;
                         itemProp.thumbnail = `${thumbnailPath}/${slug}.png`;
-                        console.log("thumbnail exist, path=",itemProp.thumbnailurl)
+                    }else{
+                        console.log("No thumbnail for ",slug)
                     }
                 }catch(err){
-                    console.log("No thumbnail for ",slug)
+                    console.log("Error: ", err)
                 }
 
                 updateItem({
@@ -70,7 +71,7 @@ searchItems({
                     console.log("response=",response)
                 });
             });
-        }
+        //}
 
     })
 });

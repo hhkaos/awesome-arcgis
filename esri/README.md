@@ -171,6 +171,11 @@ Esri employees:
 * [Hussein Nasser](https://www.youtube.com/user/GISIGeometry/playlists)
 * [Andrew Turner](https://www.youtube.com/user/ajt3h)
 
+### Team Channels
+
+* [Esri Education Team](https://www.youtube.com/channel/UCkW9Mls80T05VnJ5XQ4wrFw)
+* [Esri GeoDev Team](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw)
+
 ## Twitter accounts
 
 ### Corporative accounts

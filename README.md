@@ -2,7 +2,7 @@
 
 # Awesome list for ArcGIS
 
-ArcGIS is a 360º [GIS](./gis/README.md) software platform built by Esri made up of more than 100 products.
+ArcGIS is a 360º [GIS](./gis/README.md) software platform built by Esri made up of [almost 100 products](./arcgis/products/README.md).
 
 {% youtube %} https://www.youtube.com/watch?v=FypLh7-djjM {% endyoutube %}
 

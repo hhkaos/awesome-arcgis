@@ -6,7 +6,6 @@ import { parse } from 'node-html-parser';
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-
 var fs = require('fs');
 var settings = require('./settings.json')
 
@@ -14,17 +13,6 @@ var session = new UserSession({
   username: settings.username,
   password: settings.password
 })
-
-// updateItem({
-//   item: {
-//     id: "bb04b466539446cb9715943406c4c707",
-//     description: "<h1>H1 Header</h1><p>Paragraph</p>",
-//     clearEmptyFields: true
-//   },
-//   authentication: session
-// }).then(response=>{
-//   console.log("response=",response)
-// });
 
 searchItems({
         'searchForm':{
@@ -95,9 +83,8 @@ function parseHTML(url){
 
                 resolve({html:content, summary: summary});
             }catch(e){
-                console.log("Error: ",e);
-                console.log("\nurl=",url);
-                //console.log("html=",html);
+                console.log("\nError: ",e);
+                console.log("url=",url);
             }
 
         });

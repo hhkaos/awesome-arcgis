@@ -4,6 +4,8 @@
 
 ArcGIS Data Reviewer is an extension for ArcGIS Pro, ArcMap, and ArcGIS Enterprise designed to improve data quality. It provides a complete system for automating and simplifying data quality management.
 
+![ArcGIS Data Reviewer - Extension Screenshot](../../product-thumbnails/data-reviewer.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

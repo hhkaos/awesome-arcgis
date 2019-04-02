@@ -4,6 +4,8 @@
 
 On this page you will find resources to learn how to develop desktop applications using [the ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/net/latest). See the following pages if you are looking for resources to learn: [how extend ArcGIS Pro using .Net](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md) or [using Xamarin to develop mobile applications using .NET](../../../mobile/technologies/xamarin/README.md)
 
+![ArcGIS Runtime SDK for .NET](../../../../../products/product-thumbnails/dot-net.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

@@ -4,6 +4,8 @@
 
 ArcReader is a free, easy-to-use desktop mapping application that allows you to view, explore, and print maps and globes. Anyone with ArcReader can view high-quality interactive maps authored by ArcMap and published with the ArcGIS Publisher extension.
 
+![ArcReader - Extension Screenshot](../../product-thumbnails/arcreader.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

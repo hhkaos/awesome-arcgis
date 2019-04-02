@@ -2,7 +2,9 @@
 
 # Data appliance for ArcGIS
 
-Data Appliance for ArcGIS enables you to create, publish, and share map services with colleagues securely behind your firewall. It connects directly into your internal network and comes preloaded with terabytes of global basemaps and reference layers.
+Offers worldwide basemaps and reference layers optimized for use with ArcGIS for Server. The appliance is preconfigured onto a Network-attached Storage (NAS) device and can be plugged into an existing network of an organization. It allows users to securely create customized critical GIS applications.
+
+![Data appliance for ArcGIS Screenshot](../product-thumbnails/data-appliance-for-arcgis.png) 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

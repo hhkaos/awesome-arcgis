@@ -4,6 +4,8 @@
 
  Provides a centralized enterprise job management and tracking system to streamline your daily tasks. Achieve significant time savings and improve the efficiency of your GIS implementations by enforcing standardized and repeatable workflows across your organization
 
+ ![Workflow Manager - Extension Screenshot](../../product-thumbnails/workflow-manager.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

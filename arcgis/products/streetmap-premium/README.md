@@ -4,6 +4,8 @@
 
 Add data from StreetMap Premium for ArcGIS to your ArcGIS software so you can display, geocode, route, and deploy street data on-premises, behind your firewall. Data is available for areas around the world.
 
+ ![StreetMap Premium for ArcGIS Screenshot](../product-thumbnails/streetmap-premium.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

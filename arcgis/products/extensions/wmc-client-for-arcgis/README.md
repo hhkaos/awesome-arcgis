@@ -4,6 +4,8 @@
 
 WMC Client is a free extension for ArcGIS that enables you to open Web Map Context (WMC) files directly in ArcMap. WMC is an OGC specification typically used by browser-based GIS applications to save maps. WC files typically have a .cml, .wmc, or .xml extension
 
+![WMC Client for ArcGIS - Extension Screenshot](../../product-thumbnails/wmc-client-for-arcgis.png) 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**

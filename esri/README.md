@@ -33,7 +33,7 @@
 
 ## Introduction
 
-[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/Pledger.aspx?id=186). Today it software ( [ArcGIS](https://en.wikipedia.org/wiki/ArcGIS) ) is been used by a [40% of the global market](https://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](./partners/README.md), [90 offices](http://www.esri.com/about-esri/contact#outsideUS) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
+[Esri](https://en.wikipedia.org/wiki/Esri) (Environmental Systems Research Institute) was founded in 1969 by [Jack and Laura Dangermond](https://givingpledge.org/Pledger.aspx?id=186). Today it software ( [ArcGIS](https://en.wikipedia.org/wiki/ArcGIS) ) is been used by a [40% of the global market](https://apb.directionsmag.com/entry/esri-has-40-of-gis-marketshare/215188). The company have more than [350000 customers worldwide, 8000 employees, 1600 partners](./partners/README.md), [90 offices](https://geogeeks.maps.arcgis.com/apps/Minimalist/index.html?appid=edbbe0a2387843ee887fd80bc3deab45) and [$1.1B on revenue](https://en.wikipedia.org/wiki/Esri).
 
 It [organize multiple events](http://www.esri.com/events) annually and the biggest one (the [User Conference](http://www.esri.com/about/events/uc) in San Diego) brings together more than 15000 users. There is also a developer focused event, the **Developer Summit**, it take place at [Palm Springs](http://www.esri.com/events/devsummit) (USA) and [Berlin](http://www.esri.com/events/devsummit-europe) (EU) every year.
 

@@ -30,6 +30,7 @@ Some of theres are *free* and some consume [credits](../../credits/README.md), t
 Learn more about the [Geocoding and Place Search service](https://developers.arcgis.com/features/geocoding/) and the [Geocoder coverage](https://doc.arcgis.com/en/arcgis-online/reference/geocode-coverage.htm).
 
 HowTos: [Geocoding API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Geocoding&product=any)
+[Overview of the World Geocoding Service](https://developers.arcgis.com/rest/geocode/api-reference/overview-world-geocoding-service.htm)
 
 Trick: Custom geocoder with candidates filtered by URL: `http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry={{Country_code}}`
 
@@ -41,6 +42,7 @@ For example:
 
 HowTos:
 * [Routing API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Routing&product=any)
+* [Overview of network analysis services](https://developers.arcgis.com/rest/network/api-reference/overview-of-network-analysis-services.htm)
 * [Routing on ArcGIS Online](http://odoe.net/blog/routing-arcgis-online/)
 
 ### GeoEnrichment service
@@ -49,11 +51,20 @@ HowTos:
 
 * [GeoEnrichment API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Demographics&product=any)
 * [Uploading and enriching data to ArcCGIS Online](http://odoe.net/blog/uploading-enriching-data-arcgis-online/)
+* [The GeoEnrichment service](https://developers.arcgis.com/rest/geoenrichment/api-reference/geoenrichment-service-overview.htm)
 
 ### Spatial Analysis
 
 HowTos: [Spatial Analysis API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Spatial-Analysis&product=any)
+* [Overview of tasks contained in the Spatial Analysis service](https://developers.arcgis.com/rest/analysis/api-reference/tasks-overview.htm)
 
+### Elevation service
+
+[Get started with Elevation Analysis services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm)
+
+### Offline Packaging Service
+
+[Get started](https://developers.arcgis.com/rest/packaging/api-reference/offline-packaging-service.htm)
 
 ## REST API to calculate credit consumption
 

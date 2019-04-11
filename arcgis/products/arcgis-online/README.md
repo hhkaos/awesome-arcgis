@@ -36,7 +36,7 @@ find geolocated data, build maps, analyze information, etc.
 With ArcGIS Online you have everything you need to build powerful applications:
 
 * [Content](../../content/README.md)
-* [APIs](rest-apis/ready-to-use-services/README.md)
+* [APIs](rest-apis/location-based-services/README.md)
 * [Developer console](developer-console/README.md)
 * [Apps](#Apps)
 

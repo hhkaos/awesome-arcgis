@@ -21,7 +21,7 @@ http://resources.arcgis.com/en/help/arcgis-rest-api/#/The_ArcGIS_REST_API/02r300
 ArcGIS-API-REST (postman collection)
 http://odoe.net/blog/using-arcgis-rest-query-page/
 
-[Ready to use services](ready-to-use-services)
+[Location-based services](location-based-services)
 
 ## ArcGIS Open Data
 

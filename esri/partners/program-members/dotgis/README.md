@@ -60,7 +60,7 @@ From a developer perspective:
 |[ArcGIS Runtime SDK iOS](../../../../arcgis/developers/profiles/mobile/technologies/ios/README.md)|n.a.|App for special route analysis
 |[ArcGIS Runtime SDK for .NET](../../../../arcgis/developers/profiles/desktop/technologies/dot-net/README.md)|n.a.|Addins for ArcGIS Pro
 |[AppStudio for ArcGIS](../../../../arcgis/products/appstudio/README.md)|n.a.|Build demo apps
-|[ArcGIS Online ready to use services](../../../../arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md)|n.a.|Special route analysis
+|[ArcGIS Online Location-based services](../../../../arcgis/products/arcgis-online/rest-apis/location-based-services/README.md)|n.a.|Special route analysis
 
 ## Products
 

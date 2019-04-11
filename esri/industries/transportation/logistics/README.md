@@ -89,7 +89,7 @@ Search logistics related items in:
 * [ArcGIS advanced (items) search](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/)
 * This [ArcGIS Content Group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list#content)
 
-Or ready to use services: [routing service, spatial analysis, ...](https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/)
+Or Location-based services: [routing service, spatial analysis, ...](https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-online/rest-apis/location-based-services/)
 
 You might find more content in: [ArcGIS Open Data](https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-hub/), [Living Atlas of the world](https://esri-es.github.io/awesome-arcgis/arcgis/living-atlas/), [Marketplace](https://esri-es.github.io/awesome-arcgis/arcgis/marketplace/), [ArcGIS Online content shared publicly](https://github.com/esri-es/arcgis-developer-tips-and-tricks/tree/master/arcgis-online#tips-and-tricks-arcgis-online) & [Awesome ArcGIS Content](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763#overview).
 

@@ -104,8 +104,8 @@ Currently there is no foolproof way to prevent your account from being blocked, 
 But the most important thing to keep your account from being blocked is:
 
 * Check the number of credits an analysis will take.
-    * Almost every interface using any of the [ready to use ArcGIS Online REST APIs](../rest-apis/ready-to-use-services/README.md) have a credit calculator you can check before executing it.
-    * There is also a REST API that can be used programmatically to calculate credit consumption ([learn more](../rest-apis/ready-to-use-services/README.md)).
+    * Almost every interface using any of the [ready to use ArcGIS Online REST APIs](../rest-apis/location-based-services/README.md) have a credit calculator you can check before executing it.
+    * There is also a REST API that can be used programmatically to calculate credit consumption ([learn more](../rest-apis/location-based-services/README.md)).
 * Check the number of credits you have left, but remember that they are not updated in real time ([more info](#how-often-are-credits-discounted)).
 * Be careful when using the features that consume credits: analysis services, premium content and storage.
 

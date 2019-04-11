@@ -44,7 +44,7 @@ After signing up you will get **one [creator user](./name-users/README.md)** wit
     * Use the [Web Map Viewer](../products/web-map-viewer/README.md)
     * Use the [Web Scene Viewer](../products/web-scene-viewer/README.md)
     * Create [Story maps and Configurable Apps](../products/configurable-apps/README.md)
-    * Use [ArcGIS Online ready to use-services](../products/arcgis-online/rest-apis/ready-to-use-services/README.md)
+    * Use [ArcGIS Online ready to use-services](../products/arcgis-online/rest-apis/location-based-services/README.md)
 * Access to [premium-content](../content/README.md), included the Esri [Living Atlas of the World](../living-atlas/README.md) that includes maps and data on thousands of topics.
 * Integrate [ArcGIS social login (using oAuth)](./name-users/oauth/README.md) in your applications
 * Join to the [Esri Early Adopter Community](https://www.esri.com/en-us/early-adopter) to get access to Beta software.

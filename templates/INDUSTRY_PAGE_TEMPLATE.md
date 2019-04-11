@@ -86,8 +86,8 @@ Search INDUSTRY related items in:
 * [ArcGIS advanced (items) search](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/)
 * This [ArcGIS Content Group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list#content)
 
-Or ready to use services: GeoEnrichment, Elevation Service
-https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-online/rest-apis/ready-to-use-services/
+Or Location-based services: GeoEnrichment, Elevation Service
+https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-online/rest-apis/location-based-services/
 ```
 
 You might find more content in: ArcGIS Open Data, Living Atlas of the world, Marketplace, ArcGIS Online content shared publicly

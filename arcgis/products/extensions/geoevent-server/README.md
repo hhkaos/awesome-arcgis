@@ -53,6 +53,7 @@ On **video.esri.com** there are [more than 40 videos related to GeoEvent](http:/
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[ArcGIS GeoEvent Server: An Introduction](https://www.youtube.com/watch?v=9BxvO9Hn0kg)|44min 
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[GeoEvent Server: Internet of Things (IoT)](https://www.youtube.com/watch?v=n-UGR-QJ0m4&list=PLaPDDLTCmy4Z844nQ0aFdRCTICoNDPf7E&index=1)|1h 01min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Big Data: GeoEvent & GeoAnalytics, Leveraging the Spatiotemporal Big Data Store](https://www.youtube.com/watch?v=-gnWpOrv7-4)|58:56
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Real-Time GIS: GeoEvent Extension](http://www.esri.com/videos/watch?videoid=5019&channelid=LegacyVideo&isLegacy=true&title=real-time-gis:-geoevent-extension)|1h 02min 14secs

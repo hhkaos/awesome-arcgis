@@ -8,7 +8,14 @@ ArcGIS is a mapping and analytics platform that provides set of contextual tools
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Introduction](#introduction)
+- [Spatial Analytics](#spatial-analytics)
+- [Field operations](#field-operations)
+- [Mapping & Visualization](#mapping--visualization)
+- [Real-Time Visualization and Analytics](#real-time-visualization-and-analytics)
+- [3D GIS](#3d-gis)
+- [Imagery & Remote Sensing](#imagery--remote-sensing)
+- [Data Collection & Management](#data-collection--management)
+- [Offline mapping](#offline-mapping)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

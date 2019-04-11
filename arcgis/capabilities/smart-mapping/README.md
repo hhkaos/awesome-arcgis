@@ -5,9 +5,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Contributions](#contributions)
+- [Introduction](#introduction)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Introduction
 
+Create compelling data visualizations with smart mapping tools and APIs. Quickly configure your visualizations and style your data.
 
+Check [developers.arcgis.com/features/visualization/](https://developers.arcgis.com/features/visualization/) demos:
+
+* Size
+* Color
+* Size & Color
+* Class Breaks

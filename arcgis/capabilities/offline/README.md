@@ -6,6 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Introduction](#introduction)
 - [Developer technologies](#developer-technologies)
   - [Native apps](#native-apps)
   - [Web apps](#web-apps)
@@ -17,12 +18,13 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Each day we realize that been able to work offline with our mobile, tablet or
+## Introduction
+
+[Work offline](https://developers.arcgis.com/features/offline/). Each day we realize that been able to work offline with our mobile, tablet or
 desktop devices is more important, that why we offer you the chance to build
 applications that could work with maps & GIS without internet connection.
 
-There are many options to solve problems when you need apps to work offline, here
-you will find many of those.
+There are many options to solve problems when you need apps to work offline, here you will find many of those.
 
 ## Developer technologies
 

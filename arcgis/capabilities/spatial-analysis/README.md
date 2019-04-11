@@ -6,12 +6,60 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Examples](#examples)
+- [Types of analysis](#types-of-analysis)
+  - [Vector analysis](#vector-analysis)
+  - [Network analysis](#network-analysis)
+  - [3D analysis](#3d-analysis)
+  - [Raster analysis](#raster-analysis)
+- [Tools](#tools)
+- [Cool demos & Storymaps](#cool-demos--storymaps)
 - [Learn more](#learn-more)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Examples
+## Types of analysis
+
+### Vector analysis
+
+Check [developers.arcgis.com/features/spatial-analysis/](https://developers.arcgis.com/features/spatial-analysis/) demos:
+
+* Aggregate and normalize
+* Intersect and extract
+* Buffer and route
+* Pattern analysis
+* Geometry operations
+* Project data
+
+### Network analysis
+
+Check [developers.arcgis.com/features/directions/](https://developers.arcgis.com/features/directions/) demos:
+
+* Get routes and directions
+* Display traffic
+* Calculate drive-time areas
+* Route to the closes facility
+* Route multiple vehicles
+* Locate new facilities
+* Generate a travel cost matrix
+
+### 3D analysis
+
+Examples: viewshed
+
+### Raster analysis
+
+*Pending*
+
+## Tools
+
+* REST APIs: ready to user Services
+* Model Builder
+* ArcPy
+* Notebooks
+* Geometry Service
+* Insights for ArcGIS
+
+## Cool demos & Storymaps
 
 Using spatial analysis you can use spatial information to improve the answer to complex questions like:
 

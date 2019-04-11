@@ -14,10 +14,15 @@ Learn how emerging technologies are been used by some ArcGIS users.
 
 ## Introduction
 
+Understand "emerging" as emerging in a GIS context/workflows:
+
+* [5G](5g/README.md)
+* [360](360/README.md)
 * [Augmented Reality (AR)](ar/README.md)
 * [Artificial intelligence](artificial-intelligence/README.md): machine learning, deep learning, ... for image recognition, chatbots, etc.
 * [Indoor](indoor/README.md)
 * [IoT](iot/README.md)
+* [Social networks](social-networks/README.md)
 * [UAVs / Drones](uavs/README.md)
 * [Virtual Reality (VR)](vr/README.md)
 

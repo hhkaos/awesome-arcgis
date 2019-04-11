@@ -152,7 +152,16 @@ Videos:
 * [BIM & Indoor, servicios i3s y realidad virtual, 3D en las nuevas tecnologías - CE17](https://www.youtube.com/watch?v=mV77R2I_M-0)
 * [Otros videos](https://www.youtube.com/user/esriSpainTV/search?query=indoor)
 
+### Related technologies
+
+* [AR Plan 3D Ruler – Camera to Plan, Floorplanner
+](https://play.google.com/store/apps/details?id=com.grymala.arplan)
+* [Cupix.com](https://www.cupix.com/): Capture a space in 3D
+without a 3D scanner create 3D tours and much more
+
+
 ### Other related list of resources
 
+* [360º Pictures and videos in ArcGIS](../360/README.md)
 * [Indoor mapping with ArcGIS Indoors and IMDF for Apple Maps](https://www.youtube.com/watch?v=05kg2C5rwqc&feature=youtu.be): you can get FME for free for one year joining the [Startup Program](../../partners/programs/startup-program/README.md)
 * You should also check the [BIM resource page](../bim/README.md).

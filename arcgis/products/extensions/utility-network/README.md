@@ -12,6 +12,7 @@ The ArcGIS Utility Network Management extension **for ArcGIS Enterprise** is des
 **Table of contents**
 
 - [Introduction](#introduction)
+- [News](#news)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
     - [Spain](#spain)

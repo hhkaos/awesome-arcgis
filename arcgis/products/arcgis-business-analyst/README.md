@@ -11,6 +11,7 @@ Get location-based insight for market planning, site selection, and customer seg
 **Table of contents**
 
 - [Introduction](#introduction)
+- [News](#news)
 - [Additional resources](#additional-resources)
   - [Related products](#related-products)
   - [Localized resources](#localized-resources)

@@ -13,6 +13,7 @@ Access and design with data-driven maps inside Adobe Illustrator and Photoshop.
 - [Introduction](#introduction)
 - [Training](#training)
   - [Documentation](#documentation)
+- [Videos](#videos)
 - [Additional resources](#additional-resources)
   - [Related products](#related-products)
 - [Contributions](#contributions)

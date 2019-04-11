@@ -8,11 +8,8 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-- [HoloLens](#hololens)
-- [AuGeo](#augeo)
-- [Mobile devices](#mobile-devices)
-- [Google Glass](#google-glass)
 - [Additional resources](#additional-resources)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

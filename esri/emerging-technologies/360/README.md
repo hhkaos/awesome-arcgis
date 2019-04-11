@@ -11,11 +11,12 @@ Panoramas or virtual tours in combination with Virtual Reality provides and inme
 **Table of contents**
 
 - [Introduction](#introduction)
-- [HoloLens](#hololens)
-- [AuGeo](#augeo)
-- [Mobile devices](#mobile-devices)
-- [Google Glass](#google-glass)
 - [Additional resources](#additional-resources)
+  - [Related products](#related-products)
+  - [Related technologies](#related-technologies)
+  - [Other related list of resources](#other-related-list-of-resources)
+- [Partners and startups](#partners-and-startups)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

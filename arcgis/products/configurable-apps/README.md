@@ -108,6 +108,8 @@ The [application-boilerplate-js](https://github.com/Esri/application-boilerplate
 
 * [geoform-template-js](https://github.com/Esri/geoform-template-js): GeoForm is a configurable template for form based data editing of a Feature Service.
 
+* [interactive-legend](https://github.com/Esri/interactive-legend): Interactive Legend Configurable App Template built with the 4.x ArcGIS API for JavaScript
+
 * [social-media-map-template-js](https://github.com/Esri/social-media-map-template-js):
 The Social Media Template has an innovative use of social media, which allows you to display up-to-date, keyword-targeted social media points on a map.
 

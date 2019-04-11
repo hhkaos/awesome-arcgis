@@ -69,6 +69,8 @@ technology so we recommend you to follow them.
 
 ## News
 
+* [Q1 2019 ArcGIS Release](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/announcements/q1-2019-arcgis-release/#appstudioforarcgis)
+
 * [Blogs.esri.com tag "AppStudio"](https://blogs.esri.com/esri/arcgis/tag/appstudio/)
 * [AppStudio on Twitter](https://twitter.com/AppStudioArcGIS)
 

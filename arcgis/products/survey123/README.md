@@ -61,6 +61,7 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 ## News
 
 * [GeoNet Blog](https://community.esri.com/groups/survey123/blog)
+    * [Understanding Multiple-Choice Questions in Survey123 for ArcGIS](https://community.esri.com/groups/survey123/blog/2017/08/30/understanding-multiple-choice-questions-in-survey123-for-arcgis)
 * [@EsriSurvey123 on Twitter](http://twitter.com/esrisurvey123)
 * [Survey123 on blogs.esri.com](https://blogs.esri.com/esri/arcgis/tag/survey123/)
 

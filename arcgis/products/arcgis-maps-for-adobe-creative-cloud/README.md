@@ -29,6 +29,10 @@ Learn more at: [esri.com/en-us/arcgis/products/maps-for-adobecc](https://www.esr
 
 [ArcGIS Maps for Adobe Creative Cloud Official Documentation](http://doc.arcgis.com/en/maps-for-adobecc/)
 
+## Videos
+
+* [ArcGIS Maps for Adobe Creative Cloud: Game of Thrones](https://www.youtube.com/watch?v=N_dkcXHf9TI)
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Adobe Creative Cloud"](https://esri-es.github.io/arcgis-search/?search="Adobe Creative Cloud"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

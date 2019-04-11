@@ -39,6 +39,10 @@ Also get started with the **[ArcGIS Business Analyst Web and Mobile Apps](https:
 
 More videos about ArcGIS Business Analyst: [ArcGIS Business Analyst Youtube Playlist](https://www.youtube.com/watch?v=IkGBtMfg408&list=PLGZUzt4E4O2KQIgWq0fiJdEenmNgvYzOe) and at [Esri Events channel](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=%22business+analyst%22).
 
+## News
+
+* [What's New in Business Analyst (March 2019)](https://www.esri.com/arcgis-blog/products/bus-analyst/business/whats-new-in-business-analyst-march-2019/)
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Business Analyst"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Business Analyst"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

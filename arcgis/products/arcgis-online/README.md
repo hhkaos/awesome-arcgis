@@ -107,6 +107,10 @@ If you are an independent developer we encourage you to start using the
 
 ## News
 
+* [What's new in ArcGIS Online (March 2019)](https://www.esri.com/arcgis-blog/products/arcgis-online/announcements/whats-new-in-arcgis-online-march-2019/)
+
+More news:
+
 * [ArcGIS Online news at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-online/)
 * [ArcGIS Online at Twitter](https://twitter.com/ArcGISOnline)
 

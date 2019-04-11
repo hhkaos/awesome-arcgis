@@ -96,6 +96,10 @@ technology so we recommend you to follow them.
 
 ## News
 
+* [What's New in ArcGIS GeoEvent Server at 10.7](https://www.esri.com/arcgis-blog/products/ext-server-geoevent/real-time/whats-new-in-arcgis-geoevent-server-at-10-7/)
+
+More news:
+
 * [blogs.esri.com](https://www.esri.com/search?filter=Blogs&q=geoevent&search=Search)
 
 ## Localized resources

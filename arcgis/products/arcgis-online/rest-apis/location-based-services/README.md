@@ -1,8 +1,8 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# Ready to use services
+# Location-based services
 
-There are several services hosted on [ArcGIS Online](../../README.md) that can be consumed though a REST API.
+Location-based services, formerly known as `ready to use services` are several services hosted on [ArcGIS Online](../../README.md) that can be consumed though a REST API.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -25,7 +25,7 @@ Some of theres are *free* and some consume [credits](../../credits/README.md), t
 
 ## Services
 
-### Geocoder service
+### Geocoding (geocoder service)
 
 Learn more about the [Geocoding and Place Search service](https://developers.arcgis.com/features/geocoding/) and the [Geocoder coverage](https://doc.arcgis.com/en/arcgis-online/reference/geocode-coverage.htm).
 
@@ -38,14 +38,14 @@ For example:
 `http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry=ESP`
 
 
-### Routing service
+### Routing and Directions (routing service)
 
 HowTos:
 * [Routing API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Routing&product=any)
 * [Overview of network analysis services](https://developers.arcgis.com/rest/network/api-reference/overview-of-network-analysis-services.htm)
 * [Routing on ArcGIS Online](http://odoe.net/blog/routing-arcgis-online/)
 
-### GeoEnrichment service
+### Demographics and GeoEnrichment (GeoEnrichment service)
 
 HowTos:
 
@@ -53,16 +53,16 @@ HowTos:
 * [Uploading and enriching data to ArcCGIS Online](http://odoe.net/blog/uploading-enriching-data-arcgis-online/)
 * [The GeoEnrichment service](https://developers.arcgis.com/rest/geoenrichment/api-reference/geoenrichment-service-overview.htm)
 
-### Spatial Analysis
+### Spatial Analysis (Spatial Analysis service)
 
 HowTos: [Spatial Analysis API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Spatial-Analysis&product=any)
 * [Overview of tasks contained in the Spatial Analysis service](https://developers.arcgis.com/rest/analysis/api-reference/tasks-overview.htm)
 
-### Elevation service
+### Elevation (Elevation service)
 
 [Get started with Elevation Analysis services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm)
 
-### Offline Packaging Service
+### Packaging (Offline Packaging Service)
 
 [Get started](https://developers.arcgis.com/rest/packaging/api-reference/offline-packaging-service.htm)
 

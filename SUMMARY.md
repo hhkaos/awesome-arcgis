@@ -187,7 +187,7 @@
       - [Credits](arcgis/products/arcgis-online/credits/README.md)
       - [Developer Console](arcgis/products/arcgis-online/developer-console/README.md)
       - [REST APIs](arcgis/products/arcgis-online/rest-apis/README.md)
-        - [Location-based services](arcgis/products/arcgis-online/rest-apis/location-based-services/README.md)
+        - [Location Based Services](arcgis/products/arcgis-online/rest-apis/location-based-services/README.md)
           - [Geo Enrichment](arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md)
     - [City Engine](arcgis/products/city-engine/README.md)
     - [Collector For ArcGIS](arcgis/products/collector-for-arcgis/README.md)

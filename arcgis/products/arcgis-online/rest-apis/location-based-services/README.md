@@ -10,10 +10,12 @@ Location-based services, formerly known as `ready to use services` are several s
 
 - [Introduction](#introduction)
 - [Services](#services)
-  - [Geocoder service](#geocoder-service)
-  - [Routing service](#routing-service)
-  - [GeoEnrichment service](#geoenrichment-service)
-  - [Spatial Analysis](#spatial-analysis)
+  - [Geocoding (geocoder service)](#geocoding-geocoder-service)
+  - [Routing and Directions (routing service)](#routing-and-directions-routing-service)
+  - [Demographics and GeoEnrichment (GeoEnrichment service)](#demographics-and-geoenrichment-geoenrichment-service)
+  - [Spatial Analysis (Spatial Analysis service)](#spatial-analysis-spatial-analysis-service)
+  - [Elevation (Elevation service)](#elevation-elevation-service)
+  - [Packaging (Offline Packaging Service)](#packaging-offline-packaging-service)
 - [REST API to calculate credit consumption](#rest-api-to-calculate-credit-consumption)
 - [More resources](#more-resources)
 

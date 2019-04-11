@@ -100,7 +100,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 ### Other related list of resources
 
-* [Augmented reality](../../emerging-technologies/ar/README.md)
+* [360 Pictures and videos](../../../emerging-technologies/360/README.md)
+* [Augmented reality](../../../emerging-technologies/ar/README.md)
     * Video: [Esri UC 2010 Lightning Talks: Augmented Reality—Buzz Word or Business Bonanza](https://www.youtube.com/watch?v=VE7aB_-sTXk)
 * GeoDesign & tourism: [A Digital Workflow for Dynamic Geodesign](https://youtu.be/QERJbL9J1Xw?t=15m48s)
 * [ArcGIS Online items tagged with "tourism"](https://www.arcgis.com/home/search.html?t=content&q=tags%3Atourism&start=1&sortOrder=desc&sortField=relevance&focus=applications-web)

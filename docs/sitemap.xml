@@ -259,11 +259,14 @@
 <url> <loc>https://hhkaos.github.io/esri/community/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/community/geonet/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/emerging-technologies/360/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/emerging-technologies/5g/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/ar/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/artificial-intelligence/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/artificial-intelligence/chatbots/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/indoor/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/iot-rt/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/emerging-technologies/social-networks/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/uavs/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/vr/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/emerging-technologies/vr/best-practices/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
@@ -276,6 +279,7 @@
 <url> <loc>https://hhkaos.github.io/esri/industries/natural-resources/agriculture/precision-agriculture/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/public-safety-and-defense/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/public-safety-and-defense/defense/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/esri/industries/real-state/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/tourism/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/industries/state-and-local-government/weather-and-climate/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>

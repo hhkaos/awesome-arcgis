@@ -83,8 +83,8 @@ function parseHTML(url){
 
                 resolve({html:content, summary: summary});
             }catch(e){
-                console.log("\nError: ",e);
-                console.log("url=",url);
+                console.log("\nError: ", e);
+                console.log("URL: ", url);
             }
 
         });

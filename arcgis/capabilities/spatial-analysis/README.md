@@ -13,8 +13,7 @@
 
 ## Examples
 
-Using spatial analysis you can use spatial information to improve the answer to
-complex questions like:
+Using spatial analysis you can use spatial information to improve the answer to complex questions like:
 
 * [Where should I open my next store and how much I'm going to earn?](http://envisioning.maps.arcgis.com/apps/MapJournal/index.html?appid=59800d93fd194d2084c1555d1f6492b1)
 

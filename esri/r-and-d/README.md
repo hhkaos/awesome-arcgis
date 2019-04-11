@@ -41,12 +41,12 @@ There are eleven R&D centers around the world:
 |North America|[Esri Portland R&D Center](http://pdx.esri.com/) (Maine & Oregon)|Node.js library|
 |North America|[Washington DC](http://dc.esri.com/)|ArcGIS Open Data, Cedar
 |North America|Canada - Ottawa|n.a.|
-|Europe|Wales - Cardiff|n.a.|
-|Europe|Scotland - Edinburgh|n.a.|
-|Europe|France - Cachan|n.a.|
-|Europe|[Switzerland - Zurich](https://www.google.es/search?q=esri+research+and+development+zurich)|3D
+|Europe|[Wales - Cardiff](https://www.esri.com/en-us/about/careers/job-search#@careerPath=@location=UK-Cardiff@jobSearch=)|n.a.|
+|Europe|[Scotland - Edinburgh](https://www.esri.com/en-us/about/careers/job-search#@careerPath=@location=UK-Edinburgh@jobSearch=)|n.a.|
+|Europe|[France - Cachan](https://www.esri.com/en-us/about/careers/job-search#@careerPath=@location=FR-Cachan@jobSearch=)|n.a.|
+|Europe|[Switzerland - Zurich](http://www.esri.com/zurich)|3D
 |Australia|Melbourne|n.a.|
-|Asia|[Beijing - China](http://www.esri.com/landing-pages/careers/devcenter)|Web AppBuilder|
+|Asia|[Beijing - China](https://github.com/Esri-DevCenter-Beijing)|Web AppBuilder|
 |Africa|United Arab Emirates - Sharjah| n.a.|
 
 Github accounts:
@@ -59,6 +59,8 @@ Github accounts:
 [Job positions at R&D centers](http://pdx.esri.com/careers/#jobs)
 
 ### Team
+
+[Esri R&D DC Team](http://dc.esri.com/#ember53)
 
 |Avatar|Linkedin|Github|Twitter|ArcGIS Online|Geonet|Stackoverflow|
 |---|---|---|---|---|---|---|

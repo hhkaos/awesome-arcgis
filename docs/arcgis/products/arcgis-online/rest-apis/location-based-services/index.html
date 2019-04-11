@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Ready To Use Services · Awesome ArcGIS</title>
+        <title>Location Based Services · Awesome ArcGIS</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -2811,7 +2811,7 @@
                 <a href="./">
             
                     
-                    Ready To Use Services
+                    Location Based Services
             
                 </a>
             
@@ -4709,7 +4709,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="../../../../.." >Ready To Use Services</a>
+        <a href="../../../../.." >Location Based Services</a>
     </h1>
 </div>
 
@@ -4727,18 +4727,20 @@
                                 <blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis" target="_blank">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions" target="_blank">contribute in less than a minute</a>.</p>
 </blockquote>
-<h1 id="ready-to-use-services">Ready to use services</h1>
-<p>There are several services hosted on <a href="../../">ArcGIS Online</a> that can be consumed though a REST API.</p>
+<h1 id="location-based-services">Location-based services</h1>
+<p>Location-based services, formerly known as <code>ready to use services</code> are several services hosted on <a href="../../">ArcGIS Online</a> that can be consumed though a REST API.</p>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
 <ul>
 <li><a href="#introduction">Introduction</a></li>
 <li><a href="#services">Services</a><ul>
-<li><a href="#geocoder-service">Geocoder service</a></li>
-<li><a href="#routing-service">Routing service</a></li>
-<li><a href="#geoenrichment-service">GeoEnrichment service</a></li>
-<li><a href="#spatial-analysis">Spatial Analysis</a></li>
+<li><a href="#geocoding-geocoder-service">Geocoding (geocoder service)</a></li>
+<li><a href="#routing-and-directions-routing-service">Routing and Directions (routing service)</a></li>
+<li><a href="#demographics-and-geoenrichment-geoenrichment-service">Demographics and GeoEnrichment (GeoEnrichment service)</a></li>
+<li><a href="#spatial-analysis-spatial-analysis-service">Spatial Analysis (Spatial Analysis service)</a></li>
+<li><a href="#elevation-elevation-service">Elevation (Elevation service)</a></li>
+<li><a href="#packaging-offline-packaging-service">Packaging (Offline Packaging Service)</a></li>
 </ul>
 </li>
 <li><a href="#rest-api-to-calculate-credit-consumption">REST API to calculate credit consumption</a></li>
@@ -4748,26 +4750,36 @@
 <h2 id="introduction">Introduction</h2>
 <p>Some of theres are <em>free</em> and some consume <a href="../../credits/">credits</a>, those that consume credits require to be <a href="../../../../name-users/oauth/README.md">authenticated</a>.</p>
 <h2 id="services">Services</h2>
-<h3 id="geocoder-service">Geocoder service</h3>
+<h3 id="geocoding-geocoder-service">Geocoding (geocoder service)</h3>
 <p>Learn more about the <a href="https://developers.arcgis.com/features/geocoding/" target="_blank">Geocoding and Place Search service</a> and the <a href="https://doc.arcgis.com/en/arcgis-online/reference/geocode-coverage.htm" target="_blank">Geocoder coverage</a>.</p>
-<p>HowTos: <a href="https://developers.arcgis.com/labs/browse/?topic=Geocoding&amp;product=any" target="_blank">Geocoding API DevLabs</a></p>
+<p>HowTos: <a href="https://developers.arcgis.com/labs/browse/?topic=Geocoding&amp;product=any" target="_blank">Geocoding API DevLabs</a>
+<a href="https://developers.arcgis.com/rest/geocode/api-reference/overview-world-geocoding-service.htm" target="_blank">Overview of the World Geocoding Service</a></p>
 <p>Trick: Custom geocoder with candidates filtered by URL: <code>http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry={{Country_code}}</code></p>
 <p>For example:
 <code>http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer?sourceCountry=ESP</code></p>
-<h3 id="routing-service">Routing service</h3>
+<h3 id="routing-and-directions-routing-service">Routing and Directions (routing service)</h3>
 <p>HowTos:</p>
 <ul>
 <li><a href="https://developers.arcgis.com/labs/browse/?topic=Routing&amp;product=any" target="_blank">Routing API DevLabs</a></li>
+<li><a href="https://developers.arcgis.com/rest/network/api-reference/overview-of-network-analysis-services.htm" target="_blank">Overview of network analysis services</a></li>
 <li><a href="http://odoe.net/blog/routing-arcgis-online/" target="_blank">Routing on ArcGIS Online</a></li>
 </ul>
-<h3 id="geoenrichment-service">GeoEnrichment service</h3>
+<h3 id="demographics-and-geoenrichment-geoenrichment-service">Demographics and GeoEnrichment (GeoEnrichment service)</h3>
 <p>HowTos:</p>
 <ul>
 <li><a href="https://developers.arcgis.com/labs/browse/?topic=Demographics&amp;product=any" target="_blank">GeoEnrichment API DevLabs</a></li>
 <li><a href="http://odoe.net/blog/uploading-enriching-data-arcgis-online/" target="_blank">Uploading and enriching data to ArcCGIS Online</a></li>
+<li><a href="https://developers.arcgis.com/rest/geoenrichment/api-reference/geoenrichment-service-overview.htm" target="_blank">The GeoEnrichment service</a></li>
 </ul>
-<h3 id="spatial-analysis">Spatial Analysis</h3>
+<h3 id="spatial-analysis-spatial-analysis-service">Spatial Analysis (Spatial Analysis service)</h3>
 <p>HowTos: <a href="https://developers.arcgis.com/labs/browse/?topic=Spatial-Analysis&amp;product=any" target="_blank">Spatial Analysis API DevLabs</a></p>
+<ul>
+<li><a href="https://developers.arcgis.com/rest/analysis/api-reference/tasks-overview.htm" target="_blank">Overview of tasks contained in the Spatial Analysis service</a></li>
+</ul>
+<h3 id="elevation-elevation-service">Elevation (Elevation service)</h3>
+<p><a href="https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm" target="_blank">Get started with Elevation Analysis services</a></p>
+<h3 id="packaging-offline-packaging-service">Packaging (Offline Packaging Service)</h3>
+<p><a href="https://developers.arcgis.com/rest/packaging/api-reference/offline-packaging-service.htm" target="_blank">Get started</a></p>
 <h2 id="rest-api-to-calculate-credit-consumption">REST API to calculate credit consumption</h2>
 <p>This REST API is not documented but if you debug the <strong>analysis tools</strong> inside the <a href="http://www.arcgis.com/home/webmap/viewer.html" target="_blank">ArcGIS Online Web Viewer</a> whenever you click the &quot;Show credits&quot; link you will find an AJAX request to this endpoint: <code>https://analysis.arcgis.com/arcgis/rest/services/tasks/GPServer/exts/Estimate/&lt;OPERATION&gt;</code>.</p>
 <p>Use it to find the parameters you need to send in order to do the calculations.</p>
@@ -4821,7 +4833,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Ready To Use Services","level":"1.3.12.16.5.1","depth":5,"next":{"title":"Geo Enrichment","level":"1.3.12.16.5.1.1","depth":6,"path":"arcgis/products/arcgis-online/rest-apis/ready-to-use-services/geo-enrichment/README.md","ref":"arcgis/products/arcgis-online/rest-apis/ready-to-use-services/geo-enrichment/README.md","articles":[]},"previous":{"title":"REST APIs","level":"1.3.12.16.5","depth":4,"path":"arcgis/products/arcgis-online/rest-apis/README.md","ref":"arcgis/products/arcgis-online/rest-apis/README.md","articles":[{"title":"Ready To Use Services","level":"1.3.12.16.5.1","depth":5,"path":"arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md","ref":"arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md","articles":[{"title":"Geo Enrichment","level":"1.3.12.16.5.1.1","depth":6,"path":"arcgis/products/arcgis-online/rest-apis/ready-to-use-services/geo-enrichment/README.md","ref":"arcgis/products/arcgis-online/rest-apis/ready-to-use-services/geo-enrichment/README.md","articles":[]}]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","toggle-chapters","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/arcgis-online/rest-apis/ready-to-use-services/README.md","mtime":"2019-04-11T07:59:13.572Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-11T07:59:26.519Z"},"basePath":"../../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Location Based Services","level":"1.3.12.16.5.1","depth":5,"next":{"title":"Geo Enrichment","level":"1.3.12.16.5.1.1","depth":6,"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","ref":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","articles":[]},"previous":{"title":"REST APIs","level":"1.3.12.16.5","depth":4,"path":"arcgis/products/arcgis-online/rest-apis/README.md","ref":"arcgis/products/arcgis-online/rest-apis/README.md","articles":[{"title":"Location Based Services","level":"1.3.12.16.5.1","depth":5,"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/README.md","ref":"arcgis/products/arcgis-online/rest-apis/location-based-services/README.md","articles":[{"title":"Geo Enrichment","level":"1.3.12.16.5.1.1","depth":6,"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","ref":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","articles":[]}]}]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","toggle-chapters","sitemap","ga","disqus","youtube","feed"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"youtube":{},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/README.md","mtime":"2019-04-11T13:12:18.617Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-04-11T13:12:30.347Z"},"basePath":"../../../../..","book":{"language":""}});
         });
     </script>
 </div>

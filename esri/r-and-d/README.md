@@ -32,7 +32,7 @@ Some things that have been produced though the R&D Centers:
 
 [Esri's Research & Development Centers](https://www.youtube.com/watch?v=_tMpRJJXMIQ)
 
-[Hub Tech](https://vimeo.com/user85753599) tech talks from the Esri's DC R&D Center
+[Hub Tech (Vimeo Channel) - R&D DC Center](https://vimeo.com/user85753599) tech talks from the Esri's DC R&D Center
 
 There are eleven R&D centers around the world:
 

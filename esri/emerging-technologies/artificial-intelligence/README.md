@@ -116,6 +116,8 @@ More news:
 
 ## Additional resources
 
+* [Artificial Intelligence: A European Perspective](http://eu-commission.maps.arcgis.com/apps/Cascade/index.html?appid=f0403ce4dcb54d39bfbe4a7db71cd514)
+
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["machine learning"](https://esri-es.github.io/arcgis-search/?search="machine%20learning"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ### Localized resources
@@ -123,6 +125,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 #### Spanish
 
 Noticias:
+
 * [GeoAI: Inteligencia Artificial en ArcGIS](https://www.esri.es/entrada-de-blog/geoai-inteligencia-artificial-arcgis/)
 
 |Title|Length|

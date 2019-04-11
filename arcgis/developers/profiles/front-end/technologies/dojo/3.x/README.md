@@ -1,6 +1,9 @@
 > **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # ArcGIS API for Javascript version 3.x
+
+![ArcGIS API for JavaScript](../../../../../../products/product-thumbnails/dojo.png)  
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
@@ -66,11 +69,14 @@ Yeoman - Generator for ArcGIS JS API applications
 https://github.com/odoe/generator-arcgis-js-app
 
 # People you should know
+
 Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://github.com/esri-es/arcgis-experts](https://github.com/esri-es/arcgis-experts)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
+
+[Introducción al ArcGIS API for JavaScript 3.x](https://esri-es.github.io/intro-jsapi-3x/) + [Video explanation](https://www.youtube.com/watch?v=eiyeO6sAMdM)
 
 ## More info
 

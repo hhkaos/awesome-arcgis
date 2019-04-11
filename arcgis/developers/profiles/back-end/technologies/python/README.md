@@ -54,6 +54,7 @@ You can use your developer Subscription to download it from developers.arcgis.co
 
 #### Training
 
+* [ArcGIS API for Python: Core Concepts and differences with REST API](https://esri.my.salesforce.com/sfc/p/#70000000JXts/a/f2000000Cx7t/SAFCKLbbIJ1eAvbvuG0nTnHrfG4W9DspQnbW91l_1FU)
 * [Documentation](https://developers.arcgis.com/python/)|
 
 #### Videos / Technical talks

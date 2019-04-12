@@ -318,5 +318,6 @@
 <url> <loc>https://hhkaos.github.io/esri/r-and-d/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/esri/support/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/gis/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://hhkaos.github.io/gis/gis-applications/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://hhkaos.github.io/gis/utils/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

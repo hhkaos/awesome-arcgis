@@ -317,4 +317,5 @@
   - [R&D](esri/r-and-d/README.md)
   - [Support](esri/support/README.md)
 - [GIS](gis/README.md)
+  - [GIS Applications](gis/gis-applications/README.md)
   - [Utils](gis/utils/README.md)

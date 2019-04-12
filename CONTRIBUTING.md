@@ -132,7 +132,7 @@ Or you can also watch this video to learn **how to create a new page** using the
 [![Animation showing how to use the Github Online Editor](../../blob/master/assets/Using-%20Github%20Online%20Editor.gif?raw=true)](https://www.youtube.com/watch?v=OndbEzpZ124&t=2s&list=PLVfQL04Y8hoILL6FDtB-zM_gHgkJur3kX&index=1)
 
 
-### Using: Your favorite IDE
+### Using: Your favourite IDE
 
 > **Note**: This option requires you to have a Github account
 

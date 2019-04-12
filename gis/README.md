@@ -22,7 +22,7 @@ If you are not familiarized with the industry vocabulary or applications, here y
 
 > In general, the term describes any information system that integrates, stores, edits, analyzes, shares, and displays geographic information. GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.
 
-**Article**: [1000 GIS Applications & Uses](https://gisgeography.com/gis-applications-uses/) (How GIS is changing the world)
+Check this: [1000 GIS Applications & Uses](./gis-applications/README.md) 
 
 ## GIS core concepts
 

@@ -1,5 +1,4 @@
-node_modules
-ab-results*
+sab-results*
 _book
 awesomebot-results
 settings.json

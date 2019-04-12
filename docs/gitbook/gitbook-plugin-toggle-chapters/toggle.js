@@ -1,5 +1,6 @@
 require(["gitbook", "jQuery"], function(gitbook, $) {
 
+
   function expand(chapter) {
     chapter.show();
     if (chapter.parent().attr('class') != 'summary'
@@ -22,6 +23,21 @@ require(["gitbook", "jQuery"], function(gitbook, $) {
     if ($children.length > 0) {
       $children.show();
     }
+
+    if(getParameterByName("toggleMenu") != null){
+        $(".book").removeClass("with-summary");
+        console.log("Hide summary")
+    }
   });
+
+  function getParameterByName(name, url) {
+  	if (!url) url = window.location.href;
+  	name = name.replace(/[\[\]]/g, '\\$&');
+  	var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+  	results = regex.exec(url);
+  	if (!results) return null;
+  	if (!results[2]) return '';
+  	return decodeURIComponent(results[2].replace(/\+/g, ' '));
+  }
 
 });

@@ -16,6 +16,9 @@ ArcGIS is a mapping and analytics platform that provides set of contextual tools
 - [Imagery & Remote Sensing](#imagery--remote-sensing)
 - [Data Collection & Management](#data-collection--management)
 - [Offline mapping](#offline-mapping)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -12,7 +12,7 @@ Collection of web-based and desktop tools  to help you design, manage and measur
 
 - [Introduction](#introduction)
 - [Training](#training)
-  - [Documentation](#documentation)
+- [Videos](#videos)
 - [Additional resources](#additional-resources)
   - [Related products](#related-products)
 - [Contributions](#contributions)

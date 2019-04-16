@@ -12,8 +12,7 @@ Web-based solution that enables governments, advocates, and citizens to complete
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Training](#training)
-  - [Documentation](#documentation)
+- [Getting started](#getting-started)
 - [Additional resources](#additional-resources)
   - [Related products](#related-products)
 - [Contributions](#contributions)

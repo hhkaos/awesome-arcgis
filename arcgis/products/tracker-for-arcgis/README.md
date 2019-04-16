@@ -11,6 +11,7 @@ Know the real-time location of your most valued assets, your mobile users. Using
 **Table of contents**
 
 - [Introduction](#introduction)
+  - [Videos](#videos)
   - [News](#news)
   - [Additional resources](#additional-resources)
     - [Related products](#related-products)

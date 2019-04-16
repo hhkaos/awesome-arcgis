@@ -28,6 +28,9 @@
   - [Esri Twitter lists](#esri-twitter-lists)
 - [Github accounts](#github-accounts)
 - [ArcGIS Online Users](#arcgis-online-users)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

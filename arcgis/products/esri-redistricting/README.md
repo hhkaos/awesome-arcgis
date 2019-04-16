@@ -12,7 +12,8 @@ Web-based solution that enables governments, advocates, and citizens to complete
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Getting started](#getting-started)
+- [Training](#training)
+  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
   - [Related products](#related-products)
 - [Contributions](#contributions)
@@ -23,7 +24,7 @@ Web-based solution that enables governments, advocates, and citizens to complete
 
 > **Important**: Available in the U.S. only
 
-It provides comprehensive tools for plan creation, management, visualization, editing, and collaboration.
+It is a premium app that provides comprehensive tools for plan creation, management, visualization, editing, and collaboration.
 
 Learn more at: [esri.com/en-us/arcgis/products/esri-redistricting](https://www.esri.com/en-us/arcgis/products/esri-redistricting/overview)
 

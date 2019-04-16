@@ -330,3 +330,12 @@ Here we will focus on team users but you can list User's groups from their profi
     * [Esri_Japan](https://www.arcgis.com/home/user.html?user=Esri_Japan)
     * ...
 * ...
+
+
+## Additional resources
+
+### Localized resources
+
+#### Spanish
+
+* [Sobre Esri](https://geogeeks.maps.arcgis.com/apps/MapJournal/index.html?appid=b39cc99b9e8544b1ad10d83f44fdd127)

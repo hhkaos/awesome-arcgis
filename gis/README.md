@@ -22,7 +22,7 @@ If you are not familiarized with the industry vocabulary or applications, here y
 
 > In general, the term describes any information system that integrates, stores, edits, analyzes, shares, and displays geographic information. GIS applications are tools that allow users to create interactive queries (user-created searches), analyze spatial information, edit data in maps, and present the results of all these operations.
 
-Check this: [1000 GIS Applications & Uses](./gis-applications/README.md) 
+Check this: [1000 GIS Applications & Uses](./gis-applications/README.md)
 
 ## GIS core concepts
 
@@ -47,6 +47,7 @@ Resources:
 
 ### Spanish
 
+* [Introducción al SIG](https://geogeeks.maps.arcgis.com/apps/MapJournal/index.html?appid=3aac420a47244b6983e0fca88e39983b)
 * [Sistemas de información geográfica](https://www.youtube.com/watch?v=c4k4kYQSssg&index=6&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd)
 * [Sistemas de referencia](https://www.youtube.com/watch?v=jvLlq7PILTg&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=7)
 * [Verificar un sistema de referencia](https://www.youtube.com/watch?v=5tMv8Fi_MD8&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=8)

@@ -43,4 +43,5 @@ Afterwards you might want to continue with:
 
 #### Spanish
 
+* [Introducción a ArcGIS](https://www.arcgis.com/apps/MapJournal/index.html?appid=3875c10877da43aaa215d0b216cb2137)
 * [La Plataforma de Análisis y Mapeo](http://geoapps.esri.es/ArcGIS/)

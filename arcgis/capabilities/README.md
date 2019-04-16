@@ -2,7 +2,7 @@
 
 # Capabilities
 
-ArcGIS is a mapping and analytics platform that provides set of contextual tools for mapping and spatial reasoning | Learn more at: [ArcGIS overview](https://www.esri.com/es-es/arcgis/about-arcgis/overview).
+ArcGIS is a mapping and analytics platform that provides set of contextual tools for mapping and spatial reasoning | Learn more at: [ArcGIS overview](https://www.esri.com/en-us/arcgis/about-arcgis/overview).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -66,3 +66,11 @@ Learn more: [Data Collection & Management](../../esri/business-trends/data-manag
 ArcGIS provides and let you build native applications that can download maps for use when your device goes offline. Match your business needs to one of the offline workflows to maximize your productivity.
 
 Learn more: [Offline mapping](./offline/README.md)
+
+## Additional resources
+
+### Localized resources
+
+#### Spanish
+
+[Plataforma ArcGIS: Capacidades](https://www.arcgis.com/apps/MapJournal/index.html?appid=3875c10877da43aaa215d0b216cb2137&section=4)

@@ -18,3 +18,11 @@ This awesome list compile more than 240 resource pages with more than 3500 resou
 * **Get started with ArcGIS or GIS**: go to the [ArcGIS](./arcgis/README.md) resource page a follow the "Getting started" guide.
 * **If you are a developer and want to know what ArcGIS can offer to you**: check the [Developers resource page](./arcgis/developers/README.md).
 * **If you are a startup and want to know what Esri can offer to you**: check the [Startup Program resource page](./esri/partners/programs/startup-program/README.md).
+
+## Additional resources
+
+### Localized resources
+
+#### Spanish
+
+[Introducción a GIS, ArcGIS & Esri](https://geogeeks.maps.arcgis.com/apps/MapSeries/index.html?appid=5a6400a6d9bb45d4a6c389b11de39b45)

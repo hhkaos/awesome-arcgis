@@ -88,7 +88,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Coding
 
-### Code
+### Code    
 
 Developer site:
   * Samples, [example apps](https://developers.arcgis.com/example-apps/), etc.
@@ -169,6 +169,7 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 ### Related products
 
 * Any related product*
+
 * List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 
 ### ArcGIS Online content
@@ -198,7 +199,7 @@ Organizations and the type of relation with this product:
 |---|---|---|
 |[Name](#link-to-awesome-page)|Product ([Product name]) and/or services|Country
 
-*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
+*Do you know any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
 
 ## Contributions
 

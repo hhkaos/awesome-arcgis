@@ -22,6 +22,10 @@ Know the real-time location of your most valued assets, your mobile users. Using
 
 [Learn more](http://enterprise.arcgis.com/en/portal/latest/administer/windows/what-s-new-in-portal-for-arcgis.htm#ESRI_SECTION2_927B59C427CC4853A7729FA0EEF9F033)
 
+## Videos
+
+[Location Tracking for Field Operations](https://www.youtube.com/watch?v=5sh1OVfUPi8)
+
 ## News
 
 * [Location Tracking Debuted at Esri User Conference (July 2018)](https://www.esri.com/arcgis-blog/products/apps/field-mobility/location-tracking-debut-at-esri-international-users-conference-july-9th/)

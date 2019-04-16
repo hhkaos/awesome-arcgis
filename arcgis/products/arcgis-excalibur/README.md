@@ -21,6 +21,8 @@ Cloud-based imagery application. View drone, aircraft, or satellite imagery as c
 
 ## Introduction
 
+This premium web application is available starting from ArcGIS Enterprise 10.7
+
 Learn more at: [esri.com/en-us/arcgis/products/arcgis-excalibur](https://www.esri.com/en-us/arcgis/products/arcgis-excalibur)
 
 ## Training
@@ -28,6 +30,10 @@ Learn more at: [esri.com/en-us/arcgis/products/arcgis-excalibur](https://www.esr
 ### Documentation
 
 [ArcGIS Excalibur Official Documentation](http://enterprise.arcgis.com/en/excalibur/)
+
+## News
+
+[ArcGIS Excalibur is Coming Soon!](https://www.esri.com/arcgis-blog/products/excalibur/imagery/arcgis-excalibur-is-coming-soon/)
 
 ## Additional resources
 

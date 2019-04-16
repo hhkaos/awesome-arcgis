@@ -88,7 +88,7 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ## Coding
 
-### Code
+### Code    
 
 Developer site:
   * Samples, [example apps](https://developers.arcgis.com/example-apps/), etc.
@@ -106,7 +106,8 @@ Github:
 
 *If it make sense, a list to nice apps build using this technology: live previews, videos from [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw) (at plenaries for example: [2018](https://www.youtube.com/watch?v=K2lBYyAGN_c&list=PLaPDDLTCmy4aE-073hhwZQplvJ8MmKZCe), [2017](https://www.youtube.com/watch?v=uHDkhm3QiTY&list=PLaPDDLTCmy4aJoXyro9yWOr2pdIe0mr9A), [2016](https://www.youtube.com/watch?v=Qn7ezk-9iqs&list=PLaPDDLTCmy4ZvztJzqBnGTBoD0Lz9r39S)), [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/), business cases, etc*
 
-Find more awesome projects and cool demos in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=8cb77aecfb4d49cb8460a97181aa5434&start=1&view=list#content).
+Find more awesome projects and cool demos in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=8cb77aecfb4d49cb8460a97181aa5434&view=list&start=1&num=20&searchTerm=PRODUCT#content).
+
 
 ## Support and Community
 
@@ -169,6 +170,7 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 ### Related products
 
 * Any related product*
+
 * List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 
 ### ArcGIS Online content
@@ -198,7 +200,7 @@ Organizations and the type of relation with this product:
 |---|---|---|
 |[Name](#link-to-awesome-page)|Product ([Product name]) and/or services|Country
 
-*Is there any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
+*Do you know any partner or startup you can had with expertise with this product?, learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions)*
 
 ## Contributions
 

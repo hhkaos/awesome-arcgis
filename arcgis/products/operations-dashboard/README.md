@@ -133,6 +133,7 @@ Demo Apps:
 * [Crime data dashboard](http://www.arcgis.com/apps/opsdashboard/index.html#/9ef296f66f724c36bcaf01fc69768ecd)
 * [Wireless Network dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/d6cbca18bed544d08d4adeb5b5ee15ff)
 
+Find more awesome projects and cool demos in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=8cb77aecfb4d49cb8460a97181aa5434&view=list&start=1&num=20&searchTerm=Operations%20Dashboard#content).
 
 ## Support and Community
 
@@ -195,6 +196,8 @@ You might also find interesting content from some [Esri users or groups in ArcGI
 #### Spanish
 
 * [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)
+* [Integración Koop + Operations Dashboard](https://youtu.be/_L5yExxxZPY?t=293) - Conferencia Esri 2018
+* [Dashboard para monitorizar el tráfico en tiempo real en España](https://awesome-arcgis.maps.arcgis.com/home/item.html?id=7fe0d0ee059e414abddbecd2f009763c)
 
 ## Partners and startups
 

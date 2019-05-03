@@ -1,4 +1,4 @@
-> **Note**: this page is only a draft, but this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
+> **Note**: this page is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
 # Operations Dashboard for ArcGIS
 
@@ -195,6 +195,7 @@ You might also find interesting content from some [Esri users or groups in ArcGI
 
 #### Spanish
 
+* [Introducción a Operations Dashboard](https://youtu.be/ViXEKNOz9kU)
 * [Webinar Apps ArcGIS](https://www.youtube.com/watch?v=EGUsNCs2g6c)
 * [Integración Koop + Operations Dashboard](https://youtu.be/_L5yExxxZPY?t=293) - Conferencia Esri 2018
 * [Dashboard para monitorizar el tráfico en tiempo real en España](https://awesome-arcgis.maps.arcgis.com/home/item.html?id=7fe0d0ee059e414abddbecd2f009763c)

@@ -9,7 +9,9 @@ The ArcGIS Living Atlas of the World is the foremost collection of geographic in
 
 ## Introduction
 
-[Living Atlas](https://livingatlas.arcgis.com/en/) is considered the foremost collection of geographic information from around the globe, and it contains more than **[7000 items](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=#content)** ([>2000 authoritative](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=contentstatus%3A%22public_authoritative%22&sortOrder=desc&sortField=numviews&focus=layers#content)) from different sources and types: layers, 2D maps, 3D scenes, tools, applications and storymaps.
+[Living Atlas](https://livingatlas.arcgis.com/en/) is considered the foremost collection of geographic information from around the globe, and it contains more than **[7500 items](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=#content)** ([>2800 authoritative<sup>1</sup>](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&start=1&view=list&contentstatus=org_authoritative&searchTerm=contentstatus%3A%22public_authoritative%22&num=20#content)) from different sources and types: layers, 2D maps, 3D scenes, tools, applications and storymaps.
+
+> **Authoritative<sup>1</sup>:** *Organizations publishing this type of content, such as Esri (including our international distributors) and government agencies, are able to mark the best available content that they are sharing with everyone as ‘Authoritative’ and it will appear as authoritative from that organization. Users that are looking for this type of content can now filter their search results to just show content that is authoritative.*
 
 It is curated by Esri with contributions from its partner and user communities, the Living Atlas contains valuable maps, data layers, tools, services, and apps for geographic analysis. Organized by theme, this content strengthens the diverse and significant work of the GIS community at-large to address global and regional challenges. The Living Atlas is continually growing and evolving, featuring items such as weather, traffic, elevation, demographics, oceans, urban systems, and imagery, that impact people’s lives.
 
@@ -21,13 +23,17 @@ The [Community Maps Program](https://livingatlas.arcgis.com/en/participate/#v=co
 
 ## Limited access content
 
-There are some ready-to-use map layers, analytic tools, and services published by Esri that requires an ArcGIS Online organization or developer account to access.
+As mentioned in the **[Content page](../content/README.md)**, there are some ready-to-use 2D and 3D map, layers, apps, tools and services published by Esri that requires an [ArcGIS account](../account-types/README.md) (organizational user or a free developer account) to access.
 
-|Content type|Example content|Consume credits|
-|---|---|---|
-|Default content|Any content shared publicly|No
-|[Subscriber content](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor61)|NAIP imagery, landscape analysis layers, and historical maps ([view all](http://www.arcgis.com/home/search.html?q=typekeywords%3A%22Requires%20Subscription%22&t=content&start=1&sortOrder=desc&sortField=relevance))|No
-|[Premium content](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm#anchor62)|Demographic and lifestyle maps as well as tools for geocoding, geoenrichment, network analysis, elevation analysis, and spatial analysis ([view all](http://www.arcgis.com/home/search.html?q=typekeywords%3A%22Requires%20Credits%22&t=content&start=1&sortOrder=desc&sortField=relevance))|Yes|
+In the Living Atlas you will find three types of content:
+
+|Content type|Example content|Items|Consume credits|
+|---|---|---|---|
+|Default content|Any content shared publicly|[View items (+5900)](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&view=list&start=1&num=20&searchTerm=-typekeywords%3A%22Requires%20Subscription%22%20-typekeywords%3A%22Requires%20Credits%22#content)|No
+|[Subscriber content](https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-AEC65CAD-F9E3-49AF-A5ED-3CFBCC8E3C3A)|NAIP imagery, landscape analysis layers, and historical maps |[Items (+1000)](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&view=list&start=1&num=20&searchTerm=typekeywords%3A%22Requires%20Subscription%22%20-typekeywords%3A%22Requires%20Credits%22#content)|No
+|[Premium content](https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-7DD6E881-411F-4861-B140-C6E465C1371D)|Demographic and lifestyle maps|[Items (+500)](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&view=list&start=1&num=20&searchTerm=typekeywords%3A%22Requires%20Credits%22#content)|Yes|
+
+> **Note:** Premium content like infographics and some Living Atlas Layers such as tapestry segmentation are charged based on the number of transactions of each item. 1,000 map requests (pan, zoom, and identify) costs 10 credits ($1). Find more at: [Understanding credits consumption by capability](https://doc.arcgis.com/en/arcgis-online/reference/credits.htm#ESRI_SECTION1_709121D2C7694DCAB9B8592F36F7A5BA).
 
 Learn more: [Using subscriber content in Web Apps and Story Maps](https://www.esri.com/arcgis-blog/products/arcgis-online/sharing-collaboration/using-subscriber-content-in-web-apps-and-story-maps/)
 

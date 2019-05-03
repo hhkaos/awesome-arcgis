@@ -29,6 +29,8 @@ Some of theres are *free* and some consume [credits](../../credits/README.md), t
 
 ### Geocoding (geocoder service)
 
+Service URL: [geocode.arcgis.com](https://geocode.arcgis.com)
+
 Learn more about the [Geocoding and Place Search service](https://developers.arcgis.com/features/geocoding/) and the [Geocoder coverage](https://doc.arcgis.com/en/arcgis-online/reference/geocode-coverage.htm).
 
 HowTos: [Geocoding API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Geocoding&product=any)
@@ -42,12 +44,16 @@ For example:
 
 ### Routing and Directions (routing service)
 
+Service URLs: [route.arcgis.com](https://route.arcgis.com) & [logistics.arcgis.com](https://logistics.arcgis.com)
+
 HowTos:
 * [Routing API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Routing&product=any)
 * [Overview of network analysis services](https://developers.arcgis.com/rest/network/api-reference/overview-of-network-analysis-services.htm)
 * [Routing on ArcGIS Online](http://odoe.net/blog/routing-arcgis-online/)
 
 ### Demographics and GeoEnrichment (GeoEnrichment service)
+
+Service URL: [geoenrich.arcgis.com](https://geoenrich.arcgis.com)
 
 HowTos:
 
@@ -57,14 +63,20 @@ HowTos:
 
 ### Spatial Analysis (Spatial Analysis service)
 
+Service URL: [analysis.arcgis.com](https://analysis.arcgis.com)
+
 HowTos: [Spatial Analysis API DevLabs](https://developers.arcgis.com/labs/browse/?topic=Spatial-Analysis&product=any)
 * [Overview of tasks contained in the Spatial Analysis service](https://developers.arcgis.com/rest/analysis/api-reference/tasks-overview.htm)
 
 ### Elevation (Elevation service)
 
+Service URL: [elevation.arcgis.com](https://elevation.arcgis.com)
+
 [Get started with Elevation Analysis services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm)
 
 ### Packaging (Offline Packaging Service)
+
+Service URL: [packaging.arcgis.com](https://packaging.arcgis.com)
 
 [Get started](https://developers.arcgis.com/rest/packaging/api-reference/offline-packaging-service.htm)
 

@@ -2,7 +2,7 @@
 
 # Credits
 
-Service credits are the currency used across ArcGIS and are consumed for specific transactions and types of storage such as storing features, performing analytics, and using premium content.
+Service credits are the currency used across ArcGIS Online to measure the use of some cloud services. They are consumed for specific transactions and types of storage such as storing features, performing analytics, and using premium content.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -71,7 +71,7 @@ Credits are not discounted in real time. This is the update frequency:
 
 * **Storage**: Every hour
 * **Analytics**: Updated approximately every 10 minutes
-* **[Premium Content](https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-7DD6E881-411F-4861-B140-C6E465C1371D)** - updated approximately every 10 minutes (only demographic maps consume credits at this time)
+* **[Premium Content](https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-7DD6E881-411F-4861-B140-C6E465C1371D)**: updated approximately every 10 minutes (only demographic maps consume credits at this time)
 
 Read the [original explanation @ GeoNet](https://community.esri.com/message/797070-re-how-often-are-the-remaining-credits-in-an-account-updated?commentID=797070&et=watches.email.thread#comment-797070).
 
@@ -79,9 +79,9 @@ Read the [original explanation @ GeoNet](https://community.esri.com/message/7970
 
 As mentioned before, hosted services are charged hourly based.
 
-> **Credit Math:** (*Autor: [Kelly Gerrow](https://community.esri.com/thread/209489-arcgis-online-storage-per-day-or-per-month-for-credits#comment-751906)*)
+> **Credit Math Example:** (*Autor: [Kelly Gerrow](https://community.esri.com/thread/209489-arcgis-online-storage-per-day-or-per-month-for-credits#comment-751906)*)
 >
-> Example if you have 10 MB of feature storage for an entire month, it will cost 2.4 credits for the entire month.
+> If you have 10 MB of feature storage for an entire month, it will cost 2.4 credits for the entire month.
 >
 > If you publish and delete feature storage throughout the month, the credit charges reflect these changes due to the size of feature storage scheduled hourly. *This isn't the exact math as I have rounded the numbers and estimated the month, but should provide an idea about how the hourly storage is calculated.*
 >
@@ -93,47 +93,79 @@ As mentioned before, hosted services are charged hourly based.
 
 #### How do I know how many MB my data will consume?
 
+How many MB will take to convert a dataset (CSV, GeoJSON, etc) to a hosted feature service?
+
 > The data storage size is dependent on the actual data, field number and stored geometry in the dataset. Estimations are often inaccurate as all datasets vary. If looking to estimate for budgeting, the most accurate way to determine the size is to upload the data and view the size. Data that is larger than desired can be easily deleted. As mentioned above, short term storage of feature datasets is generally quite low.
 
 Read the [original explanation @ GeoNet](https://community.esri.com/thread/209489-arcgis-online-storage-per-day-or-per-month-for-credits#comment-796896)
 
+> **Warning**: even if you account get blocked, the credits related to featured services will be still charged
+
 #### How can I avoid to get my account blocked
 
-Currently there is no foolproof way to prevent your account from being blocked, but there is an [alert mechanism](https://developers.arcgis.com/account/usage-alerts/) that allows you to set up notifications when you exceed a credit limit (75%, 90%, 100%).
+The most important thing to keep your account from being blocked is:
 
-But the most important thing to keep your account from being blocked is:
-
+* Check the amounts of credits you are using in feature storage frequently
 * Check the number of credits an analysis will take.
-    * Almost every interface using any of the [ready to use ArcGIS Online REST APIs](../rest-apis/location-based-services/README.md) have a credit calculator you can check before executing it.
+    * Every interface using any of the [ready to use ArcGIS Online REST APIs](../rest-apis/location-based-services/README.md) have a credit calculator you can check before executing it.
     * There is also a REST API that can be used programmatically to calculate credit consumption ([learn more](../rest-apis/location-based-services/README.md)).
-* Check the number of credits you have left, but remember that they are not updated in real time ([more info](#how-often-are-credits-discounted)).
-* Be careful when using the features that consume credits: analysis services, premium content and storage.
+* Check the number of credits you have left frequently, but remember that they are not updated in real time ([more info](#how-often-are-credits-discounted)).
 
-### ArcGIS Online Deployment Plan
+In short, be careful when using the features that consume credits: analysis services, premium content and storage.
 
-#### Any plan
+> **Note:** Premium content like infographics and some Living Atlas Layers such as tapestry segmentation are charged based on the number of transactions of each item. 1,000 map requests (pan, zoom, and identify) costs 10 credits ($1). Find more at: [Understanding credits consumption by capability](https://doc.arcgis.com/en/arcgis-online/reference/credits.htm#ESRI_SECTION1_709121D2C7694DCAB9B8592F36F7A5BA).
 
-##### What is a deployment plan and do I have to pay when I go to production?
+### Other important considerations
 
-Not necessarily. A deployment plan licenses the use of ArcGIS Online. If your app uses ArcGIS Online, but doesn’t use more than 50 Credits, and doesn’t generate any revenue you may deploy your apps without a paid deployment plan.
+#### Developer plans
 
-##### Do I have to choose a deployment plan to sign up?
+##### How do they work
 
-No. When you sign up for the ArcGIS Developer Program 50 credits per month are included to develop your applications. You can choose your plan when you go into production or if you need more then 50 credits to develop your application.
+If you signup for free and create a [developer account](../../../account-types/README.md):
+
+* You will be enrolled to the [ArcGIS Developer Subscription Essentials Plan](../../../developers/developer-plan/README.md)
+* You will be provided with one [creator user type](../../../account-types/name-users/README.md) to be able to use all the non-premium apps provided with ArcGIS Online (web, mobile, desktop), the libraries, SDKs and all cloud services (except the Premium Data Store and ArcGIS for IoT).
+* Your account will be configured with the free plan (50 monthly credits) by default
+
+> Note: if you need more users you should buy an [organization account](../../../account-types/README.md).
+
+##### What is a deployment plan? Do I have to pay when I go to production?
+
+Not necessarily, if your app:
+
+* Uses ArcGIS Online
+* But doesn’t consume more than 50 credits per month
+* And doesn’t generate any revenue
+
+You can deploy it for free.
+
+> Examples that would incur no costs:
+- A public site to help find public churches
+- Local government developing a web application to display POIs
+- A retail company building a landing page to show store locations
+- If that last app also enable to find directions to the stores it will only pay if they exceed the 50 free credits per month
+
+
+##### Do I have to choose explicitly a billing option when signing up?
+
+No. When you sign up for the ArcGIS Developer Program 50 credits per month are included to develop your applications.
+
+You can choose another option afterwards when going into production, or anytime if you need more then 50 credits per month.
 
 ##### How do I know when my credits will be refilled?
 
-You can check the `Renewal date` at [arcgis.com/home/organization.html](https://www.arcgis.com/home/organization.html)
+You can check the:
+* `Renewal date` in your [Organization Overview page](https://www.arcgis.com/home/organization.html#overview)
+* `Credits refresh on` in your [Developer Dashboard](https://developers.arcgis.com/dashboard).
+* `subscriptionInfo.expDate` at the [Portal Self REST endpoint](https://developers.arcgis.com/rest/users-groups-and-items/portal-self.htm) (require a valid token).
 
-##### How many MB will take to convert a dataset (CSV, GeoJSON, etc) to a hosted feature service?
+##### Vouchers
 
-*PENDING*
+Vouchers are special codes that provide you additional free credits for a limited time period of time and they normally delivered in promotional campaigns, developer workshops, etc.
 
-##### How hosted featured services are charged?
+To redeem a voucher you just need to go to [developers.arcgis.com/redeem-voucher](https://developers.arcgis.com/redeem-voucher/) and introduce the code.
 
-*PENDING*: They are charged periodically (every X/hours/...)
-
-> Note even if you account get blocked, the credits related to featured services will be charged (*double check needed*)
+It make take up to 30 minutes for credits to be applied to your account.
 
 #### Free plan (50/monthly credits)
 
@@ -146,9 +178,9 @@ You can use your credits on any of our hosted services. If you spent all your cr
 * Generate 50,000 map tiles
 * Store 208 MB of features
 * Store 41 GB of map tiles
-* Geocode 1,250 addresses
-* Perform 1,250 simple routes
-* Perform 100 optimized routes
+* Geocode and store 1,250 addresses
+* Perform 10,000 routes
+* Perform 100 advanced routes
 * Perform 100 drive time calculations
 * Perform 100 closest facility calculations
 * Perform 25 delivery optimization routes
@@ -158,58 +190,79 @@ You can use your credits on any of our hosted services. If you spent all your cr
 * Generate 5 demographic reports
 * Perform spatial analysis on 50,000 features
 
-You're also allowed to view 1,000,000 basemaps per month without consuming any credits.
+You're also allowed 1,000,000 basemap transactions and 1,000,000 geocode (not stored) transactions per month without consuming any credits.
 
-##### What can I do if my account get blocked
+> Info extracted from [ArcGIS for Developers: Terms of Use - FAQ](https://developers.arcgis.com/terms/faq/).
+
+##### What can I do if my account get blocked (restricted state)
 
 If you are a developer and over exceeded the free 50 monthly credits you can:
 
 * Wait until next month, your account will be refilled ([check renewal date](#renewal-date)) (+50 credits)
-* Get a paid [ArcGIS Online Deployment Plan](https://developers.arcgis.com/pricing/credits/)
+* Activate the Pay as you go plan using a credit card
+* Get a pre-paid monthly plan (contact your local distributor)
 
 **Important notes**:
 
-* If you account will not be reset to 50 credits, if you have less than -50 credits your account will be still blocked.
+* Your account will not be reset to 50 credits, if you have less than -50 credits your account will be still blocked.
 
-* Check the amount of fixed credits been consumed for the hosted feature services, maybe you should remove some (credits related to featured services will be charged (*double check needed*))
+* Check the amount of fixed credits been consumed for the hosted feature services, maybe you should remove some (credits related to featured services will be charged even if your account is blocked)
 
-> In some cases it is possible to get a [voucher](#vouchers) through your Esri office locally.
+#### Pay as you go option
 
-#### Monthly paid plans (200 or more monthly credits)
+##### How does it works?
 
-There are several [monthly paid plans](https://developers.arcgis.com/pricing/credits/): $20/$90/$200/$500/$1000/$2000/$4000 and larger plans available for [developer accounts]((../../../account-types/README.md).
+* You can activate it anytime
+* You'll still have 50 free credits per month
+* Once the 50 credits have been consumed, your account remains at 0.1 credits and for each credit consumed you will be charged 10 cents at the end of the month.
+
+##### When you will be charged?
+
+At account renewal date.
+
+##### How long does it take to unlock an account from when I activate it?
+
+It usually takes between 10 and 30 minutes, but if after 24h it has not been unlocked contact your local distributor.
+
+#### Monthly pre-paid option (200 or more monthly credits)
+
+##### How does it works?
+
+* There are several monthly pre-paid plans ( $20 / $90 / $200 / $500 / ... ) and larger plans available for [developer accounts]((../../../account-types/README.md).
+* Each plan will provide you with a fixed number of credits that will be added at the end of the month to you account every month (non-accumulative)
+* To hire one of them contact your local distributor
 
 Remember these plans only allow one [creator user type](../../../account-types/name-users/README.md). If you need more users you should buy an [organization account](../../../account-types/README.md).
 
-##### What if I go over my Deployment Plan limit?
+##### What if I go over my plan limit?
 
-You can configure your subscription to allow "overages"
+You can configure your subscription to allow "overages":
 
 * When your monthly subscription runs out of credits you will be charged a little more per credit than your in-plan fee ($.13/credit vs $.10/credit).
-* You will be billed when you've spent $520 worth of credits (4000 credits) or at the next billing period, whichever comes first
-* You can upgrade your plan at any time.
+* You will be billed at the next billing period or when you've spent $520 worth of credits (4000 credits), whichever comes first.
 
 You can configure your subscription NOT to allow "overages"
 
-* When your monthly subscription runs out of credits, your account will be suspended. You can still log in, but your applications will not be allowed to access services that consume credits (such as directions, bulk geocoding, geoenrichment or demographic maps).
+* When your monthly subscription runs out of credits, your account will be suspended. You can still log in, but your applications will not be allowed to access services that consume credits (such as feature layers, directions, bulk geocoding, geoenrichment or demographic maps).
 * At the next billing cycle, you will receive a new batch of monthly credits.
 
 In each of the two scenarios above, you can configure your subscription to notify you at, for example, 75%, 90%, 100% of your credit usage.
 
 However, you can also upgrade your plan at any time to avoid overages.
 
-##### Can I downgrade my ArcGIS Online Deployment plan to the free plan?
+##### Can I downgrade my pre-paid to the free plan?
 
-Not yet, you would have to create a new developer account an migrate everything from your paid account to the free one.
+Yes the monthly plan can go to free, all you need to do is cancel it, and it will then change to Essentials (free) plan the next month.
 
-To be able to migrate your content **you will need to have your account unblocked**, only then you can use one of the following tools:
-
-* [ArcGIS Online Assistant](https://ago-assistant.esri.com/) (manually)
+> **Note**: if you need to migrate your content you will need to have your account unblocked, only then you can use one of the following tools:
+> * [ArcGIS Online Assistant](https://ago-assistant.esri.com/) (manually)
 * [ArcGIS API for Python](https://developers.arcgis.com/python/) (programmatically)
 * [ArcGIS REST JS](https://esri.github.io/arcgis-rest-js/) (programmatically)
 * [ArcGIS Online REST API](https://developers.arcgis.com/rest/users-groups-and-items/working-with-users-groups-and-items.htm) (programmatically)
 
 ### Organization accounts
+
+Organization accounts works like a pre-paid yearly developer accounts but in this case the ArcGIS Online organization provided support multiple users, role management, credit allocation, etc.
 
 Learn more about [organization accounts](../../../account-types/README.md).
 
@@ -225,12 +278,6 @@ Additional service credits can be purchased in blocks of 1,000 and are good for 
 ### More questions (GeoNet)
 
 You can find more [answered questions about credits works](https://community.esri.com/community/gis/web-gis/arcgisonline/content?filterID=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D&query=credits&sortKey=contentstatus%5Bpublished%5D~objecttype~thread%5Bquestions%5D~thread%5Banswered%5D~subjectAsc&sortOrder=1) in the [ArcGIS Online Place on GeoNet](https://community.esri.com/community/gis/web-gis/arcgisonline).
-
-## Vouchers
-
-Vouchers are special codes that provide you additional free credits for a limited time period of time and they normally delivered in promotional campaigns, developer workshops, etc.
-
-Learn [how to redeem a voucher](#redeem-a-voucher)
 
 ## How to
 
@@ -260,12 +307,6 @@ You can also check the renewal date:
 
 ![Screenshot status page](../../../../assets/checking-renewal-credits-date.png)
 
-### Redeem a voucher
-
-You just need to go to [developers.arcgis.com/redeem-voucher](https://developers.arcgis.com/redeem-voucher/) and introduce the code.
-
-It make take up to 30 minutes for credits to be applied to your account.
-
 Note that vouchers have:
 
 * An activation start and end date
@@ -282,4 +323,7 @@ Note that vouchers have:
 
 ### Localized resources
 
+#### Spanish
+
+* [Cómo configurar el pay as you go](https://www.youtube.com/watch?v=BdEHw9_I740)
 * [APIs - Servicios disponibles en ArcGIS Online (Gratuitos y con créditos)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkXSlfG2gp8nwnkuAoj_x3s-YgTzakbYJwzfLxE4YlntI9u5QDB31ATS0UlVDWhFTCakXKLgdrWHeb/pubhtml)

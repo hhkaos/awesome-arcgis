@@ -60,3 +60,7 @@ Basemaps:
 * [A Dark Version of the Human Geography Basemap](https://www.esri.com/arcgis-blog/products/mapping/mapping/a-dark-version-of-the-human-geography-basemap/)
 * [Exploit Your Basemap](https://www.esri.com/arcgis-blog/products/mapping/mapping/exploit-your-basemap/)
 * [Design custom basemaps with the new ArcGIS Vector Tile Style Editor](https://www.esri.com/arcgis-blog/products/developers/mapping/design-custom-basemaps-with-the-new-arcgis-vector-tile-style-editor/)
+
+## Local resources
+
+CEsri18 - Mapas bonitos (buscar en el canal de Esri España en Youtube) en la sesión técnica de la plenaria (tarde)

@@ -21,18 +21,18 @@
 If you are planning to use ArcGIS **we strongly recommend you to understand the differences** between all the account types you can get **before signing up**.
 
 |Account type|Cost|Sign up|
-|---|---|
-|[Developer account](#developer-account-arcgiscom)|Free|[Sign up](https://developers.arcgis.com/sign-up/)
-|[ArcGIS Online Organization Account](#arcgis-online-organization-account-arcgiscom)|Trial (21-Day)|[Sign up](http://www.arcgis.com/features/free-trial.html)
-|[ArcGIS Online Organization Account](#arcgis-online-organization-account-arcgiscom)|Paid|[Buy now](http://www.esri.com/software/arcgis/arcgisonline/purchase)
+|---|---|---|
+|[Developer account](#developer-account-arcgiscom)|Free|[Sign up](https://developers.arcgis.com/sign-up/)|
+|[ArcGIS Online Organization Account](#arcgis-online-organization-account-arcgiscom)|Trial (21-Day)|[Sign up](http://www.arcgis.com/features/free-trial.html)|
+|[ArcGIS Online Organization Account](#arcgis-online-organization-account-arcgiscom)|Paid|[Buy now](http://www.esri.com/software/arcgis/arcgisonline/purchase)|
 |[ArcGIS Online Public Account](#arcgis-online-public-account-arcgiscom)|Free|[Sign up](https://www.arcgis.com/home/createaccount.html)
-|[Esri Account](#esri-account-esricom)|Free|[Sign up](https://accounts.esri.com/signup)
+|[Esri Account](#esri-account-esricom)|Free|[Sign up](https://accounts.esri.com/signup)|
 
 > **Note**: if you meet the criteria, you can also join to the **3 years [Esri Startup Program](../../esri/partners/programs/startup-program/README.md)** to get most of the tools for free.
 
 ### Developer account (arcgis.com)
 
-**Account type**: FREE & unlimited time
+**Account type**: FREE & do not expire (unlimited time)
 
 This is the one you should use if you want to play around with ArcGIS Online for non commercial purposes.
 

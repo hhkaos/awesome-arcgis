@@ -37,6 +37,7 @@ Resources:
 
 * [Youtube Playlist: Core Concepts for GIS Dev](https://www.youtube.com/playlist?list=PLahIW2YFPQd41lp-z3Jb5Wx2-KB1HG9jC)
 * [Coordinate system ID reference](https://developers.arcgis.com/javascript/3/jshelp/ref_coordsystems.html): Projected Coordinate Systems and Geographic Coordinate Systems
+* [What are map projections](http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/what-are-map-projections.htm)
 
 ## ArcGIS core concepts
 
@@ -50,4 +51,7 @@ Resources:
 * [Introducción al SIG](https://geogeeks.maps.arcgis.com/apps/MapJournal/index.html?appid=3aac420a47244b6983e0fca88e39983b)
 * [Sistemas de información geográfica](https://www.youtube.com/watch?v=c4k4kYQSssg&index=6&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd)
 * [Sistemas de referencia](https://www.youtube.com/watch?v=jvLlq7PILTg&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=7)
+* [Sistemas de referencia (otra explicación)](https://www.youtube.com/watch?v=6YCBgJqJ7Hs&feature=youtu.be&t=10m28s)
 * [Verificar un sistema de referencia](https://www.youtube.com/watch?v=5tMv8Fi_MD8&list=PLwq5dz_FjCx6F9SsNuQVQQKyGzuEuu1hd&index=8)
+* [Sistemas de información geográfica](http://volaya.github.io/libro-sig/index.html)
+* [Diccionario de términos GIS](https://docs.google.com/spreadsheets/d/1TFltk8mMtAO51KdjO3uUwS3slr6IpiFyi1OLEqa63LA/edit#gid=0)

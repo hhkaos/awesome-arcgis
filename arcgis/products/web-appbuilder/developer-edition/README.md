@@ -42,22 +42,22 @@ First resources you should know are:
 
 ### Videos / Technical talks
 
+We have created a [Web AppBuilder Youtube playlist](https://www.youtube.com/watch?v=1YyISH39ahQ&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
 Check [Esri Geodev - Web AppBuilder playlist](https://www.youtube.com/playlist?list=PL0VMTWv3XRwVF_x5Rgu-qnrKoFTzXWh9y)
 
 On [**video.esri.com**](http://video.esri.com/search/web-appbuilder) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).
 
 |Event|Title|Length|
 |---|---|---|
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS Enterprise Deployments](http://www.esri.com/videos/watch?videoid=gDuuNTeMDlQ&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis-enterprise-deployments)|50min 50secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS Advanced Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=WpA5ld-EGp4&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis-advanced-development-tools-and-techniques)|42min 42secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS: Building 3D Apps](http://www.esri.com/videos/watch?videoid=qAGF5W5icjU&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis:-building-3d-apps)|45min 41secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[ArcGIS Web AppBuilder: Creating New Themes](http://www.esri.com/videos/watch?videoid=mVVEwtnfe80&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=arcgis-web-appbuilder:-creating-new-themes)|51min 59secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=9JttgbuZsEs&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 2min 59secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=5049&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-development-tools-and-techniques)|59min 37secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2016|[Web AppBuilder for ArcGIS: Customizing and Extending](http://www.esri.com/videos/watch?videoid=5048&channelid=LegacyVideo&isLegacy=true&title=web-appbuilder-for-arcgis:-customizing-and-extending)|1h 5min 43secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2015|[ArcGIS Web AppBuilder: Development Tools and Techniques](http://www.esri.com/videos/watch?videoid=4568&isLegacy=true&title=arcgis-web-appbuilder-development-tools-and-techniques)|27min 18secs
-|[DevSummit](http://www.esri.com/events/devsummit) 2014|[Customizing and Extending Web AppBuilder for ArcGIS](http://www.esri.com/videos/watch?videoid=3362&channelid=LegacyVideo&isLegacy=true&title=customizing-and-extending-web-appbuilder-for-arcgis)|1h 16min 16secs
-
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Web AppBuilder: An Overview of Editing Capability](https://www.youtube.com/watch?v=1YyISH39ahQ&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=1)|32min 06secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Web AppBuilder for ArcGIS: A Deep Dive into Enterprise Deployment](https://www.youtube.com/watch?v=8brhJaWv9Wc&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=2)|56min 16secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Web AppBuilder for ArcGIS: What's New and What's Coming](https://www.youtube.com/watch?v=R9o1e5eGX_A&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=3)|1h 7secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Web AppBuilder for ArcGIS: JavaScript Apps Made Easy](https://www.youtube.com/watch?v=D1HLtY6hIsk&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=4)|55min 13secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Web AppBuilder for ArcGIS: Developing for Mobile](https://www.youtube.com/watch?v=JiGjgAlx8E8&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=5)|56min 42secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Web AppBuilder for ArcGIS: Customizing and Extending](https://www.youtube.com/watch?v=MKEIvRlybC4&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=6)|54min
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Web AppBuilder for ArcGIS: Advanced Development tools and Techniques](https://www.youtube.com/watch?v=3gp0vAVH724&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=7)|45min 12secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Developing Imagery Apps using the ArcGIS API for JavaScript and WebApp Builder](https://www.youtube.com/watch?v=xmNpRRfegVE&list=PLahIW2YFPQd5YeeGcC8KU4TB_nKU65nXQ&index=8)|59min 45secs
 
 And of course you can search the [most viewed Web AppBuilder videos on Youtube](https://www.youtube.com/results?q=web+appbuilder&sp=CAM%253D).
 

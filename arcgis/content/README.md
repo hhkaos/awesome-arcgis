@@ -69,7 +69,7 @@ Some content hosted in ArcGIS Online and published by Esri like ready-to-use 2D 
 There are three types of content:
 
 |Content type|Example content|# Items|Consume credits|Require account|Provider
-|---|---|---|---|
+|---|---|---|---|---|---|
 |Default content|Any content shared publicly|[View items (+1M)](https://www.arcgis.com/home/group.html?id=47dd57c9a59d458c86d3d6b978560088&view=list&start=1&num=20&searchTerm=#content)|No|No|Any [creator](../account-types/name-users/README.md)|
 |[Subscriber content](https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-AEC65CAD-F9E3-49AF-A5ED-3CFBCC8E3C3A)|NAIP imagery, landscape analysis layers, and historical maps |[Items (+2500)](https://www.arcgis.com/home/search.html?q=typekeywords%3A%22Requires%20Subscription%22%20-typekeywords%3A%22Requires%20Credits%22&start=1&num=20)|No|Yes|Esri
 |[Premium content](https://doc.arcgis.com/en/arcgis-online/reference/faq.htm#GUID-7DD6E881-411F-4861-B140-C6E465C1371D)|Demographic and lifestyle maps as well as tools for geocoding, geoenrichment, network analysis, and spatial analysis|[Items (+1000)](https://www.arcgis.com/home/search.html?q=typekeywords%3A%22Requires%20Credits%22&start=1&num=20)|Yes<sup>1</sup>|Yes|Esri

@@ -18,7 +18,7 @@ It is an extendable AppBuilder that help you to build cross-platform apps, web a
 - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [ArcGIS Online](#arcgis-online)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)

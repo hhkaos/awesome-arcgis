@@ -17,7 +17,7 @@
 - [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Contributions](#contributions)

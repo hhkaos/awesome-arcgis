@@ -13,7 +13,7 @@ Get location-based insight for market planning, site selection, and customer seg
 - [Introduction](#introduction)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Contributions](#contributions)

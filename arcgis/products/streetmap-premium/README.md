@@ -14,7 +14,7 @@ Add data from StreetMap Premium for ArcGIS to your ArcGIS software so you can di
 - [Training](#training)
   - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Contributions](#contributions)
 

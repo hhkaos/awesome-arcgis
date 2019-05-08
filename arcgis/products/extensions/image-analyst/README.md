@@ -12,7 +12,7 @@ This ArcGIS Pro extension gives you access to enriched visualization, geospatial
 
 - [Introduction](#introduction)
   - [Additional resources](#additional-resources)
-    - [Related products or technologies](#related-products)
+    - [Related products or technologies](#related-products-or-technologies)
   - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

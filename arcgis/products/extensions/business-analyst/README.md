@@ -11,7 +11,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

@@ -19,7 +19,7 @@ The Web Map Viewer is a web tool that allow you to create and modify 2D Web maps
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

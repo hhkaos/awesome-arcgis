@@ -9,9 +9,14 @@ Explore any part of the world with ArcGIS Earth. Work with a variety of 3D and 2
 **Table of contents**
 
 - [Introduction](#introduction)
-  - [Additional resources](#additional-resources)
-    - [Related products or technologies](#related-products)
-  - [Contributions](#contributions)
+- [Training](#training)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+- [Support and Community](#support-and-community)
+- [News](#news)
+- [Additional resources](#additional-resources)
+  - [Related products or technologies](#related-products-or-technologies)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

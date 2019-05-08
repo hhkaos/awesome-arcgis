@@ -14,7 +14,7 @@ Know the real-time location of your most valued assets, your mobile users. Using
   - [Videos](#videos)
   - [News](#news)
   - [Additional resources](#additional-resources)
-    - [Related products or technologies](#related-products)
+    - [Related products or technologies](#related-products-or-technologies)
   - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

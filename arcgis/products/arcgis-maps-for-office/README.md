@@ -12,7 +12,7 @@ Microsoft Excel and PowerPoint users can use the power of maps to ask location-r
 
 - [Introduction](#introduction)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Contributions](#contributions)

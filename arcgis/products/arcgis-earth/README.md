@@ -12,7 +12,7 @@ Explore any part of the world with ArcGIS Earth. Work with a variety of 3D and 2
 
 - [Introduction](#introduction)
   - [Additional resources](#additional-resources)
-    - [Related products or technologies](#related-products)
+    - [Related products or technologies](#related-products-or-technologies)
   - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

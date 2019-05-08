@@ -27,7 +27,7 @@ mechanism that allows users of an organization to create and configure
 - [People you should know](#people-you-should-know)
 - [News about Configurable Apps](#news-about-configurable-apps)
 - [Additional Resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Contributions](#contributions)

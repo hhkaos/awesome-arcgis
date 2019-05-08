@@ -14,7 +14,7 @@ Helps you create, customize, share, and apply workplace maps and location data s
 - [Training](#training)
   - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Contributions](#contributions)
 

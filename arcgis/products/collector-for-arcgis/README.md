@@ -19,7 +19,7 @@ App for efficient, accurate data collection on smartphones or tablets replaces p
 - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Partners and startups](#partners-and-startups)

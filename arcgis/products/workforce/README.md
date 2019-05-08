@@ -18,7 +18,7 @@ It is a web and mobile app that can be use to manage your workforce for field in
 - [Community](#community)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Contributions](#contributions)

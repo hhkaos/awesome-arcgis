@@ -18,7 +18,7 @@ The Web Scene Viewer is a web tool that allow you to create and modify 3D Web sc
   - [Examples](#examples)
 - [Build apps](#build-apps)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

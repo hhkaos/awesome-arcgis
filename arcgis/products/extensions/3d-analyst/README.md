@@ -12,7 +12,7 @@ Gain a new perspective by visualizing your information in 3D. Use 3D GIS capabil
 
 - [Introduction](#introduction)
   - [Additional resources](#additional-resources)
-    - [Related products or technologies](#related-products)
+    - [Related products or technologies](#related-products-or-technologies)
   - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

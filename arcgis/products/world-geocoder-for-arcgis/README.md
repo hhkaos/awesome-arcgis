@@ -9,9 +9,11 @@ World Geocoder for ArcGIS enables you to securely map your global addresses quic
 **Table of contents**
 
 - [Introduction](#introduction)
-  - [Additional resources](#additional-resources)
-    - [Related products or technologies](#related-products)
-  - [Contributions](#contributions)
+- [Training](#training)
+  - [Videos](#videos)
+- [Additional resources](#additional-resources)
+  - [Related products or technologies](#related-products-or-technologies)
+- [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

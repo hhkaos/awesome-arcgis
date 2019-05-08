@@ -23,7 +23,7 @@ It is a web-based, data analytics workbench where you can explore spatial and no
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Partners and startups](#partners-and-startups)

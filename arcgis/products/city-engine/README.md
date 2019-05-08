@@ -18,7 +18,7 @@ City engine is a desktop tool that allows you to build complex 3D scenarios from
 - [Get the tool](#get-the-tool)
 - [Partners and startups](#partners-and-startups)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

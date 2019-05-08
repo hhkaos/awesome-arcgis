@@ -18,7 +18,7 @@ It is a server-side software that allows you to work with spatial databases, exp
 - [Get the tool](#get-the-tool)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
 - [Partners and startups](#partners-and-startups)

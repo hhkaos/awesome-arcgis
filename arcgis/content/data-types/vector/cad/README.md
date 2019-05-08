@@ -13,7 +13,7 @@ Very detailed models of 2D and 3D objects (buildings, engines, etc.)
 - [Training](#training)
   - [Documentation](#documentation)
   - [Videos](#videos)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [People you should know](#people-you-should-know)
 - [Related pages](#related-pages)
 

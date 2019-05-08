@@ -12,7 +12,7 @@ Panoramas or virtual tours in combination with Virtual Reality provides and inme
 
 - [Introduction](#introduction)
 - [Additional resources](#additional-resources)
-  - [Related products or technologies](#related-products)
+  - [Related products or technologies](#related-products-or-technologies)
   - [Related technologies](#related-technologies)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)

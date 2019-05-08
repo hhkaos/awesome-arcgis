@@ -18,14 +18,16 @@ The Web Scene Viewer is a web tool that allow you to create and modify 3D Web sc
   - [Examples](#examples)
 - [Build apps](#build-apps)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
 
-The [Web Scene Viewer](http://www.esri.com/software/scene-viewer) is a web tool that allow you to create and modify [Web scenes](../../open-specifications/web-scene/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
+> **Disclaimer**: Although this application could be considered a product as such, you will not find any landing page on Esri.com promoting it.
+
+The [Web Scene Viewer](https://www.esri.com/en-us/arcgis/products/3d-scene-viewer) is a web tool that allow you to create and modify [Web scenes](../../open-specifications/web-scene/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
 
 ## Training
 
@@ -66,7 +68,7 @@ After you finish your Web scene you can easly create apps combining it with [con
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Web Scene Viewer"](https://esri-es.github.io/arcgis-search/?search="Web Scene Viewer"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-### Related products
+### Related products or technologies
 
 List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 

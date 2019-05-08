@@ -11,7 +11,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 
@@ -27,7 +27,7 @@ There are extensions for ArcMap, ArcGIS Pro and ArcGIS Enterprise:
 
 > Check the [ArcGIS Enterprise Functionality Matrix](https://assets.esri.com/content/dam/esrisites/media/brochures/arcgis-enterprise-functionality-matrix.pdf)
 
-### Related products
+### Related products or technologies
 
 * [ArcGIS Business Analyst Web and Mobile Apps](../business-analyst/README.md)
 

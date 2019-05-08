@@ -10,6 +10,9 @@ To build great apps you need may need great content, learn what ArcGIS supports.
 
 - [Introduction](#introduction)
 - [Find existing geolocated content in ArcGIS](#find-existing-geolocated-content-in-arcgis)
+- [Downloadable content](#downloadable-content)
+- [Authoritative and deprecated content](#authoritative-and-deprecated-content)
+- [Limited access content](#limited-access-content)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)

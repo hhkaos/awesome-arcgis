@@ -17,31 +17,35 @@ Service credits are the currency used across ArcGIS Online to measure the use of
     - [How are hosted services credit consumption calculated?](#how-are-hosted-services-credit-consumption-calculated)
     - [How do I know how many MB my data will consume?](#how-do-i-know-how-many-mb-my-data-will-consume)
     - [How can I avoid to get my account blocked](#how-can-i-avoid-to-get-my-account-blocked)
-  - [ArcGIS Online Deployment Plan](#arcgis-online-deployment-plan)
-    - [Any plan](#any-plan)
-      - [What is a deployment plan and do I have to pay when I go to production?](#what-is-a-deployment-plan-and-do-i-have-to-pay-when-i-go-to-production)
-      - [Do I have to choose a deployment plan to sign up?](#do-i-have-to-choose-a-deployment-plan-to-sign-up)
+  - [Other important considerations](#other-important-considerations)
+    - [Developer plans](#developer-plans)
+      - [How do they work](#how-do-they-work)
+      - [What is a deployment plan? Do I have to pay when I go to production?](#what-is-a-deployment-plan-do-i-have-to-pay-when-i-go-to-production)
+      - [Do I have to choose explicitly a billing option when signing up?](#do-i-have-to-choose-explicitly-a-billing-option-when-signing-up)
       - [How do I know when my credits will be refilled?](#how-do-i-know-when-my-credits-will-be-refilled)
-      - [How many MB will take to convert a dataset (CSV, GeoJSON, etc) to a hosted feature service?](#how-many-mb-will-take-to-convert-a-dataset-csv-geojson-etc-to-a-hosted-feature-service)
-      - [How hosted featured services are charged?](#how-hosted-featured-services-are-charged)
+      - [Vouchers](#vouchers)
     - [Free plan (50/monthly credits)](#free-plan-50monthly-credits)
       - [What can I do with 50 credits per month?](#what-can-i-do-with-50-credits-per-month)
-      - [What can I do if my account get blocked](#what-can-i-do-if-my-account-get-blocked)
-    - [Monthly paid plans (200 or more monthly credits)](#monthly-paid-plans-200-or-more-monthly-credits)
-      - [What if I go over my Deployment Plan limit?](#what-if-i-go-over-my-deployment-plan-limit)
-      - [Can I downgrade my ArcGIS Online Deployment plan to the free plan?](#can-i-downgrade-my-arcgis-online-deployment-plan-to-the-free-plan)
+      - [What can I do if my account get blocked (restricted state)](#what-can-i-do-if-my-account-get-blocked-restricted-state)
+    - [Pay as you go option](#pay-as-you-go-option)
+      - [How does it works?](#how-does-it-works)
+      - [When you will be charged?](#when-you-will-be-charged)
+      - [How long does it take to unlock an account from when I activate it?](#how-long-does-it-take-to-unlock-an-account-from-when-i-activate-it)
+    - [Monthly pre-paid option (200 or more monthly credits)](#monthly-pre-paid-option-200-or-more-monthly-credits)
+      - [How does it works?](#how-does-it-works-1)
+      - [What if I go over my plan limit?](#what-if-i-go-over-my-plan-limit)
+      - [Can I downgrade my pre-paid to the free plan?](#can-i-downgrade-my-pre-paid-to-the-free-plan)
   - [Organization accounts](#organization-accounts)
       - [How should I manage my credits](#how-should-i-manage-my-credits)
       - [What if I go over my Deployment Plan limit](#what-if-i-go-over-my-deployment-plan-limit)
   - [More questions (GeoNet)](#more-questions-geonet)
-- [Vouchers](#vouchers)
 - [How to](#how-to)
   - [Check your credits remaining credits](#check-your-credits-remaining-credits)
   - [Check the detailed credit consumption](#check-the-detailed-credit-consumption)
   - [Check your credit renewal date](#check-your-credit-renewal-date)
-  - [Redeem a voucher](#redeem-a-voucher)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -320,10 +324,12 @@ Note that vouchers have:
 * [Terms of Use - FAQ](https://developers.arcgis.com/terms/faq/):
 * [ArcGIS Online FAQ](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm)
 * [Premium Feature Data Store](https://www.esri.com/en-us/store/arcgis-online/arcgis-online-premium-data-store): costs are fixed per month as compared to the variable, storage-based costs of a standard feature data store.
+* Slides deck: [ArcGIS Online - Service Credits Explained](https://slides.com/hhkaos/arcgis-online-credits/live#/)
 
 ### Localized resources
 
 #### Spanish
 
-* [Cómo configurar el pay as you go](https://www.youtube.com/watch?v=BdEHw9_I740)
+* Preguntas frecuentes: ¿Cómo funcionan los créditos de ArcGIS Online?: [Vídeo](https://www.arcgis.com/apps/MapJournal/index.html?appid=3875c10877da43aaa215d0b216cb2137&section=8) & [Diapositivas](https://slides.com/hhkaos/arcgis-online-credits/live#/)
+* [Cómo configurar el método de pago "pay as you go"](https://www.youtube.com/watch?v=BdEHw9_I740)
 * [APIs - Servicios disponibles en ArcGIS Online (Gratuitos y con créditos)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkXSlfG2gp8nwnkuAoj_x3s-YgTzakbYJwzfLxE4YlntI9u5QDB31ATS0UlVDWhFTCakXKLgdrWHeb/pubhtml)

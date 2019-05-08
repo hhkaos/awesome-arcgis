@@ -23,7 +23,7 @@
 - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
   - [Localized resources](#localized-resources)
     - [Spanish](#spanish)
   - [Other related list of resources](#other-related-list-of-resources)
@@ -158,7 +158,7 @@ Find more news at:
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Pro SDK"](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=%22ArcGIS+Pro+SDK%22).
 
-### Related products
+### Related products or technologies
 
 List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 

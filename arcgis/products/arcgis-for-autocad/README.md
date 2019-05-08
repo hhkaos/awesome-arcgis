@@ -21,7 +21,7 @@ Free Plug-In for AutoCAD connects you to ArcGIS allowing you to enrich your CAD 
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
   - [ArcGIS Online content](#arcgis-online-content)
 - [Contributions](#contributions)
 
@@ -97,7 +97,7 @@ technology so we recommend you to follow them.
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS for AutoCAD"](https://esri-es.github.io/arcgis-search/?search="ArcGIS for AutoCAD"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-### Related products
+### Related products or technologies
 
 * [ArcGIS Pro](../arcgis-desktop/arcgis-pro/README.md)
 * [ArcMap](../arcgis-desktop/arcmap-arccatalog/README.md)

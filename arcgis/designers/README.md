@@ -13,6 +13,7 @@ No matter your background or your favorite technology, we have putted together m
   - [Support and Community](#support-and-community)
     - [People you should know](#people-you-should-know)
   - [News](#news)
+  - [Local resources](#local-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

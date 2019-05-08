@@ -19,12 +19,14 @@ The Web Map Viewer is a web tool that allow you to create and modify 2D Web maps
 - [Localized resources](#localized-resources)
   - [Spanish](#spanish)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
+> **Disclaimer**: Although this application could be considered a product as such, you will not find any landing page on Esri.com promoting it.
 
 The [Web Map Viewer](https://www.arcgis.com/home/webmap/viewer.html) is a web tool that allow you to create and modify [Web maps](../../../esri/open-vision/open-specifications/web-map/README.md) though a web browser. It is available on [ArcGIS Online](../arcgis-online/README.md) and [Portal for ArcGIS](../arcgis-enterprise/portal-for-arcgis/README.md).
 
@@ -85,7 +87,7 @@ After you finish your Web map you can easily create apps combining it with [conf
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Web Map Viewer"](https://esri-es.github.io/arcgis-search/?search="Web Map Viewer"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-### Related products
+### Related products or technologies
 
 List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 

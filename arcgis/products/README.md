@@ -10,7 +10,7 @@
 - [App Builders](#app-builders)
 - [Extendable products](#extendable-products)
 - [Developer products](#developer-products)
-- [Developer related products](#developer-related-products)
+- [Developer Related products or technologies](#developer-related-products)
 - [Ready to use apps](#ready-to-use-apps)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -59,7 +59,7 @@ Runtime and SDKs
 
 [Learn about licensing](../developers/developer-plan/patterns/customize/README.md)
 
-## Developer related products
+## Developer Related products or technologies
 
 ArcGIS Online
 City Engine

@@ -13,7 +13,7 @@ Very detailed models of 2D and 3D objects (buildings, engines, etc.)
 - [Training](#training)
   - [Documentation](#documentation)
   - [Videos](#videos)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
   - [People you should know](#people-you-should-know)
 - [Related pages](#related-pages)
 
@@ -43,7 +43,7 @@ Currently, [AutoCAD](https://en.wikipedia.org/wiki/AutoCAD) and [MicroStation](h
 
 Youtube Playlists: [ArcGIS + Building Information Modeling & Computer-aided design](https://www.youtube.com/user/GISCADChannel/playlists?disable_polymer=1) (by Don Kuehne, ArcGIS, BIM and CAD expert)
 
-### Related products
+### Related products or technologies
 
 * [ArcGIS for AutoCAD](../../../../products/arcgis-for-autocad/README.md): Free Plug-In for AutoCAD Connects You to ArcGIS
 * [ArcGIS Pro](../../../../products/arcgis-desktop/arcgis-pro/README.md)

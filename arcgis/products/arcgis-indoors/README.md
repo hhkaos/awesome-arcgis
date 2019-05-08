@@ -14,7 +14,7 @@ Helps you create, customize, share, and apply workplace maps and location data s
 - [Training](#training)
   - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Contributions](#contributions)
 
@@ -34,7 +34,7 @@ Learn more at: [esri.com/en-us/arcgis/products/arcgis-indoors](https://www.esri.
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Indoors"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Indoors"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-### Related products
+### Related products or technologies
 
 List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 

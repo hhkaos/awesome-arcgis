@@ -29,7 +29,7 @@
   - [People you should know](#people-you-should-know)
 - [News](#news)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
   - [ArcGIS Online content](#arcgis-online-content)
   - [Localized resources](#localized-resources)
   - [Other related list of resources](#other-related-list-of-resources)
@@ -167,7 +167,7 @@ Replace `PRODUCT` in the next paragraph and remove the \`\`\`.
 * There is also an Awesome ArcGIS organization in ArcGIS Online, explore the [groups](https://awesome-arcgis.maps.arcgis.com/home/groups.html?#featured) or [items](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/?q=orgid%3ArF1wdZICHfgsvter&numResults=300&sortField=relevance&Thumbnail=generateThumbnail%28elem29&Title=elem.title&Details=%27%3Ca+href%3D%22https%3A%2F%2Fwww.arcgis.com%2Fhome%2Fitem.html%3Fid%3D%27%2Belem.id%2B%27%22+target%3D%22_blank%22%3EDetails%3C%2Fa%3E%27&Type=elem.type&Views=elem.numViews&Snippet=elem.snippet)
 ```
 
-### Related products
+### Related products or technologies
 
 * Any related product*
 

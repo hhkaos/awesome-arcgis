@@ -12,7 +12,7 @@ Panoramas or virtual tours in combination with Virtual Reality provides and inme
 
 - [Introduction](#introduction)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
   - [Related technologies](#related-technologies)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)
@@ -33,7 +33,7 @@ There are several ways to integrate a 360 image, through:
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: [360 Pictures and Videos](https://esri-es.github.io/arcgis-search/?search=360%20Pictures%20and%20Videos&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-### Related products
+### Related products or technologies
 
 * ArcGIS API for JS
 * List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)

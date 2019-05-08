@@ -12,7 +12,7 @@ Extension for ArcGIS Pro, ArcMap, and ArcGIS Enterprise that bring spatial data 
 
 - [Introduction](#introduction)
 - [Additional resources](#additional-resources)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -25,7 +25,7 @@ Learn more about [ArcGIS Data Interoperability Extension](https://www.esri.com/e
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Data Interoperability"](https://esri-es.github.io/arcgis-search/?search="Data Interoperability"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
-### Related products
+### Related products or technologies
 
 List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=663480a878724c42aef09a523a8d5139&view=list&start=1&num=20#content)
 

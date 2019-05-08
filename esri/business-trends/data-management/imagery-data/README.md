@@ -13,7 +13,7 @@ Many things can be done though imagery in the ArcGIS platform, here we will poin
     - [Videos](#videos)
   - [Content](#content)
     - [Content providers](#content-providers)
-  - [Related products](#related-products)
+  - [Related products or technologies](#related-products)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -63,7 +63,7 @@ Learn everything about imagery type of content in the platform:
 
 If you don't find what you need any [Esri Office](http://www.esri.com/about-esri/contact) can help you reach a data provider.
 
-## Related products
+## Related products or technologies
 
 There are several products you can use to work imagery content:
 

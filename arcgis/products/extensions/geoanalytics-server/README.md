@@ -42,6 +42,7 @@ In the official documentation (for [Windows](http://server.arcgis.com/en/server/
 * How to perform Analysis
 * Tutorials
     * [Run a GeoAnalytics tool](https://enterprise.arcgis.com/en/portal/latest/use/geoanalytics-tutorial-running-a-geoanalytics-tool.htm)
+* [How to read and write layers in pyspark using the Run Python Script task through the REST API in GeoAnalytics](https://developers.arcgis.com/rest/services-reference/using-webgis-layers-in-pyspark.htm)
 
 You may also want to check:
 

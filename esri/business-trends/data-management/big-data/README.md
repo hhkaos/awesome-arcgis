@@ -76,6 +76,7 @@ There are a set of technologies in the ArcGIS platform you might want to know if
 * [Tutorial: Run a GeoAnalytics tool](https://enterprise.arcgis.com/en/portal/latest/use/geoanalytics-tutorial-running-a-geoanalytics-tool.htm)
 * [From the Big Data Blog at GeoNet](https://community.esri.com/groups/big-data/blog)
     * [Aggregating layers using GeoAnalytics](https://community.esri.com/groups/big-data/blog/2018/07/31/aggregating-layers-using-geoanalytics)
+* [How to read and write layers in pyspark using the Run Python Script task through the REST API in ArcGIS Enterprise](https://developers.arcgis.com/rest/services-reference/using-webgis-layers-in-pyspark.htm)
 
 > Note**: Check for specific training about [GeoEvent](../../../../arcgis/products/extensions/geoevent-server/README.md), [GeoAnalytics](../../../../arcgis/products/extensions/geoanalytics-server/README.md), [Spatiotemporal Big Data Store](../../../../arcgis/products/arcgis-enterprise/data-store/spatiotemporal-big-data-store/README.md) and [ArcGIS Image Server](../../../../arcgis/products/extensions/image-server/README.md) on their respective pages.
 

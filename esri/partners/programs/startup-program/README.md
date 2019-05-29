@@ -57,7 +57,7 @@ International program managers
 
 |Avatar|Linkedin|Twitter|Country|
 |---|---|---|---|
-|![Katie Decker](../../../community/img/katie_decker.jpg)|[Katie Decker](https://www.linkedin.com/in/katdecker/)|[globaldecker](https://twitter.com/globaldecker)|USA
+|![Katie Decker](../../../community/img/katie_decker.jpg)|[Katie Decker](https://www.linkedin.com/in/katdecker/)|[@globaldecker](https://twitter.com/globaldecker)|USA
 |![Stefan Vienken](../../../community/img/Stefan_Vienken.jpeg)|[Stefan Vienken](https://www.linkedin.com/in/stefan-vienken-0974597b/)|[@stefanvienken](https://twitter.com/stefanvienken)|Germany
 |![Raul](../../../community/img/raul_jimenez.jpg)|[Raul Jimenez](https://es.linkedin.com/in/jimenezortegaraul)|[@hhkaos](https://www.twitter.com/hhkaos)| Spain
 |![Katie Lloyd-Wilkinson](../../../community/img/katie-lloyd-wilkinson.jpeg)|[Katie Lloyd-Wilkinson](https://www.linkedin.com/in/katie-lloyd-wilkinson-91747733/)|n.a.|UK

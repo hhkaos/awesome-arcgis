@@ -48,7 +48,7 @@ It is a file format extended from CSV ([vector data types](../../../data-types/v
 ## Tools
 
 * [Display GTFS transit stops and lines (route shapes) in ArcMap or ArcGIS Pro](https://www.arcgis.com/home/item.html?id=380aa7cbf010417ab3ae32a6f11e00d9)
-* [public-transit-tools](https://github.com/esri?utf8=%E2%9C%93&q=gtfs&type=&language=): python tools for working with GTFS public transit data in ArcGIS
+* [public-transit-tools](http://esri.github.io/public-transit-tools/): python tools for working with GTFS public transit data in ArcGIS
 * [gtfsrealtime-for-geoevent](https://github.com/Esri/gtfsrealtime-for-geoevent): ArcGIS GeoEvent Server sample connector for GTFS (Google Transit Feed Specification) real-time feed.
 
 ## Additional resources

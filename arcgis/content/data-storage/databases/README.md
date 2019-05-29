@@ -59,8 +59,9 @@ The functionality:
 * Geometric networks (for route solving)
 * Store toolboxes with geoprocessing tools, python scripts and models built in model builder
 * Story address locators for geocoding tasks
+* Define rules to filter possible attribute values using: domains, subtypes an [contingent values](https://pro.arcgis.com/en/pro-app/help/data/geodatabases/overview/contingent-values.htm)
 
 A geodatabase can:
 
-* store from a few MB until multiple terabytes of vector, raster and tabular data
+* Store from a few MB until multiple terabytes of vector, raster and tabular data
 * Support Multiple users and editor

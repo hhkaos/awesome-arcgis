@@ -127,6 +127,7 @@ You might also find interesting content from some [Esri users or groups in ArcGI
 
 ## Customer references
 
+* Migros (Switzerland's Largest Retailer) [reduces delivery cost 10% using ArcGIS for real time fleet management](https:// https://youtu.be/Gtak1xThxOk?t=109)
 * Transports Capelle (FR): real-time fleet monitoring
 * Heidelberg Cement (DE): implementing ETAs and dynamic routes
 * Correos (ES), UPS (US) & Swiss Post (CH)

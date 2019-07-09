@@ -15,6 +15,5 @@
 ## Introduction
 
 * [docker-arcgis](https://github.com/mraad/docker-arcgis)
-* [Using Apache Spark in an ArcMap Toolbox](https://github.com/mraad/SparkProject)
 
 * iGeometry from [Hussein Nasser](https://www.linkedin.com/in/hnaser/): [Docker and ArcGIS](https://www.youtube.com/playlist?list=PLQnljOFTspQV4ka8Csnl40yaXPzAqg2vs)

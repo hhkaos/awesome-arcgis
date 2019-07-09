@@ -76,7 +76,8 @@ Github:
 * [Source code](https://github.com/koopjs)
 * [Official providers](https://github.com/koopjs?utf8=%E2%9C%93&q=provider&type=&language=): ArcGIS Online, Socrata, Github, Gist, CKAN, Mongo, Google Sheets, Yelp, ACS, Open Data, OSM, and many more
 * [Koop related repos at Esri R&D Center (near) Washington](https://github.com/esridc?utf8=%E2%9C%93&q=koop&type=&language=)
-* [3rd party repositories](https://github.com/topics/koop)
+* 3rd party repositories: [github.com/topics/koop](https://github.com/topics/koop), [github.com/topics/koopjs](https://github.com/topics/koopjs):
+    * **Not tagged**: [apfister/sdmx-koop-provider](https://github.com/apfister/sdmx-koop-provider)
 
 [More at ArcGIS Search](https://esri-es.github.io/arcgis-search/?search=koop+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 

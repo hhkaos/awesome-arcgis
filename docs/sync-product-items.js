@@ -23,6 +23,7 @@ searchItems({
     console.log("response.results.length=",response.results.length);
     response.results.forEach((elem, i) =>{
         //if(elem.id=='bb04b466539446cb9715943406c4c707'){
+            console.log(`${elem.title}\t${elem.id}`)
             parseHTML(elem.url).then(function(obj) {
                 var urlSplitted = elem.url.split('/'),
                     slug = urlSplitted[urlSplitted.length-2];

@@ -69,6 +69,8 @@ Esri's formal training: (*available with a current maintenance subscription*)
 
 ### Videos / Technical talks
 
+Check [this Esri Story Maps Youtube playlist](https://www.youtube.com/playlist?list=PLGZUzt4E4O2LtRVMrFi5-lnmqFWJvlpsH).
+
 On [**video.esri.com**](https://www.esri.com/videos/search?q=%22story%20maps%22#?sortby=recent) you will find many technical talks an it's slides use to be at [**proceedings.esri.com**](http://proceedings.esri.com).
 
 |Source|Title|Length|

@@ -11,8 +11,6 @@ ArcGIS QuickCapture is the fastest way to collect field observations. With this 
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Training](#training)
-  - [Documentation](#documentation)
 - [Additional resources](#additional-resources)
   - [Related products or technologies](#related-products-or-technologies)
   - [Other related list of resources](#other-related-list-of-resources)

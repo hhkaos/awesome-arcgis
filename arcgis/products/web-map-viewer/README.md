@@ -48,6 +48,7 @@ Step by step tutorials:
 * [Style your layers with smart mapping](https://developers.arcgis.com/labs/design/style-your-layers-with-smart-mapping/)  (~10min)
 
 ### Demos
+
   * [Load multiple variables](http://hhkaos.github.io/youtube-embed-portion/?v=gHhV44rdPBA&s=8s&e=7m09s&l=false&m=false) (7min)
   * Analysis:
     * [Aggregate data](http://odoe.net/blog/aggregate-data-arcgis-online/) (11m)
@@ -55,6 +56,7 @@ Step by step tutorials:
     * [Time based data](http://odoe.net/blog/time-based-smart-mapping-arcgis-online/) (7min)
 
 ### Documentation
+
 * [Web Map Viewer](http://doc.arcgis.com/en/arcgis-online/create-maps/create-maps-and-apps.htm#ESRI_SECTION1_5F09915A38324AE6BD5B24368D644453)
 * [Advanced search options](http://doc.arcgis.com/en/arcgis-online/reference/search.htm)
 * Arcade: You can go to the [Arcade page](../../arcade/README.md) to learn how to use this expression language to create better symbolization as you can see [in this video](https://youtu.be/pmZmQlrOho8?t=3m7s).
@@ -84,6 +86,8 @@ After you finish your Web map you can easily create apps combining it with [conf
 * [Análisis de geoenriquecimiento](https://www.youtube.com/watch?v=MvKPced5oI8)
 
 ## Additional resources
+
+Repo: [esri-es/geojson2fs-service](https://github.com/esri-es/geojson2fs-service): Ready to use service that can be used to transform GeoJSON files into ArcGIS Feature Services on the fly. Useful to load third party GeoJSON datasets been hosted and maintained by the third party into Web Maps using the Web Map Viewer
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Web Map Viewer"](https://esri-es.github.io/arcgis-search/?search="Web Map Viewer"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 

@@ -27,6 +27,7 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 
 ## Training
 
+* Tutorial: [Modify Vector Tile Styles to Illustrate Earthquakes](https://learn.arcgis.com/en/projects/modify-vector-tile-styles-to-illustrate-earthquakes/)
 * Tutorial for creating a map and publishing it as a vector basemap: [The Design and Publish Basemaps﻿](http://learn.arcgis.com/en/projects/design-and-publish-basemaps/)
 * [Vector tiles resources at esri.com/training](https://www.esri.com/training/Bookmark/rkecrk9Yl)
 * [Create Vector Tile Package using ArcGIS Pro](http://pro.arcgis.com/en/pro-app/tool-reference/data-management/create-vector-tile-package.htm)
@@ -40,7 +41,11 @@ Is a set of web-accessible tiles and the corresponding style for how those tiles
 
 |Event|Title|Length|
 |---|---|---|
-|None|[Styling Vector Tiles](https://www.youtube.com/watch?v=O54D0kilFtc)|7min 43secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Caching Maps and Vector Tile Layers: Best Practices](https://www.youtube.com/watch?v=ZUSXmbUb9HU)|58min 33secs
+|None 2019|[Styling Vector Tiles](https://www.youtube.com/watch?v=O54D0kilFtc)|7min 43secs
+|[UC](http://www.esri.com/about/events/uc) 2018|[Desktop Mapping: Creating Vector Tiles](https://www.youtube.com/watch?v=dqKsEos1iSw)|1h 19min 12secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2018|[Bringing Your Data to Life in the ArcGIS API for JavaScript: Vector Tiles](https://www.youtube.com/watch?v=Pw3RXqEBvn4)|1h 1min 48secs
+|[UC](http://www.esri.com/about/events/uc) 2017|[Esri UC 2017: Vector Tile Basemaps—DYK?](https://www.youtube.com/watch?v=GxbTqCMlvBA)|2min 30secs
 |[UC](http://www.esri.com/about/events/uc) 2017|[Desktop Mapping: Creating Vector Tiles](https://www.youtube.com/watch?v=dqKsEos1iSw)| 1h 19min 12secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Bringing Your Data to Life in ArcGIS API for JavaScript: Vector Tiles](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 2min 42secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[Vector Tiles in the ArcGIS Platform](http://www.esri.com/videos/watch?videoid=5015&channelid=LegacyVideo&isLegacy=true&title=vector-tiles-in-the-arcgis-platform)|1h 1min 30secs

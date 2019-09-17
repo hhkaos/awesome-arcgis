@@ -16,6 +16,12 @@
 ## Introduction
 
 
+### Localized resources
+
+#### Spanish
+
+* [Geolocalizando tweets en tiempo real con ArcGIS](https://www.youtube.com/watch?v=PeTzi-ficFo)
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["Social networks"](https://esri-es.github.io/arcgis-search/?search="Social%20networks"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

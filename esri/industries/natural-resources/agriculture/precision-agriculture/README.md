@@ -87,6 +87,7 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 
 #### Spanish
 
+* [Imágenes Satélite en la agricultura: desafíos y utilidad](https://www.youtube.com/watch?v=q6iRZvDVO30)
 * [UAM:Uso de Agricultura de Precisión para identificar desórdenes nutricionales en viñedos - CEsri17](https://www.youtube.com/watch?v=5ugr5rBCZRY)
 * [ArcGIS y la agricultura ](https://www.youtube.com/watch?v=uyqC_Al3P5s&feature=youtu.be)
 * [La Vendimia (Storymap)](http://www.esri.es/galeria/la-vendimia/)

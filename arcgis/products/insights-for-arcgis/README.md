@@ -40,6 +40,7 @@ It is a web-based, data analytics workbench where you can explore spatial and no
 ### Documentation
 
 * [Oficial documentation](https://doc.arcgis.com/en/insights/)
+    * [Gallery: Examples from the Insights community](https://doc.arcgis.com/en/insights/gallery/)
 * [Insights for ArcGIS training courses](https://www.esri.com/training/Bookmark/P39W6758S)
 
 ### Tutorials

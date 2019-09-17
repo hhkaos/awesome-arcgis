@@ -22,6 +22,16 @@
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["5G"](https://esri-es.github.io/arcgis-search/?search="5g"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
+## Related
+
+5G promise greater speed and data capabilities to any aspect of our lives, but 5G won’t automatically eliminate today’s deficiencies. Wireless providers will still be challenged to decrease dropped calls, reduce data latency and expand network coverage to more customers.
+
+All this falls on a better planning, fulfillment and assurance of 5G networks, and that can be achieved through combination of AI, big data, predictive capabilities and spatial analysis tools.
+
+Learn more at:
+
+* [Advanced Analytics for Network Strategy in ArcGIS]https://www.youtube.com/watch?v=NHFJV2y2_Nc)
+* [Network Transformation](https://www.arcgis.com/apps/Cascade/index.html?appid=b2903da8069a423c8db99eeab1691251)
 
 ## Contributions
 

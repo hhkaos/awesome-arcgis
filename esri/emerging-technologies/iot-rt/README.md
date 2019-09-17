@@ -38,3 +38,9 @@ There are a set of products in the ArcGIS platform you might want to know if you
 
 * [Real time content published in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list&categories=%5B%22%2FCategories%2FContent%20type%2FReal-time%22%5D#content)
 * [Stream services](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list&searchTerm=stream&categories=%5B%22%2FCategories%2FServices%2FStream%20service%22%5D#content) published in ArcGIS Online
+
+### Localized resources
+
+#### Spanish
+
+* [Geolocalizando tweets en tiempo real con ArcGIS](https://www.youtube.com/watch?v=PeTzi-ficFo)

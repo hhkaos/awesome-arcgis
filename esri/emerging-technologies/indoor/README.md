@@ -159,7 +159,7 @@ Videos:
 ](https://play.google.com/store/apps/details?id=com.grymala.arplan)
 * [Cupix.com](https://www.cupix.com/): Capture a space in 3D
 without a 3D scanner create 3D tours and much more
-
+    * More about: [3D indoor floor plans reconstruction from spherical panoramas](https://www.google.com/search?q=3D+indoor+reconstruction+from+spherical+panoramas): [Agisoft](https://www.agisoft.com/), [AliceVision](https://github.com/alicevision/AliceVision/blob/develop/src/software/utils/main_split360Images.cpp), [LayoutNet](https://github.com/zouchuhang/LayoutNet), etc.
 
 ### Other related list of resources
 

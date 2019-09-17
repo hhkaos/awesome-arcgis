@@ -51,6 +51,8 @@ On [*video.esri.com*](https://www.esri.com/videos/search?q=koop#?sortby=recent) 
 
 |Event|Title|PPT|Length|
 |---|---|---|---|
+|None: Esri Hub Tech|[Inside Koop CLI](https://vimeo.com/344376782)|n.a.|36min 32secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[How to Connect any API to ArcGIS with Koop](https://www.youtube.com/watch?v=hx8yX3kwOVs)|45min 8secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2018|[Integrating ArcGIS with 3rd Party Services](https://www.youtube.com/watch?v=ImYob81zWAk)|n.a.|1h 1min 39secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Koop: Using 3rd Party Services Within the ArcGIS Platform](https://www.youtube.com/watch?v=NTSAvDUvRQM)|[PDF](http://proceedings.esri.com/library/userconf/devsummit-dc17/papers/devsummit-dc_16.pdf)|59min 20secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Ops Fu: Deploying Koop with Docker and Kubernetes](https://www.youtube.com/watch?v=a9P58niTSNM)|[PDF](http://proceedings.esri.com/library/userconf/devsummit-dc17/papers/devsummit-dc_16.pdf)|30min 50secs|

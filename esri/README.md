@@ -329,6 +329,7 @@ Here we will focus on team users but you can list User's groups from their profi
     * [EsriUKEdContent](https://www.arcgis.com/home/user.html?user=EsriUKEdContent)
     * [EsriEspanaContenidos](https://www.arcgis.com/home/user.html?user=EsriEspanaContenidos)
     * [esri_es](https://www.arcgis.com/home/user.html?user=esri_es)
+    * [EsriContenidos](https://twitter.com/EsriContenidos)
     * [Esri_NL_Tools](https://www.arcgis.com/home/item.html?id=4c05e58fc3d74c3b93928c8b7ec211c3)
     * [Esri_Japan](https://www.arcgis.com/home/user.html?user=Esri_Japan)
     * ...

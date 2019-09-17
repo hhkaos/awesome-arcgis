@@ -44,6 +44,7 @@ There are eleven R&D centers around the world:
 |Europe|[Wales - Cardiff](https://www.esri.com/en-us/about/careers/job-search#@careerPath=@location=UK-Cardiff@jobSearch=)|n.a.|
 |Europe|[Scotland - Edinburgh](https://www.esri.com/en-us/about/careers/job-search#@careerPath=@location=UK-Edinburgh@jobSearch=)|n.a.|
 |Europe|[France - Cachan](https://www.esri.com/en-us/about/careers/job-search#@careerPath=@location=FR-Cachan@jobSearch=)|n.a.|
+|Europe|Spain - Barcelona|n.a.|
 |Europe|[Switzerland - Zurich](http://www.esri.com/zurich)|3D
 |Australia|Melbourne|n.a.|
 |Asia|[Beijing - China](https://github.com/Esri-DevCenter-Beijing)|Web AppBuilder|

@@ -8,6 +8,8 @@
 **Table of contents**
 
 - [Introduction](#introduction)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 - [Additional resources](#additional-resources)
 - [Contributions](#contributions)
 

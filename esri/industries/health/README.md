@@ -9,7 +9,7 @@ Learn how ArcGIS is been used to manage Health and Human Services
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

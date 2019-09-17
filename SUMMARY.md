@@ -280,6 +280,8 @@
   - [Industries](esri/industries/README.md)
     - [Entertainment](esri/industries/entertainment/README.md)
       - [Game](esri/industries/entertainment/game/README.md)
+    - [Health](esri/industries/health/README.md)
+      - [Pharma](esri/industries/health/pharma/README.md)
     - [Natural Resources](esri/industries/natural-resources/README.md)
       - [Agriculture](esri/industries/natural-resources/agriculture/README.md)
         - [Precision Agriculture](esri/industries/natural-resources/agriculture/precision-agriculture/README.md)

@@ -9,6 +9,7 @@
 
 - [Introduction](#introduction)
 - [Additional resources](#additional-resources)
+- [Related](#related)
 - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

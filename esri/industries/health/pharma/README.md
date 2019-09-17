@@ -8,8 +8,9 @@ Learn how ArcGIS is been used to manage pharma
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Introduction](#introduction)
-- [Awesome projects and cool demos](#awesome-projects-and-cool-demos)
+- [Additional resources](#additional-resources)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

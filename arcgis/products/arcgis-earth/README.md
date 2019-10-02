@@ -23,6 +23,12 @@ Display data, sketch placemarks, measure distances and areas, and add annotation
 
 [Learn more](http://www.esri.com/software/arcgis-earth)
 
+It is available as a:
+
+* [Windows App](https://www.esri.com/en-us/arcgis/products/arcgis-earth)
+* [Android App](https://play.google.com/store/apps/details?id=com.esri.earth.phone)
+* [iOS App](https://apps.apple.com/us/app/arcgis-earth/id1442724282)
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Earth"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Earth"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

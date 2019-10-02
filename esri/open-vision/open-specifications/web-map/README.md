@@ -56,13 +56,10 @@ technology so we recommend you to follow them.
 
 Slides del MOOC Plataforma ArcGIS Aumentando la productividad:
 
-* [Introducción a los webmaps: Qué son, cuándo usarlos, pros y limitaciones](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/introduccion)
-* [Especificación del webmap: Detalles del formato JSON](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/especificacion)
-* [Cuándo utilizar los web maps/scenes](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/cuando-utilizarlos)
-* [Manipular web maps](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/manipular-web-maps)
-* [Consumir web maps/scenes usando JavaScript](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/consumir-usando-js)
-* [Consejos y trucos](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/consejos-y-trucos)
-* [Web map como BD + Backoffice + API](https://esri-es.github.io/moocs/plataforma-arcgis/desarrolladores-web/web-maps/bd-backoffice-api)
-
-
-
+* [Introducción a los webmaps: Qué son, cuándo usarlos, pros y limitaciones](https://hhkaos.github.io/esri-mooc/plataforma-arcgis/desarrolladores-web/web-maps/introduccion)
+* [Especificación del webmap: Detalles del formato JSON](https://hhkaos.github.io/esri-mooc/plataforma-arcgis/desarrolladores-web/web-maps/especificacion)
+* [Cuándo utilizar los web maps/scenes](https://hhkaos.github.io/esri-mooc/plataforma-arcgis/desarrolladores-web/web-maps/cuando-utilizarlos)
+* [Manipular web maps](https://hhkaos.github.io/esri-mooc/plataforma-arcgis/desarrolladores-web/web-maps/manipular-web-maps)
+* [Consumir web maps/scenes usando JavaScript](https://hhkaos.github.io/esri-mooc/plataforma-arcgis/desarrolladores-web/web-maps/consumir-usando-js)
+* [Consejos y trucos](https://hhkaos.github.io/esri-mooc/plataforma-arcgis/desarrolladores-web/web-maps/consejos-y-trucos)
+* [Web map como BD + Backoffice + API](https://hhkaos.github.io/esri-mooc/plataforma-arcgis/desarrolladores-web/web-maps/bd-backoffice-api)

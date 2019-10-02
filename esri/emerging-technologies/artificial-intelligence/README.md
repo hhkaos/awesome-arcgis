@@ -37,20 +37,36 @@ Deep learning refers to a subset of machine learning composed of algorithms that
 
 ## Training
 
+### Documentation
+
+* Blog article: [Damage assessment using deep learning in ArcGIS](https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/damage-assessment-using-deep-learning-in-arcgis/)
+* ArcGIS Pro docs: [Analysis and geoprocessing > Image Analyst > Deep Learning](https://pro.arcgis.com/en/pro-app/help/analysis/image-analyst/deep-learning-in-arcgis-pro.htm)
+* Learning path: [Extracting Information using Image Classification](https://learn.arcgis.com/en/paths/extracting-information-using-image-classification)
+
 ### Tutorials
 
-* Machine Learning Tutorial: [Predict Seagrass Habitats](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) using [ArcGIS Pro](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md).
+* [Identify trees on a plantation and measure their health using imagery](https://learn.arcgis.com/en/projects/use-deep-learning-to-assess-palm-tree-health/) using [ArcGIS Pro](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md) (1h 40min)
+* [Predict Seagrass Habitats](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) using [ArcGIS Pro](../../../arcgis/products/arcgis-desktop/arcgis-pro/README.md) (1h 30min)
+
 
 
 ### Videos
 
 We have created a [Artificial Intelligence Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
 
-On [*video.esri.com*](https://www.esri.com/videos/search?q=machine learning#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=machine+learning) you will find many technical talks.
+On [*video.esri.com*](https://www.esri.com/videos/search?q=machine%20learning#?sortby=recent) you will find and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=machine+learning) you will find many technical talks.
 
 
 |Event|Title|Length|
 |---|---|---|
+|[DirectionsMag Webinar](https://www.directionsmag.com/webinar/9087) (2019)|[Adopt Deep Learning Workflows in ArcGIS for Faster Analysis](https://www.youtube.com/watch?v=aRN9edpTclw)|56min 48secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[The Forest for the Trees: Making Predictions using Forest-Based Classification and Regression](https://www.youtube.com/watch?v=kDAL2mKnae8&list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH&index=3)|52min 33secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Integrating Machine Learning and Deep Learning with ArcGIS](https://www.youtube.com/watch?v=zxPNSe8tdhY&list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH&index=6)|28min 36secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Deep Dive into Machine Learning in ArcGIS Platform](https://www.youtube.com/watch?v=SvWR2jG9Djw&list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH&index=9)|4h 25min 31secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Using Deep Learning Models with ArcGIS to Extract Information from Imagery](https://www.youtube.com/watch?v=9bYtfoOeN7I&list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH&index=11)|51min 21secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Deep Learning Powered by Raster Analytics](https://www.youtube.com/watch?v=9bYtfoOeN7I&list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH&index=11)|11min 27secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Machine Learning in ArcGIS](https://www.youtube.com/watch?v=7ayMKKnMx9U&list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH&index=4)|1h 18secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Accelerating Outcomes with Machine Learning and Artificial Intelligence](https://www.youtube.com/watch?v=3Bz1uhGfEHw&list=PLahIW2YFPQd4hfpWLy5rGDqCxNbx-qDHH&index=5)|28min 51secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2018|[Artificial Intelligence with Geo](https://www.youtube.com/watch?v=x-hVkgBHkT8)|1h 4min 17secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Using Deep Learning to Extract Feature Data from Imagery](https://www.youtube.com/watch?v=UxaXYgVvkKA)|1h 3min 46secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Getting Data Science with R and ArcGIS](https://www.youtube.com/watch?v=KXCupqtb0-4)|59min 39secs

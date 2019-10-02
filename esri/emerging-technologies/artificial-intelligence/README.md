@@ -10,6 +10,7 @@ Machine learning and deep learning can play a critical role in spatial problem s
 
 - [Introduction](#introduction)
 - [Training](#training)
+  - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
   - [Slides](#slides)

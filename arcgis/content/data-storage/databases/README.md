@@ -8,6 +8,7 @@
 
 - [Introduction](#introduction)
 - [Introduction to Esri Geodatabases](#introduction-to-esri-geodatabases)
+- [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -80,6 +81,7 @@ And
 |n.a.|[Geodatabase Fundamentals](https://www.youtube.com/watch?v=ocSd7NxPvBg&list=PLahIW2YFPQd614YjgzbN1_MNBKDTLBP2w&index=11&t=0s)| 1h 3min 26secs|
 |[DevSummit](http://www.esri.com/events/devsummit) 2017|[Accessing Your Enterprise Geodatabase using SQL](https://www.youtube.com/watch?v=WM_PN7v_HIs&list=PLahIW2YFPQd614YjgzbN1_MNBKDTLBP2w&index=8)|1h 2min 37secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2019|[Administering Your Enterprise Geodatabase using Python](https://www.youtube.com/watch?v=1aphrj5B2fs&list=PLahIW2YFPQd614YjgzbN1_MNBKDTLBP2w&index=1)|54min 16secs
+|n.a.|[Working with a Multi-User Geodatabase](https://www.youtube.com/watch?v=ibGC6ycA_9Y)|1h 0min 46secs
 
 > You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="Geodatabases"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="GeoDatabases"), [EsriTV](https://www.youtube.com/user/esritv/search?query="GeoDatabases"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="GeoDatabases") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
 

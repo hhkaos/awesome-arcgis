@@ -40,6 +40,16 @@ There are a set of products in the ArcGIS platform you might want to know if you
 
 * [Real time content published in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list&categories=%5B%22%2FCategories%2FContent%20type%2FReal-time%22%5D#content)
 * [Stream services](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=2dbc2854083448159d805ca78e7b6763&start=1&view=list&searchTerm=stream&categories=%5B%22%2FCategories%2FServices%2FStream%20service%22%5D#content) published in ArcGIS Online
+* [Public stream services in ArcGIS Online](https://esri-es.github.io/arcgis-developer-tips-and-tricks/arcgis-online/search/?q=typekeywords%3A%22stream+service%22&numResults=100&sortField=relevance&Thumbnail=generateThumbnail(elem)&Title=elem.title&Details=%27%3Ca+href%3D%22https%3A%2F%2Fwww.arcgis.com%2Fhome%2Fitem.html%3Fid%3D%27%2Belem.id%2B%27%22+target%3D%22_blank%22%3EDetails%3C%2Fa%3E%27&Owner=elem.owner&Type=elem.type&Views=elem.numViews)
+  * [Preview several Stream Services simultaneously in a Web Map](http://www.arcgis.com/home/webmap/viewer.html?webmap=55a55a4c08934ba890f7fbd5589cffe6)
+* [Search more about "Stream services"](https://esri-es.github.io/arcgis-search/?amp%3Butm_source=opensearch&search=%22Stream+services%22)
+* [Waze alerts](https://marketplace.arcgis.com/listing.html?id=06723334075647738cec1259078c4dbe)
+* [Traffic camera DGT](https://www.arcgis.com/home/item.html?id=062f317be21d43708d494352e4586265)
+* [GeoRSS Satellites Fires](https://emergency.copernicus.eu/mapping/activations-rapid/feed)
+* [Fiware IoT sensors](https://fiware-tutorials.readthedocs.io/en/latest/iot-sensors/index.html#southbound-traffic-commands)
+* [Weather/wind/...](https://rapidapi.com/blog/access-global-weather-data-with-these-weather-apis/)
+* [Madrid Municipal Transport Company](https://mobilitylabs.emtmadrid.es/es/portal/opendata)
+* [Bus locations in real time (Malaga)](https://datosabiertos.malaga.eu/dataset/ubicaciones-de-autobuses-emt-en-tiempo-real)
 
 ### Localized resources
 

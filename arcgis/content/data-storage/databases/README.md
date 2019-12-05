@@ -65,3 +65,24 @@ A geodatabase can:
 
 * Store from a few MB until multiple terabytes of vector, raster and tabular data
 * Support Multiple users and editor
+
+## Videos
+
+We have created a [Geodatabases Youtube playlist](https://www.youtube.com/channel/PLahIW2YFPQd614YjgzbN1_MNBKDTLBP2w/playlists?disable_polymer=1) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../../assets/SavePlaylist.gif)).
+
+On [*video.esri.com*](https://www.esri.com/videos/search?q=Geodatabases#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=Geodatabases) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
+```
+
+And
+
+|Event|Title|Length|
+|---|---|---|
+|n.a.|[Geodatabase Fundamentals](https://www.youtube.com/watch?v=ocSd7NxPvBg&list=PLahIW2YFPQd614YjgzbN1_MNBKDTLBP2w&index=11&t=0s)| 1h 3min 26secs|
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Accessing Your Enterprise Geodatabase using SQL](https://www.youtube.com/watch?v=WM_PN7v_HIs&list=PLahIW2YFPQd614YjgzbN1_MNBKDTLBP2w&index=8)|1h 2min 37secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Administering Your Enterprise Geodatabase using Python](https://www.youtube.com/watch?v=1aphrj5B2fs&list=PLahIW2YFPQd614YjgzbN1_MNBKDTLBP2w&index=1)|54min 16secs
+
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="Geodatabases"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="GeoDatabases"), [EsriTV](https://www.youtube.com/user/esritv/search?query="GeoDatabases"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="GeoDatabases") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels)
+
+### Slides
+
+More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+GeoDatabases) or check on [GeoNet](https://community.esri.com/content?query=GeoDatabases&filterID=all~objecttype~objecttype%5Bdocument%5D).

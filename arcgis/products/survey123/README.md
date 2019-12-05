@@ -50,13 +50,13 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 ### Videos
 
 * [Survey123 Online version playlist](https://www.youtube.com/watch?v=jfaSlJ6BYr4&list=PLGZUzt4E4O2L7h2PdpL7st93nURZAW58d)
-* [Survey123 Desktop version playlist](https://www.youtube.com/playlist?list=PL2hNiIZRjxo9O510LUg4RCcH3rucrQge0)
+* [Survey123 for ArcGIS](https://www.youtube.com/watch?v=sc4ipuFQ9P8&list=PLahIW2YFPQd41RKEkI1xLvm0ZtpmNMoBr)
 * [Example Field Applications of Spike and Esri's Survey123 for ArcGIS](https://www.youtube.com/watch?v=CxuHhfrwmrU)
 
 ## Community
 
 * [Survey123 GeoNet Group](https://community.esri.com/groups/survey123)
-* [Survey123Community Repo](https://github.com/Esri/Survey123Community):This is the place where you can add your feedback and issues on Survey123.
+* [Survey123Community Repo](https://github.com/Esri/Survey123Community): This is the place where you can add your feedback and issues on Survey123.
 
 ## News
 
@@ -67,7 +67,9 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 
 ## People you should know
 
-Please find the ArcGIS Experts (story tellers and developers) on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Survey123%20for%20ArcGIS](https://esri-es.github.io/arcgis-experts/?topic=Survey123%20for%20ArcGIS)
+Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=Survey123%20for%20ArcGIS):
+
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=Survey123%20for%20ArcGIS)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this

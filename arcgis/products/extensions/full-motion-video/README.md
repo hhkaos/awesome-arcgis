@@ -40,9 +40,15 @@ You can add a file or an stream source if you plain to work with real time video
 ## Training
 
 * [Full Motion Video 1.3.1 User Manual](https://community.esri.com/servlet/JiveServlet/downloadBody/8607-102-1-10723/Full%20Motion%20Video%201.3.1%20User%20Manual.pdf)
-* [Full Motion Video - Entire tutorial](https://esri.app.box.com/s/1wj8k5t44so7oy8phcaioik3zebc9bf0)
-* [Full Motion Video - Tutorial (Document)](https://esri.app.box.com/s/pgsmra3npv54thnmgfwesu82uqey5bc4)
-* [FMV FAQ](https://community.esri.com/docs/DOC-8379-frequently-asked-questions-about-fmv)
+* [Full Motion Video - Tutorial (Document)](https://www.esri.com/training/catalog/57630436851d31e02a43f1cc/get-started-with-arcgis-full-motion-video/)
+* [FMV FAQ](https://esriis-my.sharepoint.com/personal/cody6520_esri_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcody6520%5Fesri%5Fcom%2FDocuments%2FFMV%5FResources%2FFMV%5FFAQ%2Epdf&parent=%2Fpersonal%2Fcody6520%5Fesri%5Fcom%2FDocuments%2FFMV%5FResources&originalPath=aHR0cHM6Ly9lc3JpaXMtbXkuc2hhcmVwb2ludC5jb20vOmI6L2cvcGVyc29uYWwvY29keTY1MjBfZXNyaV9jb20vRVYySENveEZ3dmxIdnc1RWoxMFBWS3NCT3RhUDVWTWpVYUZubEVvemJQemgzUT9ydGltZT1fNjZpbjYxcDEwZw)
+
+|Event|Title|Length|
+|---|---|---|
+|Video title| [X]h [Y]min [z]secs|
+|[Full Motion Video in ArcGIS Pro 2.2](https://www.youtube.com/watch?v=rGFZT9yWzRM)|2min 42secs
+|[Cody Benkelman: Full Motion Video](https://www.youtube.com/watch?v=bhjnrPWnIb8&feature=emb_title)|1min 48secs
+|[Full Motion Video (ArcMap)](https://youtu.be/R5x57d2tOQE)|4min 20secs
 
 ## People you should know
 Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=Full%20Motion%20Video](https://esri-es.github.io/arcgis-experts/?topic=Full%20Motion%20Video)

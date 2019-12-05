@@ -18,7 +18,7 @@ Feature services allow you to serve feature data and nonspatial tables over the 
 
 ## Introduction
 
-Feature services are probably the most used ArcGIS service type. They can be prepare to [work offline](https://enterprise.arcgis.com/en/server/latest/publish-services/windows/prepare-data-for-offline-use.htm), [support edition tracking](https://enterprise.arcgis.com/en/server/latest/publish-services/windows/feature-service-permissions-and-editor-tracking.htm), versioning, etc.
+Feature services are probably the most used ArcGIS service type. They can be prepare to [work offline](https://enterprise.arcgis.com/en/server/latest/publish-services/windows/prepare-data-for-offline-use.htm), [support edition tracking](https://enterprise.arcgis.com/en/server/latest/publish-services/windows/feature-service-permissions-and-editor-tracking.htm), [time-enable](https://doc.arcgis.com/en/arcgis-online/create-maps/configure-time.htm), versioning, etc.
 
 It can be consume from any developer technology:
 

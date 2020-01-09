@@ -27,6 +27,7 @@ var summary_titles =    ["ArcGIS", "GIS","oAuth", "ESA", "PNOA", "HERE",
                         "ArcObjects", "DevOps", "TeamDev", "IKONOS",
                         "QuickBird", "DGN", "DWG", "DXF"];
 
+//Replacing to remove blacnk splaces
 var replace_titles =  [
                         ["R And D", "R\&D"], ["Mac OS", "macOS"],
                         ["D 3", "D3.js"], ["Vuejs", "Vue.js"],
@@ -207,7 +208,7 @@ var commandExists = require('command-exists');
         exec(cmd, function(error, stdout, stderr) {
             console.log("Installing/updating pluggins: ",stdout);
         });
-
+        // comand to remove file summary.md
         cmd = "rm SUMMARY.md'";
         exec(cmd, function(error, stdout, stderr) {
             console.log("Removing old summary ",stdout);

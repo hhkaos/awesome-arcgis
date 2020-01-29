@@ -70,3 +70,12 @@ Digital pictures, or even scanned maps.
 
 * [Imagery Sources and Usage in ArcGIS](https://www.youtube.com/watch?v=pnoj24ncZas&t=5s)
 * [Python: Working with Raster Data](https://www.youtube.com/watch?v=1jx5uRwLld8&t=2625s)
+
+# Additional resources
+
+## Localized resources
+
+### Spanish
+
+* [Imágenes y Teledetección: Conceptos básicos del tratamiento de imágenes en la Plataforma ArcGIS](https://geogeeks.maps.arcgis.com/apps/Cascade/index.html?appid=5072b8d56cef4f7bb5d24e5d840461da)
+* [Tratamiento de imágenes Sentinel-2 con ArcGIS](https://storymaps.arcgis.com/stories/8cf7c8024f6e4eb1bbb1d977bda137cf)

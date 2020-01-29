@@ -6,10 +6,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-  - [Getting started](#getting-started)
-  - [Code](#code)
+- [Training](#training)
+  - [Documentation](#documentation)
   - [Videos](#videos)
-- [Slides](#slides)
+  - [Slides](#slides)
+- [Coding](#coding)
+  - [Code](#code)
+- [Accessible apps and viewers](#accessible-apps-and-viewers)
+- [Support and Community](#support-and-community)
+  - [People you should know](#people-you-should-know)
+- [News](#news)
+- [Additional resources](#additional-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -17,7 +24,8 @@
 
 ### Documentation
 
-* [Section 508 and Esri's Commitment to Accessibility](https://www.esri.com/en-us/legal/accessibility/accessibility-and-overview) * [Voluntary Product Accessibility Templates (VPATs)](https://www.esri.com/en-us/legal/accessibility/vpats).
+* [Section 508 and Esri's Commitment to Accessibility](https://www.esri.com/en-us/legal/accessibility/accessibility-and-overview)
+* [Voluntary Product Accessibility Templates (VPATs)](https://www.esri.com/en-us/legal/accessibility/vpats).
 * [Common Accessibility Questions](https://www.esri.com/en-us/legal/accessibility/common-questions)
 
 

@@ -46,6 +46,7 @@ To complete surveys and get answers you can use Survey123 for ArcGIS for Windows
 
 * [Survey123 Help](http://survey123.arcgis.com/help)
 * [Survey123 Online version FAQ](http://survey123.arcgis.com/help/faq)
+* [Understanding Survey123's custom URL Scheme](https://community.esri.com/groups/survey123/blog/2016/07/30/understanding-survey123s-custom-url-scheme)
 
 ### Videos
 

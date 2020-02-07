@@ -84,6 +84,7 @@ Find slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 ### Code
 
+* [Sample of Jupyter Notebooks for GIS Analysts / Data Scientists](https://github.com/Esri/arcgis-python-api/tree/master/samples/04_gis_analysts_data_scientists)
 * Rohit Singh: [Some experiments with deep learning](https://github.com/rohitgeo/deepdive)
 * Search: [machine learning site:github.com](https://esri-es.github.io/arcgis-search/?search=machine%20learning+site%3Agithub.com&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page)
 

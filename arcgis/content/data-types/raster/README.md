@@ -8,13 +8,17 @@ Rasters are digital aerial photographs, imagery from satellites, digital picture
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-  - [Introduction](#introduction)
-  - [Raster data types](#raster-data-types)
-  - [Training](#training)
+- [Introduction](#introduction)
+- [Raster data types](#raster-data-types)
+- [Training](#training)
+  - [Getting started](#getting-started)
+  - [Documentation and courses](#documentation-and-courses)
   - [Videos](#videos)
-- [Additional resources](#additional-resources)
-  - [Localized resources](#localized-resources)
-    - [Spanish](#spanish)
+  - [Slides](#slides)
+- [Related products or technologies](#related-products-or-technologies)
+- [Other related list of resources](#other-related-list-of-resources)
+- [Localized resources](#localized-resources)
+  - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -115,17 +119,21 @@ There are several products you can use to work imagery content:
 |[ArcGIS Image Analyst Extension](../../../products/extensions/image-analyst/README.md)|[21-day trial](https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial), [Dev. Professional Plan](https://developers.arcgis.com/pricing/compare-plans/#extend-arcgis) or [thru the Startup Program](../../../../esri/partners/programs/startup-program/README.md)|
 |[ArcGIS Image Server Extension](../../../products/extensions/image-server/README.md)|[21-day trial](https://www.esri.com/en-us/arcgis/products/arcgis-pro/trial), [Dev. Professional Plan](https://developers.arcgis.com/pricing/compare-plans/#extend-arcgis) or [thru the Startup Program](../../../../esri/partners/programs/startup-program/README.md)|
 |[ArcGIS Enterprise](../../../products/arcgis-enterprise/README.md)|[Dev. Professional Plan](https://developers.arcgis.com/pricing/compare-plans/#extend-arcgis) or [thru the Startup Program](../../../../esri/partners/programs/startup-program/README.md)|
+|[ArcGIS Excalibur](https://esri-es.github.io/awesome-arcgis/arcgis/products/arcgis-excalibur/)|[Dev. Professional Plan](https://developers.arcgis.com/pricing/compare-plans/#extend-arcgis) or [thru the Startup Program](../../../../esri/partners/programs/startup-program/README.md)|
+|[Ortho Market](https://enterprise.arcgis.com/en/portal/latest/use/introduction-to-ortho-maker.htm)|[Dev. Professional Plan](https://developers.arcgis.com/pricing/compare-plans/#extend-arcgis) or [thru the Startup Program](../../../../esri/partners/programs/startup-program/README.md)|
 |[Drone2Map](../../../products/drone2map/README.md)|[15-day trial](https://marketplace.arcgis.com/listing.html?id=3855a9d026f64917a09bfc78b590c42f)|
 
-### Get the tools
 
-*If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, dowloaded from developers.arcgis.com or any repo, installation guide, if it is accessible though the Startup Program (or any other program), etc*
 
-## Additional resources
+## Other related list of resources
 
-### Localized resources
+* [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets): List of satellite image training datasets with annotations for computer vision and deep learning
+* [awesome-satellite-imagery-competitions](https://github.com/wassname/awesome-satellite-imagery-competitions): List of machine learning competitions for satellite imagery and remote sensing.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision): A curated list of awesome computer vision resources
 
-#### Spanish
+## Localized resources
+
+### Spanish
 
 * [Imágenes y Teledetección: Conceptos básicos del tratamiento de imágenes en la Plataforma ArcGIS](https://geogeeks.maps.arcgis.com/apps/Cascade/index.html?appid=5072b8d56cef4f7bb5d24e5d840461da)
 * [Tratamiento de imágenes Sentinel-2 con ArcGIS](https://storymaps.arcgis.com/stories/8cf7c8024f6e4eb1bbb1d977bda137cf)

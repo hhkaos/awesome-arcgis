@@ -29,6 +29,8 @@ Learn more at: [esri.com/en-us/landing-page/product/2018/arcgis-urban](https://w
 
 * [Boston Planning & Development Agency: A New Revolution in Urban Planning](https://www.youtube.com/watch?v=Ha025XKSPdU)
 
+* [ArcGIS Urban Essential Skills](https://www.youtube.com/watch?v=UxXsWxc9_Qs&list=PLicb-dmvmlXyLu46iLhM__qRhnMI7vsqb)
+
 ## Additional resources
 
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["ArcGIS Urban"](https://esri-es.github.io/arcgis-search/?search="ArcGIS Urban"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).

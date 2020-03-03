@@ -1,6 +1,6 @@
 # Vector Tile Style Editor
 
-Explore any part of the world with ArcGIS Earth. Work with a variety of 3D and 2D map data formats … including KML.
+It Is an online editor that you can use to style vector tile layers and create custom basemaps for your applications. You can edit any of the colors, labels, and sprites for the different layers present, e.g. land, water, roads, boundaries, and nature, and then save the styles as your own basemaps.
 
 ![ArcGIS Earth Screenshot](../product-thumbnails/vector-tile-style-editor.png)  
 

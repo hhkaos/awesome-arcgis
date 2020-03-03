@@ -31,7 +31,6 @@ MDB is a database file used by Microsoft Access, but in a GIS context it use to 
 * **Status**: proprietary
 * **Sample file(s)**: [Personal GeoDatabases sample files](https://www.state.nj.us/transportation/refdata/countysidewalks/downloads.shtm)
 * **Consumable by**:
-    * [ArcGIS Pro](../../../../products/arcgis-desktop/arcgis-pro/README.md) - [How to](http://pro.arcgis.com/en/pro-app/help/projects/connect-to-a-database.htm)
     * [ArcMap](../../../../products/arcgis-desktop/arcmap-arccatalog/README.md) - [How to](http://desktop.arcgis.com/en/arcmap/latest/manage-data/using-arccatalog/connect-to-file-or-personal-geodatabase.htm)
     * ArcObjects
     * ...

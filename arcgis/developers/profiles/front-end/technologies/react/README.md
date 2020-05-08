@@ -5,6 +5,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
+- [Getting started](#getting-started)
+- [Training](#training)
+  - [Documentation](#documentation)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Coding](#coding)
+  - [Code](#code)
 - [News](#news)
 - [Community](#community)
 - [People you should know](#people-you-should-know)

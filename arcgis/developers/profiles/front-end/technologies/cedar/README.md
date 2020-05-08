@@ -5,8 +5,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [Community](#community)
+- [Introduction](#introduction)
+- [Training](#training)
+  - [Documentation](#documentation)
+  - [Videos](#videos)
+- [Coding](#coding)
+  - [Code](#code)
 - [Mixin with ArmCharts](#mixin-with-armcharts)
+- [Community](#community)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

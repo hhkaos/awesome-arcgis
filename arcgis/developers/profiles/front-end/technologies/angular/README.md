@@ -21,16 +21,27 @@ we will show you how in this page.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Training
+
 ### Documentation
+
+* [Using the ArcGIS API for JavaScript with Angular](https://developers.arcgis.com/javascript/latest/guide/angular/)
 * [Angular 1 - Directives v2 API (compatible with ArcGIS 4.x API)](http://esri.github.io/angular-esri-map/docs/#/api)
 * [Angular 1 - Directives v1 API (compatible with ArcGIS 3.x API)](https://arcgis.github.io/angular-esri-map-site-v1/#/home)
 * [Esri + Angular 2](https://github.com/Esri/angular-esri-map/blob/v1.x/README.md#what-about-angular-2)
 
 ### Videos
-On [**video.esri.com**](http://video.esri.com/search/angular) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20angular).
+
+We have created a [ArcGIS JS API + Angular Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd7V8IJ0sTo9kMtqn-sCqs40) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
+On [*video.esri.com*](https://www.esri.com/videos/search?q=angular#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=angular) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|[ArcGIS API for JavaScript: Building Apps with Angular](https://www.youtube.com/watch?v=ea4D-qGU0_0&list=PLahIW2YFPQd7V8IJ0sTo9kMtqn-sCqs40&index=2&t=0s)| 1h 4min 25secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Angular and the ArcGIS API for JavaScript](https://www.youtube.com/watch?v=U8wC0O6-GZk&list=PLahIW2YFPQd7V8IJ0sTo9kMtqn-sCqs40&index=2)| 1h 0min 26secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2018|[Angular and the ArcGIS API for JavaScript](https://www.youtube.com/watch?v=1xvWlnZcHYw&list=PLahIW2YFPQd7V8IJ0sTo9kMtqn-sCqs40&index=3)| 1h 1min 17secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2018|[Kick Starter: Rapid Application Development using Angular CLI](https://www.youtube.com/watch?v=fNaQqkUlMSs&list=PLahIW2YFPQd7V8IJ0sTo9kMtqn-sCqs40&index=4)| 57min 01secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Angular and the ArcGIS API for JavaScript](https://www.youtube.com/watch?v=-xoHdXfB8Y4&list=PLahIW2YFPQd7V8IJ0sTo9kMtqn-sCqs40&index=5)| 57min 47secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2016|[ArcGIS API for JavaScript and AngularJS: What’s New, What’s Next](http://www.esri.com/videos/watch?videoid=5030&isLegacy=true&title=arcgis-api-for-javascript-and-angularjs-whats-new_comma_-whats-next)|58min 33secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Declarative Mapping Applications with AngularJS](http://www.esri.com/videos/watch?videoid=4321&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angularjs)|44min 7secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2014|[Declarative Mapping Applications with Angular JavaScript](http://www.esri.com/videos/watch?videoid=3302&channelid=LegacyVideo&isLegacy=true&title=declarative-mapping-applications-with-angular-javascript)|46min 31secs

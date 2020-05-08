@@ -14,11 +14,14 @@ Learn how to combine [Vue.js](https://vuejs.org/) with ArcGIS API for JavaScript
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
+
 Did you know that [VueJS was the most popular project in 2016](https://risingstars2016.js.org/)?
 
 Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is very easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.
 
 ## Training
+
+* [Using the ArcGIS API for JavaScript with Vue](https://developers.arcgis.com/javascript/latest/guide/vue/)
 * [Using VueJS with ArcGIS API for JavaScript](http://odoe.net/blog/using-vuejs-arcgis-api-javascript/)
 * [ArcGIS API 4 for JS with Vue-cli and Nuxt](http://odoe.net/blog/arcgis-api-4-for-js-with-vue-cli-and-nuxt/)
 

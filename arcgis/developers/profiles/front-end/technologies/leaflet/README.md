@@ -33,10 +33,17 @@
   * [ArcGIS Image Service Support in Esri Leaflet](http://tomwayson.com/2014/08/24/arcgis-image-service-support-in-esri-leaflet/)
 
 ### Videos
-On [**video.esri.com**](http://video.esri.com/search/leaflet) you will find many technical talks and slides from [**proceedings.esri.com**](https://www.google.es/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Aproceedings.esri.com%20leaflet).
+
+We have created an [Esri Leaflet Youtube playlist](https://www.youtube.com/playlist?list=PLahIW2YFPQd7HUzTh2d3mTDvNurkJbuMS) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
+
+On [*video.esri.com*](https://www.esri.com/videos/search?q=esri%20leaflet#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=esri%20leaflet) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
 
 |Event|Title|Length|
 |---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|[Building Apps with Esri Leaflet](https://www.youtube.com/watch?v=KriQnys9dlg&list=PLahIW2YFPQd7HUzTh2d3mTDvNurkJbuMS&index=2&t=0s)|30min 05secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2019|[Building Apps with Esri Leaflet](https://www.youtube.com/watch?v=rPg-WvgKadE&list=PLahIW2YFPQd7HUzTh2d3mTDvNurkJbuMS&index=2)|32min 54secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2018|[Building Apps with Leaflet and the Esri Leaflet Project](https://www.youtube.com/watch?v=h1HXau4gycs&list=PLahIW2YFPQd7HUzTh2d3mTDvNurkJbuMS&index=3)|57min 56secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2017|[Building Apps with Leaflet and the Esri Leaflet Project](https://www.youtube.com/watch?v=CoRxvyorf4A&list=PLahIW2YFPQd7HUzTh2d3mTDvNurkJbuMS&index=4)|49min 58secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Esri Leaflet: An introduction](http://www.esri.com/videos/watch?videoid=4314&channelid=LegacyVideo&isLegacy=true&title=esri-leaflet:-an-introduction)|1h 4min 24 secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Esri Leaflet: Advanced Topics](http://www.esri.com/videos/watch?videoid=4315&channelid=LegacyVideo&isLegacy=true&title=esri-leaflet:-advanced-topics)|51min 23secs
 |[DevSummit](http://www.esri.com/events/devsummit) 2015|[Extend Esri Leaflet with Leaflet Plug-ins](http://www.esri.com/videos/watch?videoid=4420&channelid=LegacyVideo&isLegacy=true&title=extend-esri-leaflet-with-leaflet-plug-ins)|27min 42 secs

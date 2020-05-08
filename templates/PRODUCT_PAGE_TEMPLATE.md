@@ -76,7 +76,7 @@ And
 
 |Event|Title|Length|
 |---|---|---|
-|Event name|Video title| [X]h [Y]min [z]secs|
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|Video title| [X]h [Y]min [z]secs|
 
 > You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="PRODUCT"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="PRODUCT"), [EsriTV](https://www.youtube.com/user/esritv/search?query="PRODUCT"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="PRODUCT") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels), and [distributor's Youtube Channels](../../../esri#youtube-channels)
 

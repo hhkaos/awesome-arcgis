@@ -2,7 +2,7 @@
 
 # ArcGIS Hub
 
-Provides a two-way engagement platform to connect government and citizens. Create new landing pages for initiatives, display widgets linked to data published in ArcGIS Open Data (KPIs, tables, apps, etc.), publish events, etc.
+Provides a two-way engagement platform to connect government and citizens. Create websites for initiatives, display widgets linked to data published in ArcGIS Open Data (KPIs, tables, apps, etc.), publish events, etc.
 
 ![ArcGIS Hub Screenshot](../product-thumbnails/arcgis-hub.png)  
 
@@ -33,53 +33,87 @@ Provides a two-way engagement platform to connect government and citizens. Creat
 This product enable you to create new landing pages for initiatives, display widgets linked to data published in
 [ArcGIS Open Data](../arcgis-online/arcgis-open-data) (KPIs, tables, apps, etc.), publish events, etc.
 
-ArcGIS Hub Sample Instance: [hub.arcgis.com](http://hub.arcgis.com/)
+ArcGIS Hub is available at two license levels: Basic and Premium. ArcGIS Hub Basic is included with ArcGIS Online and delivers data sharing and site creation capabilities, while ArcGIS Hub Premium includes additional features and capabilities for working with teams of people (including members of the community).
 
-> **Note:** ArcGIS Hub is only available on ArcGIS Online.
+ArcGIS Hub Sample Instance: [hub.arcgis.com](https://hub.arcgis.com/)
 
 ## Training
 
-* Documentation: [doc.arcgis.com/en/hub](https://doc.arcgis.com/en/hub/).
+### Documentation
+
+* [ArcGIS Hub official documentation](https://doc.arcgis.com/en/hub/).
+* [ArcGIS Hub at esri.com/training](www.esri.com/training/Bookmark/PK5N54S86)
+
+### Tutorials
+
 * [Hub-Tutorials](https://github.com/esridc/Hub-Tutorials)
+* [ArcGIS Hub How-To Youtube Playlist](https://www.youtube.com/playlist?list=PLGZUzt4E4O2Kw7tG6TiA_pflg-6-rO4rM)
 
 ### Videos / Technical talks
 
-Find more searching for ["ArcGIS Hub" on Youtube](https://www.youtube.com/results?search_query=%22arcgis+hub%22):
+We have created an [ArcGIS Hub & Open Data](https://www.youtube.com/playlist?list=PLahIW2YFPQd4xhLDMSol9pyXP6EbdxkAV) that we think it might be worth to you to save ([how to save a Youtube Playlist](../../../assets/SavePlaylist.gif)).
 
-|Event|Title|Length|Slides
-|---|---|---|---|
-|[GeoDev Webinar series](https://www.youtube.com/watch?v=8BObxY7ZtzA&list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx) |ArcGIS Hub |n.a.|[Slides](https://johngravois.com/presentations/geodev-hub/#/)
-|[UC](http://www.esri.com/about/events/uc) 2017|[ArcGIS Online: Getting Started with Open Data and Initiatives in the ArcGIS Hub](https://www.youtube.com/watch?v=HsFdhsWQiI8)|1h 13min 43secs|n.a.
-|[UC](http://www.esri.com/about/events/uc) 2017|[Esri UC 2017: ArcGIS Hub](https://www.youtube.com/watch?v=7OrvBKEqQiU)|6m 37secs|n.a.|
+On [*video.esri.com*](https://www.esri.com/videos/search?q=ArcGIS%20Hub#?sortby=recent) and [Esri Events](https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=ArcGIS%20Hub) you will find many technical talks. Or check [Esri Geodev](https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw) channel for short videos.
 
-This playlist ([ArcGIS Hub and Open Data](https://www.youtube.com/watch?v=HsFdhsWQiI8&list=PLJN4HgE09_NS_VL3TKG72EIGWXYBpBdYk)) from Andrew Turner is also interesting
+|Event|Title|Length|
+|---|---|---|
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|[How ArcGIS Hub Delivers a Scalable Geospatial Platform on Kubernetes](https://www.youtube.com/watch?v=x3LaUyQJzME&list=PLahIW2YFPQd4xhLDMSol9pyXP6EbdxkAV&index=2&t=0s)|21min 36secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|[Effective Community Engagement with ArcGIS Hub](https://www.youtube.com/watch?v=hkQn6m-MtqU&list=PLahIW2YFPQd4xhLDMSol9pyXP6EbdxkAV&index=2)|57min 51secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|[Deep-Customization of Hub Sites and Enterprise Sites](https://www.youtube.com/watch?v=2OscukHpUeI&list=PLahIW2YFPQd4xhLDMSol9pyXP6EbdxkAV&index=3)|1h 10min 19secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|[Getting Started with Hub + Enterprise Sites](https://www.youtube.com/watch?v=WiAnWWET9gE&list=PLahIW2YFPQd4xhLDMSol9pyXP6EbdxkAV&index=4)|59min 01secs
+|[User Conference](http://www.esri.com/events/uc) 2019|[ArcGIS Hub: An Introduction](https://www.youtube.com/watch?v=Y7-NDBcJd5w&list=PLahIW2YFPQd4xhLDMSol9pyXP6EbdxkAV&index=7)|55min 14secs
+|[DevSummit](http://www.esri.com/events/devsummit) 2020|[Hub for Developers Demo](https://www.youtube.com/watch?v=TQpnNY7Uoc0&list=PLahIW2YFPQd4xhLDMSol9pyXP6EbdxkAV&index=12)|27min 53secs
+|[GeoDev Webinar series](https://www.youtube.com/watch?v=8BObxY7ZtzA&list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx) |ArcGIS Hub |n.a.
+|[UC](http://www.esri.com/about/events/uc) 2017|[ArcGIS Online: Getting Started with Open Data and Initiatives in the ArcGIS Hub](https://www.youtube.com/watch?v=HsFdhsWQiI8)|1h 13min 43secs
+|[UC](http://www.esri.com/about/events/uc) 2017|[Esri UC 2017: ArcGIS Hub](https://www.youtube.com/watch?v=7OrvBKEqQiU)|6m 37secs|
+
+> You might also find interesting videos at [Esri Industries](https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query="ArcGIS%20Hub"), [ArcGIS](https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query="ArcGIS%20Hub"), [EsriTV](https://www.youtube.com/user/esritv/search?query="ArcGIS%20Hub"), [Esri R&D Center](https://www.youtube.com/user/esripdx/search?query="ArcGIS%20Hub") [etc](https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels), and [distributor's Youtube Channels](../../../esri#youtube-channels)
+
+### Slides
+
+More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Aproceedings.esri.com+ArcGIS%20Hub) or check on [GeoNet](https://community.esri.com/content?query=ArcGIS%20Hub&filterID=all~objecttype~objecttype%5Bdocument%5D).
+
+## Get the tool
+
+ArcGIS Hub **Basic** is included with ArcGIS Online, you can use it from a free developer account, to any paid subscription.
+
+In order tu buy a premium license [contact Esri](http://www.esri.com/about-esri/contact#international).
 
 ## Code
 
-* [MyStreet](https://github.com/Esri/MyStreet): Prototype city-viewer app to demonstrate [hub-ready requirements](https://github.com/Esri/MyStreet/blob/master/hub-ready.md).
+* [MyStreet](https://github.com/Esri/MyStreet): Prototype city-viewer app to demonstrate [hub-ready requirements](https://github.com/Esri/MyStreet/#hub-ready-checklist).
 
-## Community
+## Support and Community
+
+If needed, remember you can always check the [Technical Support Website](https://support.esri.com/en/Search-Results#search?q=arcgis%20hub) and the [Technical Support Blog at GeoNet](https://community.esri.com/groups/technical-support/blog/tags#/) to find additional resources.
+
+**Community channels:**
 
 * [ArcGIS Hub on GeoNet](https://community.esri.com/community/gis/web-gis/arcgis-hub)
 
+Vote/share the ideas about PRODUCT @ [ArcGIS Ideas on GeoNet](https://community.esri.com/community/arcgis-ideas/content?filterID=contentstatus%5Bpublished%5D~category%5Barcgis-hub%5D)
+
+
 # People you should know
-Please find the ArcGIS Experts on this topic here: [https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Hub](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Hub)
+
+Please find the [ArcGIS Experts on this topic using this tool](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Hub):
+
+[![ArcGIS Experts Tool Screenshot](https://github.com/esri-es/arcgis-experts/blob/master/assets/imgs/arcgis-experts-tool.png?raw=true)](https://esri-es.github.io/arcgis-experts/?topic=ArcGIS%20Hub)
 
 They don't work on the support team and some may even not work at Esri,
 but they are opening some projects and sharing insights related to this
 technology so we recommend you to follow them.
 
-## Get the tool
+You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS Online](https://awesome-arcgis.maps.arcgis.com/home/group.html?id=f3807dde35134fb5b5f0cdc9b1b506f0&start=1&view=list#content).
 
-[Contact Esri](http://www.esri.com/about-esri/contact#international)
-
-## Spanish
-
-* [Construyendo “Smart Communities” con ArcGIS Hub](https://www.youtube.com/watch?v=bBIkPkhU3zk)
 
 ## News
 
 * [ArcGIS Hub category at blogs.esri.com](https://blogs.esri.com/esri/arcgis/category/arcgis-hub/)
+    * [How to create templates of your ArcGIS Hub initiatives](https://www.esri.com/arcgis-blog/products/arcgis-hub/constituent-engagement/how-to-create-templates-of-your-arcgis-hub-content/)
+    * [Translating ArcGIS Hub sites and pages](https://www.esri.com/arcgis-blog/products/arcgis-hub/constituent-engagement/translating-hub-sites-and-pages/)
+    * [Create a gallery of content using ArcGIS Hub](https://www.esri.com/arcgis-blog/products/arcgis-hub/design-planning/make-your-content-shine-with-arcgis-hub/)
+    * [A quick start guide to ArcGIS Hub Basic](https://www.esri.com/arcgis-blog/products/arcgis-hub/constituent-engagement/launch-a-website-in-five-steps/)
 * [ArcGIS Hub Blog on GeoNet](https://community.esri.com/community/gis/web-gis/arcgis-hub)
 
 ## Additional resources
@@ -96,7 +130,8 @@ List of all Esri products in the ["Esri Products - ArcGIS Platform" group](https
 
 * [Página de producto de ArcGIS Hub](https://www.esri.es/producto/arcgis-hub/)
  * [ArcGIS Hub en la Conferencia Esri España 2018](https://youtu.be/3kZfWIQHFgQ?t=14m44s)
+* [Construyendo “Smart Communities” con ArcGIS Hub](https://www.youtube.com/watch?v=bBIkPkhU3zk)
 
- ## Contributions
+## Contributions
 
- Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/PRODUCT_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).
+Feel free to improve/extend this resource page using [this template](https://github.com/hhkaos/awesome-arcgis/blob/master/templates/ArcGIS%20Hub_PAGE_TEMPLATE.md) ([Contribution Guide](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md)).

@@ -12,17 +12,20 @@ Provides a two-way engagement platform to connect government and citizens. Creat
 
   - [Introduction](#introduction)
   - [Training](#training)
+    - [Documentation](#documentation)
+    - [Tutorials](#tutorials)
     - [Videos / Technical talks](#videos--technical-talks)
-  - [Code](#code)
-  - [Community](#community)
-- [People you should know](#people-you-should-know)
+    - [Slides](#slides)
   - [Get the tool](#get-the-tool)
-  - [Spanish](#spanish)
+  - [Code](#code)
+  - [Support and Community](#support-and-community)
+- [People you should know](#people-you-should-know)
   - [News](#news)
   - [Additional resources](#additional-resources)
     - [Related products or technologies](#related-products-or-technologies)
     - [Localized resources](#localized-resources)
-      - [Spanish](#spanish-1)
+      - [Spanish](#spanish)
+  - [Contributions](#contributions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

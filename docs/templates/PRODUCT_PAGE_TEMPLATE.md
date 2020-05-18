@@ -151,7 +151,7 @@ You can also explore the experts in the [Awesome ArcGIS organization in ArcGIS O
 
 More news:
 
-* ["PRODUCT" at esri.com search engine](https://www.esri.com/en-us/search#/?q=PRODUCT&v=0&tab=Explore&page=1)
+* ["PRODUCT" at esri.com search engine](https://www.esri.com/arcgis-blog/?s=#&products=arcgis-hub)
 * [Blog Posts about "PRODUCT" inside Places at GeoNet](https://community.esri.com/content?query=PRODUCT&filterID=all~objecttype~objecttype%5Bblogpost%5D)
 * Does this topic/product have a [Twitter account](https://github.com/esri-es/awesome-arcgis/tree/master/esri#twitter-accounts) or Hashtag?
 * etc

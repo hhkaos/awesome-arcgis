@@ -13,15 +13,19 @@
 ## Introduction
 
 As part of the [Esri's Open Vision](../README.md), we are
-building [Open APIs and Specifications](http://www.esri.com/software/open/open-apis-and-specs) like:
+building [Open APIs and Specifications](http://www.esri.com/software/open/open-apis-and-specs) that makes possible anyone to use them.
 
-## Specifications
+Learn more about which **[third-party integrations](../../../arcgis/integrations/README.md)**.
 
-* [Web map](web-map/README.md)
-* [i3S](i3S/README.md)
-* [ArcGIS REST API](arcgis-rest-api/README.md)
-* [LERC](https://github.com/Esri/lerc/)
-* [File Geodatabase API](http://www.esri.com/apps/products/download/index.cfm?fuseaction=#File_Geodatabase_API_1.4)
-* [XML Schema for the Geodatabase](http://support.esri.com/en/knowledgebase/whitepapers/view/productid/43/metaid/695)
-* [Shapefile](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)
-* [GeoServices Specification](http://geoservices.github.io/): official name for the ArcGIS feature server API
+## Specifications & vendors
+
+|Specification|Vendors/libraries using it|
+|---|---|
+|[Web map](web-map/README.md)|t.b.d.
+|[i3S](i3S/README.md)|Bentley, Vricon, Pix4D and Melown...
+|[ArcGIS REST API](arcgis-rest-api/README.md)|Waze, Zapier.com, try.io, Argis Lens, what3words, Mapillary, Koop...
+|[LERC](https://github.com/Esri/lerc/)|NASA, ...
+|[File Geodatabase API](http://www.esri.com/apps/products/download/index.cfm?fuseaction=#File_Geodatabase_API_1.4)|t.b.d.
+|[XML Schema for the Geodatabase](http://support.esri.com/en/knowledgebase/whitepapers/view/productid/43/metaid/695)|t.b.d.
+|[Shapefile specification](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf)|[Tons of applications and libraries](https://www.google.com/search?q=%22read+shapefile%22+OR+%22write+shapefile%22+OR+%22load+shapefile%22+-site%3Aesri.com+-site%3Aarcgis.com&oq=%22read+shapefile%22+OR+%22write+shapefile%22+OR+%22load+shapefile%22+-site%3Aesri.com+-site%3Aarcgis.com)
+|[GeoServices Specification](http://geoservices.github.io/)<br> Official name for the ArcGIS feature server API.|Koop, ...

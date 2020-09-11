@@ -145,6 +145,7 @@ Live projects:
 * [Rutas indoor Esri España](http://preventas.maps.arcgis.com/apps/webappviewer/index.html?id=db5eddd09b5b4180bc82ee73f074b2a1)
 * [Responsive App 2D Indoor](http://esriespana.s3.amazonaws.com/iframeiphone/mobile-frame.html?u=http://sigeuz.unizar.es/)
 * [ArcGIS Indoors - Gestión inteligente de los espacios](https://preventas.maps.arcgis.com/apps/Cascade/index.html?appid=47b7243a6a144399ae76d0ea511f871a)
+* [Gemelo Digital](https://indoors1071.esri.es/portal/apps/sites/#/digitaltwin) - Disponible en horario laboral (hora de Madrid)
 * Operation Dashboard:
     * [Gestión Smart Campus UNIZAR](http://preventas.maps.arcgis.com/home/item.html?id=4a74ec30b1fb4364a81a78dcbec668db)
 

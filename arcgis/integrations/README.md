@@ -14,10 +14,14 @@ Find how to integrate your ArcGIS deployment with any other piece of technology 
   - [Data Integration Tools](#data-integration-tools)
 - [ArcGIS Interoperable Products](#arcgis-interoperable-products)
   - [Computer-aided Design & Engineering](#computer-aided-design--engineering)
-  - [Reporting Tools / BI tools](#reporting-tools--bi-tools)
-  - [Facilities / Property / Workplace management](#facilities--property--workplace-management)
-  - [Street-level imagery](#street-level-imagery)
-  - [Content Management Software (CMS)](#content-management-software-cms)
+  - [Reporting Tools / Business Intelligence (BI) tools](#reporting-tools--business-intelligence-bi-tools)
+  - [Facilities / Property / Workplace / Asset Management](#facilities--property--workplace--asset-management)
+  - [Computerized Maintenance Management Software (CMMS)](#computerized-maintenance-management-software-cmms)
+  - [Field Service Management (FSM)](#field-service-management-fsm)
+  - [Business Process Automation](#business-process-automation)
+  - [Data Science Platforms](#data-science-platforms)
+  - [Web Content Management Software (WCMS)](#web-content-management-software-wcms)
+  - [Enterprise Content Management](#enterprise-content-management)
   - [Office productivity](#office-productivity)
   - [Content Collaboration Platforms](#content-collaboration-platforms)
   - [Graphics & Photo Editing](#graphics--photo-editing)
@@ -74,37 +78,86 @@ Below you will find a list of **commercial products and open source technologies
 
 ### Computer-aided Design & Engineering
 
+[Computer-aided design](https://en.wikipedia.org/wiki/Computer-aided_design) (CAD) is the use of computers (or workstations) to aid in the creation, modification, analysis, or optimization of a design.
+
 |Product|Integration type|
 |---|---|
 |Autocad|Revit is supported by ArcGIS Pro. It also exists a free plug-in to connect AutoCAD to ArcGIS ([ArcGIS for Autocad](../products/arcgis-for-autocad/README.md)). Work with Autodesk Civil 3D and InfraWorks directly though the [Autodesk Connector for ArcGIS](https://www.esri.com/en-us/about/esri-partner-network/our-partners/global-alliances/autodesk-esri)
 
-### Reporting Tools / BI tools
+### Reporting Tools / Business Intelligence (BI) tools
+
+[Business intelligence](https://en.wikipedia.org/wiki/Business_intelligence) (BI) comprises the strategies and technologies used by enterprises for the data analysis of business information.[1] BI technologies provide historical, current, and predictive views of business operations.
 
 |Product|Integration type|
 |---|---|
-|Stratio|It is possible to see data from Stratio on ArcGIS
+|Tableau|They provide a connector to ArcGIS Server to set it up as a data  source. The connector also supports connections via GeoService API. Learn more: [support](https://help.tableau.com/current/pro/desktop/en-us/examples_esri.htm) \| [tutorial: Connect to Esri and Oracle](https://www.tableau.com/about/blog/2020/4/more-spatial-data-power-tableau-connect-esri-and-oracle)
 |Power BI|Allow users can tap into the power of geospatial analytics, and access new map themes, demographic data, and map visualizations, inside Power BI. Read more about: [ArcGIS Maps for Power BI](../products/arcgis-maps-for-power-bi/README.md)
+|Stratio|It is possible to see data from Stratio on ArcGIS
 
-### Facilities / Property / Workplace management
+### Facilities / Property / Workplace / Asset Management
+
+[Computer-aided facility management](https://en.wikipedia.org/wiki/Computer-aided_facility_management) (CAFM) is the support of [facility management](https://en.wikipedia.org/wiki/Facility_management) by information technology.[1] The supply of information about the facilities is the center of attention.
 
 |Product|Integration type|
 |---|---|
 |ServiceNow|It is integrated via ArcGIS Indoors ([video](https://youtu.be/Qp06rR0r6m8?t=1134)) which is made by the [Koop Servicenow provide](https://github.com/Esri/indoors-servicenow-feature-service). [Tray.io](https://tray.io/connectors/arcgis-servicenow-integrations) and [Strave](https://blog.staveapps.com/using-arcgis-online-with-servicenow) also offers integrations.
 |Archibus|[ARCHIBUS Inc. is a partner](https://www.esri.com/partners/archibus-inc-a2T70000000TNKTEA4) it provides a [GeoSpatial Extension for Esri](https://archibus.com/products/extensions-framework/geospatial-extensions-for-esri/) : [Video](https://www.youtube.com/watch?v=EXmN4Ihqr6Q) \| [Flyer](https://www.archibus.net/ESRI-Integration)
 
-### Street-level imagery
+### Computerized Maintenance Management Software (CMMS)
+
+[Computerized maintenance management system](https://en.wikipedia.org/wiki/Computerized_maintenance_management_system) (CMMS), also known as computerized maintenance management information system (CMMIS), is a software package that maintains a computer database of information about an organization's maintenance operations
 
 |Product|Integration type|
 |---|---|
-|Mapillary|It is allows to automates mapping using collaboration, cameras, and computer vision. Integrate Mapillary into ArcGIS Online, Web AppBuilder for ArcGIS and ArcGIS Pro with [Mapillary for ArcGIS](https://www.mapillary.com/arcgis).
+|Cartegraph| The most common integration path connects asset records in the Cartegraph database with asset features in ArcGIS. [Learn more](https://campus.cartegraph.com/Help/Implementation/Implementation_How-To/Cartegraph_and_ArcGIS_Integration_Guide)
 
-### Content Management Software (CMS)
+### Field Service Management (FSM)
+
+ The market for [FSM software](https://en.wikipedia.org/wiki/Field_service_management#Software) remains fragmented. The software can be deployed both on-premises or as a hosted or cloud-based system. Typically, FSM software is integrated with backend systems such as service management, billing, accounting, parts inventory and other HR systems.
+
+|Product|Integration type|
+|---|---|
+|Oracle E-Business Suite|Oracle Enterprise Asset Management directly integrates with an ESRI GIS System. With this integration, ESRI is the primary source GIS system. The geometry would be part of the ESRI GIS, and EAM holds the reference of the geometry and pulls the geometry whenever required. [Learn more](https://docs.oracle.com/cd/E26401_01/doc.122/e48789/T259967T634229.htm#T634231)
+|Field Squared|Create and schedule work orders against your Esri assets, automate asset management and maintenance workflows utilizing your Esri assets, etc. [Learn more](https://fieldsquared.com/platform/esri-arcgis-integration/)
+
+### Business Process Automation
+
+[Business process automation](https://en.wikipedia.org/wiki/Business_process_automation) (BPA), also known as business automation or digital transformation, is the technology-enabled automation of complex business processes.
+
+|Product|Integration type|
+|---|---|
+|Mapillary|Street-level imagery platform that scales and automates mapping using collaboration, cameras, and computer vision. Integrate Mapillary into ArcGIS Online, Web AppBuilder for ArcGIS and ArcGIS Pro with [Mapillary for ArcGIS](https://www.mapillary.com/arcgis).
+
+### Data Science Platforms
+
+[Data science](https://en.wikipedia.org/wiki/Data_science) is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.
+
+|Product|Integration type|
+|---|---|
+|Alteryx|Alteryx can use ArcGIS as a data source [reading and writing from FileGeodatabases](https://help.alteryx.com/2019.2/DataSources/ESRI.htm) .
+|IBM Cloud|Watson Studio leverages the ArcGIS platform to quickly integrate maps, global data, advanced geospatial analytics with Watson machine learning models and data science solutions. Use the Python API for ArcGIS compose and automate model workflows together with Jupyter Notebooks, R, and leading scripting languages. [Learn more](https://www.esri.com/en-us/about/esri-partner-network/our-partners/global-alliances/ibm/ibm-cloud).
+
+### Web Content Management Software (WCMS)
+
+A [web content management system](https://en.wikipedia.org/wiki/Web_content_management_system) (WCM or WCMS) is a software content management system (CMS) specifically for web content.
 
 |Product|Integration type|
 |---|---|
 |Wordpress|Load ArcGIS Web Maps in Wordpress, [read more](https://www.geo-jobe.com/web-maps-for-wordpress/free/).
+|Microsoft SharePoint|Turn lists or data into color-coded, point, clustered point, or heat maps. Enrich key business measures with demographic and lifestyle data from Esri using [ArcGIS Maps for Sharepoint](../products/arcgis-maps-for-sharepoint/README.md)
+
+### Enterprise Content Management
+
+[Enterprise content management](https://en.wikipedia.org/wiki/Enterprise_content_management) (ECM) extends the concept of content management by adding a timeline for each content item and, possibly, enforcing processes for its creation, approval and distribution.
+
+|Product|Integration type|
+|---|---|
+|Laserfiche|This integration allows users to view, search, and upload documents directly into Laserfiche through the ArcGIS interface. [Learn more](https://www.laserfiche.com/marketplace/cities-digital-arcgis/)
+|M-Files|M-Files for Esri ArcGIS functions on two levels. From the user perspective, the M-Files for ArcGIS integration offers a seamless way of working, accessing, and managing content. The M-Files interface is embedded into your ArcGIS web applications allowing users to access and interact with related content from M-Files. Likewise, ArcGIS maps are embedded into the M-Files desktop application, allowing users to access related map(s) and assets. [Learn more](https://www.m-files.com/en/m-files-for-esri-arcgis)
 
 ### Office productivity
+
+[Productivity software](https://en.wikipedia.org/wiki/Productivity_software) (also called personal productivity software or office productivity software) is application software used for producing information (such as documents, presentations, worksheets, databases, charts, graphs, digital paintings, electronic music and digital video).
 
 |Product|Integration type|
 |---|---|
@@ -112,6 +165,8 @@ Below you will find a list of **commercial products and open source technologies
 |Microsoft PowerPoint|Load maps form ArcGIS in your presentations
 
 ### Content Collaboration Platforms
+
+A content collaboration platform helps organizations keep all of their content, media files, and documents in one place for easy storage and retrieval.
 
 |Product|Integration type|
 |---|---|

@@ -21,7 +21,6 @@ Find how to integrate your ArcGIS deployment with any other piece of technology 
   - [Office productivity](#office-productivity)
   - [Content Collaboration Platforms](#content-collaboration-platforms)
   - [Graphics & Photo Editing](#graphics--photo-editing)
-- [ArcGIS Integrated Products](#arcgis-integrated-products)
 - [Custom Integrations](#custom-integrations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -90,7 +89,7 @@ Below you will find a list of **commercial products and open source technologies
 
 |Product|Integration type|
 |---|---|
-|ServiceNow|It is integrated via ArcGIS Indoors ([video](https://youtu.be/Qp06rR0r6m8?t=1134))
+|ServiceNow|It is integrated via ArcGIS Indoors ([video](https://youtu.be/Qp06rR0r6m8?t=1134)) which is made by the [Koop Servicenow provide](https://github.com/Esri/indoors-servicenow-feature-service). [Tray.io](https://tray.io/connectors/arcgis-servicenow-integrations) and [Strave](https://blog.staveapps.com/using-arcgis-online-with-servicenow) also offers integrations.
 |Archibus|[ARCHIBUS Inc. is a partner](https://www.esri.com/partners/archibus-inc-a2T70000000TNKTEA4) it provides a [GeoSpatial Extension for Esri](https://archibus.com/products/extensions-framework/geospatial-extensions-for-esri/) : [Video](https://www.youtube.com/watch?v=EXmN4Ihqr6Q) \| [Flyer](https://www.archibus.net/ESRI-Integration)
 
 ### Street-level imagery

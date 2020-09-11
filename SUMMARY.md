@@ -155,6 +155,7 @@
           - [iOS](arcgis/developers/profiles/mobile/technologies/ios/README.md)
           - [Qt](arcgis/developers/profiles/mobile/technologies/qt/README.md)
           - [Xamarin](arcgis/developers/profiles/mobile/technologies/xamarin/README.md)
+  - [Integrations](arcgis/integrations/README.md)
   - [Living Atlas](arcgis/living-atlas/README.md)
   - [Marketplace](arcgis/marketplace/README.md)
   - [Mobile Apps](arcgis/mobile-apps/README.md)

@@ -6,7 +6,7 @@
 **Table of contents**
 
 - [Introduction](#introduction)
-- [Specifications](#specifications)
+- [Specifications & vendors](#specifications--vendors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

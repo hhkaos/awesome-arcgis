@@ -1,12 +1,12 @@
 > **Note**: this project is hosted on a [public repository](https://github.com/hhkaos/awesome-arcgis) where anyone can contribute. Learn how to [contribute in less than a minute](https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions).
 
-# ArcGIS Integrations
+# ArcGIS Third-Party Integrations
 
-Find how to integrate ArcGIS with any other piece of technology to synchronize data, processes or create end-to-end workflows.
+Find how to integrate your ArcGIS deployment with any other piece of technology to synchronize data, processes or create end-to-end workflows.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+**Table of contents**
 
 - [Overview](#overview)
 - [Integration tools](#integration-tools)
@@ -30,9 +30,9 @@ Find how to integrate ArcGIS with any other piece of technology to synchronize d
 
 Nowadays, **any organization uses multiple products and technologies** in its day-to-day operations, products specialized in solving different needs that are **complementary to** those solved by **ArcGIS**.
 
-The ideal scenario for any organization is to have the ability to interoperate and connect technologies to synchronize data, processes or create end-to-end workflows.
+The ideal scenario for any organization is to have the ability to interoperate and connect these technologies to synchronize data, processes or create end-to-end workflows.
 
-To accomplish that you have several options:
+To accomplish that you have three options:
 
 * **Using integration tools**: tools specifically designed to connect products through graphic interfaces from which connectors are configured to automate processes between different technologies.
 
@@ -40,7 +40,7 @@ To accomplish that you have several options:
 
 * **Develop an integration**: we and support standards, have open specifications, and provide APIS, libraries and other mechanisms to allow anyone to integrate with ArcGIS.
 
-> **IMPORTANT:** this listing is not complete. We are builing it based on requests, so if you want to know if a product is interoperable with ArcGIS please write a comment.
+> **IMPORTANT:** on this page you won't find a complete list. We are adding products and technologies based on requests, so if you want to know if a product is interoperable with ArcGIS please write a comment.
 
 ## Integration tools
 
@@ -48,9 +48,9 @@ Below you will find some technologies that will allow you to connect your data o
 
 ### Automation Tools
 
-Connect technologies and automate repetitive tasks and connect to thousands technologies using the out of the box 'integrations' provided by these tools.
+Connect to thousands technologies and automate repetitive tasks using the out of the box 'integrations' provided by these tools.
 
-**Important:** The list of connectors provided by these products is huge and constantly updated, so please check on their site directly.
+**Important:** The list of connectors provided by these products is huge and constantly updated, so please check on their site directly to know if there is an integration with the product you are looking for.
 
 |Product|Summary|
 |---|---|
@@ -62,7 +62,7 @@ Connect technologies and automate repetitive tasks and connect to thousands tech
 
 ### Data Integration Tools
 
-**Important:** The list of data sources and formats supported by these tools is huge and constantly updated, so please check on their site directly.
+**Important:** The list of data sources and formats supported by these tools is huge and constantly updated, so please check on their site directly to know if there is an integration with the product you are looking for.
 
 |Product|Summary|
 |---|---|
@@ -109,28 +109,20 @@ Below you will find a list of **commercial products and open source technologies
 
 |Product|Integration type|
 |---|---|
-|Microsoft Excel & |Visualize and publish your data from Excel to ArcGIS directly using ArcGIS Maps for Office plugin
+|Microsoft Excel|Visualize and publish your data from Excel to ArcGIS directly using ArcGIS Maps for Office plugin
 |Microsoft PowerPoint|Load maps form ArcGIS in your presentations
 
 ### Content Collaboration Platforms
 
 |Product|Integration type|
 |---|---|
-|SharePoint|Turn lists or data into color-coded, point, clustered point, or heat maps. Enrich key business measures with demographic and lifestyle data from Esri using [ArcGIS Maps for Sharepoint](../products/arcgis-maps-for-sharepoint/README.md)
+|Microsoft SharePoint|Turn lists or data into color-coded, point, clustered point, or heat maps. Enrich key business measures with demographic and lifestyle data from Esri using [ArcGIS Maps for Sharepoint](../products/arcgis-maps-for-sharepoint/README.md)
 
 ### Graphics & Photo Editing
 
 |Product|Integration type|
 |---|---|
 |Adobe Creative Cloud|Access and design with data-driven maps inside Adobe Illustrator and Photoshop with [ArcGIS Maps for Adobe Creative Cloud](../products/arcgis-maps-for-adobe-creative-cloud/README.md)
-
-## ArcGIS Integrated Products
-
-Commercial products that are built using our SDKs or APIs.
-
-|Product|Integration type|
-|---|---|
-|[Séneca](https://www.esri.com/partners/telefonica-solucione-a2T70000000TRDtEAO/s-neca-a2d70000000hrKmAAI)|It is the Telefonica's solution for emergency management.
 
 ## Custom Integrations
 

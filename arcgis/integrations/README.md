@@ -57,7 +57,7 @@ Connect to thousands technologies and automate repetitive tasks using the out of
 
 |Product|Summary|
 |---|---|
-|Try.it|Manual, schedules and webhook triggers to apply edits, get features, layers, etc using [their ArcGIS connector](https://tray.io/connectors/arcgis-integrations).
+|Tray.io|Manual, schedules and webhook triggers to apply edits, get features, layers, etc using [their ArcGIS connector](https://tray.io/connectors/arcgis-integrations).
 |Microsoft Flow / Power Automate|Provides a [Survey123 connector](https://flow.microsoft.com/en-us/connectors/shared_survey123/survey123/) that connect to ArcGIS Online Hosted Feature Services Webhooks.
 |Integromat|Create your customized scenario with Integromat. Automate repetitive tasks involved in using Survey123 and make your work easier. Read more: [Survey123 connector for Integromat](https://www.integromat.com/en/integrations/survey123)
 |Zapier|Use [Zapier Connector for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38) to map data from more than 1300 cloud apps on ArcGIS online. The connector will georefrence your data from spreadsheets, database tables, your CRM and ERP, and map it in ArcGIS Online in real time.

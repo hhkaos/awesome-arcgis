@@ -53,6 +53,13 @@ Service credits are the currency used across ArcGIS Online to measure the use of
 
 To [understand the credit system](https://doc.arcgis.com/en/arcgis-online/reference/credits.htm) you first need to understand the different [account types available in ArcGIS Online](../../../account-types/README.md).
 
+There are mainly four ways ArcGIS consume credits:
+
+* **Storage (size)**: Features, Files and Tiles
+* **Tools (transaction based)**: Geocoding, routing, spatial analysis, data enrichment.
+* **Premium content (View based)**: infographics, demographic maps and layers
+* **Subscription content(no credits)**: live feeds world elevation , sea surface temperature.
+
 ## FAQ
 
 ### General
@@ -320,6 +327,7 @@ Note that vouchers have:
 
 ## Additional resources
 
+* [Video: ArcGIS Online: Core Concepts for Developers > Credits Management](https://youtu.be/fOZQvCcO4c0?t=1195)
 * [Understand ArcGIS Online credits](https://doc.arcgis.com/en/arcgis-online/reference/credits.htm)
 * [Terms of Use - FAQ](https://developers.arcgis.com/terms/faq/):
 * [ArcGIS Online FAQ](http://doc.arcgis.com/en/arcgis-online/reference/faq.htm)

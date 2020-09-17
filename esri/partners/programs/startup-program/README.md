@@ -68,6 +68,10 @@ International program managers
 
 But you would probably want to know also about more [ArcGIS Experts](https://esri-es.github.io/arcgis-experts/).
 
+## Resources in Spanish
+
+* [Programa Startups de Esri: Datos y tecnologías para trabajar con información geolocalizada y mapas (Perk)](https://docs.google.com/presentation/d/1v3y7cRC99Rfj34Gziyrxo-X3Y7DuPHhgGvVs5ivx4YQ/edit?usp=sharing)
+
 ## Others
 
 * Esri Spain Startup Program website: [startups.esri.es](http://startup.esri.es)

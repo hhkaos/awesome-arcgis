@@ -82,7 +82,7 @@ Below you will find a list of **commercial products and open source technologies
 
 |Product|Integration type|
 |---|---|
-|Autocad|Revit is supported by ArcGIS Pro. It also exists a free plug-in to connect AutoCAD to ArcGIS ([ArcGIS for Autocad](../products/arcgis-for-autocad/README.md)). Work with Autodesk Civil 3D and InfraWorks directly though the [Autodesk Connector for ArcGIS](https://www.esri.com/en-us/about/esri-partner-network/our-partners/global-alliances/autodesk-esri)
+|AutoCAD|Revit is supported by ArcGIS Pro. It also exists a free plug-in to connect AutoCAD to ArcGIS ([ArcGIS for AutoCAD](../products/arcgis-for-autocad/README.md)). Work with Autodesk Civil 3D and InfraWorks directly though the [Autodesk Connector for ArcGIS](https://www.esri.com/en-us/about/esri-partner-network/our-partners/global-alliances/autodesk-esri)
 
 ### Reporting Tools / Business Intelligence (BI) tools
 

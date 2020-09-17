@@ -10,11 +10,20 @@ ArcGIS Online provide a set of endpoints that will allow us to manage content, s
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of contents**
 
-- [ArcGIS Online](#arcgis-online)
-- [ArcGIS Open Data](#arcgis-open-data)
+- [Introduction](#introduction)
+- [Getting started](#getting-started)
+- [Training](#training)
+  - [Documentation](#documentation)
+  - [Videos](#videos)
+- [Coding](#coding)
+  - [Code](#code)
 - [Tools](#tools)
 - [Community](#community)
 - [News](#news)
+- [Additional resources](#additional-resources)
+  - [Related products or technologies](#related-products-or-technologies)
+  - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

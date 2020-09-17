@@ -12,6 +12,7 @@
 - [Community](#community)
 - [News](#news)
 - [People you should know](#people-you-should-know)
+- [Resources in Spanish](#resources-in-spanish)
 - [Others](#others)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

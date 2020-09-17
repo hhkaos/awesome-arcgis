@@ -4911,40 +4911,166 @@
                                 <blockquote>
 <p><strong>Note</strong>: this page is only a draft, but this project is hosted on a <a href="https://github.com/hhkaos/awesome-arcgis" target="_blank">public repository</a> where anyone can contribute. Learn how to <a href="https://github.com/hhkaos/awesome-arcgis/blob/master/CONTRIBUTING.md#contributions" target="_blank">contribute in less than a minute</a>.</p>
 </blockquote>
-<h1 id="arcgis-online-rest-apis">ArcGIS Online REST APIs</h1>
+<h1 id="arcgis-online-rest-api">ArcGIS Online REST API</h1>
+<p>ArcGIS Online provide a set of endpoints that will allow us to manage content, search data, use ready to use services (geocoding and place search, directions and routing, demographics, analysis) and much more.</p>
+<p><img src="../../product-thumbnails/arcgis-rest-api-query.png" alt="ArcGIS REST API Screenshot"></p>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <p><strong>Table of contents</strong></p>
 <ul>
-<li><a href="#arcgis-online">ArcGIS Online</a></li>
-<li><a href="#arcgis-open-data">ArcGIS Open Data</a></li>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#getting-started">Getting started</a></li>
+<li><a href="#training">Training</a><ul>
+<li><a href="#documentation">Documentation</a></li>
+<li><a href="#videos">Videos</a></li>
+</ul>
+</li>
+<li><a href="#coding">Coding</a><ul>
+<li><a href="#code">Code</a></li>
+</ul>
+</li>
 <li><a href="#tools">Tools</a></li>
 <li><a href="#community">Community</a></li>
 <li><a href="#news">News</a></li>
+<li><a href="#additional-resources">Additional resources</a><ul>
+<li><a href="#related-products-or-technologies">Related products or technologies</a></li>
+<li><a href="#localized-resources">Localized resources</a><ul>
+<li><a href="#spanish">Spanish</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-<h2 id="arcgis-online">ArcGIS Online</h2>
-<p>ArcGIS Online (search..)
-<a href="http://resources.arcgis.com/en/help/arcgis-rest-api/#/The_ArcGIS_REST_API/02r300000054000000/" target="_blank">http://resources.arcgis.com/en/help/arcgis-rest-api/#/The_ArcGIS_REST_API/02r300000054000000/</a>
-ArcGIS-API-REST (postman collection)
-<a href="http://odoe.net/blog/using-arcgis-rest-query-page/" target="_blank">http://odoe.net/blog/using-arcgis-rest-query-page/</a></p>
-<p><a href="location-based-services">Location-based services</a></p>
-<h2 id="arcgis-open-data">ArcGIS Open Data</h2>
-<p>ArcGIS Open Data is an</p>
-<p><a href="../../../../../esri/open-vision/open-specifications/arcgis-rest-api/README.md">ArcGIS REST API</a>
-<a href="../../../../esri/open-vision/open-specifications/arcgis-rest-api/#Open-Data-API">Open Data REST API</a></p>
-<p><a href="https://community.esri.com/groups/data-community" target="_blank">ArcGIS Open Data community</a></p>
+<h2 id="introduction">Introduction</h2>
+<blockquote>
+<p><em>The ArcGIS Online REST API is one of the <strong><a href="../../../../../esri/open-vision/open-specifications/arcgis-rest-api/README.md">ArcGIS REST APIs</a></strong> which is also part of the <a href="../../../esri/open-vision/README.md">Esri&apos;s Open Vision</a>)).</em></p>
+</blockquote>
+<p>In the <a href="https://developers.arcgis.com/rest/" target="_blank">ArcGIS REST API official documentation</a> you will find everything about how to use ArcGIS Online APIs. There are hundreds of endpoints to do things like:</p>
+<ul>
+<li><strong>Manage items</strong>: databases, files, permissions, apps, ...</li>
+<li><strong>Manage an organization</strong>: members, groups, settings, ...</li>
+<li><strong>Consume data</strong>: Living Atlas, Open Data, ArcGIS user community, ...</li>
+<li><strong>Access public and free services</strong>: geometry engine, place search, ...</li>
+<li><strong>Authenticate</strong>: to access premium services, your private content, ...</li>
+</ul>
+<p>You can access or manage any product built on top of the ArcGIS Online using it&apos;s API. For example: Living Atlas, ArcGIS Hub, ArcGIS Marketplace, ...</p>
+<h2 id="getting-started">Getting started</h2>
+<p>If you want to jump directly to the code you can do find some <strong>tutorials in the <a href="https://developers.arcgis.com/labs/browse/?topic=any&amp;product=rest-api" target="_blank">ArcGIS Dev Labs</a></strong>.</p>
+<h2 id="training">Training</h2>
+<h3 id="documentation">Documentation</h3>
+<ul>
+<li><a href="https://developers.arcgis.com/rest/" target="_blank">ArcGIS REST API official documentation</a></li>
+<li><a href="location-based-services/">Location-based services</a></li>
+<li><a href="http://odoe.net/blog/using-arcgis-rest-query-page/" target="_blank">Using the ArcGIS REST Query Page</a> (filter and query content)</li>
+<li><a href="https://github.com/esri-es/ArcGIS-REST-API/tree/master/HostedFeatureServices#hosted-feature-service---services-reference" target="_blank">Introductory guide to Hosted Feature Service</a><ul>
+<li><a href="https://github.com/esri-es/ArcGIS-REST-API/tree/master/HostedFeatureServices#hosted-feature-service---services-reference" target="_blank">Hosted Feature Service - Service Definition</a></li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p><strong>Warning</strong>: some products like the Living Atlas, ArcGIS Hub, ArcGIS Marketplace, etc haven&apos;t got (yet) any specific documentation about their APIs, so you might need to do some reverse engineering</p>
+</blockquote>
+<h3 id="videos">Videos</h3>
+<p>We have created a <a href="https://www.youtube.com/playlist?list=PLahIW2YFPQd7o6L9fxSAXCuv5FldGkycP" target="_blank">ArcGIS REST API Youtube playlist</a> that we think it might be worth to you to save (<a href="../../../assets/SavePlaylist.gif">how to save a Youtube Playlist</a>).</p>
+<p>On <a href="https://www.esri.com/videos/search?q=ArcGIS%20REST%20API#?sortby=recent" target="_blank"><em>video.esri.com</em></a> and <a href="https://www.youtube.com/channel/UC_yE3TatdZKAXvt_TzGJ6mw/search?query=ArcGIS%20REST%20API" target="_blank">Esri Events</a> you will find many technical talks. Or check <a href="https://www.youtube.com/channel/UCgCXcfk5uEraWkpE9wlRwgw" target="_blank">Esri Geodev</a> channel for short videos.</p>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>Title</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2020</td>
+<td><a href="https://youtu.be/pp5GP2_xFeo?t=4190" target="_blank">Hosted Feature Services Webhooks</a></td>
+<td>5min</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2020</td>
+<td><a href="https://www.youtube.com/watch?v=kJTnvGLcKdI&amp;list=PLahIW2YFPQd7o6L9fxSAXCuv5FldGkycP&amp;index=2&amp;t=6s" target="_blank">Node.js and Browser Applications with ArcGIS REST JS</a></td>
+<td>49min 43secs</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2020</td>
+<td><a href="https://www.youtube.com/watch?v=RUk8QDRZpXs&amp;list=PLahIW2YFPQd7o6L9fxSAXCuv5FldGkycP&amp;index=4" target="_blank">ArcGIS REST JS: Universal, Isomorphic Tasty JavaScript for Much Win</a></td>
+<td>1h 02min 2secs</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/playlist?list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx" target="_blank">GeoDev Webinar</a> 2019</td>
+<td><a href="https://www.youtube.com/watch?v=2KA9ZShuWwo&amp;list=PLGZUzt4E4O2ILC945g6dPRoRyyYTXoYmx&amp;index=26" target="_blank">ArcGIS REST JS: Portal and Server API</a></td>
+<td>1h</td>
+</tr>
+<tr>
+<td><a href="http://www.esri.com/events/devsummit" target="_blank">DevSummit</a> 2019</td>
+<td><a href="https://www.youtube.com/watch?v=uJvZ8MJA0t4&amp;list=PLahIW2YFPQd7o6L9fxSAXCuv5FldGkycP&amp;index=9&amp;t=1450s" target="_blank">Interacting with Hosted Feature Layers through the REST API</a></td>
+<td>29min 43secs</td>
+</tr>
+<tr>
+<td>n.a.</td>
+<td><a href="https://www.youtube.com/watch?v=LsYgtjkm69Y&amp;feature=emb_title" target="_blank">Using the ArcGIS REST Query Page</a></td>
+<td>8min 24secs</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>You might also find interesting videos at <a href="https://www.youtube.com/channel/UCZTiOg3n0pqUDSatq7mS2PA/search?query=&quot;ArcGIS+REST+API&quot;" target="_blank">Esri Industries</a>, <a href="https://www.youtube.com/channel/UCgGDPs8cte-VLJbgpaK4GPw/search?query=&quot;ArcGIS+REST+API&quot;" target="_blank">ArcGIS</a>, <a href="https://www.youtube.com/user/esritv/search?query=&quot;ArcGIS+REST+API&quot;" target="_blank">EsriTV</a>, <a href="https://www.youtube.com/user/esripdx/search?query=&quot;ArcGIS+REST+API&quot;" target="_blank">Esri R&amp;D Center</a> <a href="https://esri-es.github.io/awesome-arcgis/esri/#youtube-channels" target="_blank">etc</a>, and <a href="../../../esri#youtube-channels">distributor&apos;s Youtube Channels</a></p>
+</blockquote>
+<h2 id="coding">Coding</h2>
+<h3 id="code">Code</h3>
+<p><strong><a href="https://github.com/esri-es/ArcGIS-REST-API" target="_blank">ArcGIS-API-REST</a>: Postman collections for ArcGIS REST APIs</strong></p>
+<p>ArcGIS REST API wrappers:</p>
+<ul>
+<li>ArcGIS Online:<ul>
+<li><a href="https://github.com/Esri/arcgis-rest-js" target="_blank">arcgis-rest-js</a>: compact, modular JavaScript wrappers for the ArcGIS REST API</li>
+<li><a href="https://developers.arcgis.com/python/guide/accessing-and-creating-content/" target="_blank">ArcGIS API for Python: Accessing and creating content</a></li>
+<li><a href="https://github.com/Esri/arcgis-python-api" target="_blank">arcgis-python-api</a>: Documentation and samples for ArcGIS API for Python</li>
+</ul>
+</li>
+<li><a href="../../arcgis-hub/">ArcGIS Hub</a>:<ul>
+<li><a href="https://esri.github.io/hub.js/guides/" target="_blank">hub.js</a>: JavaScript wrappers for talking to ArcGIS Hub (REST API)</li>
+<li><a href="https://github.com/esri/hub-py/wiki" target="_blank">hub.js</a>: Python interface to ArcGIS Hub (REST API)</li>
+</ul>
+</li>
+</ul>
 <h2 id="tools">Tools</h2>
-<p>Fiddler</p>
+<ul>
+<li><a href="https://www.telerik.com/fiddler" target="_blank">Fiddler</a>: web debugging tool for logging HTTP/S traffic. Inspect traffic, mock requests/responses, share sessions, collaborate within teams to debug issues.</li>
+</ul>
 <h2 id="community">Community</h2>
-<p><a href="https://community.esri.com/community/gis/web-gis/arcgis-open-data" target="_blank">https://community.esri.com/community/gis/web-gis/arcgis-open-data</a>
-<a href="https://community.esri.com/groups/arcgis-python-api" target="_blank">https://community.esri.com/groups/arcgis-python-api</a>
-<a href="https://community.esri.com/community/developers/web-developers/arcgis-rest-api" target="_blank">ArcGIS REST API place on GeoNet</a></p>
+<ul>
+<li><a href="https://community.esri.com/community/developers/web-developers/arcgis-rest-api" target="_blank">ArcGIS REST API place on GeoNet</a></li>
+<li><a href="https://community.esri.com/groups/data-community" target="_blank">ArcGIS Open Data community</a></li>
+<li><a href="https://community.esri.com/community/gis/web-gis/arcgis-open-data" target="_blank">ArcGIS Open Data</a></li>
+<li><a href="https://community.esri.com/groups/arcgis-python-api" target="_blank">ArcGIS Python API</a></li>
+</ul>
 <h2 id="news">News</h2>
 <p>About ArcGIS Open Data:</p>
 <ul>
+<li><a href="https://www.esri.com/arcgis-blog/products/api-rest/uncategorized/arcgis-for-developers-improved-arcgis-rest-api-documentation/?rmedium=redirect&amp;rsource=blogs.esri.com/esri/arcgis/2018/01/19/arcgis-for-developers-arcgis-rest-api-documentation" target="_blank">ArcGIS for Developers: Improved ArcGIS REST API Documentation</a></li>
+<li><a href="https://www.esri.com/arcgis-blog/products/api-python/administration/arcgis-api-for-python-core-concepts-part-1/" target="_blank">ArcGIS API for Python Core Concepts Part 1: Python, APIs, and REST</a></li>
 <li><a href="https://blogs.esri.com/esri/arcgis/tag/arcgis-open-data-2/" target="_blank">ArcGIS Open Data tag at blogs.esri.com</a></li>
 <li><a href="https://twitter.com/esridc?lang=en" target="_blank">@EsriDC at twitter</a></li>
+</ul>
+<h2 id="additional-resources">Additional resources</h2>
+<ul>
+<li><p><a href="go.esri.com/geodev">GeoDev Webinar Series</a></p>
+</li>
+<li><p>Probably not all the resources are in this list, please use the <a href="https://esri-es.github.io/arcgis-search/" target="_blank">ArcGIS Search</a> tool looking for: <a href="https://esri-es.github.io/arcgis-search/?search=&quot;ArcGIS%20REST%20API&quot;&amp;utm_campaign=awesome-list&amp;utm_source=awesome-list&amp;utm_medium=page" target="_blank">&quot;ArcGIS REST API&quot;</a>.</p>
+</li>
+</ul>
+<h3 id="related-products-or-technologies">Related products or technologies</h3>
+<ul>
+<li><a href="../../../developers/profiles/devops/technologies/koop/">Koop</a>: Transform, query, and download geospatial data on the web. (support ArcGIS REST API as an output)</li>
+</ul>
+<h3 id="localized-resources">Localized resources</h3>
+<h4 id="spanish">Spanish</h4>
+<ul>
+<li><a href="https://www.youtube.com/c/GeoDevelopers/search?query=arcgis+api+rest" target="_blank">Videos sobre la &quot;ArcGIS REST API&quot; en el canal de Youtube de GeoDevelopers</a></li>
+<li><a href="https://geonet.esri.com/groups/geodev-spain" target="_blank">GeoDev Spain en GeoNet</a></li>
+<li><a href="https://www.youtube.com/user/esriSpainTV/search?query=ArcGIS+REST" target="_blank">Videos sobre la &quot;ArcGIS REST API&quot; en el canal de Youtube de Esri Espa&#xF1;a</a></li>
 </ul>
 
                                 
@@ -4989,7 +5115,7 @@ ArcGIS-API-REST (postman collection)
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"REST APIs","level":"1.3.14.16.5","depth":4,"next":{"title":"Location Based Services","level":"1.3.14.16.5.1","depth":5,"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/README.md","ref":"arcgis/products/arcgis-online/rest-apis/location-based-services/README.md","articles":[{"title":"Geo Enrichment","level":"1.3.14.16.5.1.1","depth":6,"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","ref":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","articles":[]}]},"previous":{"title":"Developer Console","level":"1.3.14.16.4","depth":4,"path":"arcgis/products/arcgis-online/developer-console/README.md","ref":"arcgis/products/arcgis-online/developer-console/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","toggle-chapters","sitemap","ga","disqus","youtube","feed","-fontsettings"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"youtube":{},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false,"fontsettings":{"theme":"white","family":"\"Avenir Next W01\", \"Avenir Next W00\", \"Avenir Next\", \"Avenir\", \"Helvetica Neue\", sans-serif","size":2}},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/arcgis-online/rest-apis/README.md","mtime":"2020-09-11T08:31:03.853Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-09-11T08:31:15.976Z"},"basePath":"../../../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"REST APIs","level":"1.3.14.16.5","depth":4,"next":{"title":"Location Based Services","level":"1.3.14.16.5.1","depth":5,"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/README.md","ref":"arcgis/products/arcgis-online/rest-apis/location-based-services/README.md","articles":[{"title":"Geo Enrichment","level":"1.3.14.16.5.1.1","depth":6,"path":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","ref":"arcgis/products/arcgis-online/rest-apis/location-based-services/geo-enrichment/README.md","articles":[]}]},"previous":{"title":"Developer Console","level":"1.3.14.16.4","depth":4,"path":"arcgis/products/arcgis-online/developer-console/README.md","ref":"arcgis/products/arcgis-online/developer-console/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["-lunr","-search","search-plus","toggle-chapters","sitemap","ga","disqus","youtube","feed","-fontsettings"],"ignores":["_book","node_modules","templates","CONTRIBUTING","templates"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"disqus":{"useIdentifier":false,"shortName":"awesome-arcgis"},"youtube":{},"highlight":{},"sitemap":{"hostname":"https://hhkaos.github.io","folder":"awesome-arcgis"},"ga":{"configuration":"auto","token":"UA-49620025-8"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false,"fontsettings":{"theme":"white","family":"\"Avenir Next W01\", \"Avenir Next W00\", \"Avenir Next\", \"Avenir\", \"Helvetica Neue\", sans-serif","size":2}},"feed":{"author":"Raúl Jiménez","hostname":"https://hhkaos.github.io/","format":"rss","feed_format":"rss-2.0","title":"Awesome ArcGIS","link":"https://hhkaos.github.io/","id":"https://hhkaos.github.io/","categories":[],"description":"Awesome ArcGIS"},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"https://github.com/hhkaos/awesome-arcgis/graphs/contributors","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Awesome ArcGIS","gitbook":"*","description":"Awesome resource list for ArcGIS Developers, built from the community for the community"},"file":{"path":"arcgis/products/arcgis-online/rest-apis/README.md","mtime":"2020-09-17T09:21:00.367Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-09-17T09:21:19.370Z"},"basePath":"../../../..","book":{"language":""}});
         });
     </script>
 </div>

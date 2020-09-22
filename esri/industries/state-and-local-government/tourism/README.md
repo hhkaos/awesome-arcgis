@@ -16,6 +16,7 @@ Learn how ArcGIS is been used in tourism
 - [News](#news)
 - [Additional resources](#additional-resources)
   - [Localized resources](#localized-resources)
+    - [Spanish](#spanish)
   - [Other related list of resources](#other-related-list-of-resources)
 - [Partners and startups](#partners-and-startups)
 

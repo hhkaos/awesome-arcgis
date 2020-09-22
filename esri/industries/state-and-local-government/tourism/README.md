@@ -77,10 +77,12 @@ The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/READ
 * Custom apps:
     * [Granada Human Smart City](https://ciudadinteligente.granada.org/granadarutas/)
 * Operations Dashboard:
+    * [Heritage map with 360º virtual tours](https://tomellosotech.maps.arcgis.com/apps/opsdashboard/index.html#/304dc67a44a54d4dbccef11ff6d08c38) (Experiment)
     * [JuraGIS World - La Palma](https://marketing.maps.arcgis.com/apps/opsdashboard/index.html#/45aa0cf0c8be4255adf620dbb5757bb3) + making off [JuraGIS Park storymap](http://geoapps.esri.es/JuraGIS/index.html)
 * Using Web AppBuilder:
     * [Simcoe County Tourism - customized using developer edition ](https://maps.simcoe.ca/public/) ([Video](https://youtu.be/5hsprKc_Wo0?t=15m10s))
     * [Leipzig City Map using Web AppBuilder](http://www.arcgis.com/home/item.html?id=4c89f67a66a049a8a69cd4f8dedb3aa1)
+* [Digital Twin](https://oretana.github.io/Tomelloso/)
 * Using [Configurable Apps](../../../arcgis/products/configurable-apps/README.md) (  [MapTour](http://www.arcgis.com/home/item.html?id=91d75e9b375e4e9b9b3a4004544bfadf), [Shortlist](http://www.arcgis.com/home/item.html?id=c62ff7eec30641e69ae6acd7f1599512) and [Finder](http://www.arcgis.com/home/item.html?id=547a3a4462344880be61ed4083142f63))) and storymaps:
     * [Monuments in Seville](http://sig.urbanismosevilla.org/sevilla.art/monumentos/index_en.html)
     * [Tourism Aragon](http://gob-aragon.maps.arcgis.com/apps/webappviewer/index.html?id=8d644249c065452ca8707a78ea352dd1)
@@ -97,6 +99,11 @@ The ArcGIS Platform offer more than 200 [products](../../../arcgis/products/READ
 Probably not all the resources are in this list, please use the [ArcGIS Search](https://esri-es.github.io/arcgis-search/) tool looking for: ["industries"](https://esri-es.github.io/arcgis-search/?search="industries"&utm_campaign=awesome-list&utm_source=awesome-list&utm_medium=page).
 
 ### Localized resources
+
+#### Spanish
+
+* Propuesta de proyecto [de aplicaciones para contar la historia de la ciudad](https://www.arcgis.com/apps/Cascade/index.html?appid=2ca2e152f2044f0597e6052cf7469998) ([+PPT](https://docs.google.com/presentation/d/e/2PACX-1vQI0-2YhBFcdV1aIs-mYkRB9BwEdwofvP_ZFRi2ULuzqEXSHEIIpA58qiTBXuW3Xy39PNCKyT5e9WOh/embed?start=false&loop=false&delayms=3000&slide=id.g3e1f034177_0_43))
+* [Ideas y otros experimetos: escaneo lídar de patrimonio y modelos 3D, etc](https://tomellosotech.maps.arcgis.com/apps/MapSeries/index.html?appid=8847dfbd47d642eeba3cf13584becb77)
 
 ### Other related list of resources
 

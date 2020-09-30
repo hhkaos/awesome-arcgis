@@ -40,6 +40,8 @@ A geodatabase is a based on the relational database model and is allows you to s
 
 > Geodatabases also allows you to set up a topology, store rasters, add domains or geometric networks, which you can’t do with shapefiles.
 
+### Types
+
 Three types of geodatabases (GDB):
 
 |Geodatabase type|Format|Multi-editor|Storage limit|Release date|
@@ -50,6 +52,7 @@ Three types of geodatabases (GDB):
 
 > **Detailed comparison**: [Comparing the three types of geodatabases](http://desktop.arcgis.com/en/arcmap/latest/manage-data/geodatabases/types-of-geodatabases.htm)
 
+### Functionality
 
 The functionality:
 
@@ -66,6 +69,14 @@ A geodatabase can:
 
 * Store from a few MB until multiple terabytes of vector, raster and tabular data
 * Support Multiple users and editor
+
+### Field Data Types
+
+As you can check in the [ArcGIS Pro documentation site](https://pro.arcgis.com/en/pro-app/help/data/geodatabases/overview/arcgis-field-data-types.htm), Geodatabases support different data types: numbers, text, dates, BLOBs, object identifiers, global identifiers, fields of type raster and geometries.
+
+> The internal keywords for these are: "esriFieldTypeSmallInteger", "esriFieldTypeInteger", "esriFieldTypeSingle", "esriFieldTypeDouble", "esriFieldTypeString", "esriFieldTypeDate", "esriFieldTypeOID", "esriFieldTypeGeometry", "esriFieldTypeBlob", "esriFieldTypeRaster", "esriFieldTypeGUID", "esriFieldTypeGlobalID" and "esriFieldTypeXML".
+
+> Note: hosted layers in ArcGIS Online only supports: double, integer, string and date. [More info](https://doc.arcgis.com/en/arcgis-online/manage-data/add-or-delete-fields.htm)
 
 ## Videos
 

@@ -50,7 +50,11 @@ without a 3D scanner create 3D tours and much more
 
 * [Indoor](../indoor/README.md)
 * [Virtual reality](../vr/README.md)
+* [Mapillary](https://help.mapillary.com/hc/en-us/articles/360004486031-Panorama) | [Competitors](https://www.g2.com/products/mapillary/competitors/alternatives)
 * [Tour Creator](https://vr.google.com/tourcreator/) & [Expeditions](https://play.google.com/store/apps/details?id=com.google.vr.expeditions&hl=en)
+* [Klapty](https://www.klapty.com/)
+* [Google Street View & Google Photos](https://support.google.com/maps/answer/7011737?hl=en)
+* [Spinattic](https://www.spinattic.com/)
 
 ## Partners and startups
 

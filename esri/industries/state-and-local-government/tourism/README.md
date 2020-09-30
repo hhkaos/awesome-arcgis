@@ -130,6 +130,8 @@ Probably not all the resources are in this list, please use the [ArcGIS Search](
 * [360 Pictures and videos](../../../emerging-technologies/360/README.md): related product, technologies and partners.
 * [Augmented reality](../../../emerging-technologies/ar/README.md)
     * Video: [Esri UC 2010 Lightning Talks: Augmented Reality—Buzz Word or Business Bonanza](https://www.youtube.com/watch?v=VE7aB_-sTXk)
+* [Gigapixel image](https://en.wikipedia.org/wiki/Gigapixel_image) | [List of largest photographs](https://en.wikipedia.org/wiki/List_of_largest_photographs)
+    * [360º Gigapixel or Panoramas](https://www.google.com/search?q=%22gigapixel%22+AND+\(%22360%22+OR+%22Panorama%22\)&oq=%22gigapixel%22+AND+(%22360%22+OR+%22Panorama%22)&aqs=chrome..69i57j0.17496j0j4&sourceid=chrome&ie=UTF-8) |  Example: [Aerial Shanghai 360º gigapixel](http://en.bigpixel.cn/t/5834170785f26b37002af46d)
 * GeoDesign & tourism: [A Digital Workflow for Dynamic Geodesign](https://youtu.be/QERJbL9J1Xw?t=15m48s)
 * [ArcGIS Online items tagged with "tourism"](https://www.arcgis.com/home/search.html?t=content&q=tags%3Atourism&start=1&sortOrder=desc&sortField=relevance&focus=applications-web)
 

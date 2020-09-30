@@ -48,6 +48,7 @@ without a 3D scanner create 3D tours and much more
 
 ### Other related list of resources
 
+* [Tourism](../../industries/state-and-local-government/tourism/README.md)
 * [Indoor](../indoor/README.md)
 * [Virtual reality](../vr/README.md)
 * [Mapillary](https://help.mapillary.com/hc/en-us/articles/360004486031-Panorama) | [Competitors](https://www.g2.com/products/mapillary/competitors/alternatives)
@@ -55,6 +56,9 @@ without a 3D scanner create 3D tours and much more
 * [Klapty](https://www.klapty.com/)
 * [Google Street View & Google Photos](https://support.google.com/maps/answer/7011737?hl=en)
 * [Spinattic](https://www.spinattic.com/)
+
+* [Gigapixel image](https://en.wikipedia.org/wiki/Gigapixel_image) | [List of largest photographs](https://en.wikipedia.org/wiki/List_of_largest_photographs)
+    * [360º Gigapixel or Panoramas](https://www.google.com/search?q=%22gigapixel%22+AND+\(%22360%22+OR+%22Panorama%22\)&oq=%22gigapixel%22+AND+(%22360%22+OR+%22Panorama%22)&aqs=chrome..69i57j0.17496j0j4&sourceid=chrome&ie=UTF-8) |  Example: [Aerial Shanghai 360º gigapixel](http://en.bigpixel.cn/t/5834170785f26b37002af46d)
 
 ## Partners and startups
 

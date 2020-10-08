@@ -88,6 +88,21 @@ More slides in [*proceedings.esri.com*](https://www.google.es/search?q=site%3Apr
 
 *If you need and [ArcGIS Developer Subscription](https://developers.arcgis.com/pricing/), if this technology depends on another one, dowloaded from developers.arcgis.com or any repo, installation guide, if it is accessible though the Startup Program (or any other program), etc*
 
+There are many ways to get PRODUCT, here are a few listed:
+
+|Plan/Program|Cost|Duration|Audience|Purpose|
+|---|---|---|---|---|
+|ArcGIS Trials|No|21 days|Anyone|Non-profits|
+|Startup Program|No|Annual|Startups|Build products|
+|Technology Exchange Program|No|Annual|Industry Leaders|Non-profits|
+|ArcGIS for Personal/Student use|Yes|Unlimited|Individuals|Non-profits|
+|Non-profits Organizations|Yes|Anual|Non-profits Orgs|Non-profits|
+|ArcGIS Developer Plan|Yes|>=Builder|Anyone|Build products|
+
+> **Guidance information**: all/most programs with cost listed here are between: [90€ - 199€]
+
+Feel free to contact Esri or your local distributor for more information: [https://www.esri.com/en-us/contact](https://www.esri.com/en-us/contact)
+
 ## Coding
 
 ### Code    

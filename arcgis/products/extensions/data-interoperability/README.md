@@ -15,6 +15,8 @@ Extension for ArcGIS Pro, ArcMap, and ArcGIS Enterprise that bring spatial data 
   - [Documentation](#documentation)
   - [Tutorials](#tutorials)
   - [Videos](#videos)
+  - [Slides](#slides)
+- [Get the tool](#get-the-tool)
 - [Community](#community)
 - [News](#news)
 - [Additional resources](#additional-resources)

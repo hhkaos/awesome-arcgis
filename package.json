@@ -31,7 +31,7 @@
     "gitbook-summary": "^1.1.4",
     "isomorphic-fetch": "^2.2.1",
     "isomorphic-form-data": "^2.0.0",
-    "jsdom": "^14.0.0",
+    "jsdom": "^16.5.0",
     "node-html-parser": "^1.1.13",
     "nopt": "^4.0.1"
   },
